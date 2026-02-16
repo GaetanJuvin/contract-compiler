@@ -1,4 +1,5 @@
 require "optparse"
+require "colorize"
 
 module ContractCompiler
   class CLI
@@ -27,36 +28,109 @@ module ContractCompiler
 
     def self.run(argv)
       options = parse_options(argv)
+      verbose = options[:verbose]
+      start_time = Time.now
 
-      $stderr.puts "Parsing #{options[:file]}..." if options[:verbose]
+      # Header
+      $stderr.puts ""
+      $stderr.puts "  CONTRACT COMPILER".bold.cyan + "  v1.0".light_black
+      $stderr.puts "  #{"=" * 50}".light_black
+      $stderr.puts ""
+
+      # Step 1: Parse
+      step_start = Time.now
+      $stderr.print "  #{"[1/6]".bold.blue} #{"Parsing file".white}  #{options[:file].light_black} "
       text = Parser.parse(options[:file])
-
-      $stderr.puts "Extracting clauses..." if options[:verbose]
-      clauses = ClauseExtractor.extract(text)
-
-      $stderr.puts "Extracting semantics..." if options[:verbose]
-      semantic_result = SemanticExtractor.extract(clauses)
-      parties = SemanticExtractor.extract_parties(text)
-
-      $stderr.puts "Building DAG..." if options[:verbose]
-      graph = build_graph(clauses, semantic_result)
-
-      if options[:verbose]
-        $stderr.puts "DAG: #{graph.nodes.length} nodes, #{graph.edges.length} edges"
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        $stderr.puts "        #{text.length} characters, #{text.lines.count} lines".light_black
       end
 
-      $stderr.puts "Running symbolic reasoner..." if options[:verbose]
-      symbolic_anomalies = Reasoner.analyze(graph)
+      # Step 2: Clause extraction
+      step_start = Time.now
+      $stderr.print "  #{"[2/6]".bold.blue} #{"Extracting clauses".white} "
+      clauses = ClauseExtractor.extract(text)
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        $stderr.puts "        #{clauses.length} clauses found".light_black
+        clauses.each do |c|
+          indent = "  " * c.level
+          $stderr.puts "        #{indent}#{"├─".light_black} #{c.id.yellow} #{c.title.truncate(60).white}"
+        end
+      end
 
-      $stderr.puts "Calling OpenAI analyzer..." if options[:verbose]
+      # Step 3: Semantic extraction
+      step_start = Time.now
+      $stderr.print "  #{"[3/6]".bold.blue} #{"Extracting semantics".white} "
+      semantic_result = SemanticExtractor.extract(clauses)
+      parties = SemanticExtractor.extract_parties(text)
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        obligations = semantic_result[:nodes].count { |n| n.is_a?(DAG::ObligationNode) }
+        rights = semantic_result[:nodes].count { |n| n.is_a?(DAG::RightNode) }
+        conditions = semantic_result[:nodes].count { |n| n.is_a?(DAG::ConditionNode) }
+        $stderr.puts "        #{"Obligations:".light_white} #{obligations.to_s.yellow}  #{"Rights:".light_white} #{rights.to_s.cyan}  #{"Conditions:".light_white} #{conditions.to_s.magenta}"
+        $stderr.puts "        #{"Parties:".light_white} #{parties.map(&:to_s).join(", ").light_black}"
+      end
+
+      # Step 4: DAG construction
+      step_start = Time.now
+      $stderr.print "  #{"[4/6]".bold.blue} #{"Building DAG".white} "
+      graph = build_graph(clauses, semantic_result)
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        clause_nodes = graph.nodes.count { |n| n.is_a?(DAG::ClauseNode) }
+        semantic_nodes = graph.nodes.length - clause_nodes
+        $stderr.puts "        #{"Nodes:".light_white} #{graph.nodes.length.to_s.yellow} (#{clause_nodes} clause + #{semantic_nodes} semantic)".light_black
+        $stderr.puts "        #{"Edges:".light_white} #{graph.edges.length.to_s.yellow}".light_black
+        edge_types = graph.edges.group_by(&:type).transform_values(&:count)
+        edge_types.each do |type, count|
+          $stderr.puts "          #{type.to_s.cyan}: #{count}"
+        end
+      end
+
+      # Step 5: Symbolic reasoning
+      step_start = Time.now
+      $stderr.print "  #{"[5/6]".bold.blue} #{"Running symbolic reasoner".white} "
+      symbolic_anomalies = Reasoner.analyze(graph)
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        if symbolic_anomalies.empty?
+          $stderr.puts "        No symbolic anomalies detected".light_black
+        else
+          symbolic_anomalies.each do |a|
+            severity_color = severity_to_color(a[:severity])
+            sev = a[:severity].to_s.upcase
+            $stderr.puts "        #{"⚠".send(severity_color)} #{sev.send(severity_color)} #{a[:type].to_s.light_black} #{a[:description].truncate(80).white}"
+          end
+        end
+      end
+
+      # Step 6: OpenAI analysis
+      step_start = Time.now
+      $stderr.print "  #{"[6/6]".bold.blue} #{"Calling OpenAI analyzer".white} #{"(gpt-5.2)".light_black} "
       ai_anomalies = Analyzer.analyze(
         graph_hash: graph.to_hash,
         original_text: text,
         symbolic_anomalies: symbolic_anomalies
       )
+      elapsed = ((Time.now - step_start) * 1000).round
+      $stderr.puts "#{"✓".green} #{format_ms(elapsed)}"
+      if verbose
+        $stderr.puts "        #{ai_anomalies.length} AI anomalies detected".light_black
+      end
 
-      all_anomalies = symbolic_anomalies.map { |a| a.merge(source: :symbolic) } +
-                      ai_anomalies
+      # Summary
+      total_elapsed = ((Time.now - start_time) * 1000).round
+      all_anomalies = symbolic_anomalies.map { |a| a.merge(source: :symbolic) } + ai_anomalies
+      $stderr.puts ""
+      $stderr.puts "  #{"Done!".bold.green} #{all_anomalies.length} anomalies found in #{format_ms(total_elapsed)}"
+      $stderr.puts ""
 
       metadata = {
         source_file: options[:file],
@@ -92,5 +166,33 @@ module ContractCompiler
     end
 
     private_class_method :build_graph
+
+    def self.format_ms(ms)
+      if ms < 1000
+        "#{ms}ms".light_black
+      else
+        "#{"%.1f" % (ms / 1000.0)}s".light_black
+      end
+    end
+
+    private_class_method :format_ms
+
+    def self.severity_to_color(severity)
+      case severity.to_s.downcase
+      when "critical" then :red
+      when "high" then :light_red
+      when "medium" then :yellow
+      when "low" then :light_black
+      else :white
+      end
+    end
+
+    private_class_method :severity_to_color
   end
+end
+
+class String
+  def truncate(max)
+    length > max ? self[0...max] + "..." : self
+  end unless method_defined?(:truncate)
 end
