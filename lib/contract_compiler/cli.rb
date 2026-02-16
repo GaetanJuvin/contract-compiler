@@ -17,6 +17,8 @@ module ContractCompiler
       end
 
       remaining = parser.parse(argv)
+      # Strip the "analyze" subcommand if present
+      remaining.shift if remaining.first == "analyze"
       raise ArgumentError, "File argument is required" if remaining.empty?
 
       options[:file] = remaining.first

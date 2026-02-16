@@ -23,5 +23,11 @@ RSpec.describe ContractCompiler::CLI do
     it "raises if no file provided" do
       expect { described_class.parse_options([]) }.to raise_error(ArgumentError, /file/i)
     end
+
+    it "strips the analyze subcommand" do
+      options = described_class.parse_options(["analyze", "--json", "contract.txt"])
+      expect(options[:file]).to eq("contract.txt")
+      expect(options[:json]).to be true
+    end
   end
 end
