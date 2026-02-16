@@ -33,7 +33,7 @@ module ContractCompiler
 
       # Header
       $stderr.puts ""
-      $stderr.puts "  CONTRACT COMPILER".bold.cyan + "  v1.0".light_black
+      $stderr.puts "  CONTRACT COMPILER".bold.cyan + "  v0.4.2".light_black
       $stderr.puts "  #{"=" * 50}".light_black
       $stderr.puts ""
 
