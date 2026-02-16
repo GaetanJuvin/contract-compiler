@@ -17,8 +17,8 @@ RSpec.describe ContractCompiler::Reporter do
   end
 
   describe ".format_text" do
-    it "produces a formatted report with file:line references" do
-      output = described_class.format_text(anomalies: anomalies, metadata: metadata)
+    it "produces a formatted report with file:line references (plain)" do
+      output = described_class.format_text(anomalies: anomalies, metadata: metadata, color: false)
       expect(output).to include("Contract Analysis Report")
       expect(output).to include("contract.pdf")
       expect(output).to include("CRITICAL (1)")
@@ -32,8 +32,19 @@ RSpec.describe ContractCompiler::Reporter do
     end
 
     it "shows summary line" do
-      output = described_class.format_text(anomalies: anomalies, metadata: metadata)
+      output = described_class.format_text(anomalies: anomalies, metadata: metadata, color: false)
       expect(output).to include("Summary:")
+    end
+
+    it "produces colorized output when color is enabled" do
+      output = described_class.format_text(anomalies: anomalies, metadata: metadata, color: true)
+      # Colorize adds ANSI escape codes
+      expect(output).to include("\e[")
+      expect(output).to include("CRITICAL")
+      expect(output).to include("HIGH")
+      expect(output).to include("MEDIUM")
+      expect(output).to include("LOW")
+      expect(output).to include("Recommendation:")
     end
   end
 
