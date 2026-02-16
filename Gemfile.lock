@@ -5,6 +5,7 @@ GEM
     afm (1.0.0)
     base64 (0.3.0)
     bigdecimal (3.3.1)
+    colorize (1.1.0)
     csv (3.3.5)
     diff-lcs (1.6.2)
     hashery (2.1.2)
@@ -47,6 +48,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  colorize
   light-openai-lib
   pdf-reader
   rspec (~> 3.0)
