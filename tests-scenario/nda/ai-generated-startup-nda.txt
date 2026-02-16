@@ -1,0 +1,144 @@
+NON-DISCLOSURE AGREEMENT
+
+[ANOMALY: This startup NDA has multiple issues: (1) the definition of Confidential Information is vague and circular ("information that is confidential"), (2) there are no exceptions to confidentiality at all -- no exclusions for public domain, independent development, or prior knowledge, (3) the term is "perpetual" which is unusual and potentially unenforceable, (4) there is no return/destruction of materials clause, and (5) the non-compete provision in Section 6 is extremely broad and likely unenforceable.]
+
+This Non-Disclosure Agreement ("Agreement" or "NDA") is made on ________________, 2026,
+
+BETWEEN:
+
+Startup: BrewGenius AI, Inc., a Delaware corporation, with its registered agent at 1209 Orange Street, Wilmington, DE 19801, and its principal office at 450 Townsend Street, Unit 12, San Francisco, CA 94107 ("BrewGenius" or the "Company");
+
+AND
+
+Recipient: ________________________________, an individual residing at ________________________________ (the "Recipient").
+
+The Company and the Recipient may be referred to individually as a "Party" and collectively as the "Parties."
+
+PURPOSE
+
+BrewGenius is developing a proprietary artificial intelligence platform for the craft beverage industry, including machine learning models for recipe optimization, fermentation monitoring, quality prediction, and consumer taste profiling. The Company may disclose certain information to the Recipient in connection with potential employment, investment, advisory, partnership, or other business discussions (the "Purpose").
+
+TERMS AND CONDITIONS
+
+1. CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all information that is confidential, proprietary, or not generally known, whether disclosed orally, in writing, electronically, through demonstration, or by any other means, including but not limited to:
+
+   (a) The Company's AI models, algorithms, neural network architectures, training data, and machine learning methodologies;
+   (b) Software source code, APIs, databases, and technical documentation;
+   (c) Business plans, pitch decks, financial models, and fundraising materials;
+   (d) Product roadmaps, feature specifications, and development timelines;
+   (e) Customer data, user metrics, and market research;
+   (f) Partnerships, vendor agreements, and licensing arrangements;
+   (g) The identities of the Company's investors, advisors, and board members;
+   (h) Pricing strategies, revenue models, and unit economics;
+   (i) Information about the Company's founders, employees, and contractors;
+   (j) Any other information that is confidential; and
+   (k) The existence of discussions between the Parties and the terms of this Agreement.
+
+1.2 All information provided by the Company shall be presumed confidential unless the Company expressly states otherwise.
+
+2. RECIPIENT'S OBLIGATIONS
+
+2.1 The Recipient agrees to hold all Confidential Information in strict confidence.
+
+2.2 The Recipient shall not disclose any Confidential Information to any person, entity, or organization without the prior written consent of the Company.
+
+2.3 The Recipient shall not use any Confidential Information for any purpose other than the Purpose.
+
+2.4 The Recipient shall take reasonable steps to protect the Confidential Information from unauthorized disclosure.
+
+2.5 The Recipient shall not photograph, record, copy, or otherwise reproduce any Confidential Information unless expressly authorized by the Company.
+
+2.6 The Recipient acknowledges that all Confidential Information remains the exclusive property of the Company.
+
+3. INTELLECTUAL PROPERTY
+
+3.1 Nothing in this Agreement grants the Recipient any license or right in or to the Company's intellectual property, patents (pending or issued), copyrights, trademarks, trade secrets, or other proprietary rights.
+
+3.2 If the Recipient develops or creates any ideas, inventions, improvements, or suggestions based on or inspired by the Confidential Information, all such intellectual property shall be the sole and exclusive property of the Company, and the Recipient hereby assigns all right, title, and interest therein to the Company.
+
+3.3 The Recipient shall promptly disclose any such developments to the Company and shall execute any documents necessary to perfect the Company's ownership rights.
+
+4. NO WARRANTY
+
+4.1 The Company provides all Confidential Information on an "AS IS" basis without any warranty or representation of any kind, express or implied.
+
+4.2 The Company does not warrant the accuracy, completeness, currentness, or suitability of any Confidential Information.
+
+4.3 The Recipient acknowledges that any reliance on the Confidential Information is at the Recipient's own risk.
+
+5. TERM
+
+5.1 This Agreement shall be effective from the date of execution and shall remain in force in perpetuity.
+
+5.2 The Recipient's obligations of confidentiality under this Agreement shall continue indefinitely, without any time limitation.
+
+5.3 The Company may terminate this Agreement at any time by providing written notice to the Recipient. Termination shall not release the Recipient from the ongoing obligations of confidentiality.
+
+6. NON-COMPETE
+
+6.1 During the term of this Agreement and for a period of three (3) years following its termination, the Recipient shall not, directly or indirectly:
+
+   (a) Engage in, own, manage, operate, consult for, or participate in any business that develops, markets, or sells AI-powered solutions for any segment of the food and beverage industry, anywhere in the world;
+   (b) Develop any product, service, or technology that is similar to, competitive with, or derived from the Company's products, services, or technology;
+   (c) Solicit, recruit, or hire any employee, contractor, advisor, or consultant of the Company;
+   (d) Solicit or attempt to solicit any customer, partner, vendor, or investor of the Company; or
+   (e) Assist any third party in doing any of the foregoing.
+
+6.2 The Recipient acknowledges that the restrictions in this Section 6 are reasonable and necessary to protect the Company's legitimate business interests.
+
+7. REMEDIES
+
+7.1 The Recipient acknowledges and agrees that any breach or threatened breach of this Agreement would cause irreparable harm to the Company that could not be adequately compensated by monetary damages.
+
+7.2 In the event of a breach, the Company shall be entitled to:
+
+   (a) Immediate injunctive relief without the necessity of proving actual damages or posting a bond;
+   (b) Specific performance of the Recipient's obligations;
+   (c) Recovery of all actual, consequential, and punitive damages;
+   (d) Recovery of all attorneys' fees, court costs, and other expenses incurred in enforcing this Agreement; and
+   (e) Any other remedies available at law or in equity.
+
+7.3 The Recipient shall pay a penalty of one hundred thousand US dollars ($100,000) for each instance of unauthorized disclosure, in addition to any damages awarded.
+
+8. GOVERNING LAW
+
+8.1 This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws provisions.
+
+8.2 Any legal action arising out of this Agreement shall be brought exclusively in the state or federal courts located in San Francisco County, California.
+
+8.3 The Recipient consents to personal jurisdiction in such courts and waives any objection based on inconvenient forum.
+
+9. MISCELLANEOUS
+
+9.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, representations, and understandings.
+
+9.2 Amendments. This Agreement may only be modified by a written amendment signed by both Parties.
+
+9.3 Severability. If any provision of this Agreement is held to be unenforceable, the remaining provisions shall continue in full force and effect. The unenforceable provision shall be modified to the minimum extent necessary to make it enforceable while preserving the Parties' original intent.
+
+9.4 Waiver. No waiver of any provision shall constitute a continuing waiver or a waiver of any other provision.
+
+9.5 Assignment. The Recipient may not assign this Agreement without the Company's prior written consent. The Company may freely assign this Agreement to any successor or affiliate.
+
+9.6 Survival. All provisions of this Agreement that by their nature should survive termination shall survive indefinitely.
+
+9.7 Headings. The headings in this Agreement are for convenience only and shall not affect its interpretation.
+
+9.8 Construction. This Agreement shall not be construed against the drafter.
+
+THE RECIPIENT ACKNOWLEDGES THAT HE/SHE HAS READ AND UNDERSTOOD THIS AGREEMENT AND AGREES TO BE BOUND BY ALL OF ITS TERMS AND CONDITIONS. THE RECIPIENT HAS HAD THE OPPORTUNITY TO SEEK INDEPENDENT LEGAL ADVICE BEFORE SIGNING.
+
+BREWGENIUS AI, INC.
+
+By: ___________________________
+Name: Alejandro F. Gutierrez
+Title: Co-Founder and CEO
+Date: ___________________________
+
+RECIPIENT
+
+Signature: ___________________________
+Printed Name: ___________________________
+Date: ___________________________

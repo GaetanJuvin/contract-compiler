@@ -1,0 +1,130 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of the 15th day of January, 2026 ("Effective Date"), by and between:
+
+Party A: Nexora Technologies, Inc., a Delaware corporation, with its principal place of business at 4500 Innovation Drive, Suite 300, San Jose, CA 95134 ("Nexora");
+
+Party B: Quantum Leap Solutions, LLC, a California limited liability company, with its principal place of business at 1200 Market Street, Suite 700, San Francisco, CA 94103 ("Quantum Leap");
+
+(each individually a "Party" and collectively the "Parties").
+
+RECITALS
+
+WHEREAS, the Parties wish to explore a potential business relationship relating to the joint development and licensing of artificial intelligence and machine learning technologies (the "Purpose"); and
+
+WHEREAS, in connection with the Purpose, each Party may disclose to the other certain confidential and proprietary information;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all non-public, proprietary, or confidential information disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party"), whether orally, in writing, electronically, or by any other means, including but not limited to:
+
+   (a) Trade secrets, inventions, patents, patent applications, copyrights, trademarks, and other intellectual property;
+   (b) Business plans, strategies, forecasts, projections, and analyses;
+   (c) Financial information, including revenue, pricing, cost structures, and investment data;
+   (d) Technical data, designs, algorithms, source code, object code, software architecture, and specifications;
+   (e) Customer lists, vendor lists, supplier agreements, and marketing strategies;
+   (f) Research and development activities, prototypes, and experimental results;
+   (g) Employee information, organizational structures, and compensation data; and
+   (h) Any information that a reasonable person would understand to be confidential given the nature of the information and the circumstances of disclosure.
+
+1.2 Confidential Information shall also include any notes, analyses, compilations, studies, interpretations, memoranda, or other documents prepared by the Receiving Party that contain, reflect, or are based upon, in whole or in part, the Confidential Information disclosed by the Disclosing Party.
+
+2. EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+
+2.1 Confidential Information shall not include information that:
+
+   (a) Was publicly known and generally available in the public domain prior to the time of disclosure by the Disclosing Party;
+   (b) Becomes publicly known and generally available after disclosure by the Disclosing Party through no wrongful action or inaction of the Receiving Party;
+   (c) Is already in the possession of the Receiving Party at the time of disclosure, as shown by the Receiving Party's files and records prior to the time of disclosure;
+   (d) Is obtained by the Receiving Party from a third party without a breach of such third party's obligations of confidentiality; or
+   (e) Is independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information, as demonstrated by documented evidence.
+
+3. OBLIGATIONS OF THE RECEIVING PARTY
+
+3.1 The Receiving Party shall hold and maintain the Confidential Information in strict confidence and shall not, without the prior written consent of the Disclosing Party:
+
+   (a) Disclose the Confidential Information to any third party; or
+   (b) Use the Confidential Information for any purpose other than the Purpose.
+
+3.2 The Receiving Party shall protect the Confidential Information using the same degree of care it uses to protect its own confidential information of a similar nature, but in no event less than reasonable care.
+
+3.3 The Receiving Party may disclose Confidential Information only to its employees, officers, directors, consultants, agents, and advisors (collectively, "Representatives") who (a) have a need to know such information for the Purpose, and (b) are bound by written confidentiality obligations no less restrictive than those contained herein.
+
+3.4 The Receiving Party shall be responsible for any breach of this Agreement by its Representatives.
+
+4. COMPELLED DISCLOSURE
+
+4.1 If the Receiving Party is compelled by law, regulation, or legal process to disclose any Confidential Information, the Receiving Party shall, to the extent legally permitted, provide the Disclosing Party with prompt written notice of such requirement so that the Disclosing Party may seek a protective order or other appropriate remedy.
+
+4.2 If such protective order or other remedy is not obtained, the Receiving Party shall disclose only that portion of the Confidential Information that is legally required to be disclosed and shall use commercially reasonable efforts to ensure that confidential treatment is accorded to the disclosed information.
+
+5. TERM AND TERMINATION
+
+5.1 This Agreement shall commence on the Effective Date and shall continue for a period of two (2) years, unless earlier terminated by either Party upon thirty (30) days' prior written notice to the other Party.
+
+5.2 The confidentiality obligations set forth in this Agreement shall survive termination or expiration of this Agreement for a period of three (3) years from the date of disclosure of the applicable Confidential Information.
+
+6. RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION
+
+6.1 Upon termination or expiration of this Agreement, or upon written request by the Disclosing Party, the Receiving Party shall promptly:
+
+   (a) Return to the Disclosing Party all originals and copies of any Confidential Information in tangible form; or
+   (b) Destroy all Confidential Information in any form and certify such destruction in writing to the Disclosing Party.
+
+6.2 Notwithstanding the foregoing, the Receiving Party may retain one (1) archival copy of the Confidential Information solely for the purpose of monitoring compliance with this Agreement, provided that such copy remains subject to the confidentiality obligations herein.
+
+7. NO LICENSE OR WARRANTY
+
+7.1 Nothing in this Agreement shall be construed as granting any rights, by license or otherwise, to the Receiving Party in or to the Confidential Information, except as expressly set forth herein.
+
+7.2 All Confidential Information is provided "AS IS" without any warranty, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, or completeness.
+
+8. REMEDIES
+
+8.1 Each Party acknowledges that any breach or threatened breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages would be an inadequate remedy. Accordingly, the Disclosing Party shall be entitled to seek equitable relief, including injunction and specific performance, in addition to all other remedies available at law or in equity.
+
+8.2 The rights and remedies provided herein are cumulative and not exclusive of any other rights or remedies available under law or in equity.
+
+9. NO OBLIGATION TO PROCEED
+
+9.1 Nothing in this Agreement shall obligate either Party to enter into any further agreement or to proceed with any business relationship or transaction.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+10.2 Any dispute arising out of or in connection with this Agreement shall first be submitted to good faith negotiation between senior executives of each Party for a period of thirty (30) days. If the dispute is not resolved through negotiation, it shall be submitted to binding arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules. The arbitration shall be conducted in San Francisco, California.
+
+11. MISCELLANEOUS
+
+11.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, representations, and understandings, whether written or oral.
+
+11.2 Amendment. This Agreement may not be amended or modified except by a written instrument signed by both Parties.
+
+11.3 Assignment. Neither Party may assign this Agreement or any of its rights or obligations hereunder without the prior written consent of the other Party, except in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+11.4 Severability. If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect.
+
+11.5 Waiver. The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver of such provision or the right to enforce it at a later time.
+
+11.6 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
+
+11.7 Notices. All notices under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by confirmed email, or sent by certified mail, return receipt requested, to the addresses set forth above.
+
+IN WITNESS WHEREOF, the Parties have executed this Mutual Non-Disclosure Agreement as of the Effective Date.
+
+NEXORA TECHNOLOGIES, INC.
+
+By: ___________________________
+Name: Sarah J. Mitchell
+Title: Chief Executive Officer
+Date: ___________________________
+
+QUANTUM LEAP SOLUTIONS, LLC
+
+By: ___________________________
+Name: David R. Chen
+Title: Managing Partner
+Date: ___________________________

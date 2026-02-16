@@ -1,0 +1,3574 @@
+# Source: SEC EDGAR - Pro-Dex Inc. / Monogram Orthopaedics Supply Agreement
+# URL: https://www.sec.gov/Archives/edgar/data/1769759/000110465923107518/tm2328000d1_ex10-1.htm
+# Filed: 2023 | CIK: 1769759 | Exhibit 10.1
+# This is an actual supply agreement filed with the SEC.
+
+
+
+
+     
+
+
+
+
+
+ 
+
+
+Exhibit 10.1
+
+
+ 
+
+
+Execution Version
+
+
+ 
+
+
+CERTAIN
+IDENTIFIED INFORMATION HAS BEEN EXCLUDED FROM THIS EXHIBIT BECAUSE IT IS NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM TO THE
+REGISTRANT IF PUBLICLY DISCLOSED. [***] INDICATES THAT INFORMATION HAS BEEN REDACTED.
+
+
+ 
+
+
+SUPPLY AGREEMENT
+
+
+ 
+
+
+This Supply Agreement (this
+“Agreement”), dated as of October 3, 2023 (the “Effective Date”), is entered into by and between
+Pro-Dex, Inc., a Colorado corporation having an address at 2361 McGaw Avenue, Irvine, CA 92614 (“Seller”), and Monogram
+Orthopaedics Inc., a Delaware corporation having an address at 3913 Todd Lane, Suite 307, Austin, TX 78744 (“Buyer”,
+and together with Seller, the “Parties”, and each, a “Party”).
+
+
+ 
+
+
+WHEREAS, Buyer and Seller
+previously entered into the following agreements concerning the development and supply by Seller of certain products to Buyer:
+
+
+ 
+
+
+(a)   
+that certain Agreement to Agree to Development and Supply Agreement dated April 19th, 2017 (“ATA”);
+
+
+ 
+
+
+(b)   
+that certain Development and Supply Agreement entered into in December 2018 (the “DSA”); and
+
+
+ 
+
+
+(c)   
+that certain Services Agreement dated April 14, 2021, which the Parties agree to amend as soon as reasonably practical after the
+Effective Date to modify the terms and provisions thereof concerning intellectual property to conform with the terms and provisions of
+this Agreement concerning intellectual property (as amended, the “Services Agreement”);
+
+
+ 
+
+
+WHEREAS, the DSA never became
+effective due to the failure of Buyer to satisfy the Financing Condition (as defined therein) and, as a result, the DSA is of no force
+or effect;
+
+
+ 
+
+
+WHEREAS, the Services Agreement
+currently remains in effect in accordance with its terms and is the agreement pursuant to which Seller may provide Buyer various development
+services pursuant to one or more statements of work (each, a “Statement of Work”) that may be entered into by Buyer
+and Seller under the Services Agreement;
+
+
+ 
+
+
+WHEREAS, Buyer and Seller
+are entering into this Agreement to set forth the terms and conditions pursuant to which Seller Supplied Product and Sourced Products
+(as each such term is defined herein) will be supplied to Buyer; and
+
+
+ 
+
+
+WHEREAS, upon the execution
+and delivery of this Agreement by Buyer and Seller, the ATA shall be terminated and of no further force or effect.
+
+
+ 
+
+
+NOW, THEREFORE, in consideration
+of the mutual covenants, terms and conditions set forth herein, and for other good and valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, the Parties agree as follows:
+
+
+ 
+
+
+1.             Definitions. Capitalized terms have the meanings set out or referred to in this Section 1.
+
+
+ 
+
+
+“Action”
+means any claim, action, cause of action, demand, lawsuit, arbitration, inquiry, audit, notice of violation, proceeding, litigation, citation,
+summons, subpoena or investigation of any nature, civil, criminal, administrative, regulatory, or other, whether at law, in equity or
+otherwise.
+
+
+ 
+
+
+“Affiliate”
+of a Person means any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is
+under common Control with, such Person.
+
+
+ 
+
+
+
+
+
+
+     
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+“Agreement”
+has the meaning set forth in the preamble to this Agreement.
+
+
+ 
+
+
+“ATA” has
+the meaning set forth in the recitals to this Agreement.
+
+
+ 
+
+
+“Basic Purchase Order
+Terms” means, collectively, any one or more of the following terms specified by Buyer in a Purchase Order pursuant to Section 3.2:
+(a) a list of the Seller Supplied Products to be purchased; (b) the quantity of each of the Seller Supplied Products ordered;
+(c) the Requested Delivery Date; (d) the unit Price for each of the Seller Supplied Products to be purchased; (e) the billing
+address; and (f) the Delivery Location. For the avoidance of doubt, the term “Basic Purchase Order Terms” does not include
+any general terms or conditions of any Purchase Order.
+
+
+ 
+
+
+“Business Day”
+means any day except Saturday, Sunday, or any other day on which commercial banks located in the State of California are authorized or
+required by Law to be closed for business.
+
+
+ 
+
+
+“Buyer”
+has the meaning set forth in the preamble to this Agreement.
+
+
+ 
+
+
+“Buyer Contracts”
+means all contracts or agreements to which Buyer is a party or to which any of its material assets are bound.
+
+
+ 
+
+
+“Buyer IP Rights”
+means all Intellectual Property Rights that are owned by Buyer or in which Buyer otherwise has rights by license or otherwise (excluding
+any licenses granted by Seller under Section 12.4(a)). For clarity, as between Buyer and Seller, “Buyer IP Rights”
+includes (a) all Project-Related Buyer IP Rights, if any, and (b) except if and to the extent Seller IP Rights are incorporated into
+Seller Supplied Products pursuant to Section 12.1, all designs and Specifications for the Seller Supplied Product and Sourced
+Products, including prototypes.
+
+
+ 
+
+
+“Claim”
+means any Action brought against a Person entitled to indemnification under Section 10.
+
+
+ 
+
+
+“Confidential Information”
+has the meaning set forth in Section 13.1.
+
+
+ 
+
+
+“Control”
+(and with correlative meanings, the terms “Controlled by” and “under common Control with”) means,
+with respect to any Person, the possession, directly or indirectly, of the power to direct or cause the direction of the management or
+policies of another Person, whether through the ownership of voting securities, by contract, or otherwise.
+
+
+ 
+
+
+“CPI” means
+the U.S. Bureau of Labor Statistics (or a successor agency thereof) Consumer Price Index for All Urban Consumers.
+
+
+ 
+
+
+“Defective”
+means not conforming to the Product Warranty under Section 9.3.
+
+
+ 
+
+
+“Defective Products”
+means Seller Supplied Products shipped by Seller to Buyer pursuant to this Agreement that are Defective.
+
+
+ 
+
+
+“Delivery Location”
+means the street address within the Territory for delivery of the Seller Supplied Products specified in the applicable Purchase Order.
+
+
+ 
+
+
+“Disclosing Party”
+has the meaning set forth in Section 13.1.
+
+
+ 
+
+
+“Dispute”
+has the meaning set forth in Section 19.16.
+
+
+ 
+
+
+“Dispute Notice”
+has the meaning set forth in Section 19.16.
+
+
+ 
+
+
+“DSA” has
+the meaning set forth in the recitals to this Agreement.
+
+
+ 
+
+
+“Effective Date”
+has the meaning set forth in the preamble to this Agreement.
+
+
+ 
+
+
+“End Effectors”
+has the meaning set forth in Schedule 1 attached hereto.
+
+
+ 
+
+
+“Force Majeure Event”
+has the meaning set forth in Section 19.20.
+
+
+ 
+
+
+“Forecast”
+means, with respect to any eighteen (18)-month period, a good faith projection or estimate of Buyer’s requirements for Seller
+Supplied Products during each month during the period, which approximates, as nearly as possible, based on information available at
+the time to Buyer, the quantity of Seller Supplied Products that Buyer may order for each such month.
+
+
+ 
+
+
+
+
+
+
+    -2-
+
+
+     
+
+
+    
+
+ 
+
+
+“Governmental Authority”
+means (a) any federal, state, local or foreign government or political subdivision thereof, (b) any agency or instrumentality
+of such government or political subdivision, (c) any self-regulated organization or other non-governmental regulatory authority or
+quasi-governmental authority (to the extent that the rules, regulations or orders of such organization or authority have the force of
+Law), including any stock exchange or interdealer quotation system, or (d) any arbitrator, court or tribunal of competent jurisdiction.
+
+
+ 
+
+
+“Governmental Order”
+means any order, writ, judgment, injunction, decree, stipulation, award, or determination entered by or with any Governmental Authority.
+
+
+ 
+
+
+“Indemnified Party”
+has the meaning set forth in Section 10.1.
+
+
+ 
+
+
+“Indemnifying Party”
+has the meaning set forth in Section 10.1.
+
+
+ 
+
+
+“Initial Term”
+has the meaning set forth in Section 6.1.
+
+
+ 
+
+
+“Inspection Period”
+has the meaning set forth in Section 4.6.
+
+
+ 
+
+
+“Intellectual Property
+Rights” means all industrial and other intellectual property rights comprising or relating to: (a) Patents; (b) Trademarks;
+(c) internet domain names, whether or not Trademarks, registered by any authorized private registrar or Governmental Authority, web
+addresses, web pages, website, and URLs; (d) works of authorship, prototypes, expressions, drawings, designs, and design registrations,
+whether or not copyrightable, including copyrights and copyrightable works, software and firmware, application programming interfaces,
+architecture, files, records, schematics, data, data files, and databases and other specifications and documentation; (e) Trade Secrets;
+(f) mask works and the like; and (g) all industrial and other intellectual property rights, and all rights, interests, and protections
+that are associated with, equivalent or similar to, or required for the exercise of, any of the foregoing, however arising, in each case
+whether registered or unregistered and including all registrations and applications for, and renewals or extensions of, such rights or
+forms of protection pursuant to the Laws of any jurisdiction throughout in any part of the world.
+
+
+ 
+
+
+“Law” means
+any statute, law, ordinance, regulation, rule, code, constitution, treaty, common law, Governmental Order, or other requirement or rule
+of law of any Governmental Authority.
+
+
+ 
+
+
+“Losses”
+has the meaning set forth in Section 10.1.
+
+
+ 
+
+
+“Nonconforming Products”
+means any Seller Supplied Products received by Buyer from Seller pursuant to a Purchase Order that: (a) are of a type other than
+the type of Seller Supplied Product ordered by Buyer pursuant to the applicable Purchase Order; (b) do not conform to the Specifications
+or to any specifications identified in quality released drawings that are accepted by Seller; or (c) exceed or fall short of the
+quantity of Seller Supplied Products ordered by Buyer pursuant to the applicable Purchase Order. Where the context requires, Nonconforming
+Products are deemed to be Seller Supplied Products for purposes of this Agreement.
+
+
+ 
+
+
+“Non-Recurring Engineering”
+or “NRE” means one-time costs to develop devices to help maintain the accuracy and repeatability of manufacturing of
+the Seller Supplied Products, including, but not limited to, “fixturing” (for example, tooling or modifications to existing
+tooling and gauging), one-time documentation requests (for example, first article inspection reports, material certificates, work and
+assembly instructions, etc.), the one-time setup of any specified functional testing, or requested changes to any of the above as a result
+of changes to the Seller Supplied Products. NRE shall be mutually agreed in a Statement of Work.
+
+
+ 
+
+
+“Notice”
+has the meaning set forth in Section 19.5.
+
+
+ 
+
+
+“Outside Delivery
+Date” has the meaning set forth in Section 4.4.
+
+
+ 
+
+
+
+
+
+
+    -3-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+“Party”
+has the meaning set forth in the preamble to this Agreement.
+
+
+ 
+
+
+“Patents”
+means all patents (including all reissues, divisionals, provisionals, continuations and continuations-in-part, re-examinations, renewals,
+substitutions and extensions thereof), patent applications, and other patent rights and any other Governmental Authority-issued indicia
+of invention ownership (including inventor’s certificates, petty patents, and patent utility models).
+
+
+ 
+
+
+“Payment Failure”
+has the meaning set forth in Section 6.3(a).
+
+
+ 
+
+
+“Person”
+means any individual, partnership, corporation, trust, limited liability entity, unincorporated organization, association, Governmental
+Authority, or any other entity.
+
+
+ 
+
+
+“Personnel”
+of a Party or other entity means any agents, employees, officers, directors, contractors, or subcontractors engaged or appointed by such
+Party or other entity.
+
+
+ 
+
+
+“Price”
+has the meaning set forth in Section 5.1.
+
+
+ 
+
+
+“Product Warranty”
+has the meaning set forth in Section 9.3.
+
+
+ 
+
+
+“Project-Related
+Buyer IP Rights” means all Intellectual Property Rights that are first conceived, developed or reduced to practice during the
+Term in connection with this Agreement solely by Buyer without the assistance of Seller and without incorporation of, improvement upon,
+reference to, or reliance on any Seller IP Rights. For the sake of clarity, Project-Related Buyer IP Rights, if applicable, only includes
+Intellectual Property Rights that are first conceived, developed or reduced to practice during the Term of this Agreement and does not
+include any Intellectual Property Rights existing on or prior to the Effective Date.
+
+
+ 
+
+
+“Project-Related
+Seller IP Rights” means all Intellectual Property Rights that are first conceived, developed or reduced to practice during the
+Term in connection with this Agreement solely by Seller without the assistance of Buyer and without incorporation of, improvement upon,
+reference to, or reliance on any Buyer IP Rights. For the sake of clarity, Project-Related Seller IP Rights, if applicable, only includes
+Intellectual Property Rights that are first conceived, developed or reduced to practice during the Term of this Agreement and does not
+include any Intellectual Property Rights existing on or prior to the Effective Date.
+
+
+ 
+
+
+“Purchase Order”
+means Buyer’s purchase order issued to Seller hereunder, including all terms and conditions attached to, or incorporated into, such
+purchase order.
+
+
+ 
+
+
+“Receiving Party”
+has the meaning set forth in Section 13.1.
+
+
+ 
+
+
+“Regulations”
+means all international, national, federal, state, provincial and local statutes, laws, ordinances and regulations and guidelines, relating
+to the marketing, processing, assembly, packaging, labelling, sale, storage, supply and distribution of the Seller Supplied Products (including
+those Seller Supplied Product components supplied by third parties), including those enforced by any Regulatory Authority, including compliance
+with quality system regulations and applicable clearance and approval requirements.
+
+
+ 
+
+
+“Regulatory Authority”
+means any duly authorized agency of any international, national federal, foreign, state, provincial or local government or authority regulating
+the marketing, manufacture, packaging, sale, shipment or storage of the Seller Supplied Products in the Territory, including but not limited
+to the U.S. Food and Drug Administration (“FDA”), the Center for Medicare and Medicaid Services the Office of Inspector
+General of the U.S. Department of Health and Human Services, the U.S. Federal Trade Commission, and any state or foreign government equivalent.
+
+
+ 
+
+
+“Renewal Term”
+has the meaning set forth in Section 6.2.
+
+
+ 
+
+
+“Representatives”
+means a Party’s Affiliates and each of their respective Personnel, partners, shareholders, attorneys, third-party advisors, successors,
+and permitted assigns.
+
+
+ 
+
+
+
+
+
+
+    -4-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+“Requested Delivery
+Date” means the requested delivery date for Seller Supplied Products ordered hereunder that is set forth in a Purchase Order,
+which must be a Business Day no less than twenty-six (26) weeks following delivery of the applicable Purchase Order to Seller.
+
+
+ 
+
+
+“Research Prototypes”
+means Seller Supplied Product prototypes developed or engineered internally by Buyer solely for research and development purposes and
+not for the purpose of commercializing the Seller Supplied Products.
+
+
+ 
+
+
+“Sale Transaction”
+means any of the following: (i) Buyer sells, leases, or exchanges a material portion of Buyer’s assets outside of the ordinary
+course of business, (ii) Buyer merges or consolidates with or into another Person, or (iii) a change in Control of Buyer occurs.
+
+
+ 
+
+
+“SEC” means
+the U.S. Securities and Exchange Commission or any successor agency thereto.
+
+
+ 
+
+
+“Seller”
+has the meaning set forth in the preamble to this Agreement.
+
+
+ 
+
+
+“Seller Contracts”
+means all contracts or agreements to which Seller is a party or to which any of its material assets are bound.
+
+
+ 
+
+
+“Seller Tooling”
+has the meaning set forth in Section 14.
+
+
+ 
+
+
+“Seller IP Rights”
+means all Intellectual Property Rights that are owned by Seller or in which Seller otherwise has rights by license or otherwise ((excluding
+any licenses granted by Buyer under Section 12.4(b)). For clarity, “Seller IP Rights” includes all Project-Related
+Seller IP Rights.
+
+
+ 
+
+
+“Seller Supplied
+Products” has the meaning set forth in Schedule 1 attached hereto. For clarity, the term Seller Supplied Products,
+(i) excludes any Sourced Products, and (ii) includes all prototypes for Seller Supplied Products, other than Research Prototypes.
+
+
+ 
+
+
+“Seller’s Trademarks”
+means all Trademarks owned by or licensed to Seller.
+
+
+ 
+
+
+“Services Agreement”
+has the meaning set forth in the recitals to this Agreement.
+
+
+ 
+
+
+“Sourced Products”
+has the meaning set forth in Schedule 1 attached hereto.
+
+
+ 
+
+
+“Sourced Products
+Fee” has the meaning set forth in Schedule 1 attached hereto.
+
+
+ 
+
+
+“Specifications”
+means the specifications for the Seller Supplied Products set forth in Exhibit A attached hereto or as otherwise agreed to
+in writing by the Parties.
+
+
+ 
+
+
+“Statement of Work”
+has the meaning set forth in the recitals to this Agreement.
+
+
+ 
+
+
+“Taxes”
+means any and all present and future sales, income, stamp, and other taxes, levies, imposts, duties, deductions, charges, fees or withholdings
+imposed, levied, withheld, or assessed by any Governmental Authority, together with any interest or penalties imposed thereon.
+
+
+ 
+
+
+“Term”
+means the Initial Term plus all Renewal Terms, if any.
+
+
+ 
+
+
+“Territory”
+means the US, and its territories and possessions.
+
+
+ 
+
+
+“Tooling”
+means, collectively, all tooling, dies, test and assembly fixtures, gauges, jigs, patterns, casting patterns, cavities, molds, and documentation
+(including engineering specifications and test reports) used by Seller in connection with its manufacture and sale of the Seller Supplied
+Products, together with any accessions, attachments, parts, accessories, substitutions, replacements and appurtenances thereto.
+
+
+ 
+
+
+“Trademarks”
+means all rights in and to US and foreign trademarks, service marks, trade dress, trade names, brand names, logos, corporate names and
+domain names, and other similar designations of source, sponsorship, association, or origin, together with the goodwill symbolized by
+any of the foregoing, in each case whether registered or unregistered and including all registrations and applications for, and renewals
+or extensions of, such rights and all similar or equivalent rights or forms of protection in any part of the world.
+
+
+ 
+
+
+
+
+
+
+    -5-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+“Trade Secrets”
+means all inventions, discoveries, trade secrets, business and technical information and know-how, databases, data collections, patent
+disclosures, and other confidential and proprietary information and all rights therein.
+
+
+ 
+
+
+“US” means
+the United States of America.
+
+
+ 
+
+
+“Warranty Period”
+has the meaning set forth in Section 9.3.
+
+
+ 
+
+
+2.             Purchase and Sale of Products.
+
+
+ 
+
+
+2.1           Purchase and Sale of Seller Supplied Products. During the Term, Buyer shall purchase exclusively from Seller, and Seller
+shall manufacture and sell to Buyer, the Seller Supplied Products pursuant to the terms and conditions of this Agreement. For clarity,
+the foregoing exclusivity precludes Buyer from manufacturing any Seller Supplied Products, including any parts or components thereof,
+internally. Schedule 1 contains: (a) a description of the Seller Supplied Products to be manufactured and sold hereunder;
+and (b) the purchase price for each of the Seller Supplied Products. Buyer shall purchase from Seller, and Seller shall manufacture
+and sell to Buyer, one hundred percent (100%) of Buyer’s requirements of the Seller Supplied Products. The Parties shall, from time
+to time, amend Schedule 1 to reflect any mutually agreed revisions thereto; provided that no such revisions will modify this
+Agreement or be binding on the Parties unless such revisions have been fully approved in a signed writing by authorized Representatives
+of both Parties.
+
+
+ 
+
+
+2.2           Quality Control. Seller shall maintain a consistent level of quality with respect to the Seller Supplied Products during
+the Term and shall notify Buyer promptly upon any material change in the manufacturing process applicable to the manufacture of any Seller
+Supplied Products.
+
+
+ 
+
+
+2.3           Terms of Agreement Prevail Over Buyer’s Purchase Order. The Parties intend for the express terms and conditions contained
+in this Agreement (including any Schedules and Exhibits hereto) and the Basic Purchase Order Terms contained in the applicable Purchase
+Order to exclusively govern and control each of the Parties’ respective rights and obligations regarding the subject matter of this
+Agreement, and this Agreement is expressly limited to such terms and conditions. Without limitation of the foregoing, any additional,
+contrary, or different terms contained in any Purchase Order or other request or communication by Buyer pertaining to the manufacture
+or sale of Seller Supplied Products by Seller, and any attempt to modify, supersede, supplement or otherwise alter this Agreement, will
+not modify this Agreement or be binding on the Parties unless such terms have been fully approved in a signed writing by authorized Representatives
+of both Parties.
+
+
+ 
+
+
+2.4           Right to Manufacture and Sell Competitive Products. This Agreement does not limit Seller’s right to manufacture or
+sell, or preclude Seller from manufacturing or selling, to any Person, or entering into any agreement with any other Person related to
+the manufacture or sale of, goods or products that are similar to or competitive with the Seller Supplied Products so long as such goods
+or products do not incorporate or infringe upon any Buyer IP Rights.
+
+
+ 
+
+
+2.5           Sourced Products. During the Term, Buyer shall pay Seller the Sourced Products Fee for all Sourced Products on the terms
+set forth in Schedule 1. The Sourced Products Fee is payable by Buyer to Seller in consideration of Seller foregoing its right
+to be the exclusive manufacturer and supplier of Sourced Products under the ATA. Buyer shall not (a) manufacture any Sourced Products,
+including any parts or components thereof, internally or (b) procure Sourced Products, including any parts or components thereof, except
+in accordance with Schedule 1. Seller shall have no responsibility or obligation of any kind or nature whatsoever with respect
+to any Sourced Products. Buyer is solely responsible for negotiating and coordinating all aspects of any Sourced Products directly with
+the manufacturer or supplier thereof.
+
+
+ 
+
+
+
+
+
+
+    -6-
+
+
+     
+
+
+    
+
+ 
+
+
+2.6           Repairs.
+Seller shall be the exclusive provider of all repair services for all Seller Supplied Products; Buyer shall not use any third-party
+to repair any Seller Supplied Products nor shall Buyer repair any Seller Supplied Products internally. Except for Defective Products
+covered by Section 9.5, Seller Supplied Product repairs shall be billed by Seller on a time and materials basis at
+Seller’s then-current rates for such services. If, after Buyer’s notice to Seller of the need for repair services and
+within fifteen (15) days of such notice, Seller attempts repairs to the Product without success, then Buyer shall have the option to
+repair the Products at its discretion; provided, for clarity, that any repairs made by Buyer during the Warranty Period will void
+the Product Warrant pursuant to Section 9.4(b).
+
+
+ 
+
+
+3.             Ordering Procedure.
+
+
+ 
+
+
+3.1           Non-binding Forecasts of Buyer’s Requirements. Within ten (10) Business Days following the full execution of this
+Agreement, Buyer shall provide to Seller a Forecast for the period beginning on the Effective Date. No later than five (5) Business Days,
+(written reminder notice to Buyer shall be provided by Seller if later than 5 Business Days), prior to the first day of each subsequent
+quarter of the year, Buyer shall deliver to Seller a Forecast for the period beginning with the first day of such quarter; provided, however,
+that the first three (3) months of any Forecast are fixed and may not be modified by any subsequent Forecast without the written consent
+of Seller. Forecasts are for informational purposes only and do not create any binding obligations on behalf of either Party; provided,
+however, that Seller shall not be required to manufacture and sell to Buyer any quantity of Seller Supplied Products that exceeds any
+Forecast for the period covered by such Forecast. Seller shall notify Buyer promptly of any material hardship or delay in obtaining materials
+for the Seller Supplied Products. If Seller is unable to obtain adequate material to meet Buyer’s requirements for Seller Supplied
+Products then Buyer shall be allowed to source the materials for Seller if possible.
+
+
+ 
+
+
+3.2           Purchase Orders. Buyer shall issue to Seller Purchase Orders (containing applicable Basic Purchase Order Terms that are
+consistent with the terms of this Agreement, unless expressly agreed in writing by the Parties as set forth below in this Section 3.2)
+in written form via e-mail. By issuing a Purchase Order to Seller, Buyer makes an offer to purchase Seller Supplied Products pursuant
+to the terms and conditions of this Agreement and the Basic Purchase Order Terms contained in such Purchase Order, and on no other terms.
+For the avoidance of doubt, any variations made to the terms and conditions of this Agreement by Buyer in any Purchase Order are void
+and have no effect unless expressly identified in a Purchase Order as intending to modify this Agreement and such modification is agreed
+to by Seller in writing executed by a duly authorized representative Seller. Buyer shall be obligated to purchase from Seller quantities
+of Seller Supplied Products specified in a Purchase Order.
+
+
+ 
+
+
+3.3           Acceptance, Rejection, and Cancellation of Purchase Orders. Seller accepts a Purchase Order by confirming the order by email
+or other written confirmation within five (5) Business Days of receiving the Purchase Order. Seller may reject a Purchase Order or cancel
+a previously accepted Purchase Order within seven (7) Business Days, which it may do without liability or penalty, and without constituting
+a waiver of any of Seller’s rights or remedies under this Agreement or any Purchase Order, by providing written notice to Buyer
+specifying the applicable date of rejection or cancellation:
+
+
+ 
+
+
+(a)           if any one or more of the events described under Sections 6.3(a)-(f) has occurred; or
+
+
+ 
+
+
+(b)           pursuant to Seller’s rights under Section 5.4.
+
+
+ 
+
+
+4.             Shipment, Delivery, Acceptance, and Inspection.
+
+
+ 
+
+
+4.1           Shipment. Unless otherwise expressly agreed by the Parties in writing, Buyer shall select the method of shipment of and
+the carrier for the Seller Supplied Products. Seller may, in its sole discretion, without liability or penalty, make partial shipments
+of Seller Supplied Products to Buyer. Each shipment will constitute a separate sale and Buyer shall pay for the Seller Supplied Products
+shipped, in accordance with the payment terms specified in Section 5.3, whether such shipment is in whole or partial fulfillment
+of a Purchase Order.
+
+
+ 
+
+
+
+
+
+
+    -7-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+4.2           Packaging
+and Labeling. Seller shall properly pack, mark, and ship Seller Supplied Products and provide Buyer with shipment documentation showing
+the Purchase Order number, the quantity of pieces in shipment, and Seller’s name. Seller Supplied Product shall be shipped in packaging
+compliant with Buyer regulatory specifications as specified by Buyer to Seller in writing sufficiently in advance of the shipment date.
+
+
+ 
+
+
+4.3           Delivery. Unless otherwise expressly agreed by the Parties in writing, Seller shall deliver the Seller Supplied Products
+to the Delivery Location, using Seller’s standard methods for packaging and shipping such Seller Supplied Products. All Prices are
+net of shipping costs.
+
+
+ 
+
+
+4.4           Late Delivery. Any time quoted for delivery is an estimate only; provided, however, that Seller shall use commercially reasonable
+efforts to deliver all Seller Supplied Products on or before the Requested Delivery Date. If Seller has delayed shipment of all or any
+Seller Supplied Products for more than eight (8) weeks after the Requested Delivery Date (the “Outside Delivery Date”)
+and if such delay is not due to any action or inaction of Buyer or otherwise excused in accordance with the terms and conditions of this
+Agreement (a “Seller Delay”), then:
+
+
+ 
+
+
+(a)           the delayed Seller Supplied Products shall be subject to a late fee payable by Seller to Buyer equal to one percent (1%) of the
+Price of the delayed Seller Supplied Products for each day that such Seller Supplied Products are delayed beyond the Outside Delivery
+Date; provided, however, that (a) the maximum late fee for any delayed Seller Supplied Products shall be capped at ten percent (10%) of
+the Price therefor, and (b) no late fee shall apply to any Seller Supplied Products ordered by Buyer in excess of the Forecast; and
+
+
+ 
+
+
+(b)           Buyer may cancel the portion of the related Purchase Order covering the delayed Seller Supplied Products by giving Seller written
+Notice, provided that no late fee shall accrue from or after the date of cancelation.
+
+
+ 
+
+
+Subject to Buyer’s rights
+under this Section 4.4, no delay in the shipment or delivery of any Seller Supplied Product relieves Buyer of its obligations
+under this Agreement, including accepting delivery of any remaining installment or other orders of Seller Supplied Products.
+
+
+ 
+
+
+4.5           Transfer of Title and Risk of Loss.
+
+
+ 
+
+
+(a)           Title to Seller Supplied Products shipped under any Purchase Order passes to Buyer upon Buyer’s acceptance of the Seller
+Supplied Products.
+
+
+ 
+
+
+(b)           Risk of loss to Seller Supplied Products shipped under any Purchase Order passes to Buyer upon Seller’s tender of such units
+to the carrier.
+
+
+ 
+
+
+4.6           Inspection. Buyer shall inspect Seller Supplied Products received under this Agreement within ten (10) Business Days of
+receipt of such Seller Supplied Products (“Inspection Period”) and either accept or, only if any such Seller Supplied
+Products are Nonconforming Products, reject such Seller Supplied Products (or, if the quantity of Seller Supplied Products received by
+Buyer exceeds the quantity ordered by Buyer pursuant to the applicable Purchase Order, then reject the excess quantity of Seller Supplied
+Products). Buyer will be deemed to have accepted Seller Supplied Products unless it provides Seller with written Notice of any Nonconforming
+Products within two (2) Business Days following the Inspection Period, stating with specificity all defects and nonconformities, and furnishing
+such other written evidence or other documentation as may be reasonably required by Seller (including the subject Seller Supplied Products,
+or a representative sample thereof, which Buyer contends are Nonconforming Products). If Buyer timely notifies Seller of any Nonconforming
+Products, then (i) Buyer shall ship, at Seller’s expense, all Nonconforming Products to such location as Seller may instruct
+Buyer in writing, and (ii) reasonably promptly after its receipt thereof, Seller shall determine, in its reasonable discretion, whether
+the Seller Supplied Products are Nonconforming Products. If Seller determines that such Seller Supplied Products are Nonconforming Products,
+Seller shall, in its sole discretion, either:
+
+
+ 
+
+
+
+
+
+(a)           replace
+such Nonconforming Products with conforming Seller Supplied Products by shipping the conforming Seller Supplied Products to the Delivery
+Location at Seller’s expense; or
+
+
+ 
+
+
+
+
+
+
+    -8-
+
+
+     
+
+
+    
+
+ 
+
+
+(b)           refund to Buyer such amount paid by Buyer to Seller for such Nonconforming Products returned by Buyer to Seller.
+
+
+ 
+
+
+THE REMEDIES SET FORTH IN
+THIS SECTION 4.6 ARE BUYER’S EXCLUSIVE REMEDY FOR THE DELIVERY OF NONCONFORMING PRODUCTS, SUBJECT TO BUYER’S RIGHTS
+UNDER SECTION 9.5 WITH RESPECT TO ANY SUCH PRODUCTS FOR WHICH BUYER HAS ACCEPTED DELIVERY UNDER THIS SECTION 4.6.
+
+
+ 
+
+
+If Seller shall determine,
+in its reasonable discretion, that the allegedly Nonconforming Products are actually conforming Products, Seller shall reship such Products
+to the Delivery Location at Buyer’s expense, and Buyer shall promptly reimburse Seller for any shipping costs incurred or reimbursed
+by Seller for the previous shipment by Buyer of the allegedly Nonconforming Products to Seller.
+
+
+ 
+
+
+4.7           Limited Right of Return. Except as provided under Section 4.6, Section 9.5, and Section 9.8,
+Buyer has no right to return Seller Supplied Products shipped to Buyer pursuant to this Agreement.
+
+
+ 
+
+
+5.             Price and Payment.
+
+
+ 
+
+
+5.1           Price. Buyer shall purchase the Seller Supplied Products from Seller at the prices set forth on Schedule 1 attached
+hereto (“Prices”).
+
+
+ 
+
+
+5.2           Shipping Charges, Insurance, and Taxes. Buyer shall pay for all shipping charges and insurance costs. In addition, all Prices
+are exclusive of, and Buyer is solely responsible for and shall pay, and shall hold Seller harmless from, all Taxes with respect to, or
+measured by, the manufacture, sale, shipment, use, or Price of the Seller Supplied Products (including interest and penalties thereon);
+provided, however, that Buyer shall not be responsible for any Taxes imposed on Seller’s income from the sale of Seller Supplied
+Products to Buyer.
+
+
+ 
+
+
+5.3           Payment Terms. Seller shall issue periodic invoices to Buyer for all Seller Supplied Products ordered by Buyer setting forth
+in reasonable detail the amounts payable by Buyer. Buyer shall pay to Seller all invoiced amounts within thirty (30) days from the date
+of such invoice. Buyer shall make all payments in US dollars by wire transfer of immediately available funds to an account specified by
+Seller in writing or by bill.com. To avoid wire fraud, Buyer shall confirm any changes to such account with a confirmatory phone call
+to an authorized employee from Seller’s finance department.
+
+
+ 
+
+
+5.4           Buyer’s Right to Request Security Each issuance of a Purchase Order to Seller will constitute Buyer’s representation
+and warranty that Buyer is solvent and is able to pay for the Seller Supplied Products identified in such Purchase Order in accordance
+with the terms of this Agreement. At any time when Buyer is not current in its filings with the SEC or not subject to the reporting requirements
+of the SEC, Buyer shall furnish Seller with financial statements accurately and fairly evidencing Buyer’s financial condition as
+Seller may, from time to time (but no more frequently than quarterly), reasonably request. Buyer shall notify Seller, in writing, immediately
+of any and all events that have had or may have a material adverse effect on Buyer’s business or financial condition, including(a) any
+change in management, (b) any sale, lease, or exchange of a material portion of Buyer’s assets, (c) a change in Control
+of Buyer, or (d) the material breach of any loan covenants or the receipt of a notice of default from any lender. If, at any time,
+Buyer either (i) fails to make timely payment on any undisputed amounts that are due to Seller on more than three (3) occasions during
+any consecutive twelve (12) month period, or (ii) is more than ninety (90) days past due on any undisputed amounts that are due to
+Seller, then Seller may without liability or penalty, take one or more of the following actions:
+
+
+ 
+
+
+
+
+
+(a)           on
+written Notice, modify the payment terms specified in Section 5.3 for outstanding and future purchases, including requiring
+Buyer to pay for Seller Supplied Products on a cash in advance or cash on delivery basis;
+
+
+ 
+
+
+
+
+
+
+    -9-
+
+
+     
+
+
+    
+
+ 
+
+
+(b)           reject any Purchase Orders received from Buyer;
+
+
+ 
+
+
+(c)           cancel any previously accepted Purchase Orders;
+
+
+ 
+
+
+(d)           delay or withhold any further shipment of Products to Buyer; or
+
+
+ 
+
+
+(e)           stop delivery of any Products in transit and cause such Products in transit to be returned to Seller.
+
+
+ 
+
+
+No action taken by Seller
+under this Section 5.4 (nor any failure of Seller to act under this Section 5.4) constitutes a waiver by Seller
+of any of its rights and remedies under this Agreement, including its right to enforce Buyer’s obligation to make payments as required
+hereunder.
+
+
+ 
+
+
+5.5           Invoice Disputes. Buyer shall notify Seller in writing of any dispute with any invoice (along with substantiating documentation
+and a reasonably detailed description of the dispute) within thirty (30) Business Days from the date of Buyer’s receipt of such
+invoice. Except for Buyer’s rights under Section 16, Buyer will be deemed to have accepted all invoices for which Seller
+does not receive timely notification of dispute and shall pay all undisputed amounts due under such invoices within the period set forth
+in Section 5.3. The Parties shall seek to resolve any such disputes expeditiously and in good faith in accordance with the
+dispute resolution provisions set forth in Section 19.16. Notwithstanding anything to the contrary, Buyer shall continue performing
+its obligations under this Agreement during any such dispute, including Buyer’s obligation to pay all due and undisputed invoice
+amounts in accordance with the terms of this Agreement.
+
+
+ 
+
+
+5.6           Late Payments. Except for invoiced payments that Buyer has successfully disputed, Buyer shall pay interest on all late payments
+(whether during the Term or after the expiration or earlier termination of the Term), calculated daily and compounded monthly, at the
+lesser of the rate of one and one-half percent (1.5%) per month or the highest rate permissible under applicable Law. Buyer shall also
+reimburse Seller for all costs and expenses incurred by Seller in collecting any late payments, regardless of whether or not Seller files
+suit or commences any other Action, including court costs, mediator costs, arbitrator costs, expert fees and reasonable attorneys’
+fees.
+
+
+ 
+
+
+5.7           No Set-off Right. Buyer shall not, and acknowledges that it will have no right, under this Agreement, any Purchase Order,
+any other agreement, document or Law to, withhold, offset, recoup or debit any amounts owed (or to become due and owing) to Seller or
+any of its Affiliates, whether under this Agreement or otherwise, against any other amount owed (or to become due and owing) to it by
+Seller or Seller’s Affiliates, whether relating to Seller’s or its Affiliates’ breach or non-performance of this Agreement,
+any Purchase Order, any other agreement between (a) Buyer or any of its Affiliates and (b) Seller or any of its Affiliates,
+or otherwise.
+
+
+ 
+
+
+5.8           NRE. All NRE shall be performed and billed pursuant to a Statement of Work entered into by the Parties under the Services
+Agreement.
+
+
+ 
+
+
+6.             Term; Termination.
+
+
+ 
+
+
+6.1           Initial Term. The term of this Agreement commences on the Effective Date and, unless it is earlier terminated pursuant to
+the terms hereof, continues for a period of fifteen (15) years from the date of Seller’s delivery to Buyer of at least ten (10)
+production units of End Effectors that are fully developed and validated as reasonably agreed to by Buyer and Seller, which date shall
+be memorialized by a written instrument executed by both Buyer and Seller (the “Initial Term”).
+
+
+ 
+
+
+
+
+
+
+    -10-
+
+
+     
+
+
+    
+
+ 
+
+
+6.2           Renewal
+Term. Upon expiration of the Initial Term, the term of this Agreement will automatically renew for additional successive two (2)
+year terms unless a Party has provided written Notice of non-renewal to the other Party at least two (2) years prior to the end of
+the then-current term. If renewed, each two (2) year term will be referred to as a “Renewal Term”. If the Initial
+Term or any Renewal Term is renewed for any Renewal Term(s) pursuant to this Section 6.2, the terms and conditions of
+this Agreement during each such Renewal Term will be the same as the terms in effect immediately prior to such renewal. In the event
+either Party provides timely written Notice of non-renewal of this Agreement to the other Party, then, unless earlier terminated in
+accordance with the terms of this Agreement, this Agreement terminates on the expiration of the then-current Renewal Term, as
+applicable.
+
+
+ 
+
+
+6.3           Seller’s Right to Terminate. Seller may terminate this Agreement, by providing written Notice to Buyer:
+
+
+ 
+
+
+(a)           if Buyer fails to pay any amount when due under this Agreement and fails to cure such failure within thirty (30) Business Days
+after Buyer’s receipt of written Notice of such breach (“Payment Failure”);
+
+
+ 
+
+
+(b)           if Buyer is in material breach of any representation, warranty or covenant of Buyer under this Agreement (other than committing
+a Payment Failure, which is solely governed by subpart (a) above), and either the breach cannot be cured or, if the breach can be cured,
+it is not cured by Buyer within a commercially reasonable period of time (in no case exceeding ninety (90) days) after Buyer’s receipt
+of written Notice of such breach;
+
+
+ 
+
+
+(c)           if Buyer (i) becomes insolvent or is generally unable to pay, or fails to pay, its debts as they become due, (ii) files
+a petition for voluntary bankruptcy or otherwise voluntarily becomes subject to any proceeding under any domestic or foreign bankruptcy
+or insolvency Law, (iii) has filed against it a petition for involuntary bankruptcy or otherwise involuntarily becomes subject to
+any proceeding under any domestic or foreign bankruptcy or insolvency Law and such bankruptcy or other proceeding is not dismissed or
+discharged within sixty (60) days of commencement, (iv) makes or seeks to make a general assignment for the benefit of its creditors,
+or (v) applies for or has appointed a receiver, trustee, custodian or similar agent appointed by order of any court of competent
+jurisdiction to take charge of or sell any material portion of its property or business;
+
+
+ 
+
+
+(d)           Buyer’s failure to comply with Section 19.13; or
+
+
+ 
+
+
+(e)           at any time in Seller’s sole and absolute discretion upon providing Buyer at least one hundred twenty (120) days advance
+written notice of termination; or
+
+
+ 
+
+
+(f)           upon non-renewal by Seller pursuant to Section 6.2, and in such case of termination under this Section 6.3(f) Seller
+shall provide three (3) months’ notice to Buyer and reasonable assistance to Buyer with transitioning to a new vendor.
+
+
+ 
+
+
+Any termination under this
+Section 6.3 will be effective on Buyer’s receipt of Seller’s written Notice of termination or such later date
+(if any) set forth in such Notice.
+
+
+ 
+
+
+6.4           Buyer’s Right to Terminate. Buyer may terminate this Agreement, by providing written Notice to Seller,
+
+
+ 
+
+
+(a)           if Seller (i) becomes insolvent or is generally unable to pay, or fails to pay, its debts as they become due, (ii) files
+a petition for voluntary bankruptcy or otherwise voluntarily becomes subject to any proceeding under any domestic or foreign bankruptcy
+or insolvency Law, (iii) has filed against it a petition for involuntary bankruptcy or otherwise involuntarily becomes subject to
+any proceeding under any domestic or foreign bankruptcy or insolvency Law and such bankruptcy or other proceeding is not dismissed or
+discharged within sixty (60) days of commencement, (iv) makes or seeks to make a general assignment for the benefit of its creditors,
+(v) applies for or has appointed a receiver, trustee, custodian or similar agent appointed by order of any court of competent jurisdiction
+to take charge of or sell any material portion of its property or business;
+
+
+ 
+
+
+
+
+
+
+    -11-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(b)           if
+any Purchase Order under this Agreement remains unfulfilled by Seller for six (6) months after the date of the Requested Delivery Date
+therefor, unless such delay is the result of a Force Majeure Event or other factors reasonably outside of Seller’s control, such
+as, but not limited to, inability to source raw materials or components (and, for clarity, provided that this Section 6.4(b)
+shall not apply to any Seller Supplied Products ordered by Buyer in excess of the Forecast); or
+
+
+ 
+
+
+(c)           if during any consecutive twelve (12) month period Seller fails to fulfill more than three (3) separate Purchase Orders by the
+respective Outside Delivery Date therefor, unless such delay is the result of a Force Majeure Event or other factors reasonably outside
+of Seller’s control, such as, but not limited to, inability to source raw materials or components (and, for clarity, provided that
+this Section 6.4(c) shall not apply to any Seller Supplied Products ordered by Buyer in excess of the Forecast); or
+
+
+ 
+
+
+(d)           upon non-renewal by Buyer pursuant to Section 6.2.
+
+
+ 
+
+
+If this Agreement is terminated,
+Buyer shall pay to Seller all amounts due to Seller for Seller Supplied Products delivered by Seller to Buyer prior to the date such termination
+is effective and reimburse Seller for all of Seller’s out-of-pocket costs and expenses (including raw materials, machinery and equipment
+purchases) incurred by Seller prior to the date such termination is effective that arise from or relate to this Agreement or any Purchase
+Order issued by Buyer to Seller prior to the date such termination is effective.
+
+
+ 
+
+
+6.5           Effect of Expiration or Termination.
+
+
+ 
+
+
+(a)           Upon the expiration or earlier termination of this Agreement, all payment obligations of Buyer to Seller under this Agreement of
+any kind shall become immediately due and payable to Seller without further notice to Buyer.
+
+
+ 
+
+
+(b)           Expiration or termination of this Agreement will not affect any rights or obligations of the Parties that:
+
+
+ 
+
+
+(i)            come into effect upon or after termination or expiration of this Agreement; or
+
+
+ 
+
+
+(ii)           otherwise survive the expiration or earlier termination of this Agreement pursuant to Section 19.4.
+
+
+ 
+
+
+(c)           Any Notice of termination under this Agreement automatically operates as a cancellation of any deliveries of Seller Supplied Products
+to Buyer that are scheduled to be made subsequent to the effective date of termination, whether or not any orders for such Seller Supplied
+Products had been accepted by Seller. With respect to any Seller Supplied Products that are still in transit upon termination of this
+Agreement, Seller may require, in its sole discretion, that all sales and deliveries of such Seller Supplied Products be made on either
+a cash-only or certified-check basis.
+
+
+ 
+
+
+(d)           Upon the expiration or earlier termination of this Agreement, the Parties shall:
+
+
+ 
+
+
+(i)            return to the other Party (or if incapable of being returned, destroy) all documents and tangible materials (including any copies)
+containing, reflecting, incorporating, or based on, in whole or in part, the other Party’s Confidential Information;
+
+
+ 
+
+
+(ii)           permanently
+erase all of the other Party’s Confidential Information from its computer systems, except for copies that are maintained as
+archive copies on its disaster recovery and/or information technology backup systems, which (1) shall remain subject to the
+Party’s obligations under Section 13, and (2) Parties shall destroy upon the normal expiration of its backup
+files; and
+
+
+ 
+
+
+
+
+
+
+    -12-
+
+
+     
+
+
+    
+
+ 
+
+
+(iii)          certify in writing to the Party that it has complied with the requirements of this clause (including identifying to the other Party
+any Confidential Information maintained as permitted archive copies).
+
+
+ 
+
+
+(e)           Subject to Section 6.5(b), the Party terminating this Agreement, or in the case of the expiration of this Agreement,
+each Party, shall not be liable to the other Party for any damage of any kind (whether direct or indirect) incurred by the other Party
+by reason of the expiration or earlier termination of this Agreement. Termination of this Agreement will not constitute a waiver of any
+of either Party’s rights, remedies or defenses under this Agreement, at law, in equity or otherwise.
+
+
+ 
+
+
+(f)            If this Agreement is terminated by Seller, then Buyer shall have the right to have Seller Supplied Products manufactured and supplied
+by third parties other than Seller; provided, for clarity, that the foregoing shall not be a waiver of any rights, remedies or defenses
+that Seller may have pursuant to the last sentence of Section 6.5(e) if this Agreement is terminated by Seller pursuant to
+Section 6.3(a), 6.3(b), 6.3(c), or 6.3(d) or if Buyer has otherwise breached any other provision of this
+Agreement.
+
+
+ 
+
+
+7.             Certain Obligations of Buyer.
+
+
+ 
+
+
+7.1           Certain Prohibited Acts. Notwithstanding anything to the contrary in this Agreement, neither Buyer nor any Buyer Personnel
+shall:
+
+
+ 
+
+
+(a)           make any representations, warranties, guarantees, indemnities, similar claims, or other commitments (i) actually, apparently or
+ostensibly on behalf of Seller, or (ii) to any customer or other Person with respect to the Seller Supplied Products, which are additional
+to or inconsistent with any then-existing representations, warranties, guarantees, indemnities, similar claims, or other commitments in
+this Agreement or any written documentation provided by Seller to Buyer; or
+
+
+ 
+
+
+(b)           engage in any unfair, competitive, misleading, or deceptive practices respecting Seller, Seller’s Trademarks or the Seller
+Supplied Products, including any product disparagement.
+
+
+ 
+
+
+7.2           Sales or Delivery Outside the Territory. Subject to Buyer obtaining and maintaining all applicable Regulatory Clearances
+pursuant to Section 18.1 and Buyer’s compliance with all such Regulatory Clearances and other applicable Laws (including
+import and export Laws), Buyer may sell, offer to sell, ship or deliver Seller Supplied Products outside of the Territory. Within thirty
+(30) days after each calendar quarter during the Term, Buyer shall provide Seller a written list of countries or other jurisdictions outside
+of the Territory in which Buyer sold, offered for sale, shipped or delivered Seller Supplied Products during such quarter.
+
+
+ 
+
+
+7.3           Government Contracts. In the event Buyer desires to resell Products to any Governmental Authority, Buyer shall be solely
+responsible, at its sole cost and expense, to obtain any and all certifications, credentials, licenses, and permits necessary to resell
+the Products to such Governmental Authority; provided, however, that Seller shall reasonably cooperate with Buyer related to any additional
+requirements under a Purchase Order for a contract with a Governmental Authority, and may charge Buyer for associated costs and expenses
+actually incurred by Seller in order for Seller to maintain a [***]% gross margin on any such Purchase Order (consistent with the pricing
+methodology set forth in Schedule 1). Notwithstanding the foregoing, unless otherwise consented to in writing by Seller (which consent
+shall not be unreasonably withheld), no provisions required in any US government contract or subcontract shall be a part of this Agreement
+or imposed upon or binding upon Seller, and this Agreement shall not be deemed an acceptance of any government provisions that may be
+included or referenced in Buyer’s request for quotation, Purchase Order or any other document.
+
+
+ 
+
+
+
+
+
+
+    -13-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+7.4           Credit
+Risk on Resale of the Seller Supplied Products to Customers. Buyer shall be responsible for all credit risks with respect to, and
+for collecting payment for, all products (including Seller Supplied Products) sold to its customers or other third parties, whether or
+not Buyer has made full payment to Seller for such products. The inability of Buyer to collect the purchase price for any product shall
+not affect Buyer’s obligation to pay Seller for any Seller Supplied Products.
+
+
+ 
+
+
+8.             Compliance with Laws. Parties shall at all times comply with all Laws applicable to this Agreement, Parties’ performance
+of its obligations hereunder, and Buyer’s use or sale of the Seller Supplied Products. Without limiting the generality of the foregoing,
+Buyer shall (a) at its own expense, maintain all certifications, credentials, licenses, and permits necessary to conduct its business
+relating to the purchase, use or resale of the Seller Supplied Products and (b) not engage in any activity or transaction involving
+the Seller Supplied Products, by way of resale, lease, shipment, use or otherwise, that violates any Law. Seller shall (a) at its own
+expense, maintain all certifications, credentials, licenses, and permits necessary to conduct its business relating to the manufacture
+and sale of the Seller Supplied Products and (b) not engage in any activity or transaction involving the Seller Supplied Products, by
+way of manufacturing, lease, shipment, sale or otherwise, that violates any Law.
+
+
+ 
+
+
+9.             Representations and Warranties.
+
+
+ 
+
+
+9.1           Buyer’s Representations and Warranties. Buyer represents and warrants to Seller that:
+
+
+ 
+
+
+(a)           it is a corporation, duly organized, validly existing, and in good standing under the laws of the State of Delaware;
+
+
+ 
+
+
+(b)           it is duly qualified to do business and is in good standing in every jurisdiction in which such qualification is required for purposes
+of this Agreement, except where the failure to be so qualified, in the aggregate, would not reasonably be expected to adversely affect
+its ability to perform its obligations under this Agreement;
+
+
+ 
+
+
+(c)           it has the full right, corporate power and authority to enter into this Agreement and to perform its obligations hereunder;
+
+
+ 
+
+
+(d)           the execution of this Agreement by its Representative whose signature is set forth at the end of this Agreement, and the delivery
+of this Agreement by Buyer, have been duly authorized by all necessary corporate action on the part of Buyer;
+
+
+ 
+
+
+(e)           the execution, delivery, and performance of this Agreement by Buyer will not violate, conflict with, require consent under or result
+in any breach or default under (i) any of Buyer’s organizational documents, (ii) any applicable Law or (iii) with
+or without notice or lapse of time or both, the provisions of any Buyer Contract;
+
+
+ 
+
+
+(f)            this Agreement has been executed and delivered by Buyer and (assuming due authorization, execution, and delivery by Seller) constitutes
+the legal, valid, and binding obligation of Buyer, enforceable against Buyer in accordance with its terms, except as may be limited by
+any applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws and equitable principles related to or affecting creditors’
+rights generally or the effect of general principles of equity;
+
+
+ 
+
+
+(g)           it is in compliance with all applicable Laws relating to this Agreement, the Seller Supplied Products and the operation of its
+business;
+
+
+ 
+
+
+(h)           it has obtained all licenses, authorizations, approvals, consents, or permits required by applicable Laws to conduct its business
+generally and to perform its obligations under this Agreement;
+
+
+ 
+
+
+(i)            the Buyer IP Rights incorporated into the Seller Supplied Products do not and will not violate or infringe upon the Intellectual
+Property Rights of any third party;
+
+
+ 
+
+
+
+
+
+
+    -14-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(j)            good
+or products of Buyer that the Seller Supplied Products may be used in connection with or incorporated as a component part thereof do
+not and will not violate or infringe upon the Intellectual Property Rights of any third party;
+
+
+ 
+
+
+(k)           it is not insolvent and is paying all of its debts as they become due; and
+
+
+ 
+
+
+(l)            all financial information that it has provided to Seller is true and accurate and fairly represents Buyer’s financial condition.
+
+
+ 
+
+
+9.2           Seller’s Representations and Warranties. Seller represents and warrants to Buyer that:
+
+
+ 
+
+
+(a)           it is a corporation, duly organized, validly existing, and in good standing under the laws of the State of Colorado;
+
+
+ 
+
+
+(b)           it is duly qualified to do business and is in good standing in every jurisdiction in which such qualification is required for purposes
+of this Agreement, except where the failure to be so qualified, in the aggregate, would not reasonably be expected to adversely affect
+its ability to perform its obligations under this Agreement;
+
+
+ 
+
+
+(c)           it has the full right, corporate power and authority to enter into this Agreement and to perform its obligations hereunder;
+
+
+ 
+
+
+(d)           the execution of this Agreement by its Representative whose signature is set forth at the end of this Agreement, and the delivery
+of this Agreement by Seller, have been duly authorized by all necessary corporate action on the part of Seller; and
+
+
+ 
+
+
+(e)           the execution, delivery, and performance of this Agreement by Seller will not violate, conflict with, require consent under or
+result in any breach or default under (i) any of Seller’s organizational documents, (ii) any applicable Law or (iii) with
+or without notice or lapse of time or both, the provisions of any Seller Contract;
+
+
+ 
+
+
+(f)            this Agreement has been executed and delivered by Seller and (assuming due authorization, execution, and delivery by Buyer) constitutes
+the legal, valid, and binding obligation of Seller, enforceable against Seller in accordance with its terms, except as may be limited
+by any applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws and equitable principles related to or affecting
+creditors’ rights generally or the effect of general principles of equity;
+
+
+ 
+
+
+(g)           it is in compliance with all applicable Laws and Seller Contracts relating to this Agreement, the Seller Supplied Products and
+the operation of its business;
+
+
+ 
+
+
+(h)           it has obtained all licenses, authorizations, approvals, consents, or permits required by applicable Laws to conduct its business
+generally and to perform its obligations under this Agreement, and is ISO13485 certified, FDA registered, have a quality management system
+and will conduct quality assurance audits; and
+
+
+ 
+
+
+(i)            if any Seller IP Rights are incorporated into the Seller Supplied Products pursuant to Section 12.1, such Seller IP
+Rights will not violate or infringe upon the Intellectual Property Rights of any third party.
+
+
+ 
+
+
+9.3           Product Warranty. Subject to the provisions of Sections 9.4 through 9.7, Seller warrants to Buyer (the
+“Product Warranty”) that:
+
+
+ 
+
+
+(a)           for a period of one (1) year from the date of shipment of a Seller Supplied Product (the “Warranty Period”),
+each Seller Supplied Product will conform to the all of the Specifications for such Seller Supplied Product and will be new, and free
+from defects in material and workmanship; and
+
+
+ 
+
+
+
+
+
+
+    -15-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(b)           Buyer
+will receive good and valid title to all Seller Supplied Products, free and clear of all encumbrances and liens of any kind .
+
+
+ 
+
+
+9.4           Product Warranty Limitations. The Product Warranty does not apply to any Seller Supplied Product that:
+
+
+ 
+
+
+(a)           has been subjected to abuse, misuse, neglect, negligence, accident, improper testing, improper installation, improper storage,
+improper handling, abnormal physical stress, abnormal environmental conditions or use contrary to any instructions issued by Seller;
+
+
+ 
+
+
+(b)           has been reconstructed, repaired, or altered by Persons other than Seller or its authorized Representative; or
+
+
+ 
+
+
+(c)           has been used with any third-party products or hardware (including any Buyer products or hardware) that has not been previously
+approved in writing by Seller.
+
+
+ 
+
+
+9.5           Buyer’s Exclusive Remedy for Defective Products. Notwithstanding any other provision of this Agreement, this Section 9.5
+contains Buyer’s exclusive remedy for Defective Products. During the Warranty Period, with respect to any allegedly Defective Products:
+
+
+ 
+
+
+(a)           Buyer shall notify Seller, in writing, of any alleged claim or defect within five (5) Business Days from the date Buyer discovers,
+or upon reasonable inspection should have discovered, such alleged claim or defect (but in any event before the expiration of the applicable
+Warranty Period);
+
+
+ 
+
+
+(b)           Buyer shall ship, at Buyer’s expense (but subject to potential reimbursement pursuant to subpart (c) below), such allegedly
+Defective Products to a location designated by Seller for inspection and testing by Seller;
+
+
+ 
+
+
+(c)           if Seller’s inspection and testing reveal, to Seller’s reasonable satisfaction, that such Products are Defective and
+any such defect has not been caused or contributed to by any of the factors described under Section 9.4 above, Seller shall
+(i) reimburse Buyer for reasonable shipping costs incurred by Buyer pursuant to foregoing subpart (b), and (ii) in its sole discretion
+and at its expense, repair or replace such Defective Products; and
+
+
+ 
+
+
+(d)           Seller shall ship to Buyer, at Seller’s expense, the repaired or replaced Products to the Delivery Location.
+
+
+ 
+
+
+If Seller’s inspection
+and testing reveal, to Seller’s reasonable satisfaction, that such Products are not Defective, Seller shall return the Products
+to Buyer by shipping the same at Buyer’s expense to the Delivery Location.
+
+
+ 
+
+
+Buyer has no right to return
+for repair, replacement, credit, or refund any Product except as set forth in this Section 9.5 (or if otherwise applicable,
+Section 4.6 or Section 9.8). In no event shall Buyer reconstruct, repair, alter or replace any Product, in whole
+or in part, either itself or by or through any third party.
+
+
+ 
+
+
+EXCEPT AS SET FORTH IN SECTION 10,
+THIS SECTION 9.5 SETS FORTH BUYER’S SOLE REMEDY FOR ANY BREACH OF THE PRODUCT WARRANTY SET FORTH IN SECTION 9.3.
+
+
+ 
+
+
+9.6           DISCLAIMER
+OF OTHER REPRESENTATIONS AND WARRANTIES; NON-RELIANCE. EXCEPT FOR THE EXPRESS REPRESENTATIONS AND WARRANTIES SET FORTH IN SECTION 9.2
+AND THE PRODUCT WARRANTY SET FORTH IN SECTION 9.3, (A) NEITHER SELLER NOR ANY PERSON ON SELLER’S BEHALF HAS
+MADE OR MAKES ANY EXPRESS OR IMPLIED REPRESENTATION OR WARRANTY WHATSOEVER, EITHER ORAL OR WRITTEN, INCLUDING ANY (I) WARRANTY OF
+MERCHANTABILITY OR (II) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, IN EACH CASE WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF
+DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE OR OTHERWISE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED,
+AND (B) BUYER ACKNOWLEDGES THAT IT HAS NOT RELIED UPON ANY REPRESENTATION OR WARRANTY MADE BY SELLER, OR ANY OTHER PERSON ON
+SELLER’S BEHALF, EXCEPT AS SPECIFICALLY PROVIDED IN SECTIONS 9.2 AND 9.3 OF THIS AGREEMENT.
+
+
+ 
+
+
+
+
+
+
+    -16-
+
+
+     
+
+
+    
+
+ 
+
+
+9.7           Withdrawal of Seller Supplied Products. If any Seller Supplied Products sold to Buyer may be Defective, Buyer and Seller
+shall collaborate in good faith in according with applicable industry and agency guidelines to determine if the defect rises to the level
+of requiring a recall. If Buyer and Seller conclude that a recall is required, then Buyer shall withdraw all like Seller Supplied Products
+from resale and, at Seller’s option, either return such Seller Supplied Products to Seller (pursuant to the terms of Section 9.5(b))
+or destroy the Seller Supplied Products and provide Seller with written certification of such destruction. Notwithstanding the limitations
+of Section 9.5, if Buyer returns all withdrawn Seller Supplied Products or destroys all withdrawn Seller Supplied Products
+and provides Seller with written certification of such destruction within a reasonable time period following Seller’s withdrawal
+request, in either case, consistent with Seller’s instructions, unless any such defect has been caused or contributed to by any
+of the factors described under Section 9.4, Seller shall (a) repair or replace all such returned Seller Supplied Products
+or (b) replace such destroyed Seller Supplied Products, in either case, pursuant to the terms of Section 9.5(d). EXCEPT
+AS SET FORTH IN SECTION 10, THIS SECTION 9.7 SETS FORTH BUYER’S SOLE REMEDY FOR ANY SELLER SUPPLIED PRODUCTS
+THAT ARE WITHDRAWN PURSUANT TO THIS SECTION 9.7.
+
+
+ 
+
+
+9.8           DISCLAIMER CONCERNING SOURCED PRODUCTS. WITHOUT LIMITATION OF ANY OTHER PROVISION OF THIS AGREEMENT, NEITHER SELLER NOR
+ANY PERSON ON SELLER’S BEHALF HAS MADE OR MAKES ANY EXPRESS OR IMPLIED REPRESENTATION OR WARRANTY WHATSOEVER, EITHER ORAL OR WRITTEN,
+WITH RESPECT TO THE SOURCED PRODUCTS, INCLUDING ANY (I) WARRANTY OF MERCHANTABILITY; (II) WARRANTY OF FITNESS FOR A PARTICULAR
+PURPOSE; (III) WARRANTY OF TITLE; OR (IV) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY, IN
+EACH CASE WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE OR OTHERWISE, ALL OF WHICH ARE EXPRESSLY
+DISCLAIMED. IN NO EVENT SHALL SELLER BE LIABLE FOR ANY LOSSES OF ANY KIND OR NATURE, INCLUDING DIRECT, CONSEQUENTIAL, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIMINUTION IN VALUE, DIRECTLY OR INDIRECTLY ARISING OUT
+OF, RELATING TO, OR IN CONNECTION WITH ANY SOURCED PRODUCTS. BUYER’S SOLE RECOURSE AND REMEDY WITH RESPECT TO SOURCED PRODUCTS SHALL
+BE SUCH WARRANTIES, IF ANY, AS ARE PROVIDED BY THE MANUFACTURER OR SUPPLIER OF THE SOURCED PRODUCTS.
+
+
+ 
+
+
+10.           Indemnification.
+
+
+ 
+
+
+10.1         Indemnification. Subject to the terms and conditions of this Agreement, including those set forth in Section 10.2,
+each Party (as “Indemnifying Party”) shall indemnify, defend and hold harmless the other Party and its Representatives
+and Affiliates, officers, and directors (collectively, “Indemnified Party”) from and against any and all losses, damages,
+liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever
+kind, including reasonable attorneys’ fees, fees and the costs of enforcing any right to indemnification under this Agreement and
+the cost of pursuing any insurance providers (collectively, “Losses”), awarded against Indemnified Party in a final
+non-appealable judgment arising out of or resulting from any third-party Claim alleging:
+
+
+ 
+
+
+(a)           a material breach or non-fulfillment of any representation, warranty or covenant of this Agreement by Indemnifying Party or Indemnifying
+Party’s Personnel;
+
+
+ 
+
+
+
+
+
+
+    -17-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(b)           any
+negligent or more culpable act or omission of Indemnifying Party or its Personnel (including any recklessness or willful misconduct)
+in connection with the performance of this Agreement;
+
+
+ 
+
+
+(c)           any bodily injury, death of any Person or damage to real or tangible personal property caused by either (i) the negligent
+acts or omissions of Indemnifying Party or its Personnel, (ii) a material breach or non-fulfillment of any representation, warranty
+or covenant of this Agreement by Indemnifying Party or Indemnifying Party’s Personnel, or (iii) solely as to Buyer as the Indemnifying
+Party, any repairs to the Product made by Buyer pursuant to Section 2.6;
+
+
+ 
+
+
+(d)           any failure by Indemnifying Party or its Personnel to materially comply with any applicable Laws; or
+
+
+ 
+
+
+(e)           solely as to Buyer as the Indemnifying Party, any failure to comply with any Regulatory Clearances or other applicable Laws concerning
+the sale, offer for sale, shipment or delivery of Seller Supplied Products outside of the Territory pursuant to Section 7.2.
+
+
+ 
+
+
+10.2         Exceptions and Limitations on Indemnification. Notwithstanding anything to the contrary in this Agreement, an Indemnifying
+Party is not obligated to indemnify or defend (if applicable) an Indemnified Party against any Claim if such Claim or corresponding Losses
+if and to the extent arising out of or result from, in whole or in part, the Indemnified Party’s or its Personnel’s:
+
+
+ 
+
+
+(a)           negligence or more culpable act or omission (including recklessness or willful misconduct);
+
+
+ 
+
+
+(b)           a material breach or non-fulfillment of any representation, warranty or covenant of this Agreement by Indemnified Party or Indemnified
+Party’s Personnel;
+
+
+ 
+
+
+(c)           as to any obligation of Seller under Section 10.1, use of the Seller Supplied Products in any manner not otherwise
+authorized under this Agreement or that does not materially conform with any usage instructions, guidelines or specifications provided
+by Seller,
+
+
+ 
+
+
+(d)           as to any obligation of Seller under Section 10.1 arising out of or result from, in whole or in part, alleged infringement
+of any third parties Intellectual Property Rights, (i) use of the Seller Supplied Products in combination with any products, materials
+or equipment supplied by any Person (including self-manufactured by Buyer) other than Seller or its authorized Representatives, if the
+infringement would have been avoided by the use of the Seller Supplied Products not so combined, (ii) any modifications or changes
+made to the Seller Supplied Products by or on behalf of any Person other than Seller or its Representatives, if the infringement would
+have been avoided without such modification or change, (iii) products (including Seller Supplied Products), goods, or assemblies
+designed by Buyer, or (iv) products, goods, or assemblies manufactured by any Person (including Buyer) other than Seller and its
+Representatives.
+
+
+ 
+
+
+10.3         Buyer Sourced Product Indemnification. Buyer shall indemnify, defend and hold harmless Seller and its Representatives and
+Affiliates from and against any and all alleged or actual Losses in contravention of Section 9.8 or otherwise to the extent
+arising out of, resulting from or related to any Sourced Products.
+
+
+ 
+
+
+10.4         EXCLUSIVE REMEDY. THIS SECTION 10 SETS FORTH THE ENTIRE LIABILITY AND OBLIGATION OF EACH INDEMNIFYING PARTY
+AND THE SOLE AND EXCLUSIVE REMEDY FOR EACH INDEMNIFIED PARTY FOR ANY DAMAGES COVERED BY THIS SECTION 10.
+
+
+ 
+
+
+
+
+
+
+    -18-
+
+
+     
+
+
+    
+
+ 
+
+
+11.           Limitation of Liability.
+
+
+ 
+
+
+11.1         NO
+LIABILITY FOR CONSEQUENTIAL OR INDIRECT DAMAGES. EXCEPT FOR OBLIGATIONS TO MAKE PAYMENT UNDER THIS AGREEMENT, LIABILITY FOR
+INDEMNIFICATION, LIABILITY FOR BREACH OF CONFIDENTIALITY, LIABILITY FOR INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY’S
+INTELLECTUAL PROPERTY RIGHTS, OR LIABILITY RESULTING FROM THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF A PARTY, IN NO EVENT SHALL
+EITHER PARTY OR THEIR RESPECTIVE REPRESENTATIVES BE LIABLE FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR
+ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIMINUTION IN VALUE, ARISING OUT OF OR RELATING TO ANY BREACH OF THIS AGREEMENT,
+REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, (B) WHETHER OR NOT THE OTHER PARTY WAS ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES AND (C) THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED, AND
+NOTWITHSTANDING THE FAILURE OF ANY AGREED OR OTHER REMEDY OF ITS ESSENTIAL PURPOSE.
+
+
+ 
+
+
+11.2         MAXIMUM LIABILITY FOR DAMAGES. EXCEPT FOR LIABILITY FOR INDEMNIFICATION, LIABILITY FOR BREACH OF CONFIDENTIALITY, OR LIABILITY
+FOR INFRINGEMENT OR MISAPPROPRIATION OF A PARTY’S INTELLECTUAL PROPERTY RIGHTS, OR LIABILITY RESULTING FROM THE GROSS NEGLIGENCE
+OR WILLFUL MISCONDUCT OF THE PARTY, IN NO EVENT SHALL EITHER PARTY’S AND ITS REPRESENTATIVES’ AGGREGATE LIABILITY ARISING
+OUT OF OR RELATED TO THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE,
+EXCEED THE TOTAL OF THE AMOUNTS PAID TO SELLER PURSUANT TO THIS AGREEMENT DURING THE ONE-YEAR PERIOD PRECEDING THE EVENT GIVING RISE TO
+THE CLAIM.
+
+
+ 
+
+
+12.           Intellectual Property Rights.
+
+
+ 
+
+
+12.1         Seller Supplied Product Intellectual Property. As of the Effective Date, the Parties agree that the designs and Specifications
+for the Seller Supplied Products consist entirely of Buyer IP Rights and anticipate that Seller can manufacture and supply the Seller
+Supplied Products to Buyer without incorporating any Seller IP Rights. If subsequent to the Effective Date a new or additional design
+or Specification is added to any Seller Supplied Products at Buyer’s request, and Seller determines that such new or additional
+design or Specification does not require the incorporation of any Seller IP Rights, then such design or Specification shall constitute
+Project-Related Buyer IP Rights. Alternatively, if Seller determines that any new or additional design or Specification requested by Buyer
+does require the incorporation of any Seller IP Rights, then Seller shall notify Buyer in writing and not incorporate any Seller IP Rights
+into any Seller Supplied Products without Buyer’s written consent (provided, that any Seller IP Rights incorporated into any Seller
+Supplied Products with Buyer’s written consent shall remain the sole and exclusive property of Seller, subject only to the license
+granted to Buyer pursuant to Section 12.4(a). The cost impact (if any) of any new or additional design or Specification to
+any Seller Supplied Products will be submitted in writing by Seller to Buyer and must be approved by Buyer before the new or additional
+design or Specification is implemented by Seller.
+
+
+ 
+
+
+12.2         Sourced Product Intellectual Property. The design, development, manufacture and supply of Sourced Products shall be negotiated
+and agreed to between Buyer and the manufacturer or supplier to such Sourced Products. As such, the Intellectual Property Rights associated
+with Sourced Products are outside of the scope of this Agreement.
+
+
+ 
+
+
+12.3         Ownership.
+
+
+ 
+
+
+(a)           Seller IP Rights are the sole and exclusive property of Seller and, except for the limited license granted to Buyer under Section 12.2(a),
+nothing in this Agreement shall be interpreted to provide for the license, transfer, or assignment, in whole or in part, by Seller to
+Buyer of any Seller IP Rights.
+
+
+ 
+
+
+
+
+
+
+    -19-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(b)           Buyer
+IP Rights are the sole and exclusive property of Buyer and, except for the limited license granted to Seller under Section 12.2(b),
+nothing in this Agreement shall be interpreted to provide for the license, transfer, or assignment, in whole or in part, by Buyer to
+Seller of any Buyer IP Rights.
+
+
+ 
+
+
+12.4         IP Licenses.
+
+
+ 
+
+
+(a)           If any Seller IP Rights are incorporated into any Seller Supplied Products pursuant to Section 12.1, Seller hereby
+grants to Buyer a limited, non-exclusive, irrevocable, perpetual, nontransferable except as pursuant to Section 19.13, worldwide
+license to such Seller IP Rights as necessary and for the sole purpose of Buyer promoting, selling, or otherwise distributing the Seller
+Supplied Products in accordance with the terms of this Agreement, but solely to the extent such Seller Supplied Products are manufactured
+by Seller pursuant to this Agreement.
+
+
+ 
+
+
+(b)           Buyer hereby grants to Seller a limited, non-exclusive, nontransferable license to the Buyer IP Rights related to the Seller Supplied
+Products solely to the extent necessary for Seller to perform its obligations under this Agreement.
+
+
+ 
+
+
+12.5         Prohibited Acts. Neither Party shall:
+
+
+ 
+
+
+(a)           take any action that interferes or could interfere with any of the other Party’s rights in or to its Intellectual Property
+Rights, including such Party’s ownership or exercise thereof;
+
+
+ 
+
+
+(b)           challenge any right, title, or interest of the other Party in or to its Intellectual Property Rights;
+
+
+ 
+
+
+(c)           make any claim or take any action adverse to the other Party’s ownership of its Intellectual Property Rights;
+
+
+ 
+
+
+(d)           register or apply for registrations for, anywhere in the world, or use the other Party’s Trademarks or any other Trademark
+that is confusingly similar to the other Party’s Trademarks or that incorporates the other Party’s Trademarks in whole or
+in confusingly similar part;
+
+
+ 
+
+
+(e)           misappropriate any of the other Party’s Intellectual Property Rights; or
+
+
+ 
+
+
+(f)            engage in any action that tends to disparage, dilute the value of, or reflect negatively on the other Party or any of the other
+Party’s Trademarks.
+
+
+ 
+
+
+In addition, Buyer shall
+not:
+
+
+ 
+
+
+(g)           alter, obscure, or remove any of Seller’s Trademarks or trademark or copyright notices or any other proprietary rights notices
+placed on the Seller Supplied Products, marketing materials, or other materials that Seller may provide; or
+
+
+ 
+
+
+(h)           reverse engineer, disassemble, decompile, or design around the Seller Supplied Products or Seller’s Intellectual Property
+Rights.
+
+
+ 
+
+
+In addition, Seller
+shall not:
+
+
+ 
+
+
+(i)            reverse engineer, disassemble, decompile, or design around the Seller Supplied Products or Buyer IP Rights.
+
+
+ 
+
+
+
+
+
+
+    -20-
+
+
+     
+
+
+    
+
+ 
+
+
+13.           Confidentiality.
+
+
+ 
+
+
+13.1         Scope
+of Confidential Information. From time to time during the Term, either Party (as the “Disclosing Party”) may
+disclose or make available to the other Party (as the “Receiving Party”) information about its business affairs,
+goods and services, confidential information and materials comprising or relating to Intellectual Property Rights, trade secrets,
+third-party confidential information, and other sensitive or proprietary information. Such information, as well as the terms of this
+Agreement, whether orally or in written, electronic or other form or media, and whether or not marked, designated or otherwise
+identified as “confidential,” is collectively referred to as “Confidential Information” hereunder.
+Notwithstanding the foregoing, Confidential Information does not include information that at the time of disclosure as established
+by documentary evidence:
+
+
+ 
+
+
+(a)           is or becomes generally available to and known by the public other than as a result of, directly or indirectly, any breach of this
+Section 13 by the Receiving Party or any of its Representatives;
+
+
+ 
+
+
+(b)           is or becomes available to the Receiving Party on a non-confidential basis from a third-party source, provided that such third
+party is not and was not prohibited from disclosing such Confidential Information;
+
+
+ 
+
+
+(c)           was known by or in the possession of the Receiving Party or its Representatives prior to being disclosed by or on behalf of the
+Disclosing Party;
+
+
+ 
+
+
+(d)           was or is independently developed by the Receiving Party without reference to or use of, in whole or in part, any of the Disclosing
+Party’s Confidential Information; or
+
+
+ 
+
+
+(e)           subject to compliance with Section 13.3, is required to be disclosed pursuant to applicable Law.
+
+
+ 
+
+
+13.2         Protection of Confidential Information. During the Term and at all times thereafter, the Receiving Party shall:
+
+
+ 
+
+
+(a)           protect and safeguard the confidentiality of the Disclosing Party’s Confidential Information with at least the same degree
+of care as the Receiving Party would protect its own Confidential Information, but in no event with less than a commercially reasonable
+degree of care;
+
+
+ 
+
+
+(b)           not use the Disclosing Party’s Confidential Information, or permit it to be accessed or used, for any purpose other than
+to exercise its rights or perform its obligations under this Agreement; and
+
+
+ 
+
+
+(c)           not disclose any such Confidential Information to any Person, except to the Receiving Party’s Representatives who need to
+know the Confidential Information to assist the Receiving Party, or act on its behalf, to exercise its rights or perform its obligations
+under this Agreement and who are bound by obligations of non-use and confidentiality at least as restrictive as set forth in this Section 13.
+
+
+ 
+
+
+The Receiving Party shall
+be responsible for any breach of this Section 13 caused by any of its Representatives.
+
+
+ 
+
+
+13.3         Disclosure
+Required by Law. If the Receiving Party or its Representatives are requested, under the terms of a subpoena, order, or other
+compulsory instrument issued by or under the authority of a court of competent jurisdiction or by a governmental agency, or
+otherwise required by applicable Law (including pursuant to the rules and regulations of the SEC (on non-U.S. equivalent) or of any
+stock exchange or quotation system upon which any securities of the Receiving Party or the Receiving Party’s parent company
+are listed or quoted), to disclose (a) all or any part of the Confidential Information, (b) the fact that the Confidential
+Information has been made available to the Receiving Party or its Representatives, or (c) any of the terms, conditions, or
+other facts with respect to this Agreement or any business relationship between the Parties, it is agreed that the Receiving Party
+or its Representatives, as the case may be, will, to the extent not prohibited by applicable Law: (i) provide the Disclosing
+Party with prompt written notice of the existence, terms, and circumstances surrounding such request or requirement;
+(ii) consult with the Disclosing Party on the advisability of taking steps to resist or narrow any such request; (iii) if
+disclosure of Confidential Information is required, furnish only such portion of the Confidential Information as the Receiving Party
+is advised in writing by the Receiving Party’s counsel is legally required to be disclosed; and (iv) cooperate with the
+Disclosing Party, at the request of the Disclosing Party and at the Disclosing Party’s expense, in its efforts to obtain an
+order excusing the Confidential Information from disclosure, or an order or other reliable assurance that confidential treatment
+will be accorded to that portion of the Confidential Information that is required to be disclosed.
+
+
+ 
+
+
+
+
+
+
+    -21-
+
+
+     
+
+
+    
+
+ 
+
+
+13.4         Return of Confidential Information. On the expiration or termination of this Agreement, or earlier at the Disclosing Party’s
+written request, the Receiving Party and its Representatives shall promptly return to the Disclosing Party or, if of a type or format
+incapable of being returned, destroy or permanently erase (including from its computer(s) and communications systems and devices or from
+systems and data storage services provided by third parties) all originals and copies of any documents and materials, whether in written,
+electronic, or other form or media, that contain, reflect or incorporate any Confidential Information of the Disclosing Party. Notwithstanding
+the foregoing, the Receiving Party and its Representatives may retain copies of Confidential Information (a) to the extent required
+by applicable Law, provided that such copies are only accessible to Personnel of the Receiving Party or its Representatives who require
+access to such Confidential Information in order to comply with applicable Law; (b) at the office of its outside legal counsel, which
+copies may only be used or referenced by such outside legal counsel as a means of determining the Receiving Party’s or its Representatives’
+compliance with and continuing obligations under this Section 13, or (c) such copies as are created pursuant to automatic
+archiving and back up procedures until the reasonable ordinary course deletion thereof, provided, however, that any such Confidential
+Information so retained shall be held in compliance with the terms of this Agreement.
+
+
+ 
+
+
+14.           Tooling. All Tooling used to manufacture the Seller Supplied Products is owned by Seller (“Seller Tooling”).
+Buyer has no right, title, or interest in or to any of the Seller Tooling.
+
+
+ 
+
+
+15.           Development and Engineering Services. Seller shall be Buyer’s exclusive provider of development and engineering services
+for all Seller Supplied Products (other than Research Prototypes), and Buyer shall not seek or receive development or engineering services
+from any other Person without the prior written consent of Seller. All development and engineering services provided to Buyer by Seller
+shall be billed on a time and materials basis at Seller’s then-current rates for such services.
+
+
+ 
+
+
+16.           Access and Audit Rights. Each Party (in such capacity, the “Audited Party”) hereby grants the other Party
+(in such capacity, the “Auditing Party”) the right to inspect such books and records of the Audited Party as may be
+reasonably necessary for the Auditing Party to confirm the Audited Party’s compliance with the representations, warranties and covenants
+of this Agreement to which it is subject. Any such inspection shall take place during the Audited Party’s regular business hours
+and be conducted in a manner that does not unreasonably interfere with the Audited Party’s business operations. Each Party shall
+maintain all pertinent books and records for a period of five (5) years after expiration or termination of this Agreement. The Audited
+Party shall also cooperate with the Auditing Party with respect to all reasonable requests of the Auditing Party relating to the foregoing
+inspection rights; provided that any inspection may take place no more frequently than semi-annually. If any inspection reveals an error
+or irregularity in the amounts paid to or by either Party under this Agreement, an appropriate adjustment shall be made and shall be payable
+to the appropriate Party within thirty (30) days of the Parties’ agreement as to such error or irregularity. Any alleged error or
+irregularity as to which the Parties are unable to reach agreement is subject to Section 19.16.
+
+
+ 
+
+
+17.           Insurance. During the Term and for a period of three (3) years thereafter, each Party shall, at its own expense, (a) maintain
+and carry in full force and effect commercial general liability insurance (including product liability coverage) with financially sound
+and reputable insurers with a per-occurrence limit of at least $1,000,000 and an annual aggregate limit of at least $5,000,000, which
+shall name the other Party as an additional insured, and (b) upon the other Party’s reasonable request, shall provide such
+other Party with a certificate of insurance evidencing the insurance coverage required by this Section 16.
+
+
+ 
+
+
+
+
+
+
+    -22-
+
+
+     
+
+
+    
+
+ 
+
+
+18.           Regulatory.
+
+
+ 
+
+
+
+
+
+18.1         Regulatory
+Clearances. Seller shall be responsible for the application for and maintenance of Regulatory Clearances for the Seller Supplied
+Products in the Territory, including having responsibility for all communications, submissions and interactions with the Regulatory Authorities
+for the purpose of obtaining and maintaining Regulatory Clearances for the Seller Supplied Products in the Territory. Buyer shall be
+responsible, at its sole cost and expense, for the application for and maintenance of Regulatory Clearances for the Seller Supplied Products
+outside of the Territory, including having responsibility for all communications, submissions and interactions with the Regulatory Authorities
+for the purpose of obtaining and maintaining Regulatory Clearances for the Seller Supplied Products outside of the Territory.
+
+
+ 
+
+
+18.2         Regulatory Authority Action. If either Party receives notice of an audit, inspection, investigation, inquiry, import or
+export ban, product seizure, enforcement proceeding or similar action by a Regulatory Authority with respect to any Seller Supplied Product
+or a Party’s activities in connection with any Seller Supplied Product, it will notify the other Party as soon as reasonably practicable,
+but in any event within two (2) Business Days after its receipt of notice of the action and will thereafter deliver to the other Party
+copies of all relevant documents received from the Regulatory Authority within one (1) Business Day of receipt. The Parties shall cooperate
+in response to the action, including providing information and documentation as requested by the Regulatory Authority; provided, however,
+that each Party shall only furnish such Confidential Information of the other Party in compliance with Section 13.3. Except
+as otherwise required by applicable Law or the applicable Regulatory Authority, if the action primarily concerns the activities of Buyer
+or its Affiliates or Personnel, then Buyer shall have primary responsibility to respond to the Regulatory Authority and will bear all
+costs in connection therewith, and if the action primarily concerns the activities of Seller or its Affiliates or Personnel, then Seller
+shall have primary responsibility to respond to the Regulatory Authority and will bear all costs in connection therewith. In either case,
+upon reasonable request of the responding Party, the other Party shall provide consulting advice and assistance with the response.
+
+
+ 
+
+
+19.           Miscellaneous.
+
+
+ 
+
+
+19.1         Further Assurances. Upon either Party’s reasonable request, the other Party shall, at the requesting Party’s
+sole cost and expense (unless the financial obligation therefor is otherwise allocated to the other Party pursuant to another provisions
+of this Agreement), execute and deliver all such further documents and instruments, and take all such further acts, necessary to give
+full effect to this Agreement.
+
+
+ 
+
+
+19.2         Relationship of the Parties. The relationship between Seller and Buyer is solely that of vendor and vendee, and they are
+independent contracting parties. Nothing in this Agreement creates any agency, joint venture, partnership, or other form of joint enterprise,
+employment, or fiduciary relationship between the Parties. Neither Party has any express or implied right or authority to assume or create
+any obligations on behalf of or in the name of the other Party or to bind the other Party to any contract, agreement, or undertaking with
+any third party.
+
+
+ 
+
+
+19.3         Entire Agreement. This Agreement, including and together with the Basic Purchase Order Terms and any related exhibits and
+schedules, constitutes the sole and entire agreement of the Parties with respect to the subject matter contained herein and therein and
+supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect
+to such subject matter.
+
+
+ 
+
+
+19.4         Survival; Statute of Limitations. Subject to the limitations and other provisions of this Agreement: (a) the representations
+and warranties of the Parties contained herein will survive the expiration or termination of this Agreement for a period of three (3)
+years after such expiration or termination; and (b) the covenants and agreements in Sections 2.4, 4.6, 4.7,
+5.2, 5.5, 5.6, 5.7, 5.8, 6.5, and 7 through 19 (inclusive), as well as any other
+covenant and agreement that, in order to give proper effect to its intent, should survive such expiration or termination, will survive
+the expiration or earlier termination of this Agreement indefinitely.
+
+
+ 
+
+
+
+
+
+
+    -23-
+
+
+     
+
+
+    
+
+ 
+
+
+19.5         Notices.
+All notices, requests, consents, claims, demands, waivers, and other communications under this Agreement (each, a “Notice”)
+must be in writing and addressed to the other Party at its address set forth below (or to such other address that the receiving Party
+may designate from time to time in accordance with this Section 19.5). Unless another provision of this Agreement expressly
+permits delivery of a Notice by e-mail, all Notices must be delivered by personal delivery or sent by nationally recognized overnight
+courier. Except as otherwise expressly provided by another provision this Agreement, a Notice is effective (a) on receipt by the
+receiving Party if personally delivered, or (b) on the first Business Day after being sent by overnight courier.
+
+
+ 
+
+
+
+  
+    Notice to Seller:
+    
+    Pro-Dex, Inc.
+
+    2361 McGaw Ave.
+
+    Irvine, CA 92614
+
+    Attn: President
+
+
+  
+     
+     
+
+  
+    Notice to Buyer:
+    
+    Monogram Orthopaedics Inc.
+
+    3913 Todd Lane, Suite 307
+
+    Austin, TX 78744
+
+    Attn: President
+
+
+  
+ 
+
+
+19.6         Interpretation. For purposes of this Agreement: (a) the words “include,” “includes”
+and “including” are deemed to be followed by the words “without limitation”; (b) the word “or”
+is not exclusive; (c) the words “herein,” “hereof,” “hereby,” “hereto”
+and “hereunder” refer to this Agreement as a whole; (d) words denoting the singular have a comparable meaning
+when used in the plural, and vice-versa; and (e) words denoting any gender include all genders. Unless the context otherwise requires,
+references in this Agreement: (x) to sections, exhibits, schedules, attachments, and appendices mean the sections of, and exhibits,
+schedules, attachments and appendices attached to, this Agreement; (y) to an agreement, instrument or other document means such agreement,
+instrument or other document as amended, supplemented and modified from time to time to the extent permitted by the provisions thereof;
+and (z) to a statute means such statute as amended from time to time and includes any successor legislation thereto and any regulations
+promulgated thereunder. The Parties drafted this Agreement without regard to any presumption or rule requiring construction or interpretation
+against the Party drafting an instrument or causing any instrument to be drafted. The exhibits, schedules, attachments, and appendices
+referred to herein are an integral part of this Agreement to the same extent as if they were set forth verbatim herein.
+
+
+ 
+
+
+19.7         Headings. The headings in this Agreement are for reference only and do not affect the interpretation of this Agreement.
+
+
+ 
+
+
+19.8         Severability. If any term or provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction, such
+invalidity, illegality or unenforceability does not affect any other term or provision of this Agreement or invalidate or render unenforceable
+such term or provision in any other jurisdiction. Upon a determination that any term or provision is invalid, illegal or unenforceable,
+the court shall, to the extent permitted by applicable Law, modify this Agreement to effect the original intent of the Parties as closely
+as possible in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.
+
+
+ 
+
+
+19.9         Amendment and Modification. No amendment or modification of this Agreement is effective unless it is in writing, identified
+as an amendment or modification of this Agreement, and signed by each Party.
+
+
+ 
+
+
+19.10       Waiver.
+
+
+ 
+
+
+(a)           No waiver under this Agreement is effective unless it is in writing, identified as a waiver to this Agreement, and signed by the
+Party against whom such waiver is sought to be enforced.
+
+
+ 
+
+
+
+
+
+
+    -24-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+(b)           Any
+waiver authorized on one occasion is effective only in that instance and only for the purpose stated, and does not operate as a waiver
+on any future occasion.
+
+
+ 
+
+
+(c)           None of the following constitutes a waiver or estoppel of any right, remedy, power, privilege, or condition arising from this Agreement:
+
+
+ 
+
+
+(i)            any failure or delay in exercising any right, remedy, power or privilege or in enforcing any condition under this Agreement; or
+
+
+ 
+
+
+(ii)           any act, omission, or course of dealing between the Parties.
+
+
+ 
+
+
+19.11       Cumulative Remedies. All rights and remedies provided in this Agreement are cumulative and not exclusive, and the exercise
+by either Party of any right or remedy does not preclude the exercise of any other rights or remedies that may now or subsequently be
+available at law, in equity, by statute, in any other agreement between the Parties or otherwise. Notwithstanding the previous sentence,
+the Parties intend that Buyer’s rights under Section 4.4, Section 4.6, Section 9.5, and each
+of the Parties’ rights under Section 10 are such Party’s exclusive remedies for the events specified therein.
+
+
+ 
+
+
+19.12       Equitable Remedies. Each Party acknowledges and agrees that (a) a breach or threatened breach by such Party of any
+of its obligations under Section 12 or Section 13 would give rise to irreparable harm to the other Party for which
+monetary damages would not be an adequate remedy and (b) in the event of a breach or a threatened breach by such Party of any such
+obligations, the other Party shall, in addition to any and all other rights and remedies that may be available to such Party at law, at
+equity or otherwise in respect of such breach, be entitled to equitable relief, including a temporary restraining order, an injunction,
+specific performance and any other relief that may be available from a court of competent jurisdiction, without any requirement to post
+a bond or other security, and without any requirement to prove actual damages or that monetary damages will not afford an adequate remedy.
+Each Party agrees that such Party will not oppose or otherwise challenge the appropriateness of equitable relief or the entry by a court
+of competent jurisdiction of an order granting equitable relief, in either case, consistent with the terms of this Section 19.12.
+
+
+ 
+
+
+19.13       Assignment. Neither Party may assign any of its rights or delegate any of its obligations under this Agreement without the
+prior written consent of the other Party (which consent shall not be unreasonably withheld); provided, however, that a Party may assign
+any of its rights or delegate any of its obligations without the need for the consent of the other Party if such assignment or delegation
+is to an Affiliate or to any Person acquiring all or substantially all of the Party’s assets, subject to compliance with the last
+sentence of this Section 19.13. Any purported assignment or delegation in violation of this Section 19.13 is null
+and void. No assignment or delegation relieves the assigning or delegating Party of any of its obligations under this Agreement. Notwithstanding
+anything in this Agreement to the contrary, a Party shall not engage in a Sale Transaction or a sale or transfer of all or substantially
+all of its assets unless the acquiring or surviving entity (as applicable) expressly assumes the Party’s obligations under this
+Agreement by a written instrument in form and substance satisfactory to the other Party’s discretion. An example of an acceptable
+written instrument is attached to this Agreement as Exhibit B.
+
+
+ 
+
+
+19.14       Successors and Assigns. This Agreement is binding on and inures to the benefit of the Parties and their respective permitted
+successors and permitted assigns.
+
+
+ 
+
+
+19.15       No Third-Party Beneficiaries. Except as expressly set forth in the second sentence of this Section 19.15, this
+Agreement benefits solely the parties to this Agreement and their respective permitted successors and permitted assigns, and nothing in
+this Agreement, express or implied, confers on any other Person any legal or equitable right, benefit or remedy of any nature whatsoever
+under or by reason of this Agreement. The Parties hereby designate each Indemnified Party as a third-party beneficiary of Section 10,
+having the right to enforce such Section.
+
+
+ 
+
+
+
+
+
+
+    -25-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+19.16       Dispute
+Resolution. Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination or invalidity
+hereof (each, a “Dispute”), shall be submitted for negotiation and resolution to the President of Seller (or to such
+other person of equivalent or superior position designated by Seller in a written Notice to Buyer) and the President of Buyer (or to
+such other person of equivalent or superior position designated by Buyer in a written Notice to Seller), by delivery of written Notice
+(each, a “Dispute Notice”) from either of the Parties to the other Party. Such persons shall negotiate in good faith
+to resolve the Dispute. If the Parties are unable to resolve any Dispute within thirty (30) days after delivery of the applicable Dispute
+Notice, either Party may file suit in a court of competent jurisdiction in accordance with the provisions of Section 19.18.
+
+
+ 
+
+
+19.17       Governing Law. This Agreement, including all exhibits, schedules, attachments and appendices attached hereto and thereto,
+and all matters arising out of or relating to this Agreement, are governed by and construed in accordance with, the Laws of the State
+of California, United States of America, without regard to the conflict of laws provisions thereof. The Parties agree that the United
+Nations Convention on Contracts for the International Sale of Products does not apply to this Agreement.
+
+
+ 
+
+
+19.18       Choice of Forum. Each Party irrevocably and unconditionally agrees that it shall not commence any action, litigation or
+proceeding of any kind whatsoever against the other Party in any way arising from or relating to this Agreement, including all exhibits,
+schedules, attachments and appendices attached hereto and thereto, and all contemplated transactions, including contract, equity, tort,
+fraud, and statutory claims, in any forum other than the state and federal courts located in Orange County, California, and any appellate
+courts from any thereof. Each Party irrevocably and unconditionally submits to the exclusive jurisdiction and venue of such courts. Each
+Party agrees that a final judgment in any such action, litigation, or proceeding is conclusive and may be enforced in other jurisdictions
+by suit on the judgment or in any other manner provided by Law.
+
+
+ 
+
+
+19.19       Counterparts. This Agreement may be executed in counterparts, each of which is deemed an original, but all of which together
+are deemed to be one and the same agreement. A signed copy of this Agreement delivered by facsimile, e-mail, or other means of electronic
+transmission is deemed to have the same legal effect as delivery of an original signed copy of this Agreement.
+
+
+ 
+
+
+19.20       Force Majeure. No Party shall be liable or responsible to the other Party, or be deemed to have defaulted under or breached
+this Agreement, for any failure or delay in fulfilling or performing any term of this Agreement (except for any obligations of Buyer to
+make payments to Seller hereunder), when and to the extent such failure or delay is caused by or results from acts beyond the impacted
+party’s (“Impacted Party”) reasonable control, including the following force majeure events (“Force
+Majeure Event(s)”): (a) acts of God; (b) flood, fire, earthquake, or explosion; (c) epidemic or pandemic (including
+COVID-19), (d) war, invasion, hostilities (whether war is declared or not), terrorist threats or acts, riot or other civil unrest;
+(e) government order, law, or actions; (f) embargoes or blockades in effect on or after the date of this Agreement; (g) national
+or regional emergency; (h) strikes, labor stoppages or slowdowns, or other industrial disturbances; (i) telecommunication breakdowns,
+power outages or shortages, inadequate transportation services, or inability or delay in obtaining supplies of adequate or suitable materials;
+and (j) other similar events beyond the reasonable control of the Impacted Party. The Impacted Party shall give notice within five
+(5) Business Days of the Force Majeure Event to the other Party, stating the period of time the occurrence is expected to continue. To
+the extent within the Impacted Party’s control, the Impacted Party shall use diligent efforts to end the failure or delay and help
+ensure the effects of such Force Majeure Event are minimized. The Impacted Party shall resume the performance of its obligations as soon
+as reasonably practicable after the removal of the cause.
+
+
+ 
+
+
+
+
+
+
+    -26-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+19.21       No
+Public Announcements or Trademark Use. Unless expressly permitted under this Agreement, neither Party shall:
+
+
+ 
+
+
+(a)           make any statement (whether oral or in writing) in any press release, external advertising, marketing, or promotion materials regarding
+the subject matter of this Agreement or the other Party unless:
+
+
+ 
+
+
+(i)            it has received the express written consent of the other Party, or
+
+
+ 
+
+
+(ii)           it is required to do so by applicable Law; or
+
+
+ 
+
+
+(b)           use the other Party’s Trademarks, service marks, trade names, logos, symbols or brand names, in each case, without the prior
+written consent of the other Party.
+
+
+ 
+
+
+[signature page follows]
+
+
+ 
+
+
+
+
+
+
+
+
+
+    -27-
+
+
+     
+
+
+    
+
+ 
+
+
+IN WITNESS WHEREOF, the Parties
+hereto have executed this Agreement as of the date first set forth above.
+
+
+ 
+
+
+
+
+
+
+  
+     
+    Pro-Dex, Inc.
+
+  
+     
+     
+
+  
+     
+    By:
+    /s/
+    Rick Van Kirk
+
+  
+     
+    Name: Rick Van Kirk
+
+  
+     
+    Title: Chief Executive Officer
+
+  
+     
+     
+
+  
+     
+    Monogram Orthopaedics Inc.
+
+  
+     
+     
+
+  
+     
+    By:
+    /s/ Benjamin Sexson
+
+  
+     
+    Name: Benjamin Sexson
+
+  
+     
+    Title: Chief Executive Officer 
+
+  
+ 
+
+
+Signature Page to Supply Agreement
+
+
+ 
+
+
+
+
+
+
+     
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+SCHEDULE 1
+
+
+ 
+
+
+PRODUCTS
+
+
+ 
+
+
+1.             Seller Supplied Products.
+
+
+ 
+
+
+1.1           The term “Seller Supplied Products” means, collectively, all generations, versions, iterations, implementations,
+and applications of each and all of the following:
+
+
+ 
+
+
+(a)           autoclavable electromechanical (contains an electric or pneumatic motor) end effectors (intended to be mounted to robotic arms)
+for use in milling bone cavities utilizing Monogram’s software or other of its intellectual property (“End Effectors”);
+and
+
+
+ 
+
+
+(b)           End Effector gearing accessories designed to convert rotational motion of End Effectors to sagittal motion to facilitate the surgical
+function of cutting bone with a saw blade (the “End Effector Gearing Accessories”).
+
+
+ 
+
+
+1.2           Prices. Buyer shall purchase the Seller Supplied Products from Seller at the Prices set forth below:
+
+
+ 
+
+
+The following table
+sets forth the Prices for Seller Supplied Product as of the Effective Date through January 14, 2024:
+
+
+ 
+
+
+
+  
+    Seller Supplied Products
+    Price per unit
+(Qty 10)
+    Price per unit
+(Qty 25)
+    Price per unit
+(Qty 50)
+    Price per unit (Qty 100)
+
+  
+    End Effectors
+    $[***]
+    $[***]
+    $[***]
+    $[***]
+
+  
+    End Effector Gearing Accessories
+    End Effector Gearing Accessories will not be supplied during the period from the Effective Date through January 14, 2024.
+
+  
+ 
+
+
+The indirect cost per unit
+in the above pricing is $[***] per unit based on overead absorption of Pro-Dex job order K1G7T and shall constitute the Indirect
+Cost/unit as of the Effective Date (“ICU”).
+
+
+ 
+
+
+The Prices for Seller Supplied
+Products from and after January 15, 2024 shall be calculated as follows:
+
+
+ 
+
+
+The Price per unit for each
+Seller Supplied Product is intended to result in a gross margin to Seller of [***]%. Seller will review the Price per unit for each Seller
+Supplied Product annually by January 15 of each year. If, as a result of Seller’s review, Seller’s gross margin as calculated
+below for a Seller Supplied Product at its then-current Price per unit is less than [***]% or greater than [***]%, Seller will establish a new
+Price per unit for such Seller Supplied Product that results in a gross margin to Seller of [***]% (as calculated below) and will provide
+Buyer written notice of the new Price per unit. Any new Price per unit pursuant to the foregoing shall be effective upon Seller’s
+determination thereof.
+
+
+ 
+
+
+Gross Margin Calculation. For the purposes of calculating Seller’s gross margin, a formula will be applied to the direct materials
+and direct labor (“Direct Costs”), and a separate formula will be applied to the allocation of indirect costs to the manufactured
+units (“Indirect Costs”). The Price per unit will be the sum of these amounts.
+
+
+ 
+
+
+
+
+
+
+
+
+
+    Schedule 1
+
+
+     
+
+
+    
+
+ 
+
+
+
+  
+    Direct Cost formula
+    Direct Cost Contribution to Price per Unit (“A”):
+Direct Costs + (Direct Costs x [***]%)
+
+  
+    Indirect Cost
+    
+    Indirect Cost Contribution to
+    Price per Unit (“B”):
+
+     
+
+    Current Indirect Cost/unit as
+    of Effective Date (“ICU”): $__
+
+     
+
+    “CPI” means Consumer
+    Price Index for All Urban Consumers.
+
+     
+
+    B1 for Year 1 = ICU + (ICU x
+    [***]%)
+
+     
+
+    B2 for Year 2 = (ICU + ICU x
+    CPI) + ((ICU + ICU x CPI) x [***]%)
+
+     
+
+    BN+1 for Period N+1 = (ICU for
+    Period N + ICU for period N x CPI for Period N) + ((ICU for Period N + ICU for period N x CPI for Period N) x [***]%)
+
+     
+
+
+  
+    Price per Unit
+    A + B
+
+  
+ 
+
+
+Any specified functional testing, including the electrical continuity check, break in run, current draw at idle, leak current, and related
+testing and measurement specified in advance by the Buyer shall not be incrementally billed as NRE but is considered part of the manufacturing
+process and shall be factored into the Price per unit.
+
+
+ 
+
+
+2.             Sourced Products.
+
+
+ 
+
+
+2.1           The term “Sourced Products” means:
+
+
+ 
+
+
+(a)           burrs for the surgical function of milling bone cavities, which for the avoidance of doubt shall not include sterile packaging
+(“Burrs”);
+
+
+ 
+
+
+(b)           sagittal saw blades for the surgical function of cutting bone, which for the avoidance of doubt shall not include sterile packaging
+(the “Saws”); and
+
+
+ 
+
+
+(c)           custom implants, which are by definition made or done to order for a particular customer, i.e. the implant is unique to and custom
+designed for a specific patient and only one of such SKU ever exists, which for the avoidance of doubt shall not sterile packaging (“Custom
+Implants”).
+
+
+ 
+
+
+For clarity, the term “Sourced
+Products” does not include products outside the sterile field such as the robotic arm that is guided by Buyer’s software
+platform, navigation cameras and related instruments or surgical drape and attachments.
+
+
+ 
+
+
+
+
+
+
+    -2-
+
+
+     
+
+
+    
+
+ 
+
+
+2.2           Sourced Products Process and Fee.
+
+
+ 
+
+
+(a)           Buyer
+shall (a) provide prompt written notice to Seller of all Sourced Products ordered by Buyer setting forth in reasonable detail
+all amounts payable by Buyer therefor, and (b) pay Seller a fee equal to [***]% (the “Sourced Products Fee
+Percentage”) of the gross purchase price paid by Buyer per unit of the applicable Sourced Products (which for the
+avoidance of doubt shall not include applicable taxes or reasonable and customary shipping costs) multiplied by the number of units
+of such Sourced Products purchased by Buyer (the “Sourced Products Fee”).
+
+
+ 
+
+
+(b)           Buyer shall pay the Sourced Products Fee to Seller within thirty (30) days after the earlier to occur of (i) Buyer’s
+payment for the Sourced Products, or (ii) Buyer’s receipt of the Sourced Products. Buyer shall make all Sourced Products Fee
+payments in US dollars by wire transfer of immediately available funds to an account specified by Seller in writing or by bill.com. To
+avoid wire fraud, Buyer shall confirm any changes to such account with a confirmatory phone call to an authorized employee from Seller’s
+finance department.
+
+
+ 
+
+
+
+
+
+
+    -3-
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+EXHIBIT A
+
+
+ 
+
+
+SPECIFICATIONS
+
+
+ 
+
+
+
+
+
+
+    Exhibit A
+
+
+     
+
+
+    
+
+ 
+
+
+
+
+
+EXHIBIT B
+
+
+ 
+
+
+FORM OF ACKNOWLEDGEMENT OF ASSUMPTION
+
+
+ 
+
+
+[_________________], 20[__]
+
+
+ 
+
+
+
+  
+    To:
+    [NON-ASSIGNING PARTY]
+
+  
+     
+    [INSERT CURRENT ADDRESS]
+
+  
+     
+     
+
+  
+    Re:
+    Assumption of Supply
+Agreement
+
+  
+
+
+ 
+
+
+Reference is hereby made to
+that certain Supply Agreement, dated October 3, 2023 (as the same may from time to time be amended, modified, supplemented or restated,
+the “Supply Agreement”), between Pro-Dex, Inc., a Colorado corporation (“Pro-Dex”), and Monogram
+Orthopaedics Inc., a Delaware corporation (“Monogram”).
+
+
+ 
+
+
+In connection with a Sale
+Transaction (as defined in the Supply Agreement), or a sale or transfer of all or substantially all assets, involving [ASSIGNING PARTY]
+and the undersigned, the undersigned hereby acknowledges and confirms to [NON-ASSIGNING PARTY] the undersigned’s assumption of the
+Supply Agreement in accordance with Section 19.13 thereof, pursuant to which assumption the undersigned agrees to pay, perform, discharge
+and be subject in all respects to all of [ASSIGNING PARTY]’s duties and obligations under the Supply Agreement.
+
+
+ 
+
+
+
+  
+     
+    [INSERT NAME OF ASSIGNEE]
+
+  
+     
+     
+
+  
+     
+    By:
+     
+
+  
+     
+     
+
+  
+     
+    Name:
+     
+
+  
+     
+     
+
+  
+     
+    Title:
+             
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+    Exhibit B
+
+
+    
+
+ 
+
+
+
+
+
+
+

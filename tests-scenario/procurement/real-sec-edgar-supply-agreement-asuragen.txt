@@ -1,0 +1,587 @@
+# Source: SEC EDGAR - Asuragen Inc. / Interpace Diagnostics Supply Agreement
+# URL: https://www.sec.gov/Archives/edgar/data/1054102/000105410214000050/exhibit1033formofsupplyagr.htm
+# Filed: 2014 | CIK: 1054102 | Exhibit 10.33
+# This is an actual supply agreement filed with the SEC as a material contract.
+
+
+
+
+	
+		
+		
+		Exhibit 10.33 Form of Supply Agreement
+	
+	
+
+
+
+
+
+SUPPLY AGREEMENT
+
+by and between
+
+Asuragen, Inc.
+
+and
+
+Interpace Diagnostics, LLC
+
+
+
+Dated as of August 13, 2014
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+
+
+
+ARTICLE 1
+DEFINITIONS                            1
+
+
+ARTICLE 2
+MANUFACTURE, PURCHASE AND SALE OF PRODUCT    2
+
+
+2.1
+Supply                                    2
+
+
+2.2
+Forecasts                                3
+
+
+2.3
+Purchase Orders                            3
+
+
+2.4
+Delivery                                3
+
+
+2.5
+Specification Changes                            3
+
+
+2.6
+Use of the Product                            3
+
+
+2.7
+Seller Subcontracting of Manufacture and Supply            4
+
+
+ARTICLE 3
+PRICING AND PAYMENT                        4
+
+
+3.1
+Product Price                                4
+
+
+3.2
+Payment                                4
+
+
+ARTICLE 4
+QUALITY AND REGULATORY MATTERS            4
+
+
+4.1
+Quality Warranty                            4
+
+
+4.2
+Rejection of Products                            5
+
+
+4.3
+Product Return/Replacement                        5
+
+
+ARTICLE 5
+CONFIDENTIALITY                            6
+
+
+5.1
+Confidentiality Obligations                        6
+
+
+ARTICLE 6
+LIMITATION OF LIABILITY, INDEMNIFICATION AND INSURANCE    6
+
+
+6.1
+Indemnification of Seller                        6
+
+
+6.2
+Indemnification of Buyer                        6
+
+
+6.3
+Indemnification Procedures                        6
+
+
+6.4
+Limitation on Damages and Liability.                7
+
+
+ARTICLE 7
+TERM AND TERMINATION                    7
+
+
+7.1
+Term                                    7
+
+
+7.2
+Early Termination by Either Party                    7
+
+
+7.4
+Consequences of Termination                        8
+
+
+7.5
+Remedies.                                8
+
+
+7.6
+Accrued Rights; Surviving Obligations.                8
+
+
+
+
+
+
+
+ARTICLE 8
+MISCELLANEOUS                            8
+
+
+8.1
+Force Majeure.                            8
+
+
+8.2
+Severability.                                9
+
+
+8.3
+Governing Law, Jurisdiction, Venue and Service.            9
+
+
+8.4
+Notices                                10
+
+
+8.5
+No Benefit to Third Parties                        11
+
+
+8.6
+Waiver and Non-Exclusion of Remedies                11
+
+
+8.7
+Expenses                                11
+
+
+8.8
+Assignment                                11
+
+
+8.9
+Amendment                                11
+
+
+8.10
+Independent Contractors                        11
+
+
+8.11
+Equitable Relief                            12
+
+
+8.12
+English Language                            12
+
+
+8.13
+Counterparts                                12
+
+
+8.14
+Entire Agreement                            12
+
+
+8.15
+Construction                                12
+
+
+
+
+
+
+
+
+SUPPLY AGREEMENT
+This Supply Agreement (this “Agreement”) is made and entered into effective as of August 13, 2014 (the “Effective Date”) by and between Asuragen, Inc., a corporation organized and existing under the laws of the State of Delaware (“Seller”), and Interpace Diagnostics, LLC, a limited liability company organized and existing under the laws of the State of Delaware (“Buyer”).  Seller and Buyer are sometimes referred herein individually as a “Party” and collectively as the “Parties.”
+RECITALS
+WHEREAS, Seller and Buyer are parties to that certain Asset Purchase Agreement, dated as of the Effective Date (the “Asset Purchase Agreement”), pursuant to which Buyer is purchasing from Seller certain assets related to the Transferred Products (as defined in the Asset Purchase Agreement); and
+WHEREAS, in connection with the Transactions (as defined in the Asset Purchase Agreement), Seller is willing to supply to Buyer, and Buyer desires to purchase from Seller, quantities of Seller’s cellular RNA preservation solution RNARetain® in bulk form (the “Product”) for use solely in connection with the Royalty Products (as defined in the Asset Purchase Agreement).
+NOW, THEREFORE, in consideration of the premises and the mutual promises and conditions hereinafter set forth and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
+ARTICLE 1
+DEFINITIONS
+
+Unless otherwise specifically provided herein, the following terms shall have the meanings set forth in this Article 1 and capitalized terms used but not otherwise defined herein shall have the respective meanings ascribed thereto in the Asset Purchase Agreement. 
+1.1    “Agreement” has the meaning set forth in the preamble hereto.
+
+1.2    “Asset Purchase Agreement” has the meaning set forth in the first recital hereto.
+
+1.3    “Breaching Party” has the meaning set forth in Section 7.2.1.
+
+1.4    “Buyer” has the meaning set forth in the preamble hereto.
+
+1.5    “Buyer Indemnitees” has the meaning set forth in Section 6.2.
+
+1.6    “CEDRA” has the meaning set forth in Section 4.3.
+
+1.7    “Complaining Party” has the meaning set forth in Section 7.2.1.
+
+
+
+
+
+1.8    “Dollars” or “$” means United States dollars.
+
+1.9    “Effective Date” has the meaning set forth in the preamble hereto.
+
+1.10    “Forecast” has the meaning set forth in Section 2.2.
+
+1.11    “Losses” has the meaning set forth in Section 6.1.
+
+1.12    “Initial Term” has the meaning set forth in Section 7.1.
+
+1.13    “Non-Conforming Product” has the meaning set forth in Section 4.2.
+
+1.14    “Notice Period” has the meaning set forth in Section 7.2.1.
+
+1.15    “Renewal Period” has the meaning set forth in Section 7.1.
+
+1.16    “Party” and “Parties” each has the meaning set forth in the preamble hereto.
+
+1.17    “PPI” means the Producer Price Index for Finished Goods, Pharmaceutical Preparations, as it appears in the periodical PPI Detailed Report as published by the Bureau of Labor Statistics of the United States Department of Labor and using the latest version of data published as of the date of adjustment.
+
+1.18    “Product” has the meaning set forth the recitals hereto.
+
+1.19    “Product Price” has the meaning set forth in Section 3.1.
+
+1.20    “Purchase Order” means a written purchase order in a form reasonably acceptable to Seller that sets forth, with respect to the period covered thereby, (a) the quantity of the Product to be delivered by Seller to Buyer and (b) the requested delivery dates therefor.
+
+1.21    “Seller” has the meaning set forth in the preamble hereto.
+
+1.22    “Seller Indemnitees” has the meaning set forth in Section 6.1.
+
+1.23    “Specifications” means the written specifications (including labeling specifications) and quality control testing procedures for the Product set forth on Schedule 1.23, as amended or supplemented in accordance with Section 2.8.
+
+1.24    “Term” means the Initial Term, together with any Renewal Period.
+
+1.25    “Third Party Claim” has the meaning set forth in Section 6.1.
+
+ARTICLE 1
+MANUFACTURE, PURCHASE AND SALE OF PRODUCT
+
+2.1    Supply    Supply.  Subject to the terms and conditions of this Agreement, during the Term, Seller agrees to manufacture and sell to Buyer, and Buyer agrees to purchase from Seller, all of
+
+
+
+
+Buyer’s requirements of Product.    
+
+2.2    Forecasts.  Within 30 days after the Effective Date Buyer shall provide Seller with a written good faith forecast estimating Buyer’s requirement of Product (in milliliters) for the following calendar quarter and each of the succeeding three calendar quarters thereafter on a monthly basis.  Thereafter, not later than 30 days prior to the commencement of each subsequent calendar quarter during the Term, Buyer shall provide Seller with a rolling four-calendar quarter forecast for the quantity of Buyer’s requirements for Product during such 4-calendar quarter period (or the period until the expiration of the Term, if shorter) on a monthly basis (each such four-calendar period forecast, a “Forecast”).  Each Forecast shall not be binding on either Party.  Only a Purchase Order issued by Buyer constitutes a firm commitment by Buyer to purchase Product.
+
+2.3    Purchase Orders
+
+2.3.1    At least 90 days prior to the requested delivery date, Buyer shall submit to Seller via email (orders@asuragen.com) a Purchase Order for the Product to be delivered to Buyer on such date; provided, that (a) the Parties shall agree upon the initial Purchase Order within 30 days after the Effective Date and (b) in no event shall the quantity of the Product specified in any Purchase Order be less than 10,000 mL.  Subject to Section 2.3.2, the Purchase Orders shall state the requested delivery date for each such shipment and shall specify the required quantities.  
+
+2.3.2    Subject to the terms hereof, Seller shall accept each submitted Purchase Order that complies with this Section 2.3 and Seller shall be obligated to manufacture and deliver the specified quantity of the Product in accordance with the delivery schedule set forth in each accepted Purchase Order; provided that if Seller delivers at least 95% of the quantity of the Product set forth in a Purchase Order within five days of the requested delivery date set forth therein, Seller shall be deemed to have fully performed its obligations with respect to such Purchase Order.  If the quantity of the Product delivered by Seller differs from the quantity requested in the applicable Purchase Order, Buyer shall pay Seller for the quantity of the Product delivered rather than the quantity requested in the Purchase Order to the extent that the quantity delivered is not more than 100% of the quantity requested in the Purchase Order.  
+
+2.4    Delivery.  Seller shall deliver the quantities of the Product set forth in each Purchase Order within five days of the delivery date requested therein, at Seller’s facility in the United States at 2150 Woodward St., Austin, Texas 78744, on an EXW basis (as defined in Incoterms 2010).  Title to, and risk of, loss of the Product purchased by Buyer shall pass to Buyer on such delivery.  On request of Buyer, Seller will arrange for shipment of the Product to Buyer in accordance with Buyer’s instructions and add the shipping and insurance costs to Seller’s invoice for the Product so shipped.
+
+2.5    Specification Changes.  Seller shall make no changes to the Specifications for the Product except with Buyer’s consent in its sole discretion.
+
+2.6    Use of the Product.  Buyer shall, and shall cause its Affiliates to, use the Product solely in connection with the Royalty Products and shall not, and shall cause its 
+
+
+
+
+Affiliates not to, use the Product in connection with any other diagnostic products.
+
+2.7    Seller Subcontracting of Manufacture and Supply.  During the Term, Seller shall be entitled, at any time, to subcontract to a Third Party its obligations to manufacture and supply the Product under this Agreement; provided that (a) Seller shall bear all costs related to subcontracting to such Third Party and (b) such Third Party shall manufacture and supply the Product in accordance with the terms and conditions of this Agreement. 
+ 
+ARTICLE 2
+PRICING AND PAYMENT
+
+3.1    Product Price.  The purchase price for the Product (the “Product Price”) payable to Seller by Buyer initially shall be $4 per mL for all deliveries of the Product made during the period beginning on the Effective Date and ending December 31, 2015. On January 1, 2016 and each January 1 thereafter during the Term, the Product Price shall be subject to adjustments by Seller for inflation by a percentage less than or equal to the percentage increase in the PPI for the immediately preceding 12-month period. 
+
+3.2    Payment.
+
+3.2.1    Invoicing.  Seller promptly shall invoice Buyer the then-applicable Product Price for the Product after each delivery of the Product hereunder.
+
+3.2.2    Terms.  All payments to Seller under this Agreement shall be (a) paid in full by Buyer, without any deduction or set-off for claims under the Asset Purchase Agreement or any Ancillary Agreement (other than this Agreement), within 30 days from the date of invoice and (b) made by wire transfer of immediately available funds to such bank account or accounts as Seller may from time to time designate by written notice to Buyer.  If Buyer shall fail to make any payment pursuant to this Agreement when due, any such late payment shall bear interest, to the extent not prohibited by Law, at a per annum rate equal to the U.S. Prime Rate, as reported in The Wall Street Journal, Eastern Edition, for the first date on which such payment was delinquent, plus 2.0%, beginning on the first date on which such payment was delinquent and ending on the date on which such payment is made, calculated based on the actual number of days such payment is overdue.  
+
+3.2.3    Default.  With respect to defaults of payment not cured within 30 days after receipt of written notice from Seller to Buyer, Seller shall, in its sole discretion, and without prejudice to any other of its accrued rights, be entitled to suspend the provision of the Product, which suspension shall not result in or constitute a breach of any of Seller’s obligations under this Agreement.  
+
+ARTICLE 4    
+QUALITY AND REGULATORY MATTERS 
+
+4.1    Quality Warranty. 
+ 
+4.1.1    Seller Warranty.  Seller warrants that (a) it will manufacture the Product in accordance with Specifications, FDA QSR (21 CFR 820), and ISO 13485, (b) all
+
+
+
+
+Product will meet Specifications at the time of delivery to Buyer, and (c) all Product will have a shelf life of at least twelve (12) months at the time of delivery to Buyer and (d) Buyer will acquire good title to the Product at the time of delivery to Buyer, free and clear of all Encumbrances.  Seller shall deliver a certificate of analysis with respect to each delivery of Product that sets forth the items tested, the test results and demonstrating compliance with Specifications.  Buyer is responsible for establishing appropriate performance characteristics for downstream applications using Product.  
+
+4.1.2    Exclusion of Other Warranties.  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, SELLER MAKES NO WARRANTY IN RESPECT OF THE PRODUCT SUPPLIED HEREUNDER, WHETHER EXPRESS OR IMPLIED BY STATUTE, CUSTOM OF THE TRADE OR OTHERWISE, INCLUDING ANY WARRANTY RELATING TO THE DESCRIPTION OR QUALITY OF THE PRODUCT, ITS MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE UNDER ANY CONDITIONS, AND ANY SUCH WARRANTY IS HEREBY EXCLUDED.
+
+4.2    Rejection of Products.    Within 30 days after Buyer’s receipt thereof, Buyer may reject any Product supplied hereunder that at the time of delivery does not conform to the warranties set forth in Section 4.1.1 (“Non-Conforming Product”), provided that such Non-Conforming Product.  Buyer shall provide written notice to Seller specifying the reason for such rejection.  For the avoidance of doubt, Non-Conforming Product shall not include any Product that has become non-conforming due, in whole or in part, to any failure by the carrier or Buyer or its agents or representatives to handle, maintain, operate, or store such Product as required by the labeling or the Specifications.
+
+4.3    Product Return/Replacement.  At the request of Seller, Buyer shall return the Non-Conforming Product, or a representative sample thereof, to Seller for testing.  Should such test results reasonably confirm the Product is Non-Conforming Product, Buyer shall return said Non-Conforming Product quantities to Seller’s office at Seller’s expense, and Seller shall send conforming replacement Product to Buyer at no additional cost to Buyer.   Seller shall ship such conforming Product within 45 days of such confirming test results.  Should such test results fail to confirm the non-conformance of the Product with the Specifications, and should the Parties fail to otherwise resolve the dispute, the Parties shall submit the Product, or a representative sample thereof, along with a reference batch that has previously been shown by Buyer to conform to the Specifications, to a mutually acceptable independent laboratory along with the test protocols described in the Specifications and mutually agreeable interrogatories to be answered by such laboratory.  If such independent laboratory is not appointed within 14 days after one of the Parties has indicated to desire such appointment, CEDRA Corporation (www.cedracorp.com, 8605 Cross Park Drive, Austin, Texas 78754) (“CEDRA”) will be appointed.  If CEDRA is unable to perform the services required to resolve the Product’s conformance or non-conformance to the Specifications, the Parties will agree to CEDRA’s recommendation for an alternate independent laboratory.  The determination of the Product’s conformance or non-conformance to the Specifications by such independent laboratory shall be binding upon the Parties.  If the laboratory determines that the Product conforms to the Specifications, Buyer shall pay all independent laboratory and shipping costs incurred by Seller, and should such laboratory confirm that the Product is Non-Conforming Product, Seller shall pay all shipping and independent laboratory costs incurred by Buyer.  Sections 4.3 and 4.4 shall be
+
+
+
+
+the sole remedies available to Buyer for Non-Conforming Product. 
+
+4.4    Product Recall.  If Buyer is required by any Governmental Authority to effect a recall of Product in the field because of the Product being Non-Conforming Product, Seller shall reimburse Buyer for the documented out-of-pocket costs incurred in such recall, such as cost of communications to customers, shipping of recalled Product and disposal thereof and shipping of conforming Product back to customers.
+
+ARTICLE 5
+CONFIDENTIALITY
+
+5.1    Confidentiality Obligations.  The rights and obligations of the Parties with respect to Confidential Information shall be governed by the terms of Section 4.4 of the Asset Purchase Agreement.
+ARTICLE 6    
+LIMITATION OF LIABILITY, INDEMNIFICATION AND INSURANCE
+
+6.1    Indemnification of Seller.  Buyer shall indemnify, defend and hold harmless Seller, its Affiliates and its and their respective directors, officers, employees, and agents (the “Seller Indemnitees”) from and against any and all losses, damages, liabilities, costs and expenses (including reasonable attorneys’ fees and expenses) (collectively, “Losses”) in connection with any and all suits, investigations, claims or demands of Third Parties (collectively, “Third Party Claims”) arising out of or related to any breach of this Agreement by Buyer, including any use of the Product by any Buyer Indemnitee, except to the extent any such Loss arises out of or is related to any breach of this Agreement by Seller including any breach by Seller of its representations or warranties or a failure by Seller to comply with or perform any covenants hereunder or any claim that the Product or its use with the Royalty Products infringes or misappropriates any Third Party’s proprietary or intellectual property rights.
+
+6.2    Indemnification of Buyer.  Seller shall indemnify, defend and hold harmless Buyer, its Affiliates and its and their respective directors, officers, employees, and agents (the “Buyer  Indemnitees”) from and against any and all Losses in connection with any and all Third Party Claims arising out of or related to any claim that the Product or its use with the Royalty Products infringes or misappropriates any Third Party’s proprietary or intellectual property rights.
+
+6.3    Indemnification Procedures.  The foregoing indemnification by each Party shall be subject to the following: (a) The indemnified Party must promptly notify the other Party in writing of the claim; provided that the failure to so notify the indemnifying Party shall not relieve the indemnifying Party of any liability it may have to the indemnified Party hereunder except to the extent the indemnifying Party has been materially prejudiced thereby; (b) the indemnifying Party is entitled to sole control of the defense and all related settlement negotiations with respect to the Third Party Claim, provided, however, that the indemnified Party shall have the right, but not the obligation, to participate at its expense in the defense of any such Third Party Claim through counsel of its own choosing and the indemnified Party shall have the
+
+
+
+
+right to consent to any proposed settlement, such consent not to be unreasonably withheld, delayed or conditioned; and (c) the indemnified Party shall reasonably cooperate in the defense and settlement of such Third Party Claim.
+
+6.4    Limitation on Damages and Liability.  
+
+6.4.1    EXCEPT IN CIRCUMSTANCES OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT BY A PARTY OR ITS AFFILIATES, LICENSEES, SUBLICENSEES OR DISTRIBUTORS, OR THE KNOWING AND MATERIAL BREACH OR ABANDONMENT BY A PARTY OF THIS AGREEMENT, AND WITHOUT LIMITING SELLER’S RIGHTS UNDER SECTIONS 6.1 AND 6.2 WITH RESPECT TO THIRD PARTY CLAIMS, NEITHER PARTY NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR FOR LOST PROFITS, WHETHER IN CONTRACT, WARRANTY, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHERWISE, ARISING OUT OF ANY BREACH OF OR FAILURE TO PERFORM ANY OF THE PROVISIONS OF THIS AGREEMENT.
+
+6.4.2    EXCEPT IN CIRCUMSTANCES OF GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR THE KNOWING AND MATERIAL BREACH OR ABANDONMENT OF THIS AGREEMENT, SELLER SHALL NOT BE LIABLE TO BUYER FOR ANY CLAIM FOR DAMAGES (WHETHER GROUNDED IN CONTRACT, TORT OR OTHERWISE) IN AN AGGREGATE AMOUNT GREATER THAN THE PRODUCT PRICE FOR THE PRODUCT RECEIVED BY SELLER UNDER THIS AGREEMENT (AND FOR CLARITY, EXCLUDING ANY AMOUNTS PAYABLE BY BUYER TO SELLER UNDER THE ASSET PURCHASE AGREEMENT).
+
+ARTICLE 7    
+TERM AND TERMINATION
+
+7.1    Term.  Unless earlier terminated in accordance with the terms of this Agreement, this Agreement shall commence as of the Effective Date and shall continue until the  completion of the Royalty Term for all Royalty Products (the “Initial Term”) and shall thereafter automatically renew for successive 12-month periods (each, a “Renewal Period”) unless either Party provides the other Party with written notice of non-renewal at least 12 months prior to the beginning of the next Renewal Period. 
+
+7.2    Early Termination by Either Party.  Either Party may terminate this Agreement as follows:  
+7.2.1    In the event that either Party (the “Breaching Party”) breaches any of its material obligations under this Agreement, in addition to any other right and remedy the other Party (the “Complaining Party”) may have, the Complaining Party may terminate this Agreement in its entirety upon 60 days’ prior written notice (the “Notice Period”) to the Breaching Party, specifying the breach and its claim of right to terminate; provided always that the termination shall not become effective at the end of the Notice Period if the Breaching Party cures the breach complained about during the Notice Period (or, if such default cannot be cured within such 60-day period, if the Breaching Party commences actions to cure such default within
+
+
+
+
+the Notice Period and thereafter diligently continues such actions, except in the case of a payment default, as to which the Breaching Party shall have only a 30-day cure period).  
+
+7.2.2    Either Party may terminate this Agreement immediately upon written notice to the other Party if the other Party: (a) files in any court or with any Governmental Authority, pursuant to any statute or regulation of any state or country, a petition in bankruptcy or insolvency or for reorganization or for an arrangement or for the appointment of a receiver or trustee of that Party or of its assets; (b) proposes a written agreement of composition or extension of its debts; (c) is served with an involuntary petition against it, filed in any insolvency proceeding, and such petition is not dismissed within 60 days after the filing thereof; (d) consents to the appointment or taking possession by a receiver, liquidator, assignee, custodian, trustee, sequestrator (or similar official) of such Party or for any substantial part of its property or makes any assignment for the benefit of creditors; (e) admits in writing its inability to pay its debts generally as they become due; or (f) has issued or levied against its property any judgment, writ, warrant of attachment or execution or similar process that represents a substantial portion of its property.
+
+7.3    Consequences of Termination.  Upon the expiration or earlier termination of this Agreement, all unfilled Purchase Orders shall be filled in accordance with this Agreement except that if this Agreement is terminated by Buyer pursuant to Section 7.2.1 or Section 7.2.2, Buyer shall have the option to terminate the unfilled Purchase Orders without liability to Seller.
+
+7.4    Remedies.  Except as otherwise expressly provided herein, termination of this Agreement in accordance with the provisions hereof shall not limit remedies that may otherwise be available in law or equity.
+
+7.5    Accrued Rights; Surviving Obligations. 
+
+7.5.1    Accrued Rights.  Termination or expiration of this Agreement for any reason shall be without prejudice to any rights that shall have accrued to the benefit of a Party prior to such termination or expiration, including  all amounts outstanding and remaining to be paid for Product delivered prior to the expiration or termination.  Such termination or expiration shall not relieve a Party from obligations that are expressly indicated to survive the termination or expiration of this Agreement.
+
+7.5.2    Survival.  Without limiting the foregoing, Section 2.6, Section 4.1.2, Section 7.4, Section 7.5, Article 5, Article 6 and Article 8 shall survive the termination or expiration of this Agreement for any reason.
+ 
+ARTICLE 8    
+MISCELLANEOUS
+
+8.1    Force Majeure.  Neither Party shall be held liable or responsible to the other Party or be deemed to have defaulted under or breached this Agreement for failure or delay in fulfilling or performing any term of this Agreement (other than an obligation to make payments) when such failure or delay is caused by or results from events beyond the reasonable control of the non-performing Party, including fires, floods, earthquakes, hurricanes, embargoes, shortages, epidemics or pandemics, quarantines, war, acts of war (whether war be declared or
+
+
+
+
+not), terrorist acts, insurrections, riots, civil commotion, strikes, lockouts or other labor disturbances (whether involving the workforce of the non-performing Party or of any other Person), acts of God or acts, omissions or delays in acting by any Governmental Authority.  The non-performing Party shall notify the other Party of such force majeure within 15 days after such occurrence by giving written notice to the other Party stating the nature of the event, its anticipated duration, and any action being taken to avoid or minimize its effect.  The suspension of performance shall be of no greater scope and no longer duration than is necessary and the non-performing Party shall use commercially reasonable efforts to remedy its inability to perform.  
+
+8.2    Severability.  If any provision of this Agreement is held to be illegal, invalid or unenforceable under any present or future Law, and if the rights or obligations of either Party under this Agreement will not be materially and adversely affected thereby, (a) such provision shall be fully severable, (b) this Agreement shall be construed and enforced as if such illegal, invalid or unenforceable provision had never comprised a part hereof, (c) the remaining provisions of this Agreement shall remain in full force and effect and shall not be affected by the illegal, invalid or unenforceable provision or by its severance herefrom and (d) in lieu of such illegal, invalid or unenforceable provision, there shall be added automatically as a part of this Agreement a legal, valid and enforceable provision as similar in terms to such illegal, invalid or unenforceable provision as may be possible and reasonably acceptable to the Parties.  
+
+8.3    Governing Law, Jurisdiction, Venue and Service.
+
+8.3.1    Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Agreement to the substantive law of another jurisdiction. 
+
+8.3.2    Jurisdiction.  Subject to Section 8.11, the Parties hereby irrevocably and unconditionally consent to the exclusive jurisdiction of the courts of the State of Delaware and the United States District Court for the District of Delaware for any action, suit or proceeding (other than appeals therefrom) arising out of or relating to this Agreement, and agree not to commence any action, suit or proceeding (other than appeals therefrom) related thereto except in such courts.  The Parties irrevocably and unconditionally waive their right to a jury trial.
+
+8.3.3    Venue. The Parties further hereby irrevocably and unconditionally waive any objection to the laying of venue of any action, suit or proceeding (other than appeals therefrom) arising out of or relating to this Agreement in the courts of the State of Delaware or in the United States District Court for the District of Delaware, and hereby further irrevocably and unconditionally waive and agree not to plead or claim in any such court that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum.
+
+8.3.4    Service.  Each Party further agrees that service of any process, summons, notice or document by registered mail to its address set forth in Section 8.4.2 shall be effective service of process for any action, suit or proceeding brought against it under this Agreement in any such court.
+
+
+
+
+
+8.4    Notices.
+
+8.4.1    Notice Requirements.  Except as otherwise provided in Section 2.3.1, any notice, request, demand, waiver, consent, approval or other communication permitted or required under this Agreement (each, a “Notice”) shall be in writing, shall refer specifically to this Agreement and shall be deemed given only if delivered by hand or sent by facsimile transmission (with transmission confirmed) or by internationally recognized overnight delivery service that maintains records of delivery, addressed to the Parties at their respective addresses specified in Section 8.4.2 or to such other address as the Party to whom notice is to be given may have provided to the other Party at least 10 days prior to such address taking effect in accordance with this Section 8.4.  Such Notice shall be deemed to have been received: (a) as of the date delivered by hand or by overnight registered mail, courier or express delivery service; or (b) on the day sent by facsimile provided that the sender has received confirmation of transmission (by facsimile receipt confirmation or confirmation by telephone or email) prior to 6:00 p.m. Eastern Time on such day (and if confirmation is received after 6:00 p.m. Eastern Time, such Notice shall be deemed to have been delivered on the following Business Day).  Any Notice delivered by facsimile shall be confirmed by a hard copy delivered promptly thereafter.  
+
+8.4.2    Address for Notice. 
+
+If to Seller, to:
+Asuragen, Inc.
+2150 Woodward St., Suite 100
+Austin, Texas 78744
+Facsimile: (512) 681 5201
+Attention:  Senior Vice President & General Counsel 
+
+with a copy (which shall not constitute notice) to:
+Covington & Burling LLP
+The New York Times Building
+620 Eighth Avenue
+New York, NY 10018-1405
+Facsimile:  (212) 841-1010
+Attention:     Jack S. Bodner
+John A. Hurvitz
+   
+If to Buyer, to:
+Interpace Diagnostics, LLC
+Morris Corporate Center 1, Building A
+300 Interpace Parkway
+Parsippany, NJ  07054
+Fax:  862-207-7810
+with a copy (which shall not constitute notice) to:
+
+
+
+
+
+Pepper Hamilton LLP
+3000 Two Logan Square
+Eighteenth and Arch Streets
+Philadelphia, PA  19103
+Attention:  Steven J. Abrams
+Fax:  215-981-4750 
+8.5    No Benefit to Third Parties.  The covenants and agreements set forth in this Agreement are for the sole benefit of the Parties and their successors and permitted assigns, and they shall not be construed as conferring any rights on any other Persons.
+
+8.6    Waiver and Non-Exclusion of Remedies.  Any term or condition of this Agreement may be waived at any time by the Party that is entitled to the benefit thereof, but no such waiver shall be effective unless set forth in a written instrument duly executed by or on behalf of the Party waiving such term or condition.  The waiver by any Party of any right hereunder or of the failure to perform or of a breach by the other Party shall not be deemed a waiver of any other right hereunder or of any other breach or failure by said other Party whether of a similar nature or otherwise.  The rights and remedies provided herein are cumulative and do not exclude any other right or remedy provided by applicable law or otherwise available except as expressly set forth herein.
+
+8.7    Expenses.  Except as otherwise specified herein or in the Asset Purchase Agreement or in any other Ancillary Agreement, each Party shall bear any costs and expenses incurred by it with respect to the Transactions.
+
+8.8    Assignment. Neither this Agreement nor either Party’s rights or obligations hereunder may be assigned or delegated by such Party without the prior written consent of the other Party, and any attempted assignment or delegation of this Agreement or any of such rights or obligations by either Party without the prior written consent of the other Party shall be void and of no effect; provided, that either Party may assign or delegate any or all of its rights or obligations hereunder without the prior written consent of the other Party to an Affiliate or to a successor, whether in a merger, sale of stock, sale of assets or other similar transaction with respect to the business to which this Agreement relates.  Subject to the preceding sentence, this Agreement will be binding upon, inure to the benefit of, and be enforceable by, the Parties and their respective successors and permitted assigns.  
+
+8.9    Amendment.  This Agreement may not be modified, amended, altered or supplemented except upon the execution and delivery of a written agreement executed by both Parties.
+
+8.10    Independent Contractors.  In the exercise of their respective rights, and the performance of their respective obligations, under this Agreement, the Parties are, and shall remain, independent contractors.  Nothing in this Agreement shall be construed to constitute the Parties as partners, joint venturers, or participants in a joint enterprise or undertaking, or to constitute either of the Parties as the agent of the other Party for any purpose whatsoever.  Neither Party shall bind, or attempt to bind, the other Party to any contract or the performance of any other obligation, or represent to any Third Party that it is authorized to enter into any
+
+
+
+
+contract or binding obligation on behalf of the other Party. 
+
+8.11    Equitable Relief.  The Parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached.  It is accordingly agreed that the Parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement in any court of the United States or any state having jurisdiction, this being in addition to any other remedy to which they are entitled at law or in equity.  Each Party hereby waives (a) any requirement that the other Party post a bond or other security as a condition for obtaining any such relief, and (b) any defenses in any action for specific performance, including the defense that a remedy at law would be adequate. 
+
+8.12    English Language.  This Agreement shall be written and executed in, and all other communications under or in connection with this Agreement shall be in, the English language.  Any translation into any other language shall not be an official version thereof, and in the event of any conflict in interpretation between the English version and such translation, the English version shall control.
+
+8.13    Counterparts.  This Agreement may be executed in any number of counterparts, and each such counterpart hereof shall be deemed to be an original instrument, but all such counterparts together shall constitute but one agreement.  Delivery of an executed counterpart of a signature page of this Agreement by facsimile or other electronic transmission shall be effective as delivery of a manually executed original counterpart of this Agreement.
+
+8.14    Entire Agreement.  This Agreement, together with the Schedules and Exhibits expressly contemplated hereby and attached hereto, the Asset Purchase Agreement and the other Ancillary Agreements, contain the entire agreement between the Parties with respect to the Transactions and supersede all prior agreements, understandings, promises and representations, whether written or oral, between the Parties with respect to the subject matter hereof.  In the event of any inconsistency between any such Schedules and Exhibits and this Agreement, the terms of this Agreement shall govern.  
+
+8.15    Construction.  Except where the context otherwise requires, wherever used, the singular includes the plural, the plural the singular, the use of any gender shall be applicable to all genders and the word “or” is used in the inclusive sense (and/or).  The captions of this Agreement are for convenience of reference only and in no way define, describe, extend or limit the scope or intent of this Agreement or the intent of any provision contained in this Agreement.  The term “including” as used herein does not limit the generality of any description preceding such term.  The language of this Agreement shall be deemed to be the language mutually chosen by the Parties and no rule of strict construction shall be applied against either Party.  Unless otherwise specified or where the context otherwise requires, (a) references in this Agreement to any Article, Section, Schedule or Exhibit are references to such Article, Section, Schedule or Exhibit of this Agreement; (b) references in any Section to any clause are references to such clause of such Section; (c) “hereof,” “hereto,” “hereby,” “herein” and “hereunder” and words of similar import when used in this Agreement refer to this Agreement as a whole and not to any particular provision of this Agreement; (d) references to a Person are also to its permitted successors and assigns; (e) references to a law include any amendment or modification to such
+
+
+
+
+law and any rules or regulations issued thereunder, in each case, as in effect at the relevant time of reference thereto; and (f) references to any agreement, instrument or other document in this Agreement refer to such agreement, instrument or other document as originally executed or, if subsequently amended, replaced or supplemented from time to time, as so amended, replaced or supplemented and in effect at the relevant time of reference thereto.   
+
+[Signature page follows]
+
+
+
+
+
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first set forth above.
+
+Asuragen, Inc.    INTERPACE DIAGNOSTICS, LLC
+By:______________________________    By:                     
+Name: ___________________________    Name: ___________________________
+Title: ____________________________    Title: ____________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Signature Page to Supply Agreement]
+
+
+
+
+
+
+Schedule 1.23
+Specification
+
+
+
+Test
+Method
+Specification
+
+Appearance
+Visual inspection
+Clear, colorless liquid, free from visible particulates
+
+pH
+pH meter
+5 ± 0.2
+
+Ammonium ion concentration
+Ion specific electrode
+0.007 ± 0.002 mole of ammonium ions @ 1:1000 dilution
+
+
+
+
+Packaged in 2 liter containers with labeling that will include (a) the manufacturing date, (b) the expiration date, and (c) the lot number.
+
+
+
+	
+
+
+
+

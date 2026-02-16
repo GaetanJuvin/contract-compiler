@@ -1,0 +1,171 @@
+SUPPLY CHAIN PARTNERSHIP AGREEMENT
+
+Contract No.: SCA-2025-1197
+Effective Date: September 15, 2025
+
+This Supply Chain Partnership Agreement ("Agreement") is entered into by and between:
+
+PURCHASER: Orion Consumer Products Corporation, a California corporation, with offices at 2200 Pacific Coast Highway, Suite 1100, Long Beach, CA 90802 ("Purchaser")
+
+SUPPLIER: NovaTech Components International, Ltd., a company organized under the laws of the State of Michigan, with offices at 5400 Automation Drive, Detroit, MI 48201 ("Supplier")
+
+RECITALS
+
+WHEREAS, Purchaser operates a consumer electronics manufacturing business and requires a reliable and consistent supply of electronic components and subassemblies;
+
+WHEREAS, Supplier possesses the expertise, facilities, and capacity to manufacture and supply such components; and
+
+WHEREAS, the Parties desire to establish a long-term supply chain partnership to ensure continuity of supply, cost competitiveness, and continuous improvement;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants herein, the Parties agree as follows:
+
+ARTICLE 1 - SCOPE OF SUPPLY
+
+1.1 Products. Supplier shall manufacture and supply to Purchaser the electronic components, subassemblies, and related products listed in Schedule 1 (collectively, the "Products") in accordance with the specifications set forth in Schedule 2 ("Specifications").
+
+1.2 Exclusivity. During the Term of this Agreement, Supplier shall allocate no less than thirty-five percent (35%) of its production capacity for the Products to Purchaser. Supplier shall not supply identical or substantially similar Products to any of Purchaser's direct competitors listed in Schedule 3 without Purchaser's prior written consent.
+
+1.3 New Products. The Parties may add new Products to this Agreement by mutual written agreement, which shall include the applicable specifications, pricing, and lead times.
+
+ARTICLE 2 - FORECASTING AND ORDERING
+
+2.1 Rolling Forecast. Purchaser shall provide Supplier with a rolling eighteen (18) month demand forecast, updated monthly. The first three (3) months of each forecast shall constitute a binding commitment ("Firm Zone"), and the remaining months shall be non-binding estimates.
+
+2.2 Purchase Orders. Purchaser shall issue Purchase Orders consistent with the Firm Zone forecast at least forty-five (45) days prior to the requested delivery date. Each Purchase Order shall reference this Agreement and specify the Products, quantities, prices, delivery dates, and ship-to locations.
+
+2.3 Order Acceptance. Supplier shall accept all Purchase Orders that are consistent with the Firm Zone forecast within three (3) business days of receipt. Supplier may reject orders exceeding the Firm Zone forecast by more than twenty percent (20%), provided that Supplier shall use commercially reasonable efforts to accommodate such excess orders.
+
+2.4 Order Modifications. Purchaser may modify or cancel a Purchase Order without penalty if written notice is provided at least thirty (30) days prior to the scheduled shipment date. Modifications or cancellations made with less than thirty (30) days' notice may be subject to reasonable cancellation charges for materials already procured or work already performed.
+
+ARTICLE 3 - PRICING
+
+3.1 Base Prices. The prices for the Products are set forth in Schedule 1. All prices are in United States Dollars and are DDP (Incoterms 2020) Purchaser's designated facility.
+
+3.2 Annual Price Review. The Parties shall conduct an annual price review no later than sixty (60) days before each anniversary of the Effective Date. Supplier shall propose price adjustments supported by documented cost data, including raw material indices, labor costs, and overhead allocations.
+
+3.3 Cost Reduction Targets. Supplier shall achieve year-over-year cost reductions of no less than three percent (3%) through process improvements, value engineering, and supply chain optimization. Cost savings shall be shared equally between the Parties.
+
+3.4 Most Favored Customer. Supplier represents and warrants that the prices charged to Purchaser shall be no higher than the lowest prices charged to any other customer for comparable Products in comparable quantities. If Supplier offers lower prices to another customer, Supplier shall promptly reduce Purchaser's prices accordingly and provide a retroactive credit for the prior ninety (90) days.
+
+ARTICLE 4 - DELIVERY AND LOGISTICS
+
+4.1 Delivery Schedule. Supplier shall deliver Products in accordance with the delivery dates specified in each Purchase Order. On-time delivery performance shall be measured monthly, and Supplier shall maintain a minimum on-time delivery rate of ninety-seven percent (97%).
+
+4.2 Lead Times. Standard lead times for Products are set forth in Schedule 1. Supplier shall use commercially reasonable efforts to reduce lead times over the Term of this Agreement.
+
+4.3 Shipping and Transportation. Unless otherwise specified, Supplier shall arrange and pay for transportation of Products to Purchaser's designated facility. Supplier shall select carriers from Purchaser's approved carrier list when available.
+
+4.4 Inventory Management. Supplier shall maintain a safety stock of finished Products equal to no less than two (2) weeks of forecasted demand at all times. Supplier shall bear all costs of maintaining such safety stock.
+
+4.5 Delivery Documentation. Each shipment shall be accompanied by a packing list, certificate of conformance, and any other documentation required by the applicable Purchase Order or Specifications.
+
+ARTICLE 5 - QUALITY
+
+5.1 Quality Standards. All Products shall conform to the Specifications and shall be manufactured in accordance with Supplier's quality management system, which shall be certified to ISO 9001:2015 or equivalent.
+
+5.2 Incoming Inspection. Purchaser shall have the right to inspect Products upon receipt. Purchaser shall notify Supplier of any nonconformances within ten (10) business days of receipt. Failure to notify within such period shall not constitute acceptance of nonconforming Products where defects are latent or not reasonably discoverable upon visual inspection.
+
+5.3 Supplier Quality Audits. Purchaser shall have the right to conduct quality audits of Supplier's facilities, processes, and records upon reasonable notice during normal business hours. Supplier shall cooperate fully with such audits and promptly address any findings.
+
+5.4 Corrective Action. Upon discovery of any quality issue, Supplier shall implement containment actions within twenty-four (24) hours and provide a root cause analysis and corrective action plan within ten (10) business days.
+
+5.5 Quality Metrics. Supplier shall achieve and maintain the following quality performance targets:
+    (a) Defective Parts Per Million (DPPM): not to exceed 500 DPPM
+    (b) First Pass Yield: at least 98.5%
+    (c) Customer Returns: not to exceed 0.1% of units shipped
+
+ARTICLE 6 - PAYMENT TERMS
+
+6.1 Invoicing. Supplier shall issue invoices upon shipment of Products. Each invoice shall reference the applicable Purchase Order number and include itemized pricing.
+
+6.2 Payment. Purchaser shall pay undisputed invoices within thirty (30) days of receipt of a conforming invoice. Payment shall be made by electronic funds transfer to Supplier's designated bank account.
+
+[ANOMALY: Contradictory payment terms]
+6.3 Early Payment Discount. Supplier shall offer a two percent (2%) discount for payments made within ten (10) days of invoice receipt. For the avoidance of doubt, the standard payment period is sixty (60) days from the date of invoice, and early payment discounts shall be calculated from such sixty (60) day period.
+
+6.4 Set-Off. Purchaser may set off against any amounts owed to Supplier any amounts owed by Supplier to Purchaser, including credits for nonconforming Products, warranty claims, or liquidated damages.
+
+ARTICLE 7 - WARRANTIES
+
+7.1 Product Warranty. Supplier warrants that all Products shall: (a) conform to the Specifications; (b) be free from defects in materials and workmanship; (c) be fit for their intended purpose; and (d) comply with all applicable laws and regulations.
+
+7.2 Warranty Period. The warranty shall remain in effect for eighteen (18) months from the date of delivery to Purchaser or twelve (12) months from the date of sale to Purchaser's end customer, whichever is later.
+
+7.3 Warranty Claims. Purchaser may submit warranty claims in writing at any time during the Warranty Period. Supplier shall, at Purchaser's option, repair or replace nonconforming Products within fifteen (15) business days of receiving the warranty claim, at Supplier's sole cost and expense including shipping.
+
+ARTICLE 8 - INTELLECTUAL PROPERTY
+
+8.1 Purchaser IP. All intellectual property rights in designs, specifications, tooling, and other materials provided by Purchaser to Supplier shall remain the exclusive property of Purchaser. Supplier shall use such materials solely for the purpose of performing under this Agreement.
+
+8.2 Supplier IP. Subject to Section 8.1, all intellectual property rights in Supplier's pre-existing technology, processes, and know-how shall remain the property of Supplier.
+
+8.3 Joint Developments. Any intellectual property jointly developed by the Parties in the course of performing under this Agreement shall be jointly owned, and each Party shall have the right to use and license such joint IP without the consent of or accounting to the other Party.
+
+8.4 IP Indemnification. Supplier shall indemnify and hold harmless Purchaser against all claims that the Products infringe any third-party intellectual property rights.
+
+ARTICLE 9 - CONFIDENTIALITY
+
+9.1 Each Party shall treat as confidential all information received from the other Party that is marked as confidential or that a reasonable person would understand to be confidential. Confidential information shall be used solely for the purposes of this Agreement and shall not be disclosed to third parties without the disclosing Party's prior written consent.
+
+9.2 The obligations of confidentiality shall survive termination of this Agreement for a period of five (5) years.
+
+ARTICLE 10 - INDEMNIFICATION AND LIABILITY
+
+10.1 Mutual Indemnification. Each Party shall indemnify, defend, and hold harmless the other Party from any third-party claims arising from the indemnifying Party's negligence, willful misconduct, or breach of this Agreement.
+
+10.2 Product Liability. Supplier shall maintain product liability insurance with coverage of no less than Five Million Dollars ($5,000,000) per occurrence and Ten Million Dollars ($10,000,000) in the aggregate.
+
+10.3 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES. EACH PARTY'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNTS PAID OR PAYABLE UNDER THIS AGREEMENT IN THE TWENTY-FOUR (24) MONTHS PRECEDING THE CLAIM.
+
+ARTICLE 11 - TERM AND TERMINATION
+
+11.1 Term. This Agreement shall have an initial term of five (5) years from the Effective Date, with automatic renewal for successive two (2) year terms unless either Party provides one hundred eighty (180) days' written notice of non-renewal.
+
+11.2 Termination for Cause. Either Party may terminate this Agreement upon sixty (60) days' written notice if the other Party materially breaches and fails to cure within such sixty (60) day period.
+
+11.3 Termination for Insolvency. Either Party may terminate immediately upon written notice if the other Party becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors.
+
+11.4 Effects of Termination. Upon termination: (a) Purchaser shall pay for all conforming Products delivered and accepted; (b) Supplier shall complete all Purchase Orders accepted prior to the notice of termination, unless otherwise directed by Purchaser; and (c) each Party shall return the other Party's confidential information.
+
+ARTICLE 12 - GENERAL PROVISIONS
+
+12.1 Governing Law. This Agreement shall be governed by the laws of the State of California.
+
+12.2 Dispute Resolution. Disputes shall be resolved by binding arbitration in Los Angeles, California, under the rules of JAMS.
+
+12.3 Force Majeure. Neither Party shall be liable for delays caused by events beyond its reasonable control.
+
+12.4 Compliance with Laws. Each Party shall comply with all applicable laws, including export control regulations, anti-corruption laws, and environmental regulations.
+
+12.5 Entire Agreement. This Agreement constitutes the entire agreement between the Parties and supersedes all prior agreements and understandings.
+
+12.6 Amendments. Amendments must be in writing and signed by both Parties.
+
+12.7 Severability. Invalid provisions shall be modified to the minimum extent necessary to make them valid.
+
+12.8 Notices. All notices shall be in writing and delivered to the addresses set forth above.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+ORION CONSUMER PRODUCTS CORPORATION
+
+By: ___________________________
+Name: David L. Chen
+Title: Chief Procurement Officer
+Date: September 15, 2025
+
+NOVATECH COMPONENTS INTERNATIONAL, LTD.
+
+By: ___________________________
+Name: Sandra K. Williams
+Title: Vice President, Sales & Partnerships
+Date: September 15, 2025
+
+SCHEDULE 1 - PRODUCTS AND PRICING
+[To be attached]
+
+SCHEDULE 2 - SPECIFICATIONS
+[To be attached]
+
+SCHEDULE 3 - COMPETITOR LIST
+[To be attached]

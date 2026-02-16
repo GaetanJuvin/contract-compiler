@@ -1,0 +1,217 @@
+DATA PROCESSING AGREEMENT
+
+[ANOMALY CONTRACT - Contains contradictory data retention provisions, ambiguous processor obligations, and asymmetric audit rights]
+
+This Data Processing Agreement ("DPA") is entered into as of January 20, 2026 ("Effective Date"), by and between:
+
+DATA CONTROLLER: Harborview Health Systems, Inc., a Massachusetts corporation with its principal place of business at 75 Federal Street, Suite 1200, Boston, MA 02110 ("Controller")
+
+and
+
+DATA PROCESSOR: Quantis Cloud Services, Ltd., a company incorporated in Ireland with its registered office at 3 Burlington Road, Dublin 4, D04 RD68, Ireland ("Processor")
+
+(each a "Party" and collectively the "Parties")
+
+RECITALS
+
+WHEREAS, Controller and Processor are parties to a Master Services Agreement dated October 1, 2025 (the "MSA") under which Processor provides cloud hosting and data management services to Controller; and
+
+WHEREAS, the performance of the MSA involves the processing of personal data on behalf of Controller; and
+
+WHEREAS, the Parties wish to establish the terms and conditions governing the processing of personal data by Processor on behalf of Controller, in compliance with applicable data protection legislation;
+
+NOW, THEREFORE, in consideration of the mutual obligations set forth herein, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Applicable Data Protection Law" means all applicable laws and regulations relating to the processing of personal data and privacy, including the EU General Data Protection Regulation (Regulation 2016/679) ("GDPR"), the California Consumer Privacy Act as amended by the CPRA ("CCPA"), the Health Insurance Portability and Accountability Act ("HIPAA"), and any implementing legislation, regulations, and guidance.
+
+1.2 "Data Subject" means an identified or identifiable natural person to whom the Personal Data relates.
+
+1.3 "Personal Data" means any information relating to a Data Subject that is processed by Processor on behalf of Controller in connection with the MSA, as further described in Annex 1.
+
+1.4 "Personal Data Breach" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data.
+
+1.5 "Processing" means any operation or set of operations performed on Personal Data, whether or not by automated means, including collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure, dissemination, alignment, combination, restriction, erasure, or destruction.
+
+1.6 "Sub-processor" means any third party engaged by Processor to process Personal Data on behalf of Controller.
+
+1.7 "Standard Contractual Clauses" or "SCCs" means the standard contractual clauses for the transfer of personal data to third countries adopted by the European Commission, as may be amended or replaced from time to time.
+
+2. SCOPE AND PURPOSE OF PROCESSING
+
+2.1 Subject Matter. This DPA applies to the processing of Personal Data by Processor on behalf of Controller in connection with the services provided under the MSA.
+
+2.2 Nature and Purpose. Processor shall process Personal Data solely for the purpose of providing the services described in the MSA and as further specified in Annex 1, and shall not process Personal Data for any other purpose unless expressly instructed by Controller in writing.
+
+2.3 Duration. Processing shall continue for the duration of the MSA, unless terminated earlier in accordance with the terms of this DPA.
+
+2.4 Categories of Data Subjects. The categories of Data Subjects whose Personal Data may be processed include patients, healthcare providers, employees, and business contacts of Controller, as further described in Annex 1.
+
+2.5 Types of Personal Data. The types of Personal Data processed may include names, contact information, dates of birth, social security numbers, health information, insurance information, and other categories as described in Annex 1.
+
+3. CONTROLLER OBLIGATIONS
+
+3.1 Lawful Basis. Controller shall ensure that it has a valid legal basis for the processing of Personal Data and for instructing Processor to process such data.
+
+3.2 Data Accuracy. Controller shall ensure the accuracy and quality of Personal Data provided to Processor.
+
+3.3 Data Subject Rights. Controller shall be responsible for responding to requests from Data Subjects exercising their rights under Applicable Data Protection Law. Processor shall provide reasonable assistance to Controller in responding to such requests, as set forth in Section 4.8.
+
+3.4 Data Protection Impact Assessments. Controller shall conduct data protection impact assessments where required by Applicable Data Protection Law. Processor shall provide reasonable cooperation and information to assist Controller with such assessments.
+
+4. PROCESSOR OBLIGATIONS
+
+4.1 Processing Instructions. Processor shall process Personal Data only on documented instructions from Controller, unless required to do so by applicable law, in which case Processor shall inform Controller of the legal requirement before processing (unless prohibited by law from doing so).
+
+4.2 Confidentiality. Processor shall ensure that persons authorized to process the Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+
+4.3 Security Measures. Processor shall implement and maintain appropriate technical and organizational measures to protect Personal Data against unauthorized or unlawful processing and against accidental loss, destruction, or damage, as described in Annex 2. Such measures shall include, as appropriate:
+
+    (a) Encryption of Personal Data in transit and at rest;
+    (b) Measures to ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems;
+    (c) The ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident;
+    (d) A process for regularly testing, assessing, and evaluating the effectiveness of technical and organizational measures; and
+    (e) Access controls and authentication mechanisms.
+
+4.4 Personal Data Breach Notification. Processor shall notify Controller without undue delay, and in any event within forty-eight (48) hours, after becoming aware of a Personal Data Breach. Such notification shall include:
+
+    (a) A description of the nature of the breach, including the categories and approximate number of Data Subjects and records affected;
+    (b) The name and contact details of Processor's data protection officer or other contact point;
+    (c) A description of the likely consequences of the breach; and
+    (d) A description of the measures taken or proposed to address the breach.
+
+4.5 Data Retention. Processor shall retain Personal Data only for as long as necessary to perform the services under the MSA. Upon termination of the MSA, Processor shall delete all Personal Data within thirty (30) days, unless retention is required by applicable law. [ANOMALY: Contradicts Section 8.3 which requires return or deletion within ninety (90) days]
+
+4.6 Data Transfers. Processor shall not transfer Personal Data to any country outside the European Economic Area or the United States without Controller's prior written consent. Where such transfers are authorized, Processor shall ensure that adequate safeguards are in place, including the execution of SCCs or reliance on an adequacy decision.
+
+4.7 Assistance. Processor shall provide reasonable assistance to Controller in ensuring compliance with Controller's obligations under Applicable Data Protection Law, including obligations related to security, breach notification, data protection impact assessments, and prior consultation with supervisory authorities.
+
+4.8 Data Subject Requests. Processor shall promptly notify Controller of any request received directly from a Data Subject. Processor shall not respond to such request without Controller's prior written authorization unless required by applicable law. Processor shall implement appropriate technical and organizational measures to assist Controller in fulfilling its obligation to respond to Data Subject requests within the timescales required by law.
+
+4.9 Records. Processor shall maintain records of all processing activities carried out on behalf of Controller, in accordance with Article 30(2) of the GDPR, and shall make such records available to Controller upon request.
+
+5. SUB-PROCESSING
+
+5.1 Authorization. Controller provides general authorization for Processor to engage Sub-processors, subject to the conditions set forth in this Section 5.
+
+5.2 Current Sub-processors. The Sub-processors currently engaged by Processor are listed in Annex 3. Controller has reviewed and approved the Sub-processors listed in Annex 3 as of the Effective Date.
+
+5.3 New Sub-processors. Processor shall notify Controller in writing at least thirty (30) days before engaging any new Sub-processor or replacing an existing Sub-processor. Controller may object to the engagement of a new Sub-processor on reasonable grounds related to data protection within fourteen (14) days of receiving notice. If Controller objects, the Parties shall discuss the objection in good faith. If the Parties cannot resolve the objection within thirty (30) days, Controller may terminate this DPA and the affected services under the MSA upon written notice. [ANOMALY: Ambiguous - does not specify what happens if Processor proceeds with the Sub-processor over Controller's objection]
+
+5.4 Sub-processor Agreements. Processor shall impose contractual obligations on each Sub-processor that are no less protective than the obligations imposed on Processor under this DPA.
+
+5.5 Liability. Processor shall remain fully liable to Controller for the performance of each Sub-processor's obligations.
+
+6. AUDITS AND INSPECTIONS
+
+6.1 Audit Rights. Processor shall make available to Controller all information necessary to demonstrate compliance with the obligations laid down in this DPA and shall allow for and contribute to audits, including inspections, conducted by Controller or an auditor mandated by Controller.
+
+6.2 Scope. Audits may include inspection of Processor's facilities, systems, records, and personnel involved in the processing of Personal Data. Processor shall provide full cooperation during any audit.
+
+6.3 Frequency. Controller may conduct audits no more than once per calendar year, unless a Personal Data Breach has occurred or there are reasonable grounds to believe Processor is in breach of its obligations, in which case additional audits may be conducted. [ANOMALY: Asymmetric - Controller has broad audit rights but Section 6.5 allows Processor to charge for audits beyond the first, creating a financial disincentive]
+
+6.4 Notice. Controller shall provide Processor with at least thirty (30) days' prior written notice of any planned audit, except in the case of audits triggered by a suspected breach, for which reasonable notice shall be provided.
+
+6.5 Costs. The first audit in any twelve (12) month period shall be at Processor's expense. Any additional audits shall be at Controller's expense, provided that if the audit reveals material non-compliance by Processor, Processor shall bear the costs of such audit. Processor may charge Controller a reasonable per-diem rate of $5,000 per day for Processor personnel time dedicated to supporting audits beyond the first annual audit. [ANOMALY: $5,000/day charge creates a financial barrier to exercising audit rights, potentially undermining the audit provisions in Section 6.1]
+
+7. INTERNATIONAL DATA TRANSFERS
+
+7.1 Transfer Mechanisms. To the extent that the processing involves the transfer of Personal Data from the EEA to a country not recognized as providing an adequate level of data protection, the Parties agree to execute and comply with the SCCs, which are incorporated by reference into this DPA.
+
+7.2 Supplementary Measures. Where required by Applicable Data Protection Law or supervisory authority guidance, the Parties shall implement supplementary measures to ensure the level of protection for Personal Data is essentially equivalent to that guaranteed in the EEA.
+
+7.3 US Data Transfers. For transfers of Personal Data subject to CCPA, Processor shall comply with the obligations of a "service provider" as defined in the CCPA and shall not sell or share Personal Data as those terms are defined under the CCPA.
+
+8. TERM AND TERMINATION
+
+8.1 Term. This DPA shall remain in effect for the duration of the MSA.
+
+8.2 Termination. This DPA shall automatically terminate upon termination or expiration of the MSA. Either Party may also terminate this DPA if the other Party materially breaches its obligations under this DPA and fails to remedy such breach within thirty (30) days of written notice.
+
+8.3 Data Return and Deletion. Upon termination of this DPA, Processor shall, at Controller's election, either return all Personal Data to Controller in a commonly used, machine-readable format or securely delete all Personal Data, and certify such deletion in writing. Processor shall complete such return or deletion within ninety (90) days of termination. [ANOMALY: Contradicts Section 4.5 which requires deletion within thirty (30) days]
+
+8.4 Retention Exception. Notwithstanding Section 8.3, Processor may retain Personal Data to the extent required by applicable law, provided that Processor shall: (a) process such retained data only for the purposes required by law; (b) continue to protect such data in accordance with this DPA; and (c) delete such data when no longer legally required to retain it.
+
+9. LIABILITY
+
+9.1 Liability. Each Party's liability under this DPA shall be subject to the limitations and exclusions of liability set forth in the MSA.
+
+9.2 GDPR Liability. Notwithstanding Section 9.1, each Party's liability to Data Subjects and supervisory authorities under the GDPR shall not be limited by the MSA.
+
+10. GENERAL PROVISIONS
+
+10.1 Conflicts. In the event of any conflict between this DPA and the MSA, this DPA shall prevail with respect to matters relating to data protection and the processing of Personal Data.
+
+10.2 Amendments. This DPA may be amended only by a written instrument signed by both Parties. Processor shall be entitled to update the technical and organizational measures described in Annex 2 from time to time, provided that the updated measures provide at least an equivalent level of protection. [ANOMALY: Allows unilateral changes to security measures by Processor while requiring bilateral written amendments for other changes - potentially contradictory]
+
+10.3 Governing Law. This DPA shall be governed by and construed in accordance with the laws of Ireland, without regard to its conflict of laws provisions.
+
+10.4 Jurisdiction. The courts of Dublin, Ireland shall have exclusive jurisdiction to settle any disputes arising out of or in connection with this DPA.
+
+10.5 Severability. If any provision of this DPA is found to be invalid, the remaining provisions shall remain in effect.
+
+10.6 Entire Agreement. This DPA, together with its Annexes and the MSA, constitutes the entire agreement between the Parties regarding the processing of Personal Data.
+
+ANNEX 1 - DESCRIPTION OF PROCESSING
+
+Categories of Data Subjects:
+- Patients of Controller's healthcare facilities
+- Healthcare providers and clinical staff
+- Administrative employees
+- Business partners and vendors
+
+Types of Personal Data:
+- Full name, date of birth, gender
+- Contact information (address, phone, email)
+- Social security numbers
+- Health and medical information (diagnoses, treatments, medications, lab results)
+- Insurance information and claims data
+- Employment records
+- Financial information (billing, payment records)
+
+Special Categories of Data:
+- Health data (Article 9 GDPR)
+- Genetic data (where applicable)
+
+Purpose of Processing:
+- Cloud hosting of Controller's electronic health record system
+- Data backup and disaster recovery
+- System monitoring and performance optimization
+- Technical support and maintenance
+
+ANNEX 2 - TECHNICAL AND ORGANIZATIONAL MEASURES
+
+1. Encryption: AES-256 encryption for data at rest; TLS 1.2+ for data in transit
+2. Access Control: Role-based access control, multi-factor authentication, principle of least privilege
+3. Network Security: Firewalls, intrusion detection/prevention systems, DDoS protection
+4. Physical Security: SOC 2 Type II certified data centers, biometric access controls, 24/7 surveillance
+5. Data Backup: Daily encrypted backups with geographic redundancy
+6. Incident Response: Documented incident response procedures, 24/7 security operations center
+7. Employee Training: Annual security awareness training for all personnel
+8. Vulnerability Management: Regular vulnerability scans and penetration testing
+9. Logging and Monitoring: Comprehensive audit logging with minimum 12-month retention
+10. Business Continuity: Documented business continuity and disaster recovery plans
+
+ANNEX 3 - APPROVED SUB-PROCESSORS
+
+1. Amazon Web Services (AWS) - Cloud infrastructure hosting - Dublin, Ireland and Frankfurt, Germany
+2. Datadog, Inc. - System monitoring and logging - New York, USA
+3. Twilio, Inc. - Communications and notification services - San Francisco, USA
+4. Snowflake, Inc. - Data warehousing and analytics - Bozeman, USA
+
+IN WITNESS WHEREOF, the Parties have executed this DPA as of the Effective Date.
+
+HARBORVIEW HEALTH SYSTEMS, INC.
+
+By: ___________________________
+Name: Dr. Patricia Callahan
+Title: Chief Privacy Officer
+Date: ___________________________
+
+QUANTIS CLOUD SERVICES, LTD.
+
+By: ___________________________
+Name: Seamus O'Brien
+Title: Director of Data Protection
+Date: ___________________________

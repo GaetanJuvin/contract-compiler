@@ -1,0 +1,148 @@
+NON-DISCLOSURE AGREEMENT
+FOR MERGER AND ACQUISITION DISCUSSIONS
+
+[ANOMALY: This NDA contains contradictory confidentiality periods (Section 5.2 says 2 years, Section 9.3 says "perpetual"), uses ambiguous language throughout ("best efforts," "commercially reasonable," "appropriate" without definitions), and has an asymmetric indemnification clause that only binds the Receiving Party despite this being framed as a mutual exchange of information.]
+
+This Non-Disclosure Agreement for Merger and Acquisition Discussions ("Agreement") is made as of January 10, 2026 (the "Effective Date"),
+
+BETWEEN:
+
+Target Company: Silverlake Manufacturing Group, Inc., a Michigan corporation, having its principal office at 1500 Woodward Avenue, Detroit, MI 48226 ("Silverlake" or the "Target");
+
+AND
+
+Acquirer: Continental Industrial Holdings, PLC, a company incorporated under the laws of England and Wales, with its registered office at 25 Cannon Street, London, EC4M 5TA, United Kingdom ("Continental" or the "Acquirer").
+
+Each referred to individually as a "Party" and collectively as the "Parties."
+
+PREAMBLE
+
+The Parties intend to engage in discussions and negotiations regarding a potential acquisition, merger, or other business combination transaction (the "Proposed Transaction") pursuant to which Continental may acquire some or all of the equity interests, assets, or business operations of Silverlake.
+
+In connection with the evaluation and negotiation of the Proposed Transaction, each Party may provide the other with access to certain confidential, proprietary, and competitively sensitive information. The Parties wish to establish the terms and conditions under which such information will be shared.
+
+ARTICLE I -- DEFINITIONS
+
+1.1 "Confidential Information" means all information, whether written, oral, electronic, visual, or otherwise communicated, that is furnished or made available by one Party (the "Furnishing Party") to the other Party (the "Evaluating Party") in connection with the Proposed Transaction, together with all analyses, compilations, forecasts, studies, notes, memoranda, or other documents or materials prepared by the Evaluating Party or its Representatives that contain, reflect, or are based upon any such information.
+
+1.2 "Representatives" means a Party's directors, officers, employees, agents, attorneys, accountants, financial advisors, lenders, potential financing sources, consultants, and other advisors.
+
+1.3 "Person" means any individual, corporation, partnership, limited liability company, association, trust, governmental entity, or other entity of any kind.
+
+ARTICLE II -- CONFIDENTIALITY OBLIGATIONS
+
+2.1 Each Party agrees that it shall, and shall cause its Representatives to, keep all Confidential Information strictly confidential and shall not disclose any Confidential Information to any Person, except as expressly permitted herein.
+
+2.2 Each Party shall use the Confidential Information solely for the purpose of evaluating, negotiating, and consummating the Proposed Transaction and for no other purpose.
+
+2.3 Each Party shall use best efforts and commercially reasonable and appropriate measures to protect the confidentiality of the Confidential Information and to prevent the unauthorized disclosure or use thereof.
+
+2.4 Each Party may disclose Confidential Information to its Representatives who need to know such information for purposes of evaluating the Proposed Transaction, provided that such Representatives are informed of the confidential nature of the information and agree to be bound by the terms of this Agreement.
+
+2.5 Each Party shall be responsible for any breach of this Agreement by its Representatives.
+
+ARTICLE III -- EXCLUSIONS
+
+3.1 The obligations set forth in Article II shall not apply to information that:
+
+   (a) Is or becomes generally available to the public other than as a result of a disclosure by the Evaluating Party or its Representatives in violation of this Agreement;
+   (b) Was within the Evaluating Party's possession prior to being furnished by the Furnishing Party, provided that the source of such information was not bound by a confidentiality obligation to the Furnishing Party;
+   (c) Becomes available to the Evaluating Party from a source other than the Furnishing Party or its Representatives, provided that such source is not bound by a confidentiality obligation to the Furnishing Party; or
+   (d) Is independently developed by the Evaluating Party without use of or reference to any Confidential Information.
+
+ARTICLE IV -- COMPELLED DISCLOSURE
+
+4.1 In the event that the Evaluating Party or any of its Representatives is legally compelled (by deposition, interrogatory, subpoena, civil investigative demand, or similar process) or is required by applicable law, rule, or regulation to disclose any Confidential Information, the Evaluating Party shall provide the Furnishing Party with prompt written notice of such requirement so that the Furnishing Party may seek a protective order or other appropriate remedy.
+
+4.2 In any event, the Evaluating Party may disclose only that portion of the Confidential Information that it is legally required to disclose and shall exercise best efforts to preserve the confidentiality of the remainder.
+
+ARTICLE V -- TERM
+
+5.1 This Agreement shall be effective from the Effective Date and shall remain in force until the earlier of: (a) the consummation of the Proposed Transaction; or (b) twenty-four (24) months from the Effective Date, unless extended by mutual written agreement.
+
+5.2 The confidentiality obligations set forth in this Agreement shall survive the termination or expiration hereof for a period of two (2) years from the date of termination or expiration.
+
+ARTICLE VI -- RETURN OR DESTRUCTION OF INFORMATION
+
+6.1 At any time upon the written request of the Furnishing Party, the Evaluating Party shall promptly (and in any event within ten (10) business days):
+
+   (a) Return to the Furnishing Party all Confidential Information (including all copies, extracts, and summaries thereof); or
+   (b) Destroy all such Confidential Information and provide a written certification of destruction signed by an authorized officer of the Evaluating Party.
+
+6.2 Notwithstanding the foregoing, the Evaluating Party may retain copies of Confidential Information (i) to the extent required by applicable law, regulation, or professional standards, or (ii) in automatic electronic backup systems, provided that such retained information remains subject to the confidentiality obligations of this Agreement.
+
+ARTICLE VII -- NON-SOLICITATION
+
+7.1 For a period of twenty-four (24) months following the Effective Date, neither Party shall, without the prior written consent of the other Party, directly or indirectly solicit for employment any officer, director, or employee of the other Party with whom it had contact or who became known to it in connection with the Proposed Transaction.
+
+7.2 The foregoing restriction shall not apply to general solicitations of employment not specifically directed at the other Party's personnel.
+
+ARTICLE VIII -- STANDSTILL
+
+8.1 For a period of eighteen (18) months following the Effective Date, Continental agrees that neither it nor any of its affiliates shall, without the prior written invitation of Silverlake's Board of Directors:
+
+   (a) Acquire or agree to acquire any voting securities or assets of Silverlake;
+   (b) Seek or propose any merger, tender offer, exchange offer, or business combination involving Silverlake;
+   (c) Seek or propose to influence the management, Board of Directors, or policies of Silverlake;
+   (d) Make any public announcement regarding any of the foregoing; or
+   (e) Request Silverlake to amend or waive any provision of this Article VIII.
+
+ARTICLE IX -- REMEDIES AND INDEMNIFICATION
+
+9.1 Each Party acknowledges that the Confidential Information is of a special and unique character and that any breach of this Agreement may cause irreparable harm and significant injury that would be difficult to ascertain.
+
+9.2 In the event of a breach or threatened breach, the non-breaching Party shall be entitled to equitable relief, including injunctive relief and specific performance, without the necessity of proving actual damages or posting a bond.
+
+9.3 The Evaluating Party shall indemnify, defend, and hold harmless the Furnishing Party from and against any and all claims, losses, damages, liabilities, costs, and expenses (including reasonable attorneys' fees and court costs) arising from any breach of this Agreement by the Evaluating Party or its Representatives. Such indemnification obligations shall survive in perpetuity.
+
+ARTICLE X -- NO OBLIGATION TO PROCEED
+
+10.1 Nothing in this Agreement shall constitute a commitment by either Party to negotiate or enter into any agreement regarding the Proposed Transaction or any other transaction.
+
+10.2 Each Party reserves the right, in its sole discretion, to terminate discussions regarding the Proposed Transaction at any time, for any reason or no reason, without liability to the other Party.
+
+ARTICLE XI -- NO WARRANTY
+
+11.1 Neither Party makes any representation or warranty as to the accuracy, completeness, or sufficiency of any Confidential Information.
+
+11.2 Each Party acknowledges that it shall rely solely on its own due diligence and investigation in evaluating the Proposed Transaction.
+
+ARTICLE XII -- GOVERNING LAW AND JURISDICTION
+
+12.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws rules.
+
+12.2 The Parties hereby consent to the exclusive jurisdiction of the state and federal courts located in the Borough of Manhattan, New York City, for any dispute arising under this Agreement.
+
+ARTICLE XIII -- MISCELLANEOUS
+
+13.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and representations.
+
+13.2 Amendment. This Agreement may be amended only by a written instrument signed by both Parties.
+
+13.3 Assignment. Neither Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party.
+
+13.4 Severability. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+13.5 Waiver. No failure or delay by a Party in exercising any right under this Agreement shall constitute a waiver of such right.
+
+13.6 Notices. All notices shall be in writing and shall be delivered by hand, overnight courier, or certified mail to the addresses set forth above.
+
+13.7 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+13.8 No Agency. Nothing in this Agreement shall be deemed to create a partnership, joint venture, or agency relationship between the Parties.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly authorized representatives.
+
+SILVERLAKE MANUFACTURING GROUP, INC.
+
+By: ___________________________
+Name: Robert J. Kowalski
+Title: Chairman of the Board
+Date: ___________________________
+
+CONTINENTAL INDUSTRIAL HOLDINGS, PLC
+
+By: ___________________________
+Name: Sir Alistair H. Pemberton
+Title: Group Chief Executive
+Date: ___________________________

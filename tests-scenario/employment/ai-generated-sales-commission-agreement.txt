@@ -1,0 +1,135 @@
+SALES COMMISSION EMPLOYMENT AGREEMENT
+
+This Sales Commission Employment Agreement ("Agreement") is entered into as of February 1, 2026, by and between Apex Cloud Solutions, Inc., a Georgia corporation, with its principal place of business at 3344 Peachtree Road NE, Suite 1500, Atlanta, Georgia 30326 ("Company"), and Marcus T. Williams, an individual residing at 215 Courtland Street NE, Apartment 1204, Atlanta, Georgia 30303 ("Employee").
+
+WHEREAS, the Company wishes to employ the Employee as a sales professional and to compensate the Employee through a combination of base salary and commission earnings; and
+
+WHEREAS, the Employee desires to accept such employment on the terms set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+1. EMPLOYMENT AND POSITION
+
+1.1 Position. The Company hereby employs the Employee as a Senior Account Executive within the Enterprise Sales Division. The Employee shall be responsible for identifying, developing, and closing sales opportunities with enterprise-level clients.
+
+1.2 Duties. The Employee's duties shall include: (a) prospecting and generating new business leads; (b) conducting product demonstrations and presentations; (c) preparing and delivering sales proposals and contract negotiations; (d) maintaining and growing relationships with assigned accounts; (e) meeting or exceeding assigned sales quotas; (f) maintaining accurate records in the Company's CRM system; (g) attending industry events and trade shows as required; and (h) such other duties as may be assigned by the Employee's manager.
+
+1.3 Reporting. The Employee shall report to the Regional Vice President of Enterprise Sales.
+
+1.4 Territory. The Employee shall be assigned the Southeast Region territory, encompassing the states of Georgia, Florida, Alabama, South Carolina, North Carolina, Tennessee, and Mississippi.
+
+2. TERM
+
+2.1 At-Will Employment. The Employee's employment is at-will. Either party may terminate the employment relationship at any time, with or without cause, subject to Section 10 of this Agreement.
+
+3. COMPENSATION
+
+3.1 Base Salary. The Employee shall receive an annual base salary of Eighty-Five Thousand Dollars ($85,000.00), payable in accordance with the Company's standard bi-weekly payroll schedule, less all applicable withholdings.
+
+3.2 Commission Structure. In addition to the base salary, the Employee shall be eligible to earn commission compensation as follows:
+
+(a) Annual Quota. The Employee's annual sales quota ("Quota") for the current fiscal year shall be Two Million Five Hundred Thousand Dollars ($2,500,000.00) in net new Annual Recurring Revenue ("ARR"). The Quota may be adjusted annually by the Company.
+
+(b) Commission Rate. The Employee shall earn a commission of eight percent (8%) of net new ARR for all closed-won deals up to one hundred percent (100%) of Quota.
+
+(c) Accelerator. For net new ARR exceeding one hundred percent (100%) of Quota, the commission rate shall increase to twelve percent (12%) ("Accelerator Rate").
+
+(d) On-Target Earnings. The Employee's total on-target earnings ("OTE"), assuming one hundred percent (100%) Quota attainment, shall be approximately Two Hundred Eighty-Five Thousand Dollars ($285,000.00), consisting of the base salary plus estimated commissions of Two Hundred Thousand Dollars ($200,000.00).
+
+[ANOMALY: Contradictory OTE calculation - 8% of $2,500,000 = $200,000 in commissions. $85,000 base + $200,000 commission = $285,000 OTE. But that means OTE is correct at first glance. However, there is a contradiction: the base salary is $85,000 but Section 3.5 states the draw is against a base of $90,000.]
+
+3.3 Commission Calculation and Payment. Commissions shall be calculated monthly based on closed-won revenue recognized during the applicable month. Commission payments shall be made on the last payroll cycle of the month following the month in which the revenue is recognized, subject to the following:
+
+(a) Revenue Recognition. For purposes of commission calculation, revenue shall be deemed recognized upon execution of a binding customer contract and receipt of the initial payment or purchase order.
+
+(b) Multi-Year Deals. For multi-year contracts, commissions shall be calculated on the total contract value if paid upfront, or on the first-year ARR if paid annually.
+
+(c) Clawback. If a customer cancels or terminates a contract within the first twelve (12) months, the Company reserves the right to claw back commissions paid on such deal, prorated based on the portion of the twelve-month period remaining at the time of cancellation.
+
+3.4 Commission Disputes. In the event of any dispute regarding commission calculations, the Employee shall notify the Company in writing within thirty (30) days of receipt of the commission statement. The Company shall review the dispute and provide a written response within fifteen (15) business days.
+
+3.5 Draw. For the first three (3) months of employment, the Employee shall receive a non-recoverable draw against commissions of Seven Thousand Five Hundred Dollars ($7,500.00) per month, representing a guaranteed minimum monthly compensation of Ninety Thousand Dollars ($90,000.00) annualized base inclusive of draw.
+
+[ANOMALY: Section 3.1 states base salary is $85,000, but Section 3.5 references $90,000 annualized base - contradictory salary figures]
+
+3.6 Spiffs and Bonuses. The Company may, from time to time and at its sole discretion, offer additional sales performance incentive funds ("SPIFs") or bonuses. Such programs shall be communicated separately and shall not modify the commission structure set forth herein.
+
+4. SALES QUOTA AND PERFORMANCE
+
+4.1 Quota Assignment. The Employee's Quota shall be established by the Company at the beginning of each fiscal year and communicated to the Employee in writing within thirty (30) days of the start of the fiscal year.
+
+4.2 Quota Adjustments. The Company reserves the right to adjust the Employee's Quota mid-year in the event of material changes to the Employee's territory, product line, or market conditions. Any such adjustments shall be communicated in writing.
+
+4.3 Performance Reviews. The Employee's sales performance shall be reviewed on a quarterly basis. If the Employee fails to achieve fifty percent (50%) of the quarterly pro-rated Quota for two consecutive quarters, the Employee may be placed on a performance improvement plan at the Company's discretion.
+
+5. EXPENSES
+
+5.1 Business Expenses. The Company shall reimburse the Employee for reasonable and necessary business expenses incurred in the performance of sales duties, including travel, meals, entertainment, and client-related expenses, subject to the Company's expense reimbursement policy and pre-approval requirements.
+
+5.2 Automobile. The Employee shall receive a monthly automobile allowance of Six Hundred Dollars ($600.00) to cover costs associated with business-related travel within the assigned territory.
+
+5.3 Mobile Phone. The Company shall reimburse the Employee for business use of a personal mobile phone up to One Hundred Dollars ($100.00) per month.
+
+6. BENEFITS
+
+6.1 Standard Benefits. The Employee shall be entitled to participate in the Company's standard benefits package, including medical, dental, and vision insurance, life insurance, short-term and long-term disability insurance, and the Company's 401(k) retirement savings plan, subject to the terms and conditions of each plan.
+
+6.2 Paid Time Off. The Employee shall accrue fifteen (15) days of paid time off per calendar year. PTO must be used in the calendar year in which it is accrued and shall not carry over.
+
+7. CONFIDENTIALITY
+
+7.1 The Employee acknowledges that during employment, the Employee will have access to Confidential Information, including but not limited to: customer lists, pricing strategies, sales methodologies, product roadmaps, financial data, and business plans. The Employee shall maintain the confidentiality of all such information during and after employment.
+
+8. NON-SOLICITATION AND NON-COMPETITION
+
+8.1 Non-Solicitation of Customers. During employment and for a period of twelve (12) months following termination, the Employee shall not directly or indirectly solicit, contact, or do business with any customer or prospect of the Company with whom the Employee had material contact during the last twelve (12) months of employment, for the purpose of selling products or services that compete with the Company's offerings.
+
+8.2 Non-Solicitation of Employees. During employment and for twelve (12) months following termination, the Employee shall not solicit, recruit, or hire any employee of the Company.
+
+8.3 Non-Competition. During employment and for a period of twelve (12) months following termination, the Employee shall not engage in sales activities for any Competing Business within the Southeast Region territory. "Competing Business" means any entity that provides cloud infrastructure, platform-as-a-service, or software-as-a-service solutions that directly compete with the Company's product offerings.
+
+9. INTELLECTUAL PROPERTY
+
+9.1 All sales materials, presentations, proposals, and other work product created by the Employee in the course of employment shall be the sole property of the Company.
+
+10. TERMINATION
+
+10.1 Termination at Will. Either party may terminate employment at any time, with or without cause, upon two (2) weeks' written notice.
+
+10.2 Post-Termination Commissions. Upon termination of employment for any reason:
+
+(a) The Employee shall be entitled to commissions on all deals that were fully closed-won (contract executed and initial payment received) prior to the effective date of termination.
+
+(b) The Employee shall not be entitled to commissions on deals that are in the pipeline but not yet closed as of the termination date, regardless of the Employee's contribution to such deals.
+
+(c) All commission payments owed shall be paid within sixty (60) days of the termination date.
+
+10.3 Transition. Upon termination, the Employee shall cooperate in the orderly transition of accounts and pipeline to the Employee's successor.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties regarding the Employee's employment and commission structure. This Agreement supersedes all prior commission plans, letters, or agreements.
+
+11.2 Amendments. The Company reserves the right to modify the commission structure annually. Any material changes to the commission structure during a fiscal year shall require thirty (30) days' written notice.
+
+11.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Georgia.
+
+11.4 Severability. If any provision is held invalid, the remaining provisions shall continue in effect.
+
+11.5 Dispute Resolution. Any dispute arising under this Agreement shall be resolved through binding arbitration in Atlanta, Georgia, under the rules of the American Arbitration Association.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+COMPANY:
+Apex Cloud Solutions, Inc.
+
+By: ___________________________________
+Name: Jonathan R. Blackwell
+Title: Chief Revenue Officer
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Marcus T. Williams
+Date: _________________________________

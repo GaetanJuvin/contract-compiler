@@ -1,0 +1,280 @@
+WAREHOUSE AND INDUSTRIAL SPACE LEASE AGREEMENT
+
+THIS WAREHOUSE AND INDUSTRIAL SPACE LEASE AGREEMENT ("Lease") is entered into as of the
+5th day of March, 2026, by and between:
+
+LANDLORD: Iron Gate Industrial Trust, a Maryland real estate investment trust, with its
+principal office at 200 International Circle, Suite 1400, Hunt Valley, MD 21030
+("Landlord")
+
+TENANT: Pacific Freight Solutions, Inc., a Texas corporation, with its principal office
+at 8700 Commerce Park Drive, Houston, TX 77036 ("Tenant")
+
+WHEREAS, Landlord owns that certain industrial park known as Iron Gate Logistics Park,
+located at 14200 Beltway Industrial Boulevard, Houston, TX 77047; and
+
+WHEREAS, Tenant desires to lease warehouse and distribution space therein for its
+logistics and distribution operations;
+
+NOW, THEREFORE, the parties agree as follows:
+
+SECTION 1. PREMISES
+
+1.1 Demised Premises. Landlord leases to Tenant approximately 45,000 square feet of
+warehouse/distribution space in Building C of Iron Gate Logistics Park (the "Premises"),
+as more particularly described and depicted on Exhibit A, together with: (a) four (4)
+dock-high loading doors; (b) two (2) grade-level doors; (c) approximately 3,000 square
+feet of office/mezzanine space; and (d) a secured truck staging yard of approximately
+12,000 square feet adjacent to the Building.
+
+1.2 Parking. Tenant shall have the non-exclusive use of fifty (50) passenger vehicle
+parking spaces and fifteen (15) trailer staging positions.
+
+1.3 Clear Height. The warehouse portion of the Premises has a minimum clear height of
+thirty-two (32) feet.
+
+SECTION 2. TERM
+
+2.1 Initial Term. The Lease Term shall be ten (10) years, commencing on July 1, 2026
+("Commencement Date"), and expiring on June 30, 2036.
+
+2.2 Renewal. Tenant shall have two (2) options to renew for successive five (5) year
+periods each, by providing not less than nine (9) months' written notice prior to
+expiration. Renewal rent shall be at ninety-five percent (95%) of the then-prevailing
+fair market rate for comparable industrial space in the Houston submarket, but in no event
+less than the rent payable in the last year of the preceding term.
+
+2.3 Right of First Refusal. Tenant shall have a right of first refusal to lease any
+adjacent space in Building C that becomes available during the Lease Term, on the same
+terms offered to any bona fide third-party prospective tenant.
+
+SECTION 3. RENT
+
+3.1 Base Rent. Tenant shall pay Base Rent according to the following schedule:
+
+    Years 1-3:    $7.25/sq ft/year   ($326,250.00/year;  $27,187.50/month)
+    Years 4-6:    $7.75/sq ft/year   ($348,750.00/year;  $29,062.50/month)
+    Years 7-10:   $8.35/sq ft/year   ($375,750.00/year;  $31,312.50/month)
+
+3.2 NNN Lease. This is a triple-net ("NNN") lease. In addition to Base Rent, Tenant
+shall pay as Additional Rent its proportionate share of: (a) real estate taxes and
+assessments; (b) property insurance premiums; and (c) common area maintenance expenses,
+currently estimated at $2.15/sq ft/year.
+
+3.3 Tenant's proportionate share shall be 28.13%, calculated as the ratio of the
+Premises (45,000 sq. ft.) to the total leasable area of the Park (159,950 sq. ft.).
+
+3.4 Payment. All Rent shall be paid monthly in advance on the first (1st) day of each
+month by wire transfer or ACH payment. A late fee of five percent (5%) shall be assessed
+on any payment not received within seven (7) days of the due date.
+
+SECTION 4. SECURITY DEPOSIT
+
+4.1 Deposit. Upon execution, Tenant shall deliver a security deposit of $81,562.50,
+equal to three (3) months of initial Base Rent.
+
+4.2 Application and Return. The Security Deposit may be applied to cure any Tenant default.
+The Security Deposit, less lawful deductions, shall be returned within sixty (60) days
+following Tenant's surrender of the Premises.
+
+SECTION 5. USE
+
+5.1 Permitted Use. The Premises shall be used for warehousing, distribution, light
+assembly, and ancillary office uses related to Tenant's freight logistics business.
+
+5.2 Prohibited Uses. Tenant shall not use the Premises for heavy manufacturing, retail
+sales to the public, residential purposes, or for the storage of hazardous or explosive
+materials except as permitted in Section 12.
+
+5.3 Hours of Operation. Tenant may operate twenty-four (24) hours per day, seven (7) days
+per week, subject to applicable noise ordinances and the Park's rules regarding overnight
+truck idling.
+
+SECTION 6. MAINTENANCE AND REPAIRS
+
+6.1 Tenant's Obligations. As this is a triple-net lease, Tenant shall be responsible for
+all maintenance, repair, and replacement of the following, at Tenant's sole cost:
+
+    (a) Interior of the Premises, including walls, floors, and ceilings;
+    (b) All doors, including dock doors, overhead doors, and grade-level doors;
+    (c) HVAC systems serving the Premises;
+    (d) Plumbing and electrical systems within the Premises;
+    (e) The roof membrane and roof drainage systems;
+    (f) The foundation and structural components of the Building;
+    (g) Fire suppression and life safety systems within the Premises;
+    (h) The truck court, staging yard, and parking areas allocated to the Premises;
+    (i) All exterior lighting fixtures serving the Premises.
+
+[ANOMALY: Section 6.1(e) and (f) make Tenant responsible for roof, foundation, and
+structural components -- these are typically Landlord responsibilities even in NNN leases.
+This is an asymmetric/unfair allocation of structural repair costs to the Tenant.]
+
+6.2 Landlord's Obligations. Landlord shall maintain only the common driveways, shared
+landscaping, perimeter fencing, and park-wide stormwater management systems.
+
+6.3 Capital Expenditures. Notwithstanding Section 6.1, any single repair or replacement
+exceeding $50,000 shall require Landlord's prior written approval. However, Tenant shall
+remain solely responsible for the cost thereof.
+
+SECTION 7. ALTERATIONS AND IMPROVEMENTS
+
+7.1 Permitted Alterations. Tenant may make non-structural interior alterations costing
+less than $25,000 without Landlord's consent, provided Tenant provides Landlord with
+fifteen (15) days' prior written notice and copies of all plans.
+
+7.2 Structural Alterations. Any structural alterations, additions to the building exterior,
+or modifications to the roof, foundation, or building systems shall require Landlord's
+prior written consent.
+
+7.3 Racking and Equipment. Tenant may install warehouse racking systems, conveyor systems,
+and other trade equipment without Landlord's consent, provided such installations do not
+compromise the structural integrity of the Building.
+
+SECTION 8. INSURANCE
+
+8.1 Tenant's Insurance. Tenant shall maintain: (a) commercial general liability insurance,
+$2,000,000 per occurrence / $5,000,000 aggregate; (b) automobile liability insurance,
+$1,000,000 combined single limit; (c) umbrella/excess liability, $5,000,000; (d) property
+insurance covering Tenant's inventory, equipment, and improvements at full replacement
+cost; (e) workers' compensation as required by law; (f) environmental/pollution liability
+insurance, $2,000,000 per occurrence.
+
+8.2 Landlord as Additional Insured. All liability policies shall name Landlord and its
+mortgagee as additional insureds.
+
+8.3 Waiver of Subrogation. Both parties waive subrogation rights against each other.
+
+SECTION 9. ENVIRONMENTAL
+
+9.1 Compliance. Tenant shall comply with all federal, state, and local environmental laws,
+including the Resource Conservation and Recovery Act, the Clean Air Act, the Clean Water
+Act, and the Texas Solid Waste Disposal Act.
+
+9.2 Permitted Materials. Tenant may store and use diesel fuel, motor oil, cleaning
+solvents, and other materials customarily used in freight logistics operations, provided
+Tenant maintains proper containment systems, Material Safety Data Sheets, and all required
+permits.
+
+9.3 Environmental Indemnity. Tenant shall indemnify and hold Landlord harmless from any
+environmental claims, remediation costs, fines, or penalties arising from Tenant's use or
+storage of hazardous materials on the Premises. This indemnity shall survive the expiration
+or termination of this Lease.
+
+9.4 Baseline Assessment. Prior to the Commencement Date, Landlord and Tenant shall jointly
+conduct a Phase I Environmental Site Assessment of the Premises at shared expense.
+
+SECTION 10. ASSIGNMENT AND SUBLETTING
+
+10.1 Consent Required. Tenant shall not assign or sublet without Landlord's prior written
+consent, not to be unreasonably withheld or delayed.
+
+10.2 Permitted Transfers. Notwithstanding Section 10.1, Tenant may, without Landlord's
+consent, assign this Lease or sublet the Premises to any entity that controls, is
+controlled by, or is under common control with Tenant, or to any entity resulting from a
+merger, consolidation, or acquisition involving Tenant, provided the successor has a net
+worth at least equal to Tenant's net worth at the time of execution of this Lease.
+
+SECTION 11. DAMAGE AND DESTRUCTION
+
+11.1 Landlord's Repair Obligation. If the Premises are damaged by fire or casualty not
+caused by Tenant's negligence, Landlord shall repair the structural shell of the Building
+within one hundred eighty (180) days. If Landlord cannot restore within such period,
+either party may terminate this Lease.
+
+11.2 Tenant's Repair Obligation. Tenant shall be responsible for restoring its own
+improvements, fixtures, inventory, and equipment.
+
+11.3 Rent Abatement. Base Rent shall abate proportionately for any portion of the
+Premises rendered untenantable, commencing from the date of damage until the earlier of
+(a) substantial completion of Landlord's repairs, or (b) one hundred eighty (180) days.
+
+SECTION 12. DEFAULT AND REMEDIES
+
+12.1 Events of Default. The following constitute events of default: (a) failure to pay
+Rent within ten (10) days of written notice; (b) failure to perform any other covenant
+within thirty (30) days of written notice, provided that if the default cannot reasonably
+be cured within thirty (30) days, Tenant shall have such additional time as is reasonably
+necessary; (c) abandonment; (d) bankruptcy or insolvency.
+
+12.2 Remedies. Upon default, Landlord may: (a) terminate this Lease and recover damages;
+(b) continue the Lease and collect Rent as it becomes due; (c) re-enter and relet the
+Premises on Tenant's behalf; (d) exercise any other right available at law or equity.
+
+12.3 Tenant's Remedies. If Landlord defaults, Tenant may, after thirty (30) days' written
+notice and Landlord's failure to cure, (a) cure the default and offset reasonable costs
+against Rent; or (b) terminate this Lease if the default materially impairs Tenant's use.
+
+SECTION 13. CONDEMNATION
+
+13.1 Total Taking. If the entire Premises are taken by eminent domain, this Lease shall
+terminate as of the date of taking, and Rent shall be adjusted to the date of termination.
+
+13.2 Partial Taking. If a partial taking materially impairs Tenant's ability to use the
+Premises for its intended purpose, Tenant may terminate this Lease upon thirty (30) days'
+notice. Otherwise, the Lease shall continue with Rent proportionately reduced.
+
+13.3 Awards. Landlord shall receive all condemnation awards. Tenant may separately pursue
+a claim for its relocation expenses, trade fixtures, and business interruption losses.
+
+SECTION 14. INDEMNIFICATION
+
+14.1 Mutual Indemnification. Each party shall indemnify, defend, and hold harmless the
+other from claims, damages, and expenses arising from the indemnifying party's negligence
+or breach of this Lease.
+
+SECTION 15. SURRENDER
+
+15.1 Condition. Upon expiration or termination, Tenant shall surrender the Premises in
+good condition, reasonable wear and tear excepted, free of all Tenant's personal property,
+trade fixtures, racking, and equipment.
+
+15.2 Failure to Remove. Any property not removed within ten (10) days after expiration
+shall be deemed abandoned, and Landlord may dispose of it at Tenant's expense.
+
+SECTION 16. MISCELLANEOUS
+
+16.1 Governing Law. This Lease shall be governed by the laws of the State of Texas.
+
+16.2 Dispute Resolution. Any dispute arising under this Lease shall be resolved by binding
+arbitration in Houston, Texas, administered by the American Arbitration Association under
+its Commercial Arbitration Rules. The arbitrator's decision shall be final and binding.
+
+16.3 Force Majeure. Neither party shall be liable for delays caused by acts of God, war,
+terrorism, pandemic, government action, labor disputes, or other causes beyond the party's
+reasonable control. Force majeure shall not excuse the obligation to pay Rent.
+
+16.4 Notices. All notices shall be in writing and sent by certified mail or overnight
+courier to the addresses set forth above.
+
+16.5 Entire Agreement. This Lease constitutes the entire agreement and supersedes all
+prior negotiations and agreements between the parties.
+
+16.6 Amendments. No amendment shall be effective unless in writing and signed by both
+parties.
+
+16.7 Waiver. No waiver of any breach shall constitute a waiver of any subsequent breach.
+
+16.8 Recordation. Neither party shall record this Lease. The parties may execute and
+record a memorandum of this Lease.
+
+IN WITNESS WHEREOF, the parties have executed this Warehouse Lease as of the date first
+written above.
+
+LANDLORD:
+Iron Gate Industrial Trust
+
+By: _________________________________
+    William F. Hargrove, Senior Vice President
+    Date: _______________
+
+TENANT:
+Pacific Freight Solutions, Inc.
+
+By: _________________________________
+    Carlos A. Dominguez, Chief Executive Officer
+    Date: _______________
+
+EXHIBITS:
+Exhibit A - Site Plan and Premises Description
+Exhibit B - Rules and Regulations of Iron Gate Logistics Park
+Exhibit C - Environmental Compliance Requirements

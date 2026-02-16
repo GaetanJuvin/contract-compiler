@@ -1,0 +1,259 @@
+SUBLEASE AGREEMENT
+
+THIS SUBLEASE AGREEMENT ("Sublease") is made and entered into as of the 20th day of
+February, 2026, by and between:
+
+SUBLANDLORD: Vertex Analytics, Inc., a Massachusetts corporation, with offices at
+One Federal Street, 25th Floor, Boston, MA 02110 ("Sublandlord")
+
+SUBTENANT: Calloway Data Systems, LLC, a Massachusetts limited liability company, with
+offices at 150 Cambridge Park Drive, Suite 200, Cambridge, MA 02140 ("Subtenant")
+
+RECITALS
+
+A. Sublandlord is the tenant under that certain Office Lease Agreement dated September 1,
+2022 (the "Master Lease"), between Harbor Point Realty Trust ("Master Landlord") and
+Sublandlord, covering approximately 15,000 rentable square feet on the 25th floor of One
+Federal Street, Boston, MA 02110 (the "Master Premises").
+
+B. Sublandlord desires to sublease a portion of the Master Premises to Subtenant, and
+Subtenant desires to sublease such space from Sublandlord.
+
+C. The Master Lease permits subletting with Master Landlord's prior written consent, which
+consent shall not be unreasonably withheld.
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, the parties agree:
+
+ARTICLE 1. SUBLEASE PREMISES
+
+1.1 Premises. Sublandlord subleases to Subtenant approximately 6,200 rentable square feet
+of office space constituting the eastern portion of the 25th floor, as depicted on Exhibit
+A attached hereto (the "Sublease Premises"). The Sublease Premises include access to six
+(6) private offices, an open workspace area, a kitchenette, and a small conference room.
+
+1.2 Shared Facilities. Subtenant shall have non-exclusive access to the main conference
+room (Suite 2510), the reception area, and the kitchen facilities on the 25th floor,
+subject to reasonable scheduling and use policies established by Sublandlord.
+
+1.3 Furniture. Sublandlord shall provide the Sublease Premises furnished with existing
+office furniture including desks, chairs, filing cabinets, and conference table. Subtenant
+shall maintain such furniture in good condition and shall not remove it from the Premises.
+
+ARTICLE 2. TERM
+
+2.1 Sublease Term. The Sublease Term shall commence on April 15, 2026 ("Commencement
+Date"), and shall expire on August 31, 2029, which is three (3) months prior to the
+expiration of the Master Lease on November 30, 2029.
+
+2.2 Early Termination. Subtenant may terminate this Sublease upon one hundred twenty (120)
+days' written notice at any time after the first anniversary of the Commencement Date,
+subject to payment of an early termination fee equal to four (4) months of Sublease Rent.
+
+2.3 Master Lease Termination. This Sublease is subject and subordinate to the Master
+Lease. If the Master Lease terminates for any reason prior to the expiration of the
+Sublease Term, this Sublease shall simultaneously terminate, and Sublandlord shall have
+no liability to Subtenant on account of such termination, except to refund any prepaid
+rent and the security deposit.
+
+ARTICLE 3. RENT
+
+3.1 Sublease Rent. Subtenant shall pay Sublandlord monthly rent as follows:
+
+    Months 1-18:    $58.00/RSF/year ($359,600.00/year; $29,966.67/month)
+    Months 19-36:   $60.00/RSF/year ($372,000.00/year; $31,000.00/month)
+    Months 37-41:   $62.00/RSF/year ($384,400.00/year; $32,033.33/month)
+
+3.2 Additional Charges. Subtenant shall reimburse Sublandlord for Subtenant's proportionate
+share (41.33%, based on 6,200/15,000 RSF) of any increases in Operating Expenses and Taxes
+payable by Sublandlord under the Master Lease over the base year amounts established
+therein.
+
+3.3 Payment. Sublease Rent shall be due on the first (1st) day of each calendar month,
+payable by check or electronic transfer to the account designated by Sublandlord. Rent for
+any partial month shall be prorated on a per diem basis.
+
+3.4 Late Payment. A late fee of three percent (3%) of the overdue amount shall be charged
+on any payment received more than seven (7) days after the due date.
+
+ARTICLE 4. SECURITY DEPOSIT
+
+4.1 Deposit. Upon execution, Subtenant shall deliver to Sublandlord a security deposit of
+$62,000.00, equal to approximately two (2) months of initial Sublease Rent.
+
+4.2 Application and Return. The security deposit may be applied to any Subtenant default.
+The balance shall be returned within thirty (30) days after the expiration of the Sublease
+Term and Subtenant's surrender of the Sublease Premises, less any lawful deductions.
+
+ARTICLE 5. MASTER LEASE INCORPORATION
+
+5.1 Incorporation by Reference. Except as otherwise provided herein, the terms and
+conditions of the Master Lease are incorporated herein by reference as if fully set forth,
+and Subtenant shall observe and perform all obligations of the "Tenant" under the Master
+Lease with respect to the Sublease Premises.
+
+5.2 Exceptions. The following provisions of the Master Lease shall NOT apply to this
+Sublease: (a) any renewal or extension options; (b) any expansion rights or rights of
+first refusal; (c) any tenant improvement allowance; (d) any free rent periods; (e) any
+provisions regarding the initial build-out of the Master Premises.
+
+5.3 Conflicts. In the event of any conflict between the terms of this Sublease and the
+Master Lease, the terms of this Sublease shall control as between Sublandlord and
+Subtenant, provided that nothing herein shall be construed to modify or amend the Master
+Lease or Sublandlord's obligations thereunder.
+
+ARTICLE 6. MASTER LANDLORD CONSENT
+
+6.1 Condition Precedent. This Sublease is expressly conditioned upon Sublandlord's
+obtaining the written consent of Master Landlord to this Sublease within forty-five (45)
+days after the date hereof. If such consent is not obtained within said period, either
+party may terminate this Sublease by written notice to the other, and Sublandlord shall
+promptly refund to Subtenant any amounts previously paid.
+
+6.2 Sublandlord's Obligation. Sublandlord shall use commercially reasonable efforts to
+obtain Master Landlord's consent promptly.
+
+ARTICLE 7. USE
+
+7.1 Permitted Use. The Sublease Premises shall be used solely for general office purposes,
+including data analytics, software development, and related professional services.
+
+7.2 Compliance. Subtenant shall comply with all applicable laws and with all rules and
+regulations of the Building as set forth in the Master Lease.
+
+ARTICLE 8. MAINTENANCE AND SERVICES
+
+8.1 Building Services. Sublandlord shall pass through to Subtenant all building services
+that Sublandlord receives under the Master Lease, including janitorial service, HVAC,
+elevator service, and common area maintenance. Sublandlord shall not be liable for any
+interruption or inadequacy of such services.
+
+8.2 Subtenant's Obligations. Subtenant shall maintain the interior of the Sublease
+Premises in clean and good condition. Subtenant shall be responsible for any damage caused
+by Subtenant, its employees, or invitees beyond normal wear and tear.
+
+8.3 IT Infrastructure. Subtenant shall be responsible for its own telecommunications, data
+cabling, and IT infrastructure within the Sublease Premises. Any cabling installations
+must be coordinated with Building management.
+
+ARTICLE 9. ALTERATIONS
+
+9.1 No Alterations. Subtenant shall not make any alterations, additions, or improvements
+to the Sublease Premises without the prior written consent of both Sublandlord and Master
+Landlord.
+
+9.2 Restoration. Upon expiration or termination, Subtenant shall, at its sole cost,
+restore the Sublease Premises to their condition as of the Commencement Date, reasonable
+wear and tear excepted, unless Sublandlord waives such requirement in writing.
+
+ARTICLE 10. INSURANCE
+
+10.1 Subtenant's Insurance. Subtenant shall maintain: (a) commercial general liability
+insurance, $1,000,000 per occurrence / $2,000,000 aggregate; (b) property insurance for
+Subtenant's personal property; (c) workers' compensation as required by law.
+
+10.2 Additional Insureds. All liability policies shall name Sublandlord, Master Landlord,
+and their respective agents as additional insureds.
+
+10.3 Certificates. Subtenant shall deliver certificates of insurance to Sublandlord prior
+to the Commencement Date and upon each renewal.
+
+ARTICLE 11. ASSIGNMENT AND FURTHER SUBLETTING
+
+11.1 Prohibition. Subtenant shall not assign this Sublease or further sublet the Sublease
+Premises or any portion thereof without the prior written consent of both Sublandlord and
+Master Landlord.
+
+ARTICLE 12. DEFAULT AND REMEDIES
+
+12.1 Subtenant Default. Each of the following constitutes an event of default: (a) failure
+to pay Rent within five (5) days after written notice; (b) breach of any other covenant
+not cured within fifteen (15) days after written notice; (c) bankruptcy or insolvency.
+
+12.2 Sublandlord's Remedies. Upon default, Sublandlord may: (a) terminate this Sublease
+upon five (5) days' notice; (b) re-enter and repossess the Sublease Premises; (c) recover
+all damages including accelerated rent and costs of reletting.
+
+[ANOMALY: Temporal impossibility -- Section 12.1(b) allows 15 days to cure a non-monetary
+default, but Section 12.2(a) allows termination on only 5 days' notice. The cure period
+should be longer than the termination notice period for it to be meaningful.]
+
+12.3 Sublandlord Default. If Sublandlord defaults in its obligations, Subtenant shall give
+written notice, and Sublandlord shall have thirty (30) days to cure. If Sublandlord fails
+to cure, Subtenant may pursue remedies at law or equity, but shall not have the right to
+terminate this Sublease except in the case of a material breach that renders the Sublease
+Premises unusable.
+
+ARTICLE 13. INDEMNIFICATION
+
+13.1 Subtenant's Indemnification. Subtenant shall indemnify and hold harmless Sublandlord
+from all claims arising from Subtenant's use of the Sublease Premises or Subtenant's
+breach of this Sublease.
+
+13.2 Sublandlord's Indemnification. Sublandlord shall indemnify and hold harmless
+Subtenant from claims arising from Sublandlord's breach of this Sublease or the Master
+Lease to the extent such breach adversely affects Subtenant.
+
+ARTICLE 14. REPRESENTATIONS AND WARRANTIES
+
+14.1 Sublandlord Representations. Sublandlord represents and warrants that: (a) the
+Master Lease is in full force and effect; (b) Sublandlord is not in default under the
+Master Lease; (c) the Master Lease permits subletting with Master Landlord's consent;
+(d) a true and complete copy of the Master Lease has been provided to Subtenant.
+
+14.2 Subtenant Representations. Subtenant represents and warrants that it has reviewed
+the Master Lease and is familiar with its terms and conditions.
+
+ARTICLE 15. MISCELLANEOUS
+
+15.1 Governing Law. This Sublease shall be governed by the laws of the Commonwealth of
+Massachusetts.
+
+15.2 Dispute Resolution. Any dispute shall be submitted to binding arbitration in Boston,
+Massachusetts, under the rules of the American Arbitration Association. The prevailing
+party shall be entitled to recover reasonable attorneys' fees.
+
+15.3 Entire Agreement. This Sublease, together with the Master Lease as incorporated
+herein, constitutes the entire agreement between the parties.
+
+15.4 Notices. All notices shall be in writing and sent by certified mail or overnight
+courier to the addresses first set forth above.
+
+15.5 Broker. The parties acknowledge that Newmark (representing Sublandlord) and Cushman
+& Wakefield (representing Subtenant) are the only brokers involved. Sublandlord shall be
+responsible for all brokerage commissions.
+
+15.6 Counterparts. This Sublease may be executed in counterparts.
+
+IN WITNESS WHEREOF, the parties have executed this Sublease Agreement as of the date
+first written above.
+
+SUBLANDLORD:
+Vertex Analytics, Inc.
+
+By: _________________________________
+    Dr. Raymond K. Choi, Chief Operating Officer
+    Date: _______________
+
+SUBTENANT:
+Calloway Data Systems, LLC
+
+By: _________________________________
+    Megan A. Calloway, Managing Member
+    Date: _______________
+
+CONSENT OF MASTER LANDLORD
+
+Harbor Point Realty Trust hereby consents to the foregoing Sublease, subject to all terms
+and conditions of the Master Lease. Such consent shall not be deemed a waiver of any
+provision of the Master Lease or a consent to any future subletting or assignment.
+
+HARBOR POINT REALTY TRUST
+
+By: _________________________________
+    Authorized Trustee
+    Date: _______________
+
+EXHIBIT A - Plan of Sublease Premises
+[To be attached]

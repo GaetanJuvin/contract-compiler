@@ -1,0 +1,155 @@
+MASTER BULK PURCHASE ORDER AGREEMENT
+
+Agreement No.: BPO-2025-3341
+Date: October 7, 2025
+
+This Master Bulk Purchase Order Agreement ("Agreement") is made and entered into by and between:
+
+PURCHASER: Grandview Hospitality Group, Inc., a Nevada corporation, located at 8900 Las Vegas Boulevard South, Las Vegas, NV 89123 ("Purchaser")
+
+VENDOR: Atlas Commercial Furnishings, Co., an Illinois corporation, located at 3200 West Kinzie Street, Chicago, IL 60624 ("Vendor")
+
+RECITALS
+
+WHEREAS, Purchaser operates a chain of hotels, resorts, and conference centers across the United States and requires large quantities of commercial furniture, fixtures, and equipment ("FF&E");
+
+WHEREAS, Vendor is a manufacturer and wholesale distributor of commercial-grade FF&E products; and
+
+WHEREAS, Purchaser desires to enter into a bulk purchase arrangement with Vendor to secure favorable pricing, priority allocation, and streamlined ordering for its FF&E requirements;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+SECTION 1 - PRODUCTS AND QUANTITIES
+
+1.1 Products. Vendor shall sell and Purchaser shall purchase the commercial furniture, fixtures, and equipment described in Attachment A ("Products"). Products include but are not limited to: guest room furniture sets, lobby seating, conference tables, banquet chairs, and custom millwork.
+
+1.2 Committed Volumes. Purchaser commits to purchasing a minimum of Three Million Five Hundred Thousand Dollars ($3,500,000) worth of Products during each contract year (the "Annual Minimum Commitment").
+
+1.3 Volume Tiers. Pricing shall be based on the following annual purchase volume tiers:
+    Tier 1: $0 - $2,000,000 - Standard pricing per Attachment A
+    Tier 2: $2,000,001 - $5,000,000 - 8% discount off standard pricing
+    Tier 3: $5,000,001 - $10,000,000 - 14% discount off standard pricing
+    Tier 4: Over $10,000,000 - 19% discount off standard pricing
+
+[ANOMALY: Pricing inconsistency - unit prices in Section 1.4 do not match volume tier discounts]
+1.4 Unit Pricing for Key Items. The following unit prices shall apply regardless of volume tier:
+    (a) Standard Guest Room Set (Model GR-400): $2,850 per set
+    (b) Executive Suite Set (Model ES-700): $6,200 per set
+    (c) Conference Table, 12-seat (Model CT-12): $3,475 each
+    (d) Banquet Chair, Stackable (Model BC-100): $189 each
+    (e) Lobby Sofa, 3-seat (Model LS-300): $4,100 each
+
+    For the avoidance of doubt, an order of 800 Standard Guest Room Sets shall be priced at a total of $2,394,000, inclusive of all applicable discounts.
+
+    [Note: 800 x $2,850 = $2,280,000, not $2,394,000. The stated total is inconsistent with the unit price.]
+
+SECTION 2 - ORDERING PROCESS
+
+2.1 Blanket Orders. Purchaser may issue blanket purchase orders covering anticipated requirements for a period of up to twelve (12) months. Blanket orders shall specify the Products, estimated quantities, delivery schedule, and ship-to locations.
+
+2.2 Release Orders. Against each blanket order, Purchaser shall issue release orders specifying exact quantities and delivery dates at least twenty-one (21) days prior to the requested delivery date.
+
+2.3 Order Confirmation. Vendor shall confirm each release order within two (2) business days, including confirmation of the delivery date and any backorder status.
+
+2.4 Changes. Purchaser may modify release orders up to fourteen (14) days before the scheduled delivery date without penalty. Changes made within fourteen (14) days may be subject to change fees not to exceed five percent (5%) of the affected order value.
+
+SECTION 3 - DELIVERY
+
+[ANOMALY: Ambiguous delivery terms]
+3.1 Delivery. Vendor shall deliver Products in reasonable quantities at prompt intervals consistent with Purchaser's project timelines. Delivery shall be made to Purchaser's designated locations across the continental United States in a timely manner.
+
+3.2 Installation. Where specified in the release order, Vendor shall provide white-glove delivery and installation services at an additional charge as set forth in Attachment B. Installation shall include unpacking, assembly, placement, and removal of all packaging materials.
+
+3.3 Shipping Terms. All shipments shall be FOB Destination, freight prepaid and allowed. Vendor shall bear all costs and risks of transportation until Products are delivered to and accepted at Purchaser's designated location.
+
+3.4 Damage in Transit. Vendor shall be responsible for filing all freight claims for Products damaged in transit and shall replace damaged Products within fifteen (15) business days at no additional cost to Purchaser.
+
+SECTION 4 - PAYMENT
+
+4.1 Invoicing. Vendor shall invoice Purchaser upon delivery and acceptance of Products at each location. Invoices shall be submitted electronically through Purchaser's vendor portal.
+
+[ANOMALY: Circular dependency between delivery/payment]
+4.2 Payment Terms. Purchaser shall pay approved invoices within forty-five (45) days of invoice receipt. However, payment shall not be due until Purchaser has completed its inspection under Section 5.1 and issued written acceptance. Final acceptance shall not be issued until all punch-list items identified during inspection have been resolved by Vendor. Vendor shall not be required to commence punch-list work until Purchaser has remitted payment of at least seventy-five percent (75%) of the invoice amount.
+
+4.3 Retainage. Purchaser shall withhold ten percent (10%) of each invoice as retainage, to be released within thirty (30) days after completion and final acceptance of the entire project associated with each blanket order.
+
+4.4 Volume Rebates. In addition to tier discounts, Vendor shall provide a two percent (2%) annual volume rebate on all purchases exceeding the Annual Minimum Commitment, payable within sixty (60) days after the end of each contract year.
+
+SECTION 5 - QUALITY AND ACCEPTANCE
+
+5.1 Inspection. Purchaser shall inspect all Products within ten (10) business days of delivery. Purchaser may reject any Products that do not conform to the specifications, samples, or quality standards set forth in this Agreement.
+
+5.2 Samples and Approvals. Prior to commencing production of any new Product or upon any design modification, Vendor shall submit pre-production samples for Purchaser's approval. Production shall not begin until Purchaser provides written approval of the samples.
+
+5.3 Standards. All Products shall meet or exceed BIFMA (Business and Institutional Furniture Manufacturers Association) standards for commercial-grade furniture, including durability, stability, and fire resistance requirements.
+
+5.4 Finish and Color. All Products shall match the approved finish and color samples within acceptable tolerances as defined in Attachment C.
+
+SECTION 6 - WARRANTIES
+
+6.1 Structural Warranty. Vendor warrants the structural integrity of all Products for a period of ten (10) years from the date of delivery.
+
+6.2 Finish Warranty. Vendor warrants all surface finishes against peeling, cracking, and fading under normal commercial use for a period of five (5) years.
+
+6.3 Fabric and Upholstery Warranty. Vendor warrants all fabrics and upholstery against seam failure, excessive pilling, and colorfastness under normal commercial use for a period of three (3) years.
+
+6.4 Warranty Service. Vendor shall repair or replace warranted Products at Purchaser's location at Vendor's sole expense, including all labor, materials, and transportation costs.
+
+SECTION 7 - INDEMNIFICATION
+
+7.1 Vendor shall indemnify, defend, and hold harmless Purchaser and its affiliates, officers, directors, employees, and guests from and against any and all claims, suits, damages, losses, and expenses arising from: (a) defective Products; (b) Vendor's negligence or willful misconduct; (c) Vendor's breach of this Agreement; or (d) any violation of applicable laws by Vendor.
+
+7.2 Purchaser shall indemnify Vendor against claims arising from Purchaser's misuse of Products in a manner inconsistent with Vendor's written instructions and applicable product literature.
+
+SECTION 8 - INSURANCE
+
+8.1 Vendor shall maintain throughout the Term: (a) Commercial General Liability insurance with limits of not less than $2,000,000 per occurrence and $5,000,000 aggregate; (b) Products-Completed Operations Liability of not less than $5,000,000; (c) Workers' Compensation as required by law; and (d) Commercial Auto Liability of not less than $1,000,000 combined single limit.
+
+8.2 Vendor shall name Purchaser as an additional insured on its CGL and Products liability policies and shall provide certificates of insurance prior to commencing performance.
+
+SECTION 9 - TERM AND TERMINATION
+
+9.1 Term. This Agreement shall be effective for three (3) years from the date hereof, with automatic renewal for one (1) year terms unless either Party provides ninety (90) days' written notice of non-renewal.
+
+9.2 Termination for Cause. Either Party may terminate for material breach upon thirty (30) days' written notice if the breach remains uncured.
+
+9.3 Termination for Convenience. Either Party may terminate without cause upon one hundred twenty (120) days' written notice. In such event, Purchaser shall pay for all Products delivered and accepted and reimburse Vendor for non-cancellable raw materials and work-in-progress specifically attributable to Purchaser's orders.
+
+SECTION 10 - MISCELLANEOUS
+
+10.1 Governing Law. This Agreement shall be governed by the laws of the State of Nevada.
+
+10.2 Dispute Resolution. Disputes shall be submitted to mediation in Las Vegas, Nevada. If unresolved within forty-five (45) days, either Party may pursue litigation in the courts of Clark County, Nevada.
+
+10.3 Compliance. Vendor shall comply with all applicable federal, state, and local laws, including OSHA regulations, environmental laws, and Purchaser's Supplier Code of Conduct.
+
+10.4 Force Majeure. Neither Party shall be liable for delays due to circumstances beyond its reasonable control.
+
+10.5 Entire Agreement. This Agreement, together with all Attachments and purchase orders issued hereunder, constitutes the entire agreement between the Parties.
+
+10.6 Assignment. Neither Party may assign without the other's written consent, except to an affiliate or successor entity.
+
+AGREED AND ACCEPTED:
+
+GRANDVIEW HOSPITALITY GROUP, INC.
+
+By: ___________________________
+Name: Patricia R. Donovan
+Title: SVP, Capital Projects & Procurement
+Date: October 7, 2025
+
+ATLAS COMMERCIAL FURNISHINGS, CO.
+
+By: ___________________________
+Name: Michael J. Romano
+Title: President
+Date: October 7, 2025
+
+ATTACHMENT A - PRODUCT CATALOG AND PRICING
+[To be attached]
+
+ATTACHMENT B - INSTALLATION SERVICES PRICING
+[To be attached]
+
+ATTACHMENT C - FINISH AND COLOR STANDARDS
+[To be attached]

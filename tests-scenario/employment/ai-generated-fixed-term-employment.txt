@@ -1,0 +1,129 @@
+FIXED-TERM EMPLOYMENT AGREEMENT
+
+This Fixed-Term Employment Agreement ("Agreement") is entered into as of January 20, 2026 ("Effective Date"), by and between Pinnacle Infrastructure Solutions, Inc., a New York corporation, with its principal office at 330 Madison Avenue, 18th Floor, New York, New York 10017 ("Employer"), and Carlos D. Menendez, an individual residing at 45-12 Court Square, Apartment 7A, Long Island City, New York 11101 ("Employee").
+
+WHEREAS, the Employer requires the services of a qualified project manager for a specific infrastructure modernization project; and
+
+WHEREAS, the Employee possesses the qualifications, skills, and experience necessary to fulfill the requirements of said project;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, the parties agree as follows:
+
+1. ENGAGEMENT AND POSITION
+
+1.1 Position. The Employer hereby employs the Employee as Senior Project Manager for the Metropolitan Transit Authority Digital Upgrade Initiative (the "Project"). The Employee shall be responsible for managing all aspects of the Project, including planning, execution, monitoring, and delivery of project milestones.
+
+1.2 Duties. The Employee's duties shall include but not be limited to: (a) developing and maintaining the project plan, schedule, and budget; (b) coordinating with internal teams, subcontractors, and client stakeholders; (c) preparing status reports and presentations for senior management and clients; (d) managing project risks and issues; (e) ensuring compliance with project specifications and quality standards; and (f) such other duties as may be reasonably assigned by the Employer.
+
+1.3 Reporting. The Employee shall report to the Vice President of Project Delivery.
+
+2. TERM OF EMPLOYMENT
+
+2.1 Fixed Term. The Employee's employment shall commence on February 15, 2026 ("Start Date") and shall continue until February 14, 2028 ("End Date"), unless earlier terminated in accordance with Section 8 of this Agreement. The period from the Start Date to the End Date is referred to as the "Employment Term."
+
+2.2 Renewal. This Agreement may be renewed or extended only by a written agreement signed by both parties at least sixty (60) days prior to the End Date.
+
+2.3 No Expectation of Continued Employment. The Employee acknowledges and agrees that this is a fixed-term employment arrangement and that there is no expectation or guarantee of continued employment beyond the End Date. Upon the expiration of the Employment Term, the employment relationship shall terminate automatically without notice or payment in lieu of notice, except as otherwise provided herein.
+
+3. COMPENSATION
+
+3.1 Base Salary. The Employee shall receive an annual base salary of One Hundred Seventy-Five Thousand Dollars ($175,000.00), payable in accordance with the Employer's standard payroll practices, less all applicable withholdings and deductions.
+
+3.2 Project Completion Bonus. Upon successful completion of the Project within the established timeline and budget parameters, the Employee shall receive a project completion bonus of Twenty-Five Thousand Dollars ($25,000.00), payable within thirty (30) days of the Project's formal acceptance by the client. "Successful completion" shall be defined by the achievement of the milestones and deliverables set forth in Exhibit A attached hereto.
+
+3.3 Milestone Payments. In addition to the base salary, the Employee shall be eligible for milestone payments as follows:
+(a) Phase 1 Completion (System Design Approval): $5,000.00
+(b) Phase 2 Completion (Infrastructure Deployment): $7,500.00
+(c) Phase 3 Completion (Testing and Validation): $5,000.00
+(d) Phase 4 Completion (Go-Live and Handover): $7,500.00
+
+Each milestone payment shall be contingent upon the timely achievement of the corresponding milestone as set forth in the Project plan.
+
+4. WORK SCHEDULE AND LOCATION
+
+4.1 Schedule. The Employee shall work a minimum of forty (40) hours per week. Given the nature of the Project, the Employee acknowledges that additional hours may be required from time to time to meet project deadlines and deliverables.
+
+4.2 Exempt Status. The Employee is classified as an exempt employee under the Fair Labor Standards Act and applicable state law and is not entitled to overtime compensation.
+
+4.3 Location. The Employee shall perform duties primarily at the Employer's offices in New York City and at the Project site locations within the New York metropolitan area. Reasonable travel within the tri-state area may be required.
+
+5. BENEFITS
+
+5.1 Health Insurance. The Employee shall be eligible to participate in the Employer's group health insurance plan, including medical, dental, and vision coverage, subject to the terms of such plan. The Employer shall pay seventy-five percent (75%) of the premium for individual coverage.
+
+5.2 Retirement Plan. The Employee shall be eligible to participate in the Employer's 401(k) plan, subject to the terms of such plan. The Employer shall provide a matching contribution of up to three percent (3%) of the Employee's eligible compensation.
+
+5.3 Paid Time Off. The Employee shall accrue fifteen (15) days of paid time off per year, accruing ratably on a monthly basis. Unused PTO shall not carry over and shall not be paid out upon termination of employment, except as required by applicable law.
+
+5.4 Holidays. The Employee shall be entitled to observe all Company-designated holidays, currently ten (10) paid holidays per year.
+
+6. EXPENSES
+
+6.1 The Employer shall reimburse the Employee for all reasonable and necessary business expenses incurred in the performance of duties, including travel, lodging, and meals, subject to the Employer's expense reimbursement policy and upon submission of itemized receipts and expense reports within thirty (30) days of incurring such expenses.
+
+7. CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+
+7.1 Confidential Information. The Employee acknowledges that during the Employment Term, the Employee will have access to confidential and proprietary information belonging to the Employer and its clients, including but not limited to: project plans, designs, specifications, technical data, pricing information, client information, vendor relationships, and business strategies ("Confidential Information").
+
+7.2 Non-Disclosure. The Employee shall maintain the confidentiality of all Confidential Information during and after the Employment Term. The Employee shall not disclose, use, copy, or distribute Confidential Information except as necessary in the performance of duties under this Agreement.
+
+7.3 Work Product. All work product, including but not limited to project plans, reports, designs, specifications, software, and documentation created by the Employee during the Employment Term and in connection with the Project ("Work Product") shall be the sole and exclusive property of the Employer. The Employee hereby assigns to the Employer all right, title, and interest in and to all Work Product.
+
+7.4 Client Materials. The Employee shall comply with all confidentiality and security requirements imposed by the Employer's clients with respect to client materials and data.
+
+8. TERMINATION
+
+8.1 Expiration. This Agreement shall terminate automatically upon the End Date without further action by either party.
+
+8.2 Early Termination by the Employer for Cause. The Employer may terminate this Agreement immediately for Cause. "Cause" shall mean: (a) the Employee's material breach of this Agreement; (b) the Employee's conviction of a felony or crime of moral turpitude; (c) the Employee's gross negligence or willful misconduct; (d) the Employee's continued failure to perform duties after written notice and a thirty (30) day cure period; or (e) the Employee's violation of the Employer's code of conduct or material policies.
+
+8.3 Early Termination by the Employer Without Cause. The Employer may terminate this Agreement without Cause upon sixty (60) days' prior written notice. In such event, the Employer shall pay the Employee (a) all earned but unpaid salary through the termination date, (b) any accrued but unused PTO, and (c) an early termination payment equal to three (3) months of base salary.
+
+8.4 Early Termination by the Employee. The Employee may terminate this Agreement upon sixty (60) days' prior written notice. In the event the Employee terminates this Agreement prior to the End Date, the Employee shall forfeit any unpaid milestone payments and the project completion bonus.
+
+8.5 Termination Due to Project Cancellation. If the Project is cancelled or materially reduced in scope by the client, the Employer may terminate this Agreement upon thirty (30) days' notice. In such event, the Employer shall pay the Employee (a) all earned but unpaid salary, (b) any milestone payments for milestones completed prior to termination, and (c) a pro-rated portion of the project completion bonus based on the percentage of the Project completed at the time of termination.
+
+8.6 Return of Property. Upon termination for any reason, the Employee shall immediately return all Employer and client property in the Employee's possession, including documents, equipment, access cards, keys, and electronic devices.
+
+9. NON-SOLICITATION
+
+9.1 During the Employment Term and for twelve (12) months following the termination of employment for any reason, the Employee shall not directly or indirectly: (a) solicit, recruit, or hire any employee or contractor of the Employer; or (b) solicit or divert the business of any client of the Employer with whom the Employee had material contact during the last twelve (12) months of the Employment Term.
+
+10. REPRESENTATIONS AND WARRANTIES
+
+10.1 The Employee represents and warrants that: (a) the Employee holds a valid Project Management Professional (PMP) certification; (b) the Employee is legally authorized to work in the United States; (c) the Employee is not subject to any restrictive covenant or other obligation that would prevent or restrict the performance of duties under this Agreement; and (d) all information provided by the Employee in connection with the Employee's hiring is true and accurate.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement. This Agreement, together with any exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements and understandings.
+
+11.2 Amendments. This Agreement may be amended only by written agreement signed by both parties.
+
+11.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to conflict of laws principles.
+
+11.4 Dispute Resolution. Any dispute arising out of or relating to this Agreement shall be submitted to binding arbitration in New York City under the rules of the American Arbitration Association.
+
+11.5 Severability. If any provision is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+11.6 Notices. All notices shall be in writing and delivered personally, by overnight courier, or by certified mail to the addresses set forth above.
+
+11.7 Waiver. No waiver of any provision shall be effective unless in writing and signed by the waiving party.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+EMPLOYER:
+Pinnacle Infrastructure Solutions, Inc.
+
+By: ___________________________________
+Name: Margaret A. Sullivan
+Title: Senior Vice President, Human Resources
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Carlos D. Menendez
+Date: _________________________________
+
+EXHIBIT A - PROJECT MILESTONES AND DELIVERABLES
+
+[To be attached upon Project plan finalization]

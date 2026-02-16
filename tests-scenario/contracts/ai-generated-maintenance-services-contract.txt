@@ -1,0 +1,182 @@
+MAINTENANCE SERVICES CONTRACT
+
+[ANOMALY CONTRACT - Contains contradictory notice periods, ambiguous language, and missing provisions]
+
+This Maintenance Services Contract ("Contract") is entered into effective as of January 5, 2026 ("Effective Date"), by and between:
+
+SERVICE PROVIDER: Atlas Facilities Management, Inc., a Texas corporation, with its principal offices at 2200 Ross Avenue, Suite 3600, Dallas, TX 75201 ("Provider")
+
+and
+
+PROPERTY OWNER: Grandview Commercial Properties, LLC, a Texas limited liability company, with its principal offices at 1000 Main Street, Suite 800, Houston, TX 77002 ("Owner")
+
+RECITALS
+
+WHEREAS, Owner is the proprietor of the commercial office complex located at 4500 Greenway Plaza, Houston, TX 77046 (the "Property"); and
+
+WHEREAS, Owner desires to engage Provider to perform certain maintenance and facility management services at the Property; and
+
+WHEREAS, Provider represents that it has the expertise, personnel, and resources to perform such services;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the Parties agree as follows:
+
+SECTION 1 - SERVICES
+
+1.1 Scope of Services. Provider shall perform the maintenance services described in Appendix A (the "Services") at the Property during the Term of this Contract. The Services shall include, but not be limited to:
+
+    (a) Routine preventive maintenance of all HVAC systems, electrical systems, plumbing, and fire suppression systems;
+    (b) Janitorial and cleaning services for common areas, lobbies, restrooms, and exterior grounds;
+    (c) Landscaping and groundskeeping services;
+    (d) Minor repair services not exceeding $5,000 per individual repair;
+    (e) Emergency response services for facility emergencies on a 24/7 basis;
+    (f) Building security systems monitoring and maintenance; and
+    (g) Pest control services on a quarterly basis.
+
+1.2 Service Standards. Provider shall perform all Services in a good and workmanlike manner, in accordance with applicable industry standards and all relevant building codes, safety regulations, and environmental laws. Provider shall use qualified and trained personnel for all Services. [ANOMALY: "Good and workmanlike manner" and "applicable industry standards" are undefined and ambiguous]
+
+1.3 Service Schedule. Provider shall perform the Services in accordance with the maintenance schedule set forth in Appendix B. Provider shall ensure adequate staffing during all scheduled service periods. Any changes to the service schedule must be mutually agreed upon in writing.
+
+1.4 Additional Services. Owner may request additional services beyond the scope of Appendix A from time to time. Provider shall provide a written estimate for any such additional services within a reasonable time period after receiving the request. Additional services shall not commence until Owner provides written authorization. [ANOMALY: "Reasonable time period" is undefined]
+
+1.5 Subcontracting. Provider may subcontract portions of the Services with Owner's prior written consent. Provider shall remain responsible for the work of all subcontractors and shall ensure that subcontractors maintain appropriate insurance coverage as specified in Section 6.
+
+SECTION 2 - TERM
+
+2.1 Initial Term. This Contract shall commence on the Effective Date and shall continue for an initial term of three (3) years (the "Initial Term"), ending on January 4, 2029.
+
+2.2 Renewal. This Contract shall automatically renew for successive one (1) year periods (each a "Renewal Term") unless either Party provides written notice of non-renewal at least thirty (30) days prior to the expiration of the then-current term. [ANOMALY: Contradicts Section 7.1 which requires 90 days' notice for non-renewal]
+
+2.3 Transition Period. Upon expiration or termination of this Contract, Provider shall cooperate with Owner and any successor service provider during a transition period of up to sixty (60) days to ensure an orderly transfer of services.
+
+SECTION 3 - COMPENSATION
+
+3.1 Monthly Fee. Owner shall pay Provider a fixed monthly fee of $87,500.00 (the "Monthly Fee") for the Services described in Appendix A. The Monthly Fee is inclusive of all labor, materials, supplies, and equipment required for the routine Services.
+
+3.2 Annual Adjustment. The Monthly Fee shall be adjusted annually on each anniversary of the Effective Date by the greater of: (a) three percent (3%); or (b) the percentage increase in the Consumer Price Index for All Urban Consumers (CPI-U) for the Houston-The Woodlands-Sugar Land metropolitan area for the preceding twelve-month period.
+
+3.3 Additional Services Compensation. Additional services authorized under Section 1.4 shall be compensated at the rates set forth in Appendix C, plus the actual cost of materials with a fifteen percent (15%) markup.
+
+3.4 Invoicing. Provider shall submit monthly invoices to Owner by the fifth (5th) business day of each month for the preceding month's Services. Each invoice shall include a detailed breakdown of services performed, hours worked, and materials used.
+
+3.5 Payment Terms. Owner shall pay each invoice within thirty (30) days of receipt. Late payments shall accrue interest at one percent (1%) per month. Provider may suspend non-emergency Services if any payment is more than forty-five (45) days overdue, upon fifteen (15) days' written notice to Owner.
+
+3.6 Disputed Invoices. Owner may dispute any invoice item by providing written notice to Provider within ten (10) days of receipt of the invoice. The Parties shall negotiate in good faith to resolve any billing disputes promptly. Undisputed amounts shall remain due and payable.
+
+SECTION 4 - PROVIDER OBLIGATIONS
+
+4.1 Personnel. Provider shall employ sufficient qualified personnel to perform the Services. All personnel assigned to the Property shall: (a) pass background checks satisfactory to Owner; (b) comply with all Property rules and regulations; (c) wear appropriate identification and uniforms; and (d) maintain any required licenses and certifications.
+
+4.2 Equipment and Supplies. Provider shall furnish all equipment, tools, and supplies necessary to perform the routine Services, the cost of which is included in the Monthly Fee. Specialized equipment required for additional services shall be billed separately.
+
+4.3 Reporting. Provider shall provide Owner with:
+    (a) Monthly service reports summarizing all Services performed, including preventive maintenance activities, repairs, and any issues identified;
+    (b) Quarterly facility condition assessments;
+    (c) Annual capital planning recommendations; and
+    (d) Immediate notification of any emergency conditions, safety hazards, or regulatory compliance issues.
+
+4.4 Compliance. Provider shall comply with all applicable federal, state, and local laws, regulations, ordinances, and codes, including but not limited to OSHA regulations, environmental laws, and building codes.
+
+4.5 Key Performance Indicators. Provider shall meet the key performance indicators ("KPIs") set forth in Appendix D. Failure to meet KPIs for two (2) consecutive months or any three (3) months in a twelve (12) month period shall constitute a material breach of this Contract. [ANOMALY: Appendix D is referenced but not attached to the contract - missing provision]
+
+SECTION 5 - OWNER OBLIGATIONS
+
+5.1 Access. Owner shall provide Provider with reasonable access to the Property as necessary for Provider to perform the Services, including keys, access cards, and security codes.
+
+5.2 Information. Owner shall provide Provider with relevant information about the Property's systems, equipment, and maintenance history within a timely fashion. [ANOMALY: "Timely fashion" is undefined]
+
+5.3 Cooperation. Owner shall cooperate with Provider and respond to reasonable requests for information or decisions in a prompt manner to avoid delays in the performance of Services.
+
+5.4 Hazardous Materials. Owner shall inform Provider of any known hazardous materials or conditions at the Property. Provider shall not be responsible for the removal, remediation, or handling of hazardous materials unless specifically agreed in writing.
+
+SECTION 6 - INSURANCE
+
+6.1 Provider Insurance. Provider shall maintain, at its own expense, throughout the Term of this Contract:
+
+    (a) Commercial General Liability insurance with limits of not less than $2,000,000 per occurrence and $5,000,000 in the aggregate;
+    (b) Workers' Compensation insurance as required by Texas law;
+    (c) Employer's Liability insurance with limits of not less than $1,000,000 per accident;
+    (d) Commercial Automobile Liability insurance with a combined single limit of not less than $1,000,000 per accident; and
+    (e) Umbrella/Excess Liability insurance with limits of not less than $5,000,000.
+
+6.2 Additional Insured. Owner shall be named as an additional insured on Provider's Commercial General Liability and Umbrella/Excess Liability policies. Provider shall provide Owner with certificates of insurance evidencing the required coverage within ten (10) days of the Effective Date and annually thereafter.
+
+6.3 Notice of Cancellation. Provider shall require its insurers to provide Owner with at least thirty (30) days' prior written notice of cancellation or material change in coverage.
+
+SECTION 7 - TERMINATION
+
+7.1 Non-Renewal. Either Party may elect not to renew this Contract by providing written notice at least ninety (90) days prior to the expiration of the then-current term. [ANOMALY: Contradicts Section 2.2 which requires only 30 days' notice]
+
+7.2 Termination for Cause. Either Party may terminate this Contract upon thirty (30) days' written notice if the other Party materially breaches any provision of this Contract and fails to cure such breach within the thirty-day notice period.
+
+7.3 Termination for Convenience. Owner may terminate this Contract for convenience at any time upon sixty (60) days' prior written notice to Provider. In such event, Owner shall pay Provider for all Services performed through the effective date of termination, plus a termination fee equal to three (3) months of the Monthly Fee.
+
+7.4 Immediate Termination. Either Party may terminate this Contract immediately upon written notice if: (a) the other Party becomes insolvent, files for bankruptcy, or has a receiver appointed; (b) the other Party commits fraud or engages in willful misconduct; or (c) the Property is destroyed or rendered uninhabitable.
+
+7.5 Effect of Termination. Upon termination: (a) Provider shall complete any Services in progress to a reasonable stopping point; (b) Provider shall remove its personnel, equipment, and materials from the Property within fifteen (15) days; (c) Provider shall deliver to Owner all maintenance records, manuals, keys, and access devices; and (d) Owner shall pay all amounts due for Services rendered through the date of termination.
+
+SECTION 8 - LIABILITY AND INDEMNIFICATION
+
+8.1 Indemnification by Provider. Provider shall indemnify, defend, and hold harmless Owner and its members, managers, officers, employees, and agents from and against all claims, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) Provider's negligence or willful misconduct in performing the Services; (b) bodily injury or property damage caused by Provider or its employees, agents, or subcontractors; (c) Provider's violation of any applicable law; or (d) any claim by Provider's employees related to wages, benefits, or working conditions.
+
+8.2 Indemnification by Owner. Owner shall indemnify, defend, and hold harmless Provider and its officers, directors, employees, and agents from and against all claims, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) Owner's negligence or willful misconduct; (b) pre-existing conditions at the Property not disclosed to Provider; or (c) hazardous materials at the Property.
+
+8.3 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF THIS CONTRACT, REGARDLESS OF THE FORM OF ACTION OR THEORY OF LIABILITY. EACH PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS CONTRACT SHALL NOT EXCEED THE TOTAL FEES PAID OR PAYABLE UNDER THIS CONTRACT DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+8.4 Damage Cap Exception. The limitations in Section 8.3 shall not apply to: (a) a Party's indemnification obligations under Sections 8.1 and 8.2; (b) claims arising from gross negligence or willful misconduct; or (c) claims covered by insurance required under this Contract.
+
+SECTION 9 - DISPUTE RESOLUTION
+
+9.1 Negotiation. The Parties shall attempt to resolve any dispute arising under this Contract through good-faith negotiation between senior management of both Parties for a period of not less than thirty (30) days.
+
+9.2 Mediation. If negotiation fails, the dispute shall be submitted to mediation in Houston, Texas, under the rules of the American Arbitration Association. The costs of mediation shall be shared equally.
+
+9.3 Litigation. If mediation fails to resolve the dispute within sixty (60) days, either Party may pursue its remedies in the state or federal courts located in Harris County, Texas.
+
+[NOTE: No Force Majeure clause - ANOMALY: Missing standard provision for a facilities maintenance contract]
+[NOTE: No Governing Law clause - ANOMALY: Missing standard provision]
+
+SECTION 10 - MISCELLANEOUS
+
+10.1 Entire Agreement. This Contract, together with all Appendices, constitutes the entire agreement between the Parties regarding the subject matter hereof.
+
+10.2 Amendments. This Contract may only be amended by a written instrument signed by both Parties.
+
+10.3 Waiver. No waiver of any provision shall be effective unless in writing and signed by the waiving Party.
+
+10.4 Severability. If any provision is found invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.5 Notices. All notices shall be in writing and delivered by certified mail, overnight courier, or hand delivery to the addresses specified in the preamble.
+
+10.6 Assignment. Neither Party may assign this Contract without the other Party's prior written consent, except in connection with a sale of all or substantially all of the assigning Party's assets or equity interests.
+
+10.7 Independent Contractor. Provider is an independent contractor, and nothing in this Contract creates an employment, partnership, or agency relationship between the Parties.
+
+10.8 Counterparts. This Contract may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Contract as of the Effective Date.
+
+ATLAS FACILITIES MANAGEMENT, INC.
+
+By: ___________________________
+Name: Thomas J. Briggs
+Title: President and CEO
+Date: ___________________________
+
+GRANDVIEW COMMERCIAL PROPERTIES, LLC
+
+By: ___________________________
+Name: Catherine A. Reynolds
+Title: Managing Member
+Date: ___________________________
+
+APPENDIX A - DETAILED SCOPE OF SERVICES
+[See attached detailed service specifications]
+
+APPENDIX B - MAINTENANCE SCHEDULE
+[See attached schedule]
+
+APPENDIX C - ADDITIONAL SERVICES RATE SCHEDULE
+[See attached rate schedule]
+
+APPENDIX D - KEY PERFORMANCE INDICATORS
+[Not attached - to be mutually agreed upon within 30 days of the Effective Date]

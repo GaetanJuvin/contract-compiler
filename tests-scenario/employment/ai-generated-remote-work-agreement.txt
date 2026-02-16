@@ -1,0 +1,127 @@
+REMOTE WORK EMPLOYMENT AGREEMENT
+
+This Remote Work Employment Agreement ("Agreement") is made and entered into as of March 15, 2026 ("Effective Date"), by and between NovaBridge Software, Inc., a Washington corporation, with its registered office at 1501 Fourth Avenue, Suite 2200, Seattle, Washington 98101 ("Company"), and Aiden J. O'Sullivan, an individual residing at 738 Magnolia Lane, Boise, Idaho 83702 ("Employee").
+
+RECITALS
+
+WHEREAS, the Company desires to employ the Employee in a fully remote capacity, and the Employee desires to accept such employment, subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. EMPLOYMENT AND POSITION
+
+1.1 Position. The Company hereby employs the Employee as a Senior Product Designer. The Employee shall be responsible for leading user experience design initiatives, creating wireframes and prototypes, conducting user research, collaborating with engineering and product management teams, and contributing to the Company's overall design system and brand standards.
+
+1.2 Reporting. The Employee shall report to the Head of Product Design.
+
+1.3 Remote Work Arrangement. The Employee shall perform all duties remotely from the Employee's home office located at the residential address specified above. The Employee acknowledges that this is a fully remote position and that the Company does not maintain a physical office space for the Employee's use.
+
+2. REMOTE WORK REQUIREMENTS
+
+2.1 Workspace. The Employee shall maintain a dedicated home workspace that is safe, secure, and conducive to productive work. The workspace must provide adequate privacy for confidential communications and the secure storage of Company data and materials.
+
+2.2 Equipment. The Company shall provide the Employee with the following equipment for use during the Employment Period: (a) one laptop computer; (b) one external monitor; (c) one keyboard and mouse set; and (d) one headset with microphone. All Company-provided equipment remains the property of the Company and must be returned upon termination of employment.
+
+2.3 Internet and Utilities. The Employee shall be responsible for maintaining reliable high-speed internet service at the remote workspace. The Company shall provide a monthly stipend of One Hundred Dollars ($100.00) toward internet and home office utility costs.
+
+2.4 Availability. The Employee shall be available during core business hours of 10:00 AM to 3:00 PM Pacific Time, Monday through Friday. The Employee may set flexible hours outside of the core hours to complete a full forty (40) hour work week.
+
+2.5 Communication. The Employee shall maintain regular communication with the Employee's manager and team through the Company's designated communication tools, including Slack, Zoom, and email. The Employee shall respond to messages during core business hours within a reasonable timeframe.
+
+2.6 In-Person Meetings. The Employee shall be required to travel to the Company's Seattle office or other designated locations for quarterly team meetings, annual company retreats, and other in-person events as reasonably required by the Company. The Company shall reimburse reasonable travel expenses in accordance with the Company's travel policy.
+
+3. COMPENSATION
+
+3.1 Base Salary. The Employee shall receive an annual base salary of One Hundred Thirty Thousand Dollars ($130,000.00), payable bi-weekly in accordance with the Company's standard payroll practices, less all applicable withholdings.
+
+3.2 Annual Bonus. The Employee shall be eligible for an annual performance bonus of up to fifteen percent (15%) of base salary, based on the achievement of individual and Company performance goals as determined by the Company.
+
+3.3 Equity. Subject to Board approval, the Employee shall receive a grant of 8,000 restricted stock units ("RSUs") under the Company's Equity Incentive Plan, vesting over four (4) years with a one-year cliff.
+
+4. BENEFITS
+
+4.1 Health Insurance. The Employee shall be eligible to participate in the Company's group health insurance plans, including medical, dental, and vision coverage. The Company shall pay ninety percent (90%) of the premium for individual coverage and seventy percent (70%) of the premium for dependent coverage.
+
+4.2 Retirement. The Employee shall be eligible to participate in the Company's 401(k) plan with a Company match of up to four percent (4%) of eligible compensation.
+
+4.3 Paid Time Off. The Employee shall receive unlimited paid time off ("PTO"), subject to the Company's Unlimited PTO Policy, which requires advance approval from the Employee's manager and a minimum of two (2) weeks' notice for absences exceeding five (5) consecutive business days.
+
+4.4 Parental Leave. The Employee shall be entitled to twelve (12) weeks of fully paid parental leave following the birth or adoption of a child.
+
+4.5 Professional Development. The Company shall reimburse the Employee for approved professional development expenses, including conferences, courses, and certifications, up to Three Thousand Dollars ($3,000.00) per calendar year.
+
+5. DATA SECURITY AND PRIVACY
+
+5.1 Security Requirements. The Employee shall comply with all Company information security policies and procedures, including but not limited to: (a) using Company-approved VPN for all work-related internet access; (b) encrypting all work files stored on local devices; (c) using strong, unique passwords and multi-factor authentication; (d) locking the computer when away from the workspace; and (e) securing physical documents in a locked cabinet or drawer.
+
+5.2 Data Protection. The Employee shall not store Company data on personal devices, external drives, or unauthorized cloud services. All Company data must remain on Company-provided equipment and approved cloud platforms.
+
+5.3 Security Incidents. The Employee shall report any suspected or actual security incidents, data breaches, or loss of Company equipment to the Company's IT Security team within twenty-four (24) hours of discovery.
+
+6. CONFIDENTIALITY
+
+6.1 The Employee acknowledges that in the course of performing duties, the Employee will have access to Confidential Information, which includes all non-public information related to the Company's business, products, technology, customers, finances, and strategies. The Employee shall maintain the confidentiality of all such information during and after employment and shall not disclose or use such information except as required in the performance of duties.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 All designs, prototypes, code, documentation, and other work product created by the Employee in the course of employment shall be the exclusive property of the Company.
+
+7.2 The Employee assigns to the Company all rights in any work product created during the course of employment. This assignment includes all patents, copyrights, trade secrets, and other intellectual property rights.
+
+7.3 The Employee shall disclose promptly to the Company all inventions and works of authorship created during the Employment Period that relate to the Company's business.
+
+8. TERMINATION
+
+8.1 At-Will Employment. The Employee's employment is at-will. Either party may terminate the employment relationship at any time, for any reason or no reason, with or without notice.
+
+8.2 Notice. Notwithstanding Section 8.1, the Company requests that the Employee provide at least two (2) weeks' written notice of resignation. The Company shall endeavor to provide at least two (2) weeks' notice of termination without cause.
+
+8.3 Severance. If the Company terminates the Employee's employment without Cause (as defined in Section 8.4), the Employee shall receive severance pay equal to two (2) months of base salary, conditioned upon execution of a separation agreement and general release.
+
+8.4 Cause. "Cause" for termination shall mean: (a) material breach of this Agreement; (b) conviction of a felony; (c) willful misconduct or gross negligence; (d) violation of Company policies; or (e) dishonesty, fraud, or misrepresentation.
+
+8.5 Return of Equipment. Upon termination, the Employee shall return all Company equipment within ten (10) business days via prepaid shipping arranged by the Company. Failure to return equipment may result in the cost of the equipment being deducted from the Employee's final paycheck to the extent permitted by applicable law.
+
+9. WORKERS' COMPENSATION AND LIABILITY
+
+9.1 Workers' Compensation. The Employee is covered by the Company's workers' compensation insurance for work-related injuries occurring during the performance of job duties, including in the home office. The Employee shall report any work-related injuries immediately.
+
+9.2 Liability. The Company shall not be liable for injuries to third parties occurring in the Employee's home office. The Employee is encouraged to maintain homeowner's or renter's insurance adequate to cover any such liabilities.
+
+10. COMPLIANCE WITH LAWS
+
+10.1 The Employee shall comply with all applicable federal, state, and local laws and regulations in the performance of duties under this Agreement.
+
+10.2 Tax Obligations. The Employee acknowledges that the Employee may be subject to income tax obligations in the Employee's state of residence (Idaho) and that the Company will withhold taxes as required by applicable law. The Employee is responsible for any personal tax obligations arising from the remote work arrangement.
+
+11. MODIFICATION OF REMOTE WORK ARRANGEMENT
+
+11.1 The Company reserves the right to modify, suspend, or terminate the remote work arrangement with sixty (60) days' written notice if: (a) the Employee's job performance does not meet expectations; (b) business needs require the Employee's physical presence; or (c) the Company determines that the remote arrangement is no longer viable. In such event, the Employee may be required to relocate to the Company's offices or a designated location.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements.
+
+12.2 Governing Law. This Agreement shall be governed by the laws of the State of Washington, without regard to conflict of laws principles.
+
+12.3 Severability. If any provision is held invalid, the remaining provisions shall continue in effect.
+
+12.4 Amendments. This Agreement may be amended only by written agreement signed by both parties.
+
+12.5 Notices. All notices shall be in writing and delivered to the addresses of the parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+COMPANY:
+NovaBridge Software, Inc.
+
+By: ___________________________________
+Name: Christine M. Delacroix
+Title: Chief People Officer
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Aiden J. O'Sullivan
+Date: _________________________________

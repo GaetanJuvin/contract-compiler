@@ -1,0 +1,114 @@
+FULL-TIME EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into as of January 15, 2026, by and between Meridian Technologies, Inc., a Delaware corporation with its principal place of business at 4500 Innovation Drive, Suite 300, Austin, Texas 78701 ("Employer" or "Company"), and Sarah M. Thornton, an individual residing at 1822 Lakewood Boulevard, Austin, Texas 78703 ("Employee").
+
+RECITALS
+
+WHEREAS, the Company desires to employ the Employee in the capacity described herein, and the Employee desires to accept such employment, subject to the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants, promises, and representations contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. EMPLOYMENT AND DUTIES
+
+1.1 Position. The Company hereby employs the Employee as Senior Software Engineer, reporting directly to the Vice President of Engineering. The Employee accepts such employment and agrees to perform the duties and responsibilities inherent in such position and such other duties and responsibilities as the Company may from time to time assign to the Employee.
+
+1.2 Full-Time Employment. The Employee shall devote her full working time, attention, and energies to the performance of her duties hereunder. The Employee shall not, during the term of this Agreement, engage in any other business activity, whether or not such activity is pursued for gain, profit, or other pecuniary advantage, without the prior written consent of the Company; provided, however, that the Employee may (a) serve on civic or charitable boards or committees, (b) manage personal investments, and (c) engage in such other activities as may be approved in writing by the Company, in each case so long as such activities do not interfere with the Employee's duties hereunder.
+
+1.3 Place of Performance. The Employee shall perform her duties primarily at the Company's offices located at 4500 Innovation Drive, Suite 300, Austin, Texas 78701, or at such other location as the Company may reasonably direct from time to time.
+
+2. TERM OF EMPLOYMENT
+
+2.1 At-Will Employment. The Employee's employment with the Company is "at-will," meaning that either the Employee or the Company may terminate the employment relationship at any time, with or without Cause, and with or without notice, subject to the provisions of Section 7 of this Agreement.
+
+2.2 Start Date. The Employee's employment shall commence on February 1, 2026 ("Start Date").
+
+3. COMPENSATION
+
+3.1 Base Salary. The Company shall pay the Employee an annual base salary of One Hundred Forty-Five Thousand Dollars ($145,000.00), payable in accordance with the Company's standard payroll practices and subject to all applicable withholdings and deductions. The Employee's base salary shall be reviewed annually by the Company and may be adjusted at the Company's sole discretion.
+
+3.2 Signing Bonus. The Company shall pay the Employee a one-time signing bonus of Ten Thousand Dollars ($10,000.00), payable within thirty (30) days of the Start Date, subject to applicable tax withholdings. If the Employee voluntarily terminates employment within twelve (12) months of the Start Date, the Employee shall repay the full amount of the signing bonus to the Company within thirty (30) days of termination.
+
+3.3 Annual Bonus. The Employee shall be eligible to participate in the Company's annual bonus program, with a target bonus of fifteen percent (15%) of the Employee's base salary. The actual bonus amount, if any, shall be determined by the Company in its sole discretion based on the achievement of individual and Company performance goals established by the Company.
+
+4. BENEFITS
+
+4.1 Health Insurance. The Employee shall be eligible to participate in the Company's group health insurance plan, including medical, dental, and vision coverage, subject to the terms and conditions of such plan. The Company shall pay eighty percent (80%) of the monthly premium for the Employee's individual coverage. Coverage shall commence on the first day of the month following thirty (30) days of continuous employment.
+
+4.2 Retirement Plan. The Employee shall be eligible to participate in the Company's 401(k) retirement savings plan, subject to the terms and conditions of such plan. The Company shall match Employee contributions up to four percent (4%) of the Employee's base salary.
+
+4.3 Paid Time Off. The Employee shall be entitled to twenty (20) days of paid time off ("PTO") per calendar year, accruing on a bi-weekly basis. Unused PTO may be carried over to the following calendar year up to a maximum of ten (10) days.
+
+4.4 Other Benefits. The Employee shall be entitled to participate in such other benefit programs as the Company may establish or maintain from time to time for similarly situated employees, subject to the terms and conditions of such programs.
+
+5. EQUITY COMPENSATION
+
+5.1 Stock Options. Subject to approval by the Company's Board of Directors, the Employee shall be granted an option to purchase 15,000 shares of the Company's Common Stock (the "Option") under the Company's 2024 Equity Incentive Plan (the "Plan"). The Option shall have an exercise price equal to the fair market value of the Common Stock on the date of grant. The Option shall vest over four (4) years, with twenty-five percent (25%) vesting on the first anniversary of the Start Date and the remainder vesting in equal monthly installments over the following thirty-six (36) months, subject to the Employee's continued employment with the Company.
+
+6. CONFIDENTIALITY
+
+6.1 Confidential Information. The Employee acknowledges that during the course of employment, the Employee will have access to and may develop Confidential Information. "Confidential Information" means all non-public information relating to the Company's business, including but not limited to: trade secrets, proprietary data, inventions, processes, techniques, algorithms, software programs, customer lists, financial information, business plans, marketing strategies, and any other information designated as confidential by the Company.
+
+6.2 Non-Disclosure. The Employee shall not, during employment or at any time thereafter, directly or indirectly, use, disclose, or make available to any third party any Confidential Information, except as required in the performance of the Employee's duties or as authorized in writing by the Company.
+
+6.3 Return of Materials. Upon termination of employment for any reason, the Employee shall promptly return to the Company all documents, files, records, and other materials containing or relating to Confidential Information, whether in physical or electronic form.
+
+7. TERMINATION
+
+7.1 Termination by the Company Without Cause. The Company may terminate the Employee's employment at any time without Cause upon thirty (30) days' prior written notice. In such event, the Company shall pay the Employee (a) all earned but unpaid base salary through the date of termination, (b) any accrued but unused PTO, and (c) severance pay equal to three (3) months of the Employee's base salary, payable in accordance with the Company's standard payroll practices, subject to the Employee's execution of a general release of claims in a form satisfactory to the Company.
+
+7.2 Termination by the Company for Cause. The Company may terminate the Employee's employment immediately for Cause. "Cause" means: (a) the Employee's material breach of this Agreement; (b) the Employee's conviction of, or plea of guilty or nolo contendere to, a felony; (c) the Employee's gross negligence or willful misconduct in the performance of duties; (d) the Employee's fraud or dishonesty that results in material harm to the Company; or (e) the Employee's continued failure to perform duties after written notice and a reasonable opportunity to cure. In the event of termination for Cause, the Employee shall be entitled only to earned but unpaid base salary through the date of termination.
+
+7.3 Termination by the Employee. The Employee may terminate employment at any time upon thirty (30) days' prior written notice to the Company. The Company may, in its sole discretion, waive all or part of such notice period and accelerate the Employee's termination date.
+
+7.4 Effect of Termination. Upon termination of employment for any reason, the Employee's rights under this Agreement shall terminate, except for those provisions that by their terms survive termination.
+
+8. INTELLECTUAL PROPERTY
+
+8.1 Work Product. The Employee agrees that all inventions, discoveries, improvements, works of authorship, software, designs, and other intellectual property created by the Employee, alone or jointly with others, during the term of employment and within the scope of the Employee's duties or using the Company's resources ("Work Product") shall be the sole and exclusive property of the Company. The Employee hereby assigns to the Company all right, title, and interest in and to such Work Product.
+
+8.2 Prior Inventions. The Employee has disclosed on Exhibit A attached hereto a complete list of all inventions that the Employee has made prior to the Start Date that the Employee desires to exclude from this Agreement ("Prior Inventions"). If no such list is attached, the Employee represents that there are no Prior Inventions.
+
+9. NON-SOLICITATION
+
+9.1 During the term of employment and for a period of twelve (12) months following the termination of employment for any reason, the Employee shall not, directly or indirectly: (a) solicit, recruit, or hire, or attempt to solicit, recruit, or hire, any employee of the Company; or (b) solicit or attempt to solicit any customer, client, or vendor of the Company for the purpose of diverting business away from the Company.
+
+10. DISPUTE RESOLUTION
+
+10.1 Arbitration. Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be settled by binding arbitration administered by the American Arbitration Association in accordance with its Employment Arbitration Rules. The arbitration shall be conducted in Austin, Texas, before a single arbitrator. The decision of the arbitrator shall be final and binding upon the parties.
+
+10.2 Attorneys' Fees. In any arbitration or legal proceeding arising out of this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs from the non-prevailing party.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement. This Agreement, together with any exhibits attached hereto, constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, representations, and understandings, whether written or oral.
+
+11.2 Amendment. This Agreement may not be amended or modified except by a written instrument signed by both parties.
+
+11.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of laws principles.
+
+11.4 Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+11.5 Notices. All notices under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by confirmed electronic mail, or sent by certified mail, return receipt requested, to the addresses set forth above.
+
+11.6 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EMPLOYER:
+Meridian Technologies, Inc.
+
+By: ___________________________________
+Name: David R. Castillo
+Title: Vice President of Human Resources
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Sarah M. Thornton
+Date: _________________________________
+
+EXHIBIT A - PRIOR INVENTIONS
+
+[None / List below:]
+___________________________________

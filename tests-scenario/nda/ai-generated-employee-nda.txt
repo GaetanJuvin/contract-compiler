@@ -1,0 +1,129 @@
+EMPLOYEE NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT
+
+This Employee Non-Disclosure and Confidentiality Agreement ("Agreement") is entered into as of ____________, 2026, by and between:
+
+Employer: Pinnacle Health Innovations, Inc., a Massachusetts corporation, with its principal offices at 100 CambridgePark Drive, Suite 400, Cambridge, MA 02140 (the "Company");
+
+Employee: ________________________________ (the "Employee").
+
+WHEREAS, the Company desires to employ or continue to employ the Employee, and in connection with such employment, the Employee will have access to and become acquainted with confidential and proprietary information belonging to the Company; and
+
+WHEREAS, the Company wishes to protect its Confidential Information and the Employee agrees to be bound by the terms and conditions set forth herein as a condition of employment;
+
+NOW, THEREFORE, in consideration of the Employee's employment or continued employment by the Company and the compensation and benefits provided to the Employee, the parties agree as follows:
+
+SECTION 1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all information, whether written, oral, electronic, visual, or in any other form, that is proprietary to the Company and not generally known to the public, including but not limited to:
+
+   (a) Trade secrets, as defined by applicable law;
+   (b) Inventions, discoveries, improvements, innovations, designs, and know-how;
+   (c) Software code (source and object), algorithms, data structures, databases, and system architectures;
+   (d) Clinical trial data, patient information (subject to HIPAA and other applicable regulations), research methodologies, and drug development pipelines;
+   (e) Business strategies, marketing plans, competitive analyses, and financial projections;
+   (f) Customer and client lists, vendor relationships, and supplier agreements;
+   (g) Personnel information, including compensation, benefits, and performance evaluations;
+   (h) Regulatory submissions, compliance documentation, and audit reports; and
+   (i) Any other information that the Company designates as confidential or that would reasonably be understood to be confidential.
+
+1.2 Confidential Information shall also include information belonging to third parties that the Company has received under obligations of confidentiality.
+
+SECTION 2. EMPLOYEE'S OBLIGATIONS
+
+2.1 Non-Disclosure. The Employee shall not, during or after employment with the Company, directly or indirectly, disclose, publish, communicate, or make available any Confidential Information to any person, firm, corporation, or other entity without the prior written consent of the Company.
+
+2.2 Non-Use. The Employee shall not use any Confidential Information for any purpose other than the performance of the Employee's duties for the Company.
+
+2.3 Safeguarding. The Employee shall take all reasonable steps to safeguard the Confidential Information and to prevent its unauthorized disclosure or use, including but not limited to:
+
+   (a) Keeping all documents and materials containing Confidential Information in secure locations;
+   (b) Not removing Confidential Information from Company premises without authorization;
+   (c) Using password protection and encryption for electronic files containing Confidential Information;
+   (d) Not discussing Confidential Information in public places or in the presence of unauthorized persons; and
+   (e) Complying with all Company policies and procedures regarding information security.
+
+2.4 Reporting. The Employee shall promptly report to the Company any unauthorized disclosure, use, or acquisition of Confidential Information that comes to the Employee's attention.
+
+SECTION 3. EXCEPTIONS
+
+3.1 The obligations under this Agreement do not apply to information that:
+
+   (a) Is or becomes publicly available through no fault of the Employee;
+   (b) Was known to the Employee prior to employment with the Company, as demonstrated by contemporaneous written records; or
+   (c) Is disclosed pursuant to a court order or governmental regulation, provided that the Employee gives the Company prompt written notice so that the Company may seek a protective order.
+
+SECTION 4. INTELLECTUAL PROPERTY ASSIGNMENT
+
+4.1 The Employee hereby assigns to the Company all right, title, and interest in and to any and all inventions, discoveries, improvements, works of authorship, designs, formulas, processes, techniques, and know-how, whether or not patentable or copyrightable, that are:
+
+   (a) Made, conceived, reduced to practice, or created by the Employee, either alone or jointly with others, during the period of employment; and
+   (b) Related to the Company's current or anticipated business, research, or development activities.
+
+4.2 The Employee shall promptly disclose all such inventions to the Company and shall cooperate fully with the Company in obtaining and enforcing intellectual property protection.
+
+4.3 This Section 4 does not apply to inventions that qualify under applicable state law as belonging to the Employee (e.g., Massachusetts General Laws Chapter 149, Section 19A).
+
+SECTION 5. RETURN OF MATERIALS
+
+5.1 Upon the termination of the Employee's employment for any reason, or upon the Company's request at any time, the Employee shall immediately return to the Company all documents, records, files, notebooks, manuals, correspondence, computer programs, data, and any other materials (including all copies thereof) containing or relating to Confidential Information that are in the Employee's possession or control.
+
+5.2 The Employee shall also permanently delete all electronic files containing Confidential Information from any personal devices, cloud storage accounts, or other media.
+
+SECTION 6. NON-COMPETITION AND NON-SOLICITATION
+
+6.1 Non-Competition. During employment and for a period of twelve (12) months after the termination of employment, the Employee shall not, directly or indirectly, engage in, be employed by, consult for, or have any ownership interest in any business that competes with the Company within the United States.
+
+6.2 Non-Solicitation of Employees. During employment and for a period of twelve (12) months after termination, the Employee shall not solicit, recruit, or induce any employee of the Company to leave the Company's employment.
+
+6.3 Non-Solicitation of Customers. During employment and for a period of twelve (12) months after termination, the Employee shall not solicit or attempt to solicit any customer or client of the Company for the purpose of providing products or services competitive with those offered by the Company.
+
+SECTION 7. DURATION OF CONFIDENTIALITY OBLIGATIONS
+
+7.1 The Employee's obligations of confidentiality under this Agreement shall continue indefinitely and shall survive the termination of the Employee's employment for any reason.
+
+7.2 Notwithstanding Section 7.1, obligations with respect to trade secrets shall continue for as long as such information constitutes a trade secret under applicable law.
+
+SECTION 8. REMEDIES
+
+8.1 The Employee acknowledges that any breach of this Agreement may cause irreparable harm to the Company for which monetary damages would be an inadequate remedy.
+
+8.2 In the event of a breach or threatened breach, the Company shall be entitled to seek injunctive relief, specific performance, and any other remedies available at law or in equity, without the necessity of proving actual damages or posting a bond.
+
+8.3 In any action to enforce this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs.
+
+SECTION 9. GOVERNING LAW
+
+9.1 This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, without regard to its conflict of laws provisions.
+
+SECTION 10. MISCELLANEOUS
+
+10.1 Entire Agreement. This Agreement, together with any other agreements executed by the Employee in connection with employment, constitutes the entire agreement between the parties with respect to the subject matter hereof.
+
+10.2 Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable.
+
+10.3 Waiver. No waiver of any provision of this Agreement shall be effective unless made in writing and signed by the waiving party.
+
+10.4 Amendment. This Agreement may be amended only by a written instrument signed by both parties.
+
+10.5 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their respective heirs, executors, administrators, successors, and assigns.
+
+10.6 Notice. The Employee acknowledges receipt of a copy of this Agreement and has had the opportunity to consult with an attorney before signing.
+
+THE EMPLOYEE ACKNOWLEDGES THAT HE OR SHE HAS READ THIS AGREEMENT, UNDERSTANDS ITS TERMS, AND AGREES TO BE BOUND BY ITS PROVISIONS.
+
+PINNACLE HEALTH INNOVATIONS, INC.
+
+By: ___________________________
+Name: Dr. Rebecca S. Wong
+Title: Chief Human Resources Officer
+Date: ___________________________
+
+EMPLOYEE
+
+Signature: ___________________________
+Name: ___________________________
+Date: ___________________________
+
+Employee ID: ___________________________
+Department: ___________________________
+Start Date: ___________________________

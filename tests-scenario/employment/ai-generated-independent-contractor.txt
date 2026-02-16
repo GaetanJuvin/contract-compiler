@@ -1,0 +1,194 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is entered into as of February 20, 2026 ("Effective Date"), by and between Luminary Design Studio, LLC, a Colorado limited liability company, with its principal place of business at 1624 Market Street, Suite 200, Denver, Colorado 80202 ("Client" or "Company"), and Rebekah A. Torres, an individual doing business as Torres Creative Consulting, with a principal address at 3401 Arapahoe Avenue, Unit B, Boulder, Colorado 80303 ("Contractor").
+
+RECITALS
+
+WHEREAS, the Client is in the business of providing brand strategy, graphic design, and digital marketing services to its customers; and
+
+WHEREAS, the Client desires to engage the Contractor to provide certain professional services, and the Contractor desires to perform such services, on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. ENGAGEMENT AND SERVICES
+
+1.1 Engagement. The Client hereby engages the Contractor, and the Contractor hereby accepts such engagement, to provide the services described in this Agreement and in any Statements of Work ("SOW") executed by the parties from time to time, which shall be incorporated herein by reference.
+
+1.2 Services. The Contractor shall provide the following services ("Services"):
+(a) User interface (UI) and user experience (UX) design for web and mobile applications;
+(b) Creation of wireframes, mockups, and interactive prototypes;
+(c) Visual design including typography, color systems, and iconography;
+(d) Design system development and documentation;
+(e) Usability testing and design iteration;
+(f) Such other design services as may be mutually agreed upon in a SOW.
+
+1.3 Standards. The Contractor shall perform all Services in a professional and workmanlike manner, consistent with industry standards and in accordance with any specifications provided by the Client.
+
+2. TERM
+
+2.1 Initial Term. This Agreement shall commence on the Effective Date and shall continue for a period of twelve (12) months, unless earlier terminated in accordance with Section 10 (the "Initial Term").
+
+2.2 Renewal. This Agreement shall automatically renew for successive six (6) month terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the expiration of the then-current term.
+
+3. INDEPENDENT CONTRACTOR STATUS
+
+3.1 Independent Contractor. The Contractor is an independent contractor and not an employee, agent, partner, or joint venturer of the Client. Nothing in this Agreement shall be construed to create an employment relationship, partnership, or joint venture between the parties.
+
+3.2 No Employee Benefits. The Contractor shall not be entitled to any employee benefits from the Client, including but not limited to health insurance, retirement benefits, paid time off, workers' compensation, unemployment insurance, or any other benefits provided to the Client's employees.
+
+3.3 Taxes. The Contractor shall be solely responsible for all federal, state, and local taxes arising from the Contractor's performance of Services under this Agreement, including self-employment taxes, income taxes, and any other applicable taxes. The Client shall not withhold any taxes from payments made to the Contractor. The Client shall issue a Form 1099-NEC to the Contractor for payments exceeding $600 in any calendar year.
+
+3.4 Control. The Contractor shall have the right to control the manner, means, and methods of performing the Services, subject to the Client's general direction regarding the desired results. The Contractor shall determine the Contractor's own work schedule and location of work, provided that the Contractor meets agreed-upon deadlines and deliverables.
+
+3.5 Tools and Equipment. The Contractor shall provide all tools, equipment, software, and materials necessary to perform the Services, unless otherwise agreed in a SOW. The Contractor shall maintain, at the Contractor's own expense, all licenses and subscriptions required for the performance of Services.
+
+3.6 Assistants. The Contractor may engage assistants or subcontractors to perform portions of the Services, provided that (a) the Contractor obtains the Client's prior written consent; (b) the Contractor remains fully responsible for the quality and timeliness of all Services; and (c) any assistant or subcontractor agrees in writing to be bound by the confidentiality and intellectual property provisions of this Agreement.
+
+4. COMPENSATION
+
+4.1 Project Rates. The Contractor shall be compensated for Services as follows:
+
+(a) Hourly Rate: One Hundred Twenty-Five Dollars ($125.00) per hour for time-and-materials engagements.
+(b) Project-Based Fees: As specified in the applicable SOW for fixed-fee engagements.
+
+4.2 Invoicing. The Contractor shall submit itemized invoices to the Client on a bi-weekly basis (or upon completion of project milestones for fixed-fee engagements). Each invoice shall include: (a) a description of Services performed; (b) the dates on which Services were performed; (c) the number of hours worked (for hourly engagements); and (d) any approved expenses.
+
+4.3 Payment Terms. The Client shall pay all undisputed invoices within thirty (30) days of receipt. Payments shall be made by electronic funds transfer or check to the account or address designated by the Contractor.
+
+4.4 Late Payments. Any undisputed amounts not paid within thirty (30) days of the invoice date shall accrue interest at the rate of one and one-half percent (1.5%) per month, or the maximum rate permitted by applicable law, whichever is less.
+
+4.5 Expenses. The Client shall reimburse the Contractor for pre-approved, reasonable business expenses incurred in connection with the performance of Services, including travel, software licenses specifically required for a project, and stock imagery/fonts, upon submission of receipts.
+
+4.6 Rate Adjustments. The Contractor's hourly rate may be adjusted annually upon thirty (30) days' written notice from the Contractor, provided that any increase shall not exceed five percent (5%) per year without the Client's consent.
+
+5. CONFIDENTIALITY
+
+5.1 Confidential Information. Each party (the "Receiving Party") acknowledges that in the course of performing under this Agreement, it may receive or have access to confidential and proprietary information of the other party (the "Disclosing Party"), including but not limited to: business plans, client lists, financial information, marketing strategies, technical data, designs, trade secrets, and any other information that is designated as confidential or that a reasonable person would understand to be confidential ("Confidential Information").
+
+5.2 Obligations. The Receiving Party shall: (a) hold all Confidential Information in strict confidence; (b) not disclose Confidential Information to any third party without the Disclosing Party's prior written consent; (c) use Confidential Information solely for the purposes of performing under this Agreement; and (d) protect Confidential Information using the same degree of care it uses to protect its own confidential information, but in no event less than reasonable care.
+
+5.3 Exceptions. Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the Receiving Party; (b) was in the Receiving Party's possession prior to disclosure; (c) is independently developed by the Receiving Party without use of Confidential Information; or (d) is received from a third party not under an obligation of confidentiality.
+
+5.4 Duration. The obligations under this Section 5 shall survive termination of this Agreement and continue for a period of three (3) years after the date of disclosure.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 Work Product Ownership. Subject to Section 6.2, all deliverables, designs, prototypes, code, documentation, and other work product created by the Contractor in the performance of Services under this Agreement ("Work Product") shall be the sole and exclusive property of the Client upon full payment of all amounts due for the applicable Services.
+
+6.2 Pre-Existing Materials. The Contractor retains all right, title, and interest in and to any tools, methodologies, frameworks, templates, software libraries, or other materials that existed prior to or were developed independently of this Agreement ("Pre-Existing Materials"). To the extent that any Pre-Existing Materials are incorporated into Work Product, the Contractor hereby grants the Client a perpetual, non-exclusive, royalty-free, worldwide license to use, modify, and distribute such Pre-Existing Materials as part of the Work Product.
+
+6.3 Assignment. The Contractor hereby irrevocably assigns to the Client all right, title, and interest in and to the Work Product, including all copyrights, patents, trade secrets, and other intellectual property rights therein. The Contractor agrees to execute all documents and take all actions reasonably necessary to effectuate such assignment.
+
+6.4 Portfolio Rights. Notwithstanding Section 6.1, the Contractor shall have the right to display the Work Product in the Contractor's professional portfolio and on the Contractor's website for purposes of self-promotion, subject to any confidentiality restrictions and a reasonable waiting period of six (6) months after the Work Product is publicly released by the Client, unless the Client provides earlier written consent.
+
+7. REPRESENTATIONS AND WARRANTIES
+
+7.1 Contractor Representations. The Contractor represents and warrants that: (a) the Contractor has the skill, experience, and qualifications necessary to perform the Services; (b) the Services shall be performed in a professional manner consistent with industry standards; (c) the Work Product shall be original and shall not infringe upon the intellectual property rights of any third party; (d) the Contractor has the legal right to enter into this Agreement and to assign the Work Product as provided herein; and (e) the Contractor shall comply with all applicable laws in the performance of Services.
+
+7.2 Client Representations. The Client represents and warrants that: (a) the Client has the legal right to enter into this Agreement; and (b) any materials provided by the Client for use in connection with the Services shall not infringe upon the rights of any third party to the Client's knowledge.
+
+8. INDEMNIFICATION
+
+8.1 Contractor Indemnification. The Contractor shall indemnify, defend, and hold harmless the Client and its officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) the Contractor's breach of any representation, warranty, or obligation under this Agreement; (b) the Contractor's negligence or willful misconduct; or (c) any claim that the Work Product infringes the intellectual property rights of a third party.
+
+8.2 Client Indemnification. The Client shall indemnify, defend, and hold harmless the Contractor from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to the Client's use of the Work Product in a manner not contemplated by this Agreement.
+
+9. LIMITATION OF LIABILITY
+
+9.1 Limitation. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT, REGARDLESS OF THE THEORY OF LIABILITY.
+
+9.2 Cap. THE CONTRACTOR'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY THE CLIENT TO THE CONTRACTOR DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+10. TERMINATION
+
+10.1 Termination for Convenience. Either party may terminate this Agreement or any SOW at any time upon thirty (30) days' prior written notice to the other party.
+
+10.2 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party: (a) materially breaches this Agreement and fails to cure such breach within fifteen (15) days of written notice; (b) becomes insolvent, files for bankruptcy, or has a bankruptcy petition filed against it; or (c) ceases to conduct business in the normal course.
+
+10.3 Effect of Termination. Upon termination:
+
+(a) The Contractor shall cease performing Services and deliver to the Client all completed and in-progress Work Product;
+(b) The Client shall pay the Contractor for all Services performed and expenses incurred through the effective date of termination;
+(c) For fixed-fee engagements terminated prior to completion, the Client shall pay for the pro-rated portion of work completed as of the termination date;
+(d) Each party shall return or destroy the other party's Confidential Information in its possession;
+(e) Sections 5, 6, 7, 8, 9, and 12 shall survive termination.
+
+11. INSURANCE
+
+11.1 The Contractor shall maintain, at the Contractor's own expense, the following insurance coverage throughout the term of this Agreement:
+
+(a) General commercial liability insurance with a minimum coverage of One Million Dollars ($1,000,000.00) per occurrence;
+(b) Professional liability (errors and omissions) insurance with a minimum coverage of One Million Dollars ($1,000,000.00) per occurrence;
+(c) Workers' compensation insurance as required by applicable law (if the Contractor has employees).
+
+11.2 The Contractor shall provide certificates of insurance to the Client upon request.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement, together with any SOWs and exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements, understandings, and negotiations.
+
+12.2 Amendments. This Agreement may be amended only by a written instrument signed by both parties.
+
+12.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado, without regard to conflict of laws principles.
+
+12.4 Dispute Resolution. Any dispute arising out of or relating to this Agreement shall first be submitted to good-faith mediation. If mediation is unsuccessful, the dispute shall be resolved by binding arbitration in Denver, Colorado, under the rules of the American Arbitration Association.
+
+12.5 Severability. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+12.6 Waiver. No waiver of any provision shall be effective unless in writing and signed by the waiving party.
+
+12.7 Assignment. Neither party may assign this Agreement without the prior written consent of the other party, except that the Client may assign this Agreement to a successor entity in connection with a merger, acquisition, or sale of substantially all of its assets.
+
+12.8 Force Majeure. Neither party shall be liable for any failure or delay in performance due to causes beyond its reasonable control, including natural disasters, acts of government, pandemics, war, terrorism, or disruption of utilities or telecommunications.
+
+12.9 Notices. All notices shall be in writing and delivered to the addresses specified above, or to such other address as a party may designate in writing.
+
+12.10 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+12.11 Non-Exclusivity. This Agreement is non-exclusive. The Contractor is free to provide services to other clients, including competitors of the Client, provided that the Contractor complies with the confidentiality obligations herein. The Client is free to engage other contractors to perform similar services.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+CLIENT:
+Luminary Design Studio, LLC
+
+By: ___________________________________
+Name: Alexandra P. Hoffman
+Title: Managing Partner
+Date: _________________________________
+
+CONTRACTOR:
+
+___________________________________
+Rebekah A. Torres
+d/b/a Torres Creative Consulting
+Date: _________________________________
+
+STATEMENT OF WORK #1
+
+Project: Redesign of Client's Customer Portal (www.luminarydesign.com/portal)
+Start Date: March 1, 2026
+Estimated Completion: May 31, 2026
+Engagement Type: Fixed Fee
+Total Fee: $35,000.00
+
+Milestones:
+1. Discovery and Research Phase: $7,000.00 (due upon completion, est. March 15, 2026)
+2. Wireframes and Information Architecture: $8,000.00 (due upon completion, est. April 1, 2026)
+3. Visual Design and Prototyping: $10,000.00 (due upon completion, est. April 30, 2026)
+4. Design System Documentation and Handoff: $5,000.00 (due upon completion, est. May 15, 2026)
+5. Revisions and Final Delivery: $5,000.00 (due upon completion, est. May 31, 2026)
+
+Deliverables:
+- User research report and personas
+- Site map and information architecture documentation
+- Wireframes for all key screens (desktop and mobile)
+- High-fidelity visual designs for all screens
+- Interactive prototype (Figma)
+- Design system documentation (components, styles, patterns)
+- Developer handoff specifications
+
+Approved by:
+
+Client: ___________________________________    Date: _____________
+Contractor: ________________________________    Date: _____________

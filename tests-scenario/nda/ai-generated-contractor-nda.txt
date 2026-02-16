@@ -1,0 +1,124 @@
+INDEPENDENT CONTRACTOR NON-DISCLOSURE AGREEMENT
+
+[ANOMALY: This agreement contains contradictory confidentiality periods -- Section 4.2 states 2 years, Section 7.1 states 5 years. It also lacks a definition of exceptions to Confidential Information.]
+
+This Independent Contractor Non-Disclosure Agreement ("Agreement") is effective as of March 1, 2026 (the "Effective Date"), and is entered into by and between:
+
+Company: Atlas Robotics Corporation, a Texas corporation, with offices at 2100 Ross Avenue, Suite 2800, Dallas, TX 75201 ("Atlas" or the "Company");
+
+Contractor: Freeform Engineering Solutions, a sole proprietorship operated by Michael T. Vasquez, with an address at 4412 Elm Creek Road, Austin, TX 78745 (the "Contractor").
+
+RECITALS
+
+A. The Company desires to engage the Contractor to provide certain engineering design and prototyping services (the "Services") in connection with the Company's proprietary robotics systems.
+
+B. In the course of performing the Services, the Contractor may be given access to or become aware of confidential, proprietary, and trade secret information belonging to the Company.
+
+C. The Company requires the Contractor to enter into this Agreement as a condition of engagement.
+
+NOW, THEREFORE, in consideration of the engagement of the Contractor and the mutual promises contained herein, the parties agree as follows:
+
+1. CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means all information, in whatever form or medium, that is disclosed to or obtained by the Contractor in connection with the performance of the Services or that otherwise relates to the Company's business, including but not limited to:
+
+   (a) Product designs, prototypes, engineering drawings, CAD files, and manufacturing processes;
+   (b) Software, firmware, source code, and embedded systems specifications;
+   (c) Research data, test results, and experimental methodologies;
+   (d) Supplier lists, component sourcing strategies, and bill of materials;
+   (e) Business plans, financial records, pricing structures, and customer information;
+   (f) Marketing strategies, sales data, and competitive intelligence;
+   (g) Any information marked or identified as "Confidential," "Proprietary," or "Trade Secret"; and
+   (h) Any information that would reasonably be considered confidential or proprietary by a prudent businessperson.
+
+1.2 All information disclosed by the Company to the Contractor shall be presumed to be Confidential Information unless the Company expressly states otherwise in writing.
+
+2. CONTRACTOR'S OBLIGATIONS
+
+2.1 The Contractor shall maintain the Confidential Information in strict confidence and shall not disclose, publish, or disseminate any Confidential Information to any third party without the prior written approval of the Company.
+
+2.2 The Contractor shall use the Confidential Information solely for the purpose of performing the Services and for no other purpose whatsoever.
+
+2.3 The Contractor shall take all reasonable precautions to prevent the unauthorized disclosure or use of Confidential Information, including securing all physical and electronic materials containing Confidential Information.
+
+2.4 The Contractor shall not copy, reproduce, or duplicate any Confidential Information except as necessary for the performance of the Services.
+
+2.5 The Contractor shall limit access to Confidential Information to those of the Contractor's employees or subcontractors who have a direct need to know and who have signed confidentiality agreements with protections at least as restrictive as this Agreement.
+
+3. INTELLECTUAL PROPERTY
+
+3.1 All work product, deliverables, inventions, designs, improvements, and materials created by the Contractor in the course of performing the Services (collectively, "Work Product") shall be the sole and exclusive property of the Company.
+
+3.2 The Contractor hereby assigns to the Company all right, title, and interest in and to the Work Product, including all intellectual property rights therein.
+
+3.3 The Contractor shall execute any documents and take any actions reasonably requested by the Company to effectuate, perfect, or confirm the Company's ownership of the Work Product.
+
+3.4 To the extent any Work Product incorporates pre-existing intellectual property of the Contractor ("Contractor IP"), the Contractor grants the Company a perpetual, irrevocable, worldwide, royalty-free license to use, modify, and distribute such Contractor IP as part of the Work Product.
+
+4. TERM AND SURVIVAL
+
+4.1 This Agreement shall be effective from the Effective Date and shall continue in force for the duration of the Contractor's engagement with the Company.
+
+4.2 The confidentiality obligations set forth in this Agreement shall survive the termination of the Contractor's engagement for a period of two (2) years.
+
+4.3 Either party may terminate this Agreement with thirty (30) days' written notice; provided that termination shall not affect the Contractor's obligations regarding Confidential Information received prior to the date of termination.
+
+5. NO REVERSE ENGINEERING
+
+5.1 The Contractor shall not reverse engineer, disassemble, decompile, or otherwise attempt to derive the design, internal logic, or structure of any products, software, hardware, or systems of the Company.
+
+6. COMPELLED DISCLOSURE
+
+6.1 If the Contractor is required by law, regulation, court order, or governmental authority to disclose any Confidential Information, the Contractor shall:
+
+   (a) Provide the Company with immediate written notice of such requirement;
+   (b) Cooperate with the Company in seeking a protective order or other appropriate remedy;
+   (c) Disclose only the minimum amount of Confidential Information legally required; and
+   (d) Use best efforts to ensure confidential treatment of the disclosed information.
+
+7. REMEDIES AND ENFORCEMENT
+
+7.1 The Contractor acknowledges that the Confidential Information constitutes valuable assets of the Company and that the unauthorized disclosure or use of such information would cause irreparable harm. The Contractor further acknowledges that the confidentiality obligations contained herein shall remain in effect for a period of five (5) years following termination of the engagement, and that any breach during this period shall entitle the Company to seek immediate injunctive relief.
+
+7.2 In the event of any breach or threatened breach of this Agreement, the Company shall be entitled to:
+
+   (a) Injunctive relief and specific performance, without the necessity of proving actual damages or posting a bond;
+   (b) Recovery of all actual damages, including lost profits and consequential damages;
+   (c) Recovery of reasonable attorneys' fees and costs; and
+   (d) Any other remedies available at law or in equity.
+
+7.3 The Contractor shall indemnify and hold harmless the Company from and against any and all losses, damages, claims, and expenses (including reasonable attorneys' fees) arising from the Contractor's breach of this Agreement.
+
+8. GENERAL PROVISIONS
+
+8.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to its conflict of laws provisions.
+
+8.2 Jurisdiction. Any dispute arising out of this Agreement shall be resolved exclusively in the state or federal courts located in Dallas County, Texas.
+
+8.3 Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings.
+
+8.4 Amendments. This Agreement may not be modified except by a written amendment signed by both parties.
+
+8.5 Severability. If any provision of this Agreement is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+8.6 No Waiver. The Company's failure to enforce any provision of this Agreement shall not constitute a waiver of such provision or of the right to enforce it at a later time.
+
+8.7 Independent Contractor Status. Nothing in this Agreement shall be construed to create an employment relationship, partnership, or joint venture between the Company and the Contractor.
+
+8.8 Assignment. The Contractor may not assign this Agreement or any rights or obligations hereunder without the prior written consent of the Company. The Company may assign this Agreement to any successor in interest.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+ATLAS ROBOTICS CORPORATION
+
+By: ___________________________
+Name: Patricia L. Nakamura
+Title: VP of Engineering
+Date: ___________________________
+
+CONTRACTOR
+
+Signature: ___________________________
+Name: Michael T. Vasquez
+d/b/a Freeform Engineering Solutions
+Date: ___________________________

@@ -1,0 +1,182 @@
+RAW MATERIALS SUPPLY AGREEMENT
+
+Agreement No.: RMS-2025-0834
+Date: June 20, 2025
+
+This Raw Materials Supply Agreement ("Agreement") is entered into by and between:
+
+BUYER: Apex Polymer Technologies, Inc., a Pennsylvania corporation, having its principal place of business at 1200 Industrial Highway, Eddystone, PA 19022 ("Buyer")
+
+SUPPLIER: Global Chemical Resources, S.A., a company organized under the laws of Switzerland, with offices in the United States at 7700 Westpark Drive, Suite 400, McLean, VA 22102 ("Supplier")
+
+RECITALS
+
+WHEREAS, Buyer is engaged in the manufacture of specialty polymer compounds, engineered plastics, and composite materials for the automotive, aerospace, and electronics industries;
+
+WHEREAS, Supplier is a global producer and distributor of petrochemical derivatives, specialty monomers, and polymer precursors; and
+
+WHEREAS, Buyer requires a reliable supply of certain raw materials for its manufacturing operations and desires to establish a long-term supply relationship with Supplier;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Raw Materials" or "Materials" shall mean the chemical compounds, monomers, catalysts, additives, and other substances listed in Schedule A, as may be amended from time to time by mutual agreement.
+
+1.2 "Material Specifications" shall mean the technical specifications, purity levels, grade designations, and physical/chemical property requirements for each Raw Material as set forth in Schedule B.
+
+1.3 "Certificate of Analysis" or "COA" shall mean a document issued by Supplier certifying that a particular lot of Raw Material has been tested and meets the Material Specifications.
+
+1.4 "Lot" shall mean a specific quantity of a single Raw Material produced in a single production campaign and identified by a unique lot number.
+
+2. SUPPLY OBLIGATIONS
+
+2.1 Commitment to Supply. Supplier commits to supply Buyer with Raw Materials in the quantities and on the schedule set forth in purchase orders issued under this Agreement. Supplier shall allocate sufficient production capacity and maintain adequate inventory to meet Buyer's requirements as forecasted under Section 3.
+
+2.2 Supply Assurance. In the event of allocation or force majeure affecting Supplier's ability to fulfill all customer orders, Supplier shall allocate available supply to Buyer on a pro rata basis, with Buyer receiving no less than its proportional share based on historical purchase volumes over the preceding twelve (12) months.
+
+2.3 Second Source. Buyer reserves the right to qualify and maintain one or more alternative suppliers for each Raw Material. Supplier acknowledges that such qualification does not constitute a breach of this Agreement.
+
+3. FORECASTING AND ORDERING
+
+3.1 Annual Plan. At least ninety (90) days before the start of each calendar year, Buyer shall provide Supplier with a non-binding annual demand plan for each Raw Material.
+
+3.2 Monthly Forecasts. Buyer shall provide Supplier with a rolling six (6) month demand forecast, updated monthly. The first two (2) months shall be a firm commitment, and the remaining four (4) months shall be best estimates.
+
+3.3 Purchase Orders. Buyer shall issue purchase orders at least thirty (30) days prior to the requested delivery date. Purchase orders shall specify the Raw Material, quantity, delivery date, ship-to location, and any special handling requirements.
+
+3.4 Order Confirmation. Supplier shall confirm each purchase order within five (5) business days. Failure to respond within such period shall constitute acceptance of the order.
+
+4. PRICING
+
+4.1 Base Prices. The base prices for Raw Materials are set forth in Schedule A. Prices are stated per unit of measure (kg, metric ton, or liter as applicable) in United States Dollars and are Ex Works (Incoterms 2020) Supplier's plant.
+
+4.2 Index-Based Pricing. Prices for certain Raw Materials shall be adjusted quarterly based on published industry indices as set forth in Schedule C. Adjustments shall be calculated using the formula: New Price = Base Price x (Current Index / Base Index). The base index for each Raw Material is the index value published for the month in which this Agreement is executed.
+
+4.3 Fixed Components. Conversion costs, overhead allocations, and margin components of the price shall remain fixed for a minimum of twelve (12) months and are subject to renegotiation annually.
+
+4.4 Price Protection. In the event that published index prices increase by more than twenty percent (20%) in any single quarter, Supplier shall cap price increases at fifteen percent (15%) for that quarter, with any excess increase carried forward to subsequent quarters.
+
+5. DELIVERY AND LOGISTICS
+
+[ANOMALY: Ambiguous delivery terms and missing specificity]
+5.1 Delivery. Supplier shall deliver Raw Materials in reasonable quantities at such intervals as may be necessary to ensure an adequate and continuous supply for Buyer's manufacturing operations. Deliveries shall be made promptly following Buyer's issuance of purchase orders, taking into account seasonal demand fluctuations and production planning considerations.
+
+5.2 Transportation. Unless otherwise agreed, Buyer shall arrange and pay for transportation from Supplier's facility. Supplier shall load Raw Materials onto Buyer's designated carrier in accordance with applicable hazardous materials transportation regulations.
+
+5.3 Packaging. Supplier shall package Raw Materials in containers suitable for the type of material and mode of transportation, in compliance with DOT, IMDG, and other applicable regulations. Packaging types and sizes are specified in Schedule D.
+
+5.4 Documentation. Each shipment shall be accompanied by: (a) Bill of Lading; (b) Certificate of Analysis; (c) Safety Data Sheet (SDS); (d) Packing List; and (e) any export/import documentation as applicable.
+
+6. QUALITY AND TESTING
+
+6.1 Material Specifications. All Raw Materials shall conform to the Material Specifications. Supplier shall not make any changes to its manufacturing process, raw material sources, or facility location that could affect the quality or performance of the Raw Materials without at least ninety (90) days' prior written notice to Buyer and Buyer's written approval.
+
+6.2 Certificate of Analysis. Supplier shall provide a COA for each Lot shipped. The COA shall include all test results required by the Material Specifications and shall be traceable to Supplier's laboratory records.
+
+6.3 Buyer's Testing. Buyer shall have the right to conduct incoming quality testing on all Raw Materials received. If Buyer's test results conflict with Supplier's COA, the Parties shall submit samples to an independent laboratory mutually agreed upon. The results of the independent laboratory shall be final, and the costs shall be borne by the Party whose results are not confirmed.
+
+6.4 Rejection. Buyer may reject any Raw Material that fails to conform to the Material Specifications. Rejected material shall be held at Buyer's facility at Supplier's risk and expense pending disposition instructions from Supplier. Supplier shall issue a credit or replacement within fifteen (15) business days of notification.
+
+6.5 Retention Samples. Supplier shall retain samples from each Lot for a minimum period of three (3) years following the date of shipment.
+
+7. PAYMENT
+
+7.1 Invoicing. Supplier shall issue invoices upon shipment of Raw Materials. Invoices shall reference the applicable purchase order and include Lot numbers.
+
+7.2 Payment Terms. Buyer shall pay all undisputed invoices within forty-five (45) days of invoice date.
+
+7.3 Currency. All payments shall be made in United States Dollars by wire transfer to Supplier's designated bank account.
+
+7.4 Tax. Prices do not include sales tax, use tax, VAT, or similar taxes, which shall be the responsibility of Buyer unless exempt.
+
+8. WARRANTIES
+
+8.1 Supplier warrants that all Raw Materials delivered under this Agreement shall:
+    (a) Conform to the Material Specifications;
+    (b) Be of merchantable quality;
+    (c) Be free from defects and contamination;
+    (d) Be fit for use in Buyer's manufacturing processes as described in Schedule E;
+    (e) Comply with all applicable laws and regulations, including REACH, TSCA, and other chemical regulatory requirements; and
+    (f) Not infringe any third-party intellectual property rights.
+
+8.2 Warranty Period. The warranty shall remain in effect for twenty-four (24) months from the date of delivery.
+
+8.3 Warranty Remedies. In the event of a warranty breach, Supplier shall, at Buyer's option: (a) replace the nonconforming Raw Materials; (b) refund the purchase price; or (c) reimburse Buyer for costs incurred in reworking or scrapping downstream products affected by the nonconforming Raw Materials.
+
+9. INDEMNIFICATION AND LIABILITY
+
+9.1 Supplier Indemnification. Supplier shall indemnify, defend, and hold harmless Buyer from any claims, damages, or losses arising from: (a) defective or nonconforming Raw Materials; (b) Supplier's breach of this Agreement; (c) Supplier's negligence or willful misconduct; (d) any regulatory violation by Supplier; or (e) IP infringement.
+
+9.2 Buyer Indemnification. Buyer shall indemnify Supplier from claims arising from Buyer's negligence or misuse of conforming Raw Materials.
+
+9.3 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, EXCEPT IN THE CASE OF WILLFUL MISCONDUCT OR GROSS NEGLIGENCE. SUPPLIER'S TOTAL LIABILITY SHALL NOT EXCEED TWO TIMES (2X) THE AMOUNTS PAID BY BUYER IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+10. REGULATORY COMPLIANCE
+
+10.1 Supplier shall comply with all applicable laws and regulations governing the manufacture, sale, transportation, and export of Raw Materials, including but not limited to TSCA, REACH, RoHS, OSHA, EPA, and DOT regulations.
+
+10.2 Supplier shall promptly notify Buyer of any changes in the regulatory status of any Raw Material, including new restrictions, bans, or classification changes.
+
+10.3 Supplier shall provide and maintain current Safety Data Sheets for all Raw Materials and shall promptly issue updated SDS documents as required.
+
+11. CONFIDENTIALITY
+
+11.1 Each Party shall maintain the confidentiality of the other Party's proprietary information and shall not disclose such information to third parties without prior written consent.
+
+11.2 Confidentiality obligations shall survive for five (5) years following termination.
+
+12. TERM AND TERMINATION
+
+12.1 Term. This Agreement shall be effective for five (5) years from the date hereof, with automatic renewal for successive two (2) year terms unless either Party provides one hundred eighty (180) days' written notice of non-renewal.
+
+12.2 Termination for Cause. Either Party may terminate upon sixty (60) days' written notice for material uncured breach.
+
+12.3 Termination for Regulatory Issues. Either Party may terminate immediately if a regulatory action prohibits or materially restricts the manufacture, sale, or use of any Raw Material.
+
+12.4 Effects of Termination. Upon termination, Buyer shall pay for all conforming Raw Materials delivered and in transit. Supplier shall complete open purchase orders unless directed otherwise by Buyer.
+
+13. GENERAL PROVISIONS
+
+13.1 Governing Law. This Agreement shall be governed by the laws of the State of Pennsylvania.
+
+13.2 Dispute Resolution. Disputes shall be resolved by binding arbitration in Philadelphia, Pennsylvania, under ICC Rules.
+
+13.3 Force Majeure. Neither Party shall be liable for delays due to events beyond its reasonable control, including chemical plant accidents, raw material shortages from upstream suppliers, and regulatory shutdowns.
+
+13.4 Assignment. Neither Party may assign without written consent, except to an affiliate or in connection with a merger or acquisition.
+
+13.5 Entire Agreement. This Agreement and all Schedules constitute the complete agreement.
+
+13.6 Amendments. Amendments require written agreement signed by both Parties.
+
+IN WITNESS WHEREOF:
+
+APEX POLYMER TECHNOLOGIES, INC.
+
+By: ___________________________
+Name: Robert J. McAllister
+Title: VP Supply Chain
+Date: June 20, 2025
+
+GLOBAL CHEMICAL RESOURCES, S.A.
+
+By: ___________________________
+Name: Dr. Klaus W. Reinhardt
+Title: Regional Director, Americas
+Date: June 20, 2025
+
+SCHEDULE A - RAW MATERIALS AND PRICING
+[To be attached]
+
+SCHEDULE B - MATERIAL SPECIFICATIONS
+[To be attached]
+
+SCHEDULE C - PRICE INDEX REFERENCES
+[To be attached]
+
+SCHEDULE D - PACKAGING SPECIFICATIONS
+[To be attached]
+
+SCHEDULE E - BUYER'S MANUFACTURING PROCESS DESCRIPTIONS
+[To be attached]

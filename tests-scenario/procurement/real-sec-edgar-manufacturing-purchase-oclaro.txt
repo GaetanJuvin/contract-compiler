@@ -1,0 +1,5096 @@
+# Source: SEC EDGAR - Oclaro Technology / Venture Corporation Manufacturing and Purchase Agreement
+# URL: https://www.sec.gov/Archives/edgar/data/1110647/000119312512225119/d347533dex105.htm
+# Filed: 2012 | CIK: 1110647 | Exhibit 10.5
+# This is an actual manufacturing and purchase agreement filed with the SEC.
+
+
+
+Manufacturing and Purchase Agreement
+
+ 
+
+ Exhibit 10.5 
+ MANUFACTURING AND PURCHASE AGREEMENT 
+ THIS MANUFACTURING AND
+PURCHASE AGREEMENT (“Agreement”) made and effective this 19th day of March, 2012 (“Effective Date”) by and between Oclaro Technology Ltd., a company organized under the laws of the United Kingdom, having offices at Caswell Office, Towcester,
+Northamptonshire, NN12 8EQ (on behalf of itself and all of its Affiliates (collectively referred to as “Oclaro” or “Buyer”) and Venture Corporation LTD, a company incorporated in Singapore, for itself with
+its principal place of business at 5006 Ang Mo Kio Avenue 5, #05—1/12 TECHplace ll, Singapore 569873 on behalf of itself and all of its Affiliates (collectively referred to as “Venture” or “Supplier” and,
+together with “Buyer”, the “Parties”). 
+  
+
+
+
+1.
+Term. 
+ The initial term of this Agreement
+commences on the Effective Date and, unless earlier terminated pursuant to the terms of this Agreement, shall continue for a period of five (5) years, expiring five (5) years from the Effective Date (“Term”). The parties may
+extend the Term upon mutual written agreement. Notwithstanding the expiration of the Term, any executed Statement of Work or Purchase Order then valid shall continue under the terms and conditions of this Agreement until completion unless earlier
+terminated pursuant to the terms of this Agreement. BUYER shall provide written notice to SUPPLIER of its intent not to renew this Agreement no later than six months prior to the end of the Term. 
+
+ 
+
+
+
+2.
+Definitions. As used in this Agreement, the following terms shall have the following respective meanings: 
+
+ 
+
+
+
+ 
+2.1
+“Acquired Equipment” means any and all hardware, testers, equipment, tooling, molds, software (and related documentation), components, parts or other
+materials purchased or developed by SUPPLIER and paid for or reimbursed by BUYER and equipment which is within the scope of the Equipment and Inventory Purchase Agreement of even date. 
+
+ 
+
+
+
+ 
+2.2
+“Additional Products” means any BUYER products included in a Statement of Work that are not Transferred Products. 
+
+ 
+
+
+
+ 
+2.3
+“Affiliate” means any parent, subsidiary or other entity controlled by, controlling or under common control with, a party to this Agreement. For purposes of
+this definition, the term “control” shall mean the ownership of voting stock or other equity interest entitling the owner to exercise at least fifty percent (50%) of the voting rights of the entity. 
+
+ 
+
+
+
+ 
+2.4
+“Approved Manufacturing and Product Development Locations” means the manufacturing locations approved by BUYER in writing, as set forth in Exhibit A-1,
+as amended by BUYER in writing from time to time. 
+  
+
+
+
+ 
+2.5
+“Build Plan” means the mutually agreed upon order schedule for Products in the form attached at Exhibit B that BUYER shall agree upon with SUPPLIER on
+a periodic basis. 
+  
+
+
+
+ 
+2.6
+“Build Request” means the initial periodic forecasted quantities of Products in the form attached at Exhibit B that BUYER shall provide to SUPPLIER
+setting forth the number and type of Products BUYER requests SUPPLIER to manufacture. 
+  
+
+
+
+ 
+2.7
+“Business Day(s)” means, for purposes of timing and notification, each weekday, Monday through Friday, excluding any holidays at either BUYER and/or the
+Approved Manufacturing and Product Development Locations and the period of any previously scheduled shut downs of either party, provided that the party experiencing the shut down has notified the other party in writing at least ninety (90) days
+prior to the shut down. Any shut downs for which the party experiencing the shut down notifies the other party fewer that ninety (90) days prior to the start of such shut down shall be deemed to be Business Days, unless the other party provides
+written approval, which may be granted or withheld at such other party’s discretion. For the removal of doubt, the definition of Business Days does not relate to or in any way make any implication regarding manufacturing work scheduling and
+labor rates. 
+  
+
+
+
+ 
+2.8
+“Buyer Controlled Components” means the list of Components that BUYER has responsibility for negotiating and providing the Component cost to SELLER. BUYER and
+SUPPLER will review this list on a quarterly basis to identify any additions or deletions. BUYER retains sole discretion as to the Components that are on the said list. BUYER shall retain the right to negotiate costs with or independent of SUPPLIER
+for any and all parts on BUYER’s approved vendor list. 
+ Confidential treatment is being requested for portions of this
+document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the
+Securities and Exchange Commission. 
+
+  
+ 1 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+2.9
+“BUYER Designated Destinations” means a ‘ship to’ address as designated by an authorized BUYER representative. 
+
+ 
+
+
+
+ 
+2.10
+“BUYER Properties” means the Acquired Equipment and Loaned Materials, collectively. 
+
+ 
+
+
+
+ 
+2.11
+“BUYER Software” means BUYER’s proprietary software or the proprietary software of BUYER’s licensors, to be embedded into or bundled with the
+Products. The parties agree that all BUYER Software shall solely be embedded into or bundled with the Products in object code format. 
+  
+
+
+
+ 
+2.12
+“Buyer Supplied Components” means the list of Components that BUYER either manufactures or acquires directly and then sells to SUPPLIER. BUYER and SUPPLIER
+will review this list on a quarterly basis to identify any additions or deletions and costs. BUYER retains sole discretion as to the Components that are on the said list. 
+
+ 
+
+
+
+ 
+2.13
+“BUYER Technology” means the Technology and all Derivatives thereof (a) provided by BUYER to SUPPLIER pursuant to this Agreement, or (b) developed
+by BUYER or SUPPLIER pursuant to this Agreement including any work instructions developed or modified by SUPPLIER but excluding SUPPLIER Technology and any Technology which is demonstrably in the public domain. 
+
+ 
+
+
+
+ 
+2.14
+“Capital Efficiency” means the continual improvement in the production output of a piece of capital equipment per unit of time, typically per day or per week,
+including without limitation, increasing the speed of the equipment, reducing test time, improving machine availability time, increasing the machine utilization rate (measured on a 7X24 basis), reducing the machine load and unload time, reducing the
+number of tasks performed by the equipment, reducing change-over time, improving the process yield, and implementation and utilization of all engineering efficiencies. 
+
+ 
+
+
+
+ 
+2.15
+“Components” means any parts, material, or other items that are used in the manufacture and/or assembly of Products and any inventory purchased as set forth
+in the Equipment and Inventory Purchase Agreement. 
+  
+
+
+
+ 
+2.16
+“Derivative” means: (a) for copyrightable or copyrighted material, any translation, abridgment, revision or other form in which an existing work may be
+recast, transformed or adapted; (b) for patentable or patented material, any improvement thereon; and (c) for material which is protected by trade secret, any new material derived from such existing trade secret material, including new
+material which may be protected under copyright, patent and/or trade secret laws. 
+  
+
+
+
+ 
+2.17
+“Documentation” means the electronic or printed user guides, manuals, quick reference cards, getting started guides, literature, materials, flyers, license
+agreements, registration cards and other end user literature for the Products as provided to SUPPLIER hereunder. BUYER shall have the right, at no additional charge, to use and/or reproduce the SUPPLIER’s applicable literature, such as
+operating and maintenance manuals, technical publications, prints, drawings, training manuals, and other similar supporting documentation and sales literature. SUPPLIER shall advise BUYER of any updated information relative to the foregoing
+literature and documentation with timely notifications in writing. 
+  
+
+
+
+ 
+2.18
+“Installed Costs” means the freight and all normal direct and indirect costs, such as installation and other assemblage costs, to make the Acquired Equipment
+fully operational. 
+  
+
+
+
+ 
+2.19
+“Intellectual Property Rights” means copyright rights (including, without limitation, the exclusive right to use, reproduce, modify, distribute, publicly
+display and publicly perform the copyrighted work), trademark rights (including, without limitation, trade names, trademarks, service marks, and trade dress), patent rights (including, without limitation, the exclusive right to make, use and sell),
+trade secrets, moral rights, right of publicity, authors’ rights, contract and licensing rights, and all other intellectual property rights as may exist now and/or hereafter come into existence and all renewals and extensions thereof,
+regardless of whether such rights arise under the law of the United States or any other state, country or jurisdiction. 
+  
+
+
+
+ 
+2.20
+“Joint Service Agreement” means a written statement describing the responsibilities, expectations, and entitlements of each party; designed to benefit both
+parties and improve the relationship for mutual advantage. 
+  
+
+
+
+ 
+2.21
+“Leadtime” means (i) with respect to Components, the number of calendar days between the date upon which a Purchase Order is received by SUPPLIER and the
+date upon which the relevant Components will 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+2 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+be delivered; and (ii) with respect to Products, means the number of calendar days between the date upon which a Purchase Order is received by SUPPLIER and the date upon which the relevant
+Product is delivered to the shipping location designated by BUYER. 
+  
+
+
+
+ 
+2.22
+“Loaned Materials” means any and all test programs, testers, equipment, tooling, fixtures, components, parts or other materials provided to SUPPLIER by BUYER
+hereunder. 
+  
+
+
+
+ 
+2.23
+“Materials Information” includes, but is not limited to, the following information and data for Components: (a) BUYER part number; (b) SUPPLIER part
+number; (c) manufacturer name; (d) manufacturer part number; (e) manufacturer description; (f) Leadtime; (g) where used; (h) quantity per type of Product; (i) purchase quantity authorized by BUYER;
+(j) purchase price authorized by BUYER; and (k) extended price. 
+  
+
+
+
+ 
+2.24
+“Necessary Equipment” means any and all test programs, software (and related documentation), hardware, tooling, molds, fixtures or other equipment purchased
+by SUPPLIER and not reimbursed by BUYER and used by SUPPLIER to manufacture and/or assemble the Products. 
+  
+
+
+
+ 
+2.25
+“Packed Out Product” means a Finished Product unit that is fully packaged and ready for distribution directly to BUYER’s customers.
+
+  
+
+
+
+ 
+2.26
+“Finished Product” means a product unit that is not packaged for sale, but is ready for shipping to packaging and a distribution location designated by BUYER.
+
+  
+
+
+
+ 
+2.27
+“Product(s)” means the Transferred Products and Additional Products identified in a Statement of Work. 
+
+ 
+
+
+
+ 
+2.28
+“Purchase Order” means a BUYER purchase order for the purchase of or Products issued to SUPPLIER pursuant to the provisions of this Agreement.
+
+  
+
+
+
+ 
+2.29
+“Specifications” means the functional and performance specifications (including, without limitation, bills of materials, schematic diagrams, parts and
+assembly drawings) relating to the testing and manufacturing of each Product as provided by BUYER, including, without limitation, the specifications set forth on the applicable Statement of Work governing the development and/or manufacture of a
+specific Product. 
+  
+
+
+
+ 
+2.30
+“Statement of Work” means a written statement of work for the development and/or manufacture of the Products which has been or will be signed by both parties
+and attached hereto as Exhibit D. 
+  
+
+
+
+ 
+2.31
+“Technology” means any and all technical information and/or materials, including, without limitation, ideas, techniques, designs, sketches, drawings, models,
+inventions, know-how, processes, apparatus, methods, equipment, algorithms, software programs, data, software source documents, other works of authorship, formulae and information concerning engineering, research, experimental work, development,
+design details and specifications. 
+  
+
+
+
+ 
+2.32
+“Transferred Products” means the versions of BUYER products and their Derivative Products as identified in Exhibit A-2 and on a Statement of Work that
+will be transferred from BUYER’s or BUYER’s contract manufacturer’s existing site of manufacture to SUPPLIER’s Approved Manufacturing and Product Development Location. 
+
+ 
+
+
+
+ 
+2.33
+“SUPPLIER Properties” means any test programs, software, tooling, equipment or other materials provided to BUYER by SUPPLIER hereunder.
+
+  
+
+
+
+ 
+2.34
+“SUPPLIER Technology” means the Technology and all Derivatives thereof provided by SUPPLIER to BUYER pursuant to this Agreement which are
+(a) developed by SUPPLIER prior to, or independent of entering into this Agreement but excluding BUYER Technology and any Technology which is demonstrably in the public domain. 
+
+ 
+
+
+
+3.
+License and Ownership of the Product. 
+  
+
+
+
+ 
+3.1
+License to Specifications and Loaned Materials. Subject to the terms and conditions of this Agreement, BUYER hereby grants SUPPLIER a personal, limited,
+non-exclusive, non-transferable, royalty-free license, without the right to sublicense, under BUYER’s Intellectual Property Rights to use the Specifications and the Loaned Materials provided by BUYER during the term of this Agreement, solely
+internally, and solely for the purpose of manufacturing the Products for BUYER. 
+  
+ Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions
+are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+3 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+3.2
+License to BUYER Technology. Subject to the terms and conditions of this Agreement, BUYER hereby grants to SUPPLIER a personal, limited, non-exclusive,
+non-transferable and royalty-free license, without the right to sublicense, under BUYER’s Intellectual Property Rights to use the BUYER Technology (as embodied in the Specifications or as otherwise provided to SUPPLIER) during the term of this
+Agreement, solely internally, and solely for the purpose of manufacturing under the terms of this Agreement; provided, however, that such license granted to SUPPLIER will not be exercised to develop, manufacture or distribute any products other than
+the Products. 
+  
+
+
+
+ 
+3.3
+License to BUYER Software and Documentation. Subject to the terms and conditions of this Agreement, BUYER hereby grants to SUPPLIER a personal, limited,
+non-exclusive, non-transferable and royalty-free license, without the right to sublicense, under BUYER’s Intellectual Property Rights and only during the term of this Agreement to: (i) use and reproduce the BUYER Software and Documentation
+for the limited purpose of manufacturing the Products; and (ii) distribute the BUYER Software and Documentation solely as incorporated into the Products as set forth in the applicable Statement of Work only to BUYER and the BUYER Designated
+Destinations. 
+  
+
+
+
+ 
+3.4
+License to SUPPLIER Technology and SUPPLIER Properties. Neither SUPPLIER nor its licensors, suppliers or any other third party will retain any rights in any
+materials incorporated into the Products. To the extent that SUPPLIER provides any SUPPLIER Technology and/or SUPPLIER Properties to BUYER as set forth in a Statement of Work or otherwise, SUPPLIER hereby grants to BUYER a limited, perpetual,
+irrevocable, non-exclusive, non-transferable and royalty-free license under SUPPLIER’s Intellectual Property rights, to use the SUPPLIER Technology and/or SUPPLIER Properties provided to BUYER hereunder, if any, solely in connection with the
+marketing, sale and distribution of the Products. During the Term of this Agreement, unless otherwise agreed, If any SUPPLIER Technology is incorporated in the Products which are developed or manufactured by Seller under this Agreement, there shall
+not be any royalty or license fees payable by Buyer to the Seller. 
+  
+
+
+
+ 
+3.5
+License to BUYER Trademarks. BUYER requests and SUPPLIER agrees to place certain markings and identification, which includes the trademark(s) and/or trade
+name of BUYER, on the Products ordered and delivered to BUYER, the Documentation and the Product packaging, as specified by BUYER. In addition, upon written approval of BUYER, SUPPLIER may use such trademarks and trade name in materials used in
+presentations made to suppliers of Components. The use of such markings and identification shall be strictly in accordance with the requirements of BUYER as set forth in BUYER’s Trademark Guidelines, as provided to SUPPLIER and as may be
+updated from time to time by BUYER. SUPPLIER is not authorized to use the trademark(s) and trade names of BUYER on any products, other than Products ordered by and delivered to BUYER, or for any other purpose not expressly set forth in this. BUYER
+hereby grants to SUPPLIER a limited, non-exclusive, non-transferable trademark license, without the right to sublicense, to use the BUYER trademarks set forth on Exhibit E and/or the Statement of Work solely (i) internally to mark the
+Products, Product packaging and Documentation as requested by BUYER, and (ii) in presentation materials upon BUYER’s prior written approval. All other use is prohibited. This license shall terminate on the earlier of termination of this
+Agreement or failure of SUPPLIER to maintain the quality requirements set out in this Agreement and/or BUYER’s Trademark Guidelines. SUPPLIER shall obtain no rights to or interest of any kind in any BUYER trademarks or trade names other than
+the limited right to use set out above. 
+  
+
+
+
+ 
+3.6
+Restrictions. Except for the licenses as expressly set forth in this Agreement, each party retains all of its Intellectual Property Rights. There are no implied
+rights. No license is granted by BUYER to make, use or sell any other products under the BUYER Intellectual Property Rights or to make, use or sell any products for any other purpose. SUPPLIER will not disclose BUYER’s Intellectual Property
+Rights to any third party. SUPPLIER will not modify, decompile or reverse engineer the BUYER Software or any BUYER Technology. Any other provisions of this Agreement notwithstanding, SUPPLIER will have no right to use the trademarks, trade names or
+Product(s) names of BUYER directly or indirectly in connection with any product(s), promotion or publication without the prior written approval of BUYER. 
+  
+
+
+
+ 
+3.7
+Ownership by BUYER. As between BUYER and SUPPLIER, BUYER will own all right, title, and interest in the Specifications, BUYER Software, Products, BUYER
+Properties and the BUYER Technology and all Intellectual Property Rights therein, and SUPPLIER hereby irrevocably transfers, conveys and 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+4 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+assigns to BUYER all of its right, title, and interest therein. SUPPLIER will execute such documents, render such assistance, and take such other action as BUYER may reasonably request, at
+BUYER’s expense, to apply for, register, perfect, confirm and protect BUYER’s rights to the BUYER Technology and all Intellectual Property Rights therein. 
+
+ 
+
+
+
+ 
+3.8
+Ownership by SUPPLIER. As between SUPPLIER and BUYER, SUPPLIER will own all right, title and interest in the SUPPLIER Technology and Supplier Properties, and all
+Intellectual Property Rights therein. 
+  
+
+
+
+ 
+3.9
+Design Work. If the parties agree to have SUPPLIER perform design work for the Products, including without limitation, process design work, such work shall be
+subject to the terms and conditions of this Section 3.9. performed under a Design Statement of Work. Subject to the terms and conditions of this Agreement, if the BUYER agrees to SUPPLIER performing design work for the Products, BUYER shall
+grant to SUPPLIER a personal, limited, non-exclusive, non-transferable and royalty-free license, without the right to sublicense, under BUYER’s Intellectual Property Rights to use the BUYER Technology (as embodied in the Specifications or as
+otherwise provided to SUPPLIER), solely internally, and solely for the purpose of performing the design work and only for the minimum period of time and to the minimum extent necessary to perform such design work. BUYER shall own all Technology and
+Intellectual Property Rights developed or created by SUPPLIER in the performance of such Design Statement of Work (“Work Product”), unless otherwise agreed. SUPPLIER hereby irrevocably transfers, conveys and assigns to BUYER all of its
+right, title, and interest in and to the Work Product. SUPPLIER will execute such documents, render such assistance, and take such other action as BUYER may reasonably request, at BUYER’s expense, to apply for, register, perfect, confirm and
+protect BUYER’s rights to the Work Product and all Intellectual Property Rights therein. 
+  
+
+
+
+4.
+Manufacture of Products. 
+  
+
+
+
+ 
+4.1
+Manufacturing. Pursuant to the terms of this Agreement, SUPPLIER agrees to manufacture each of the Products in accordance with this Agreement, the applicable
+Specifications, Statement of Work, and any other instructions provided in writing by BUYER and agrees not to stop or restrict the supply of the Products during the term. SUPPLIER acknowledges and agrees that time is of the essence for the provision
+of manufacturing services and the supply of Products to BUYER hereunder and that the full and timely provision of all manufacturing services and supply of Products to BUYER hereunder is a material condition of this Agreement. SUPPLIER shall
+manufacture the Products only according to the written instructions provided by BUYER. SUPPLIER shall only manufacture each Product at the applicable Approved Manufacturing and Product Development Location(s) for that Product. SUPPLIER will not
+change location of the facilities, building location or line location for the manufacture and assembly of the Products without BUYER’s prior written consent, which will not be unreasonably withheld. [***]. The cost of any move initiated by
+SUPPLIER shall be the sole responsibility of SUPPLIER. These costs may include, but are not limited to, additional buffer inventory, expedite fees, overtime, equipment rental costs, etc. Additionally, any move shall not be considered complete until
+BUYER has qualified the new location. SUPPLIER agrees to aggressively work with BUYER to develop strategies which will lead to ongoing reductions in costs, Leadtimes and cycle times, yields and improvements in Capital Efficiency.
+
+  
+
+
+
+ 
+4.2
+New Product Introduction. BUYER may from time to time issue Purchase Orders for advance, low-volume units of Products for testing of the Products and/or the
+manufacturing process (“NPI Units”). All NPI Units will be manufactured in the Approved Manufacturing and Product Development Location. Any additional terms regarding the manufacture and delivery of NPI Units shall be mutually agreed upon
+by the parties in a Statement of Work, which shall include, without limitation, pricing, manufacturing milestones and milestone schedule, testing procedures and quality assurance provisions. Such Statement of Work will be attached hereto as a
+sequentially numbered attachment (“Attachment”) to Exhibit D, and shall be deemed incorporated herein. 
+  
+
+
+
+ 
+4.3
+Manufacturing Reporting. SUPPLIER shall perform the reporting obligations, to be established between BUYER and SUPPLIER. SUPPLIER agrees to maintain, and update
+on no less frequent than a weekly basis, the Materials Information, the Capacity Information and the Leadtime Information, as well as information regarding works in progress, works in stock, problems in the manufacturing process and all returns, and
+all such data shall be accessible to BUYER online, provided to BUYER via a direct data feed to BUYER’s internal information systems as reasonably specified by BUYER, or manually until such online or direct data feed can be established. To the
+extent that SUPPLIER is permitted access to BUYER’s internal information systems, SUPPLIER shall not disclose any BUYER data to any third party, or use such data for any purpose except as necessary to fulfill its obligations hereunder.
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+5 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+4.4
+No Subcontracting. SUPPLIER agrees that no portion of the assembly of the Products will be subcontracted to third parties without BUYER’s prior written
+consent. Any permitted subcontractor approved in writing by BUYER (“Subcontractor”) that SUPPLIER may use to assist SUPPLIER shall be obligated to comply with the terms of this Agreement and SUPPLIER shall remain responsible for such
+Subcontractor’s performance. BUYER’s consent to SUPPLIER’s use of any Subcontractor shall not be deemed a waiver of any BUYER rights hereunder nor relieve SUPPLIER of any of its obligations pursuant to this Agreement. SUPPLIER shall
+enter into a written agreement with each approved Subcontractor which includes terms and conditions no less protective of BUYER’s proprietary and intellectual property rights than those set forth in this Agreement prior to SUPPLIER permitting
+any such Subcontractor to perform any obligation hereunder. SUPPLIER shall be solely responsible for the payment of all amounts payable to, and the performance of all of SUPPLIER’s obligations for, all such Subcontractors. Immediately upon
+request of BUYER, SUPPLIER shall commence such proceedings as necessary (i.e., termination notice, request to cure default) to terminate any Subcontractor that, in BUYER’s sole opinion, does not perform to the standards set forth by BUYER in
+this Agreement. 
+  
+
+
+
+ 
+4.5
+Testing. Upon the completion of the manufacture of each Product, SUPPLIER will submit such Product to the testing procedures set forth on the applicable
+Statement of Work, in this Agreement or specified by BUYER from time to time. SUPPLIER, unless otherwise specified in writing, will only ship Products which have been tested successfully according to such procedures. At BUYER’s discretion,
+BUYER will provide training in the testing procedures set forth herein to certain personnel designated in writing by SUPPLIER. SUPPLIER will perform all required testing, as specified by BUYER, unless otherwise agreed by BUYER and SUPPLIER in
+writing, of all Products at a SUPPLIER manufacturing facility mutually agreed upon by the parties in writing. 
+  
+
+
+
+ 
+4.6
+Storage of Property. SUPPLIER shall store all BUYER Properties required for the manufacturing of Products under this Agreement free of charge in a place of
+storage that is safe and suitable for the specific nature of the BUYER Properties in accordance with industry standard practice for the type of property stored and at a minimum meets any specified storage conditions for the property, and undertakes
+never to hide, damage or remove the identification plates on the BUYER Properties. SUPPLIER shall ensure that all of Loaned Materials and property (which shall include but not be limited to all Products) shall be kept distinct and separate from
+SUPPLIER’s or other third parties’ property and Loaned Materials shall be clearly identified as BUYER’s property. SUPPLIER shall ensure that none of BUYER’s property is seized by any third party, whether pursuant to an order of
+court or otherwise, while in SUPPLIER’s possession. SUPPLIER shall not allow any lien or encumbrance to be created over or otherwise encumber BUYER’s property. SUPPLIER will not at any time use the Loaned Materials for any other purposes
+or for any third parties or in any manner other than in performing SUPPLIER’s obligations under this Agreement. 
+  
+
+
+
+ 
+4.7
+BUYER Properties. 
+  
+
+
+
+ 
+4.7.1
+Loaned Materials. Subject to the license grant set forth above, BUYER agrees to loan free of charge to SUPPLIER, and SUPPLIER accepts on loan, certain items of
+Loaned Materials, as provided from time to time. All such Loaned Materials shall be sent to SUPPLIER at BUYER’s expense. All such Loaned Materials shall be provided to SUPPLIER on an “AS IS” and “AS AVAILABLE” basis and
+without warranty of any type or kind. BUYER HEREBY DISCLAIMS AND EXCLUDES ALL WARRANTIES, WHETHER STATUTORY, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND
+MERCHANTABILITY. The Loaned Materials are to be used for the express purpose of Products and cannot be used to support the production, test, or service of any of SUPPLIER’s other customers. The Loaned Materials shall be loaned for an indefinite
+period during the term of this Agreement, but SUPPLIER’s right to use such Loaned Materials shall terminate automatically upon request by BUYER or termination of this Agreement, whichever is sooner. If BUYER requests that the Loaned Properties
+be returned to BUYER, the loan of Loaned Properties shall terminate when the applicable Loaned Materials are received by BUYER. BUYER agrees to reimburse any costs incurred by SUPPLIER for calibration and maintenance SUPPLIER has performed by third
+party vendors on Loaned Materials. 
+  
+ Confidential
+treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of
+this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+6 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+4.7.2
+Use of Loaned Materials. SUPPLIER shall use the Loaned Materials solely for the benefit of BUYER and solely at the Approved Manufacturing and Product Development
+Locations, which address shall not change without the express prior written agreement of BUYER. 
+  
+
+
+
+ 
+4.7.3
+Acquired Equipment. If SUPPLIER desires to purchase items to be included as Acquired Equipment, SUPPLIER shall provide a written request to BUYER at least five
+(5) Business Days prior to the purchase of such items. Such request shall include a quote setting forth the cost of each item. If BUYER agrees in writing to purchase some or all of the items, the approved items shall be deemed to be Acquired
+Equipment. The purchase price plus the Installed Costs will be amortized over a period of sixty (60) months, payable in monthly installments based upon an interest rate equal to the then-current one (1) year LIBOR rate (U.S. currency) plus
+one percent (1%) (“Supplier Net Book Value”). SUPPLIER shall provide to BUYER all relevant invoices corresponding to the Acquired Equipment purchased for reimbursing purposes. BUYER shall reimburse SUPPLIER for the cost of the
+Acquired Equipment according to the invoicing and payment terms in Exhibit C. At termination of work requiring this equipment, the BUYER will reimburse the SUPPLIER for the SUPPLIER Net Book Value not already reimbursed. BUYER shall have the
+option to purchase such Acquired Equipment from SUPPLIER, such request shall not be unreasonably refused: (a) on an exception basis; or, (b) upon termination of this Agreement, to the extent that SUPPLIER has not recovered payment for
+Acquired Equipment through amortization of the Supplier Net Book Value, BUYER will either (i) pay SUPPLIER for any such unrecovered amortization and SUPPLIER shall retain ownership or (ii) purchase the Acquired Equipment for a purchase
+price equal to the SUPPLIER’s Net Book Value. Notwithstanding the above, if SUPPLIER fails to meet BUYER’s cost, quality and delivery objectives, BUYER shall have no obligation to pay for such unrecovered amortization in subsection
+(i) but may purchase the Acquired Equipment as otherwise described herein in subsection (ii). Upon mutual agreement the Parties may decide to designate an item proposed to be treated as Acquired Equipment as Necessary Equipment, in which case
+such item will deemed to be Necessary Equipment subject to the below. 
+  
+
+
+
+ 
+4.7.4
+Necessary Equipment. SUPPLIER may purchase Necessary Equipment to manufacture and/or assemble the Products. Within ten (10) days after acquisition, SUPPLIER
+shall provide written notice to BUYER of acquisition of the Necessary Equipment. Upon mutual agreement BUYER shall have the option to purchase such Necessary Equipment upon termination of this Agreement. 
+
+ 
+
+
+
+ 
+4.7.5
+Return of BUYER Properties. Within two (2) Business Days of BUYER’s request, SUPPLIER shall send BUYER Properties that are in electronic and paper form
+to any location requested by BUYER, at SUPPLIER’s expense. SUPPLIER shall use best efforts to send all other Loaned Materials to any location requested by BUYER within five (5) business Days of BUYER’s request. SUPPLIER agrees to
+provide all reasonable assistance for this purpose and to adequately ship and insure the applicable BUYER Properties. 
+  
+
+
+
+ 
+4.7.6
+Insurance. In addition to any other insurance requirements set forth herein SUPPLIER shall take out insurance to adequately cover all Loaned Materials, and add
+BUYER as a loss payee with respect to the Loaned Materials, at its own cost, and give proof of such insurance to BUYER on request, and be responsible for any damage occurring to the Loaned Materials while in SUPPLIER’s possession that is not
+due to normal wear. 
+  
+
+
+
+ 
+4.7.7
+Expenses. SUPPLIER shall assume all expenses due to the operation, and use of all BUYER Properties. In any case, SUPPLIER will be responsible for any loss or
+damage caused to any BUYER Properties while in SUPPLIER’s possession. BUYER shall at all times retain title and ownership of allLoaned Materials. In the event major repairs or replacement of BUYER Properties is necessary, SUPPLIER shall notify
+BUYER in writing for instructions on how to proceed but in no case will such major repair or replacement be at SUPPLIER expense. BUYER agrees to reimburse any costs incurred by SUPPLIER for calibration and maintenance which SUPPLIER has had
+performed by third party vendors on BUYER Properties. 
+  
+
+
+
+ 
+4.8
+Transferred Products. During the Term, BUYER will continue to have SUPPLIER produce the Transferred Products including any updates or upgrades or enhancements in
+functionality of those Products (“Derivative Products”) subject to SUPPLIER’S meeting cost, quality and delivery objectives. In the event 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+7 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+of performance issues SUPPLIER shall have thirty (30) days to cure. In the event the issue remains unresolved the Parties shall escalate to their executive management for resolution. If
+after ten (10) days there remains no resolution the Products in question shall lose their respective exclusivity terms. During the first 30 days of this Agreement, Parties will finalise the Flight Plans. The preliminary Flight Plans are set out
+in Exhibit A-3 of this Agreement, the Parties will amend the Flight Plans as needed during the transition period. The Transferred Products shall be transferred from BUYER’s facilities to Supplier’s facilities according to the Flight Plans
+as mutually agreed. 
+  
+
+
+
+ 
+4.9
+Non-Exclusivity. Except for Transferred Products as may be otherwise expressly specified in a specific Statement of Work, this Agreement is non-exclusive.
+Additional Products may be added to future Statements of Work, at BUYER’s sole discretion, based on a competitive quote process, SUPPLIER’s performance under this Agreement, and then current overall SUPPLIER/BUYER business level and
+partnership. SUPPLIER will be provided notification of potential significant opportunities that would reasonably be considered consistent with the intent and capabilities of SUPPLIER associated with the Transferred Products. BUYER shall have the
+right to use other contract manufacturers to manufacture the Additional Products. Nothing in this Agreement will be construed or deemed to prevent or otherwise inhibit BUYER’s ability or right to manufacture the Products, whether at
+BUYER’s facility or at an alternate or additional third-party facility(ies) of BUYER’s choice. Further, nothing in this Agreement will be construed or deemed to (a) require BUYER to order any minimum number of units of the Products to
+be manufactured by SUPPLIER, or (b) prevent or otherwise inhibit BUYER’s ability or right to design, develop, manufacture, have manufactured, market, use, sell, and or distribute any follow-on products or Derivatives of the Products.
+
+  
+
+
+
+ 
+4.10
+PCBA’s. SUPPLIER shall be allowed to manufacture the PCBA’s for the Transferred Products so long as SUPPLIER maintains cost, quality and delivery
+competiveness. 
+  
+
+
+
+5.
+Build Request and Build Plan. BUYER shall provide SUPPLIER with a good faith twelve (12) month, non-binding, forward-looking, rolling forecast in the form
+of a Build Request and shall update such forecast on periodic basis. The Build Requests are not binding on BUYER and do not represent any commitment by BUYER to purchase a minimum number of Products. Build Requests will be in weekly or monthly
+buckets for the first six (6) months and monthly buckets for the subsequent six (6) months. SUPPLIER shall promptly and in no case longer than five (5) Business Days respond to any Build Request issued by BUYER with a committed Build
+Plan. The Build Request and Build Plan shall set forth, as applicable, the following information: Product name, BUYER Product numbers, Product quantities, and requested delivery dates. BUYER and SUPPLIER shall jointly review and agree on a committed
+Build Plan. The Build Request shall be updated at least monthly and shall be used by SUPPLIER to plan for production capacity, resources, and materials planning to support BUYER’s anticipated orders. SUPPLIER shall only purchase Components in
+accordance with the mutually agreed upon purchasing parameters, and the Buyer shall be responsible for the costs of Components purchased within such purchasing parameters. 
+
+ 
+
+
+
+6.
+Procurement, Inventory Management and Purchase Orders. 
+  
+
+
+
+ 
+6.1
+Procurement and Management of Materials and Components. 
+ Procurement of BUYER Approved Materials and Components. SUPPLIER will maintain the Lead-time for each Product that is specified in the applicable Statement of Work. SUPPLIER is authorized to
+purchase Components for the Products in a manner so as to meet the mutually agreed Build Plans, Purchase Orders and any long Lead-time requirements specified by BUYER in the applicable Statements of Work. All such procurement by SUPPLIER shall be
+done based on industry competitive Lead-times. SUPPLIER’s material liability shall be consistent with the terms of this Agreement. On a quarterly basis, the Parties will jointly review the BOM’s, on a product by product basis, and mutually
+agree to a list of standard parts, non-standard parts, non-cancellable, non-returnable parts, Lead-times, long Lead-time Components, and MOQ. On a quarterly basis, BUYER shall identify any SUPPLIER Controlled Components. Such lists are to be agreed
+to, signed by the Parties and included in the quarterly RFP. SUPPLIER shall purchase all Components for Products solely from suppliers listed on BUYER’s most current approved vendor list (the “AVL”) as provided by BUYER to SUPPLIER as
+updated by BUYER from time to time. Any purchases made from suppliers not listed on the AVL or contrary to BUYER’s written instructions must be approved by BUYER in advance in writing. BUYER agrees to use commercially reasonable efforts to have
+BUYER’s approved vendors on the AVL extend to SUPPLIER the same pricing such vendor extends to BUYER, but solely for purchases of Components to be used in the manufacture of Products made under this Agreement. BUYER may assist SUPPLIER in
+securing certain 
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+8 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ 
+long Lead-time Components for a Product. Such assistance may include placing orders for long Lead-time Components directly with the manufacturer, providing written authorizations for the purchase
+of certain Components in short supply or issuing advance Purchase Orders. SUPPLIER shall purchase BUYER produced Components pursuant to this Agreement. SUPPLIER shall collect all invoices issued by BUYER for BUYER produced Components under the
+Agreement during each month (“Accumulation Period’) and initiate payment for the invoices on the first business day of the month forty five (45) days following the end of the Accumulation Period. Notwithstanding the foregoing, if
+SUPPLIER rejects BUYER Supplied Components under the Agreement, SUPPLIER may delay payment of the applicable invoice until the BUYER Supplied Components are repaired or replaced. Delivery shall be EXWORKS (INCOTERMS 2010) unless otherwise agreed in
+writing. 
+ For purchases of Components, BUYER shall receive all rebates, discounts and other price reductions, monetary
+and non-monetary, and in any way relating to such Components purchases in proportion to such purchases. Should an audit determine non-compliance with the obligations in this Section 6.1.1, the parties agree that BUYER will be entitled to a
+refund of the amount of the determined non-compliance and costs of audit, any exceptions shall be mutually agreed by the Parties. [***]. 
+  
+
+
+
+ 
+6.1.1
+Procurement Policy: SUPPLIER will purchase all Components to meet the latest approved Build Plan. BUYER shall not be liable for any purchased Components unless
+pre-approved by BUYER in writing other than the Build Plan. As a guideline, SUPPLIER will not transform Components into a non-returnable condition (e.g., programming of flash memory, tape and reeling Components supplied in trays) at any Approved
+Manufacturing Location in excess of the quantity necessary to meet the Product cycle times according to Exhibit D attached hereto. Exceptions will be granted for items that are packaged in large quantities and are considered non-cancellable,
+nonreturnable by the SUPPLIER once the packaging is opened or a piece is consumed. [***]. BUYER agrees that within the Products being manufactured, there are standard parts, non-standard parts and non-cancellable, non-returnable parts. BUYER’s
+maximum liability for standard parts will be to the Build Plan or the Components Lead-time whichever is less, and which cannot be returned for credit or consumed on any other of the SUPPLIER’s manufactured products, with the exception of items
+that are packaged in large quantities and such large package quantities must be approved by BUYER in writing. BUYER’s maximum liability for non-standard parts will be to the Build Plan or the Components Lead-time whichever is less plus any
+Components held in VMI which cannot be returned for credit or consumed on any other of the SUPPLIER’s manufactured products, plus Components on-order within the Component Lead-time cancellation window (SUPPLIER will use best efforts to cancel
+or mitigate BUYER’s exposure). BUYER’s maximum liability for non-cancellable, non-returnable parts will be to the inventory on-hand plus the total quantity on-order. Each Product-specific Statement of Work will identify any requirements
+that deviate from these guidelines. [***]. 
+  
+
+
+
+ 
+6.1.2
+Material Management. SUPPLIER will, at a minimum, at no additional cost to Buyer, comply with the following obligations to ensure good Component material
+management for the Products: (a) ensure Component level failure analysis is performed by the vendor; (b) expedite Component returns, failure analysis and corrective actions regarding defective Components with the vendors and promptly
+communicate this information to BUYER; (c) actively work with vendors to reduce Component Leadtime and costs; (d) address poor Component yields with vendors and promptly provide analysis and corrective plans regarding same to BUYER; and
+(e) provide regular performance feedback to vendors, with a copy to BUYER. SUPPLIER will not use components procured for BUYER in any other customer products without advance written approval from BUYER. 
+
+ 
+
+
+
+ 
+6.1.3
+Allocation of Resources. SUPPLIER will notify BUYER promptly whenever SUPPLIER identifies a reasonable likelihood that there is or will be a capacity
+constraint that adversely affects SUPPLIER’s ability to meet the Build Plan (“Capacity Constraint”). During any period of Capacity Constraint, SUPPLIER agrees, at a minimum, to allocate capacity to BUYER under whichever of the
+following formulas would give BUYER the greatest quantity of Products: (i) in proportion to BUYER’s percentage of capacity used of all of SUPPLIER’s customer manufacturing capacity for the previous two (2) calendar months;
+(ii) in proportion to BUYER’s percentage of capacity, as set forth in applicable Build Requests, of all of SUPPLIER’s customers forecasts for manufacturing capacity; or (iii) any other more favorable allocation
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+9 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+formula which SUPPLIER utilizes with any other customer. SUPPLIER will notify BUYER, in advance if possible, of any change the program management resources. In the event that a change to any
+program management resource is required, BUYER will have the ability to approve any new members before they are assigned to the account. 
+  
+
+
+
+ 
+6.1.4
+Vendor Managed Inventory. SUPPLIER shall establish and properly manage a Vendor Managed Inventory (VMI) program whereby suppliers will deliver Components to a
+VMI location for SUPPLIER’s withdrawal as needed. SUPPLIER shall execute agreements with suppliers to ensure the proper delivery to and handling of Components at the VMI location. [***]. Such VMI programs may be set forth in separate VMI
+agreements, as applicable, if desired by the parties. 
+  
+
+
+
+ 
+6.2
+Build Plans  
+  
+
+
+
+ 
+6.2.1
+Build Plan. SUPPLIER shall reserve for BUYER capacity to manufacture the quantity and type Products specified in each Build Plan and shall have available the
+extra capacity for increases within the flexibility matrix as described below. 
+  
+
+
+
+ 
+6.2.2
+Terms. All Build Plans and Purchase Orders for Products placed by BUYER hereunder and Build Plans agreed upon by the parties shall be governed by the terms and
+conditions of this Agreement. In the event of a conflict between the provisions of this Agreement and the terms and conditions of BUYER’s Purchase Order, a Build Plan, SUPPLIER’s acknowledgment or other written communications, the
+provisions of this Agreement shall prevail. In the event of a conflict between the terms in a Purchase Order and those in a Build Plan, the terms of the Purchase Order shall prevail. 
+
+ 
+
+
+
+ 
+6.2.3
+Flexibility. Changes in the quantity of units of a particular Product ordered by BUYER shall be provided by written or electronically dispatched notice from
+BUYER. SUPPLIER shall notify BUYER of acceptance of change in [***].[***]. SUPPLIER will accept all increases or decreases in Purchase Order quantities, without additional charges subject to installed capacity restraints according to the Product
+Capacity schedule to be defined as part of a Statement of Work, within the flexibility matrix set forth below (unless otherwise set forth in Exhibit C). Multiple upside requests within the materials replenishment windows will be at
+SUPPLIER’s reasonable efforts; 
+  
+
+
+
+
+
+
+
+
+
+
+ Number of Weeks Until Delivery Date
+
+  
+ Percent Increase or Decrease from Purchase Order Quantity
+
+
+
+
+
+ [***]
+
+  
+[***]
+
+
+ [***]
+
+  
+[***]
+
+
+ [***]
+
+  
+[***]
+
+ If there are extra costs to SUPPLIER to fulfill orders for quantities in excess of the above flexibility
+matrix, SUPPLIER will promptly determine the extra costs in good faith, inform BUYER in writing of such extra costs and how they were calculated, and obtain BUYER’s prior written approval before fulfilling such orders. If a BUYER order
+cancellation causes inventory to exceed the excess inventory criteria set forth herein the inventory policy applies to those items. 
+  
+
+
+
+ 
+6.3
+Reschedule or Cancellation of Delivery. BUYER shall be permitted to cancel or reschedule delivery of Products as within the parameters of the flexibility terms
+in Section 6.3 above and otherwise as set forth below subject to the terms specified herein. BUYER shall be entitled to request a reschedule of delivery of Products that are in a Build Plan or WIP at any time. SUPPLIER shall accommodate a
+request to expedite the ship date. [***]. 
+  
+
+
+
+ 
+6.3.1
+Effect of Cancellation/Reduction of Products under a Purchase Order. If BUYER should cancel, reschedule or reduce the quantity of Products ordered in a
+Purchase Order (whether in whole or in part) for any reason, and such cancellation is a net reduction to the total open order position, and such deemed cancellation [***], then BUYER’s maximum liability to SUPPLIER for such cancelled Purchase
+Order (or portion thereof) shall be no more than: (i) a combination of partially assembled units of the Product, within published Product Cycle Times and whose 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+10 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+manufacture or assembly is irreversible, such as completed surface-mount manufacture, for which BUYER shall pay reasonable and actually incurred costs, not to exceed the Purchase Order price for
+the Product based on level of completion. (i.e., cost to manufacture); and (ii) all custom or non-cancellable, nonreturnable, MOQ and approved long Lead-time Components that are not consumed [***]; provided, that the applicable Components were
+approved for purchase by BUYER based on Lead-times in conjunction with the Build Plan and agreed to in writing as part of an special inventory buy relating to MOQ, buffer stock or other exceptions. The calculation described in the immediately prior
+sentence shall be made as of the date of BUYER’s notice of cancellation or reduction. SUPPLIER acknowledges responsibility to minimize BUYER’s liability by [***] stop the manufacture of outstanding cancelled orders and to cancel the orders
+SUPPLIER has with vendors for related Components immediately upon receipt of BUYER’s notice. Provided SUPPLIER has taken the foregoing measures, BUYER agrees to pay the applicable cancellation fees described herein in full satisfaction of its
+liability for such cancellation. Upon BUYER’s request, SUPPLIER shall make available to BUYER for inspection and audit any and all relevant information in support of SUPPLIER’s claim for reimbursement. 
+
+ 
+
+
+
+ 
+6.3.1.1
+Excess Inventory Owing to BUYER Cancellations. 
+  
+
+
+
+ 
+6.3.1.1.1
+Obsolete Inventory. BUYER and SUPPLIER will conduct a formal assessment of SUPPLIER’s inventory as defined in the Joint Services Agreement. If BUYER has
+cancelled an order for a particular Product under a Purchase Order because it will discontinue to utilize SUPPLIER as a manufacturer of that Product or because of an engineering change initiated by BUYER, then SUPPLIER must make any claims for
+reimbursement to BUYER within thirty (30) days, otherwise such claims will be deemed waived by SUPPLIER. BUYER shall have thirty (30) days to evaluate SUPPLIER’s claim made pursuant to this Section and to request any adjustments. The
+parties shall negotiate in good faith the amount of the reimbursement. Once the parties have agreed upon the reimbursement amount, BUYER shall issue a Purchase Order for the sum of the agreed upon reimbursement amount for such obsolete inventory
+within ten (10) Business Days from the date of the agreement on the reimbursement amount. The parties agree to meet monthly to review any open claims regarding Obsolete Inventory. 
+
+ 
+
+
+
+ 
+6.3.1.1.2
+Other Inventory. When BUYER cancels or reduces an order for a particular Product under a Purchase Order for reasons other than the discontinuance of SUPPLIER as
+a manufacturer of the Product or because of an engineering change initiated by BUYER, BUYER will purchase approved custom, non-cancellable, nonreturnable, MOQ, or long Leadtime Components purchased in accordance with the agreed upon Build Plan and
+the terms of this Agreement for the Products (“Excess Materials”) which remain in SUPPLIER’s inventory [***], upon the execution of this Agreement, for a particular Product under a Purchase Order. BUYER may elect to store them at
+SUPPLIER and pay SUPPLIER a storage fee based on actual space required at the current quarters quoted warehouse space cost. 
+ Once the Excess Materials have been stored at SUPPLIER [***], BUYER will use reasonable efforts to disposition the Excess Materials [***]. 
+
+ 
+
+
+
+ 
+6.4
+Transfer of Inventory to Other Manufacturers. SUPPLIER understands that BUYER may use other manufacturers which use the same Components as SUPPLIER. SUPPLIER
+will promptly transfer its inventory of Components for unfilled Purchase Orders to such other manufacturers as required by BUYER without service charges for such transfer. SUPPLIER also agrees to sell the Components then-currently in SUPPLIER’s
+inventory to BUYER’s designated manufacturer at a cost not to exceed the actual purchase price plus a two percent (2%) mark-up. BUYER also agrees to pay for transportation of equipment and/or materials to the new manufacturing facility at
+cost. 
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+11 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+7.
+Pricing. 
+  
+
+
+
+ 
+7.1
+Prices. The prices for the Products and shipping terms shall be set forth on Exhibit C. The shipping terms shall be Ex Works, Supplier’s site.
+
+  
+
+
+
+ 
+7.2
+Periodic Price Reviews. SUPPLIER and BUYER shall meet at least once during each BUYER fiscal quarter (BUYER’s fiscal year is July through June), unless
+BUYER requests that such price reviews be conducted monthly, in which case the parties shall meet at least once each calendar month, to review prices of each Product and determine if any price adjustment is required. The prices in the initial SOW
+will be the maximum prices for the Products unless mutually agreed by the Parties. Prices will be adjusted to reflect (i) changes to the costs of the Products (other than Component costs), which will be calculated in accordance with the cost
+model in Exhibit C and then passed through to BUYER, and (ii) changes in the costs of Components, which will be passed through to BUYER on a dollar-for-dollar basis (iii) changes in the USD exchange rate against the Supplier’s
+domestic currency of greater than plus/minus five percent (+/- 5%). 
+  
+
+
+
+ 
+7.3
+Implementation of Cost Reductions. Each party shall be responsible for actively taking steps to reduce the cost of the Products, as agreed upon by the parties
+during the periodic price reviews. With regard to Components, BUYER shall notify SUPPLIER of price changes for Components that BUYER has negotiated with its Component supplier(s), and may revise its instructions to SUPPLIER regarding quantities and
+sources of supply from time to time as permitted herein. SUPPLIER agrees to implement such price changes within one (1) week of receiving notice from BUYER and adjust its outstanding Purchase Orders and Build Plans and sources of supply as soon
+as possible and BUYER agrees to buy down the inventory where Components prices have decreased, as defined in the PPV process in Section 7.5 below. SUPPLIER must obtain BUYER’s prior written approval before purchasing Components contrary to
+BUYER’s instructions. The split for sharing of cost reductions is shown in the following table: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ Originator of Change
+
+  
+ Benefits from Cost Reduction
+
+(after exhausting on-hand inventory, anynon-recurring costs associated with costreduction activity and non-changeable
+POs):First 3 Months
+
+  
+ Benefits from Cost Reduction:
+
+After 3 Months
+
+
+
+
+
+
+
+
+
+
+ [***]
+
+  
+[***]
+  
+[***]
+
+
+ [***]
+
+  
+[***]
+  
+[***]
+
+
+ [***]
+
+  
+[***]
+  
+[***]
+
+ In the event that SUPPLIER expends extraordinary effort, BUYER may extend the cost sharing period for
+SUPPLIER from three (3) to six (6) months. BUYER shall have the option at any time to work with SUPPLIER to revise costs to reflect supplier cost reductions for Components or increase coverage on a forward-looking basis. Components that
+have already been received by SUPPLIER that are affected by SUPPLIER cost reductions or increase coverage shall be addressed via the cost adjustment process set forth herein. 
+
+ 
+
+
+
+ 
+7.4
+Committed Cost Reductions. BUYER will own the BOM and provide SUPPLIER with pricing, approved suppliers, and split percentages (for multi-sourced Components) for
+BUYER Controlled components on the BOM. For non-controlled components, BUYER will provide SUPPLIER with approved suppliers but will leverage SUPPLIER’s negotiated pricing for those parts on BUYER’s approved supplier list. SUPPLIER will use
+best efforts to a minimum percentage cost takedown each quarter for all non-controlled components as specified in the Statement of Work. BUYER will work in good faith to support SUPPLIER in evaluating and qualifying SUPPLIER-suggested alternate
+sources of supply. BUYER will drive cost reductions for BUYER-controlled components. For new products, BUYER and SUPPLIER may agree to greater quarterly cost takedowns and this will be specified in each Statement of Work. 
+
+ 
+
+
+
+ 
+7.5
+Purchase Price Variance Reports. BUYER shall not be responsible for increases in materials and Component prices of [***], except for BUYER Controlled Components.
+Unless SUPPLIER receives prior written approval, Buyer will not be liable for increases in materials and Component prices of [***]. thus generating a Purchase Price Variance (“PPV”). For materials or Component price increases [***],
+SUPPLIER must notify BUYER and submit a PPV Variance Form, in the form set forth on Exhibit G, within three (3) Business Days after SUPPLIER discovers a potential Component price increase. BUYER 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+12 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+may either accept or reject the price increase within five (5) Business Days BUYER will pay amounts to SUPPLIER for pre-approved items listed in the PPV Form, based on when the materials or
+Components were received and the charges incurred. Such payments shall only be made for materials or Components purchased by SUPPLIER within the parameters set forth in the Build Plan and only from vendors on the AVL. 
+
+ 
+
+
+
+ 
+7.6
+SUPPLIER’s Bill of Materials. Upon BUYER’s request, and no less than quarterly, SUPPLIER shall furnish BUYER with SUPPLIER’s updated costed BOM
+for the Products in accordance with BUYER’s requirements and within the time period specified by BUYER. SUPPLIER and BUYER agree to work together actively to reduce the cost of Components, processes associated with the manufacture of Products,
+and the Products. 
+  
+
+
+
+ 
+7.7
+Taxes and Duties. 
+  
+
+
+
+ 
+7.7.1
+Taxes. The parties’ obligations with respect to the taxes and duties on the Products shall be set forth on Exhibit C or the applicable Statement of
+Work. Taxes, when applicable, will appear as a separate item on SUPPLIER’s invoice. If applicable law requires BUYER to withhold any taxes levied by any governmental authority on payments to be made pursuant to this Agreement (“Withholding
+Tax”), BUYER shall be entitled to deduct such Withholding Tax from the payments due SUPPLIER hereunder. If SUPPLIER is eligible to take advantage of the reduced Withholding Tax provided for by an applicable taxing agency, SUPPLIER shall furnish
+BUYER with all appropriate forms, documents and paperwork required to obtain such reduced Withholding Tax. 
+  
+
+
+
+ 
+7.7.2
+Exemption. Where the law permits, SUPPLIER will treat BUYER as exempt from applicable state and/or local sales tax for Product(s) purchased pursuant to this
+Agreement. Where required by state or local law, BUYER will provide SUPPLIER with a valid reseller’s exemption certificate for each taxing jurisdiction to which SUPPLIER ships Product(s) and SUPPLIER shall promptly execute and furnish such
+certificate to BUYER. 
+  
+
+
+
+ 
+7.8
+Most Favored Customer Prices. SUPPLIER shall treat BUYER as a most favored customer. SUPPLIER represents and warrants that all of the prices, warranties,
+benefits and other terms set forth hereunder are equivalent to or no less favorable than the terms being offered by SUPPLIER to its other customers and distributors of similar product(s). If, during the term of this Agreement, SUPPLIER enters into
+an agreement with any other customer that contains more favorable terms than are provided hereunder, then this Agreement shall be deemed automatically amended to provide such terms to BUYER, which shall be effective as of the effective date of such
+agreement. BUYER may, at its option, either elect to receive from SUPPLIER a credit against future invoices for the retroactive amounts due to BUYER by reason of such favored customer status or a cash refund. SUPPLIER agrees to fulfill its most
+favored customer obligations to BUYER in good faith and will not create any terms, conditions, purchasing program, pricing formulas or other conditions that serve to deny BUYER the benefits of its most favored customer status.
+
+  
+
+
+
+ 
+7.9
+Reports and Meeting. SUPPLIER shall promptly submit the reports described in the Joint Services Agreement in accordance with the times contained therein and all
+other elements that make up the cost of the Products. The parties will also meet with the frequency described in the Joint Service Agreement, on the specific dates as agreed to by the parties. 
+
+ 
+
+
+
+8.
+Delivery Terms. 
+  
+
+
+
+ 
+8.1
+Delivery Point. The shipping terms shall be [***]. Title to and risk of loss of the Products shall pass to BUYER upon SUPPLIER’s tender of delivery to the
+common carrier or BUYER’s designee. 
+  
+
+
+
+ 
+8.2
+Shipping. SUPPLIER may ship partial orders provided SUPPLIER notifies BUYER and BUYER agrees in writing prior to shipment. BUYER’s Purchase Order
+and/or Build Plan shall specify the carrier or means of transportation or routing, and SUPPLIER will comply with BUYER’s instructions, including, without limitation, drop shipping directly to a BUYER designated destination. If BUYER fails to
+provide shipping instructions, SUPPLIER shall, in its reasonable discretion, select the best available carrier, on a commercially reasonable basis. At the time of each shipment, SUPPLIER shall notify BUYER (and/or its designated recipient) in
+writing as to the quantity shipped and the anticipated arrival date of the shipment. If SUPPLIER utilizes SUPPLIER’s carrier based on the exception above, BUYER will be invoiced for the shipping cost with no supplier markup.
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+13 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+ 
+8.3
+Packing Instructions. All Products shall be packaged and prepared for shipment in a manner which (i) follows the requirements set forth in the applicable
+Statement of Work, (ii) follows good commercial practice, (iii) is acceptable to common carriers for shipment, and (iv) is adequate to ensure safe arrival. SUPPLIER shall mark the outside of each shrink wrapped pallet with the
+applicable BUYER part numbers and any necessary lifting and handling information. Each shipment shall be accompanied by a packing slip which will include BUYER’s part numbers, Purchase Order or Build Plan number, the quantity shipped and
+country of origin. Shipping marks and labels shall not contain any identifying references such as Product names and model numbers, to minimize the risk of theft and shrinkage. 
+
+ 
+
+
+
+ 
+8.4
+Responsibility for Export Licensing. SUPPLIER agrees, upon BUYER’s request, to deliver Products to BUYER’s freight forwarder for export from the
+country of origin. BUYER will be responsible for obtaining the appropriate licenses or permits necessary to export Products from the country of origin with assistance from SUPPLIER as provided for in this Section. SUPPLIER shall furnish BUYER or
+BUYER’s designee with the information necessary for BUYER to timely obtain all required export and import documentation. 
+  
+
+
+
+ 
+8.5
+Delivery Schedule. Delivery shall be pursuant to the schedule set forth in BUYER’s Purchase Order and/or Build Plan. Upon learning of any potential
+delivery delays, SUPPLIER shall immediately notify BUYER in writing of any anticipated delay in meeting the delivery schedule, stating the extent and reasons for the delay. If SUPPLIER fails to meet the committed delivery schedule, then SUPPLIER,
+upon BUYER’s request, shall expedite the delivery at SUPPLIER’s expense by employing accelerated measures such as paying for material expediting fees, premium transportation costs, or overtime labor required to minimize the lateness of the
+Delivery; provided, however, if SUPPLIER fails to meet the delivery schedule [***], then BUYER, at its sole option and without liability or any additional expense, may (i) require SUPPLIER to expedite the delivery by the fastest available
+commercial carrier; (ii) reschedule the delivery; or (iii) cancel the delivery in whole or in part. 
+  
+
+
+
+ 
+8.6
+Incomplete Shipments. No delivery of Products shall be deemed complete unless such delivery: (i) complies with the terms of the Purchase Order for the
+Products ordered; (ii) is accompanied by a certificate of conformity, required test sheets and all other required documents corresponding to the relevant Specifications; and (iii) is accompanied by the relevant pro-forma invoice and any
+other documents required for transportation. BUYER will not have any obligation to accept any such incomplete shipments, except as BUYER may otherwise agree in advance and in writing, and BUYER may return incomplete shipments to SUPPLIER at
+SUPPLIER’s sole risk and expense. 
+  
+
+
+
+ 
+8.7
+Timing. SUPPLIER shall not deliver any Products earlier than three (3) Business Days prior to the scheduled delivery date or later than the acknowledged
+delivery date, without BUYER’s written consent, and BUYER may return early, excess or late shipments to SUPPLIER at SUPPLIER’s sole risk and expense. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+14 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+9.
+Invoicing and Payment. 
+  
+
+
+
+ 
+9.1
+SUPPLIER will submit invoice(s) to BUYER upon shipment of Product(s). The invoices must include the BUYER Purchase Order number, Product number, and price (unit,
+extended). All such invoices shall indicate any discounts which are applicable to such purchase. Subject to acceptance of the Products all invoices shall be due and payable in accordance with Exhibit C. Payment shall not constitute acceptance
+of the Products by BUYER. SUPPLIER shall furnish bills of lading, express receipts, or other proof of delivery upon BUYER’s request. 
+  
+
+
+
+ 
+9.2
+Supplier shall submit invoices (an original and two copies) to Buyer at the address on the Statement of Work or Purchase Order containing at least the following
+information: (i) the name of the Supplier, address to which invoice payments should be made, and all bank details required for invoice payments (unless cheque payment applies and bank details had been exchanged before) ; (ii) invoice date;
+(iii) Supplier’s order number; (iv) description, quantity, unit of measure, unit price and extended price of the goods delivered; (v) transportation charges, including domestic and foreign inland freight and insurance, and any
+applicable taxes or duties, if applicable and specifically allowed under this Agreement; (vi) reference this Agreement and to the applicable Statement of Work or Purchase Order purchase is authorized under; and (vii) any other information
+specified in the applicable order. 
+  
+
+
+
+10.
+Quality and Acceptance. 
+  
+
+
+
+ 
+10.1
+At BUYER’s Designated Facility. All Products are subject to BUYER’s inspection and testing at any BUYER-designated facility before final acceptance, as
+set forth in Exhibit I. 
+  
+
+
+
+ 
+10.2
+At SUPPLIER’s Facility. BUYER shall be entitled to conduct inspections and qualifications at SUPPLIER’s facility, as set forth in Exhibit I.
+
+  
+
+
+
+ 
+10.3
+Failure to Inspect. Notwithstanding anything to the contrary contained in this Agreement, inspection or failure to inspect the Products upon delivery will not
+affect BUYER’s rights under the warranty provisions of this Agreement. 
+  
+
+
+
+ 
+10.4
+ISO 9001 and ISO 14001 Certified Supplier. SUPPLIER represents that SUPPLIER has, and will at all times during the term of this Agreement have, ISO 9001 and ISO
+14001 certifications. SUPPLIER represents that any Subcontractors used by SUPPLIER in the manufacture of Products have, at a minimum, ISO 9001 certification, unless specifically agreed to, on a case-by-case basis, in writing by BUYER. Further terms
+and conditions concerning SUPPLIER’s qualifications as an ISO 9001 and ISO 14001 are set forth in Exhibit I. 
+  
+
+
+
+ 
+10.5
+Epidemic Failure. “Epidemic Failure” for any particular Product shall mean a failure resulting from defects in material, workmanship, and manufacturing
+process, including but not limited to the use of Components with known defects. The Epidemic Failure clause shall be invoked [***]. The failure rate may be calculated [***], as determined by BUYER. Epidemic failures do not supersede the requirements
+of any expressed or implied warranty defined herein. In the case of an epidemic failure, SUPPLIER’s obligation is to propose an action plan to fix the failure of any affected Product within seventy-two (72) hours of discovery. SUPPLIER
+shall implement this action plan upon BUYER’s acceptance thereof. If the action plan is not acceptable to BUYER, BUYER can require SUPPLIER to repair or replace, at BUYER’s option, the affected Product. In addition to bearing the costs
+associated therewith, if requested by BUYER, SUPPLIER shall support and provide at SUPPLIER’s expense a sufficient number of units of the Product to permit the field exchange or “hot swap” of Products at customer sites. The parties
+agree to make all reasonable efforts to complete the repair or replacement of all affected Products within eight (8) Business Days after written notice of epidemic failure by BUYER to SUPPLIER. SUPPLIER also agrees that BUYER will be supported
+with accelerated shipments of replacement Product to cover BUYER’s supply requirements. If an Epidemic Failure is caused by (i) a design, including a BUYER-provided test process, as required by the Specifications or (ii) a failure by
+a Component required by the Specifications, (iii) misuse or damage during transit or damage by a third party at no fault of SUPPLIER, SUPPLIER shall perform the obligations in this Section 10.5 and BUYER shall pay to SUPPLIER the fees
+mutually agreed upon by the parties in writing. If an Epidemic Failure is caused by any other reason other than as set forth in the immediately preceding sentence, SUPPLIER shall perform the obligations set forth in this Section free of charge.
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+15 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+11.
+Compliance with Specifications. All Products delivered hereunder shall fully comply with: (i) the Specifications; (ii) any end user documentation that
+may be included with each Statement of Work for a Product; and (iii) all applicable laws, rules and regulations. 
+  
+
+
+
+12.
+Regulatory Agency Compliance. All Products delivered hereunder, shall fully comply with known regulatory agency requirements (e.g., Product Safety). SUPPLIER
+will support BUYER in obtaining all required agency certifications and approvals for the Products in BUYER’s name. SUPPLIER will be open to inspections by all compliance agencies as it relates to BUYER Products. All compliance agency inspection
+reports will be provided by SUPPLIER to BUYER within twenty-four (24) hours of receipt. 
+  
+
+
+
+13.
+Representations and Warranties. 
+  
+
+
+
+ 
+13.1
+Hardware Products. 
+  
+
+
+
+ 
+13.1.1
+Hardware Warranty. SUPPLIER warrants that all hardware portions of the Products (including associated firmware media) sold by SUPPLIER to BUYER under the terms
+of this Agreement will (i) be free from defects in workmanship and Component (save and except for latent Component defects which could not be detected through the tests processes which are mutually agreed), and (ii) conform to the
+Specifications for a [***]. If BUYER, in its reasonable opinion, believes that any Product or part thereof contains a defect in materials or workmanship, or otherwise fails to conform to the Specifications, during the warranty period, SUPPLIER shall
+at its expense correct any such defect by repairing such defective Product or part or, at BUYER’s option, by delivering to BUYER an equivalent Product or part replacing such defective Product or part. Except as set forth in the immediately
+following sentence, nonconforming and/or defective Products shall be managed in accordance with Exhibit H. In the event a Product completely fails to function within the first seventy-two (72) hours of installation (dead-on-arrival or
+DOA), SUPPLIER agrees to replace the failed Product with a new Product and will ship replacement within four (4) hours of notification using same day, if possible, or at the latest next day delivery. SUPPLIER shall waive any expedite charges to
+BUYER in order to affect earliest reasonable replacement of such defective Product(s). Notwithstanding the foregoing, if a unit of the Product under warranty should fail owing to a defective Component part, SUPPLIER shall manage the warranty process
+and provide assistance and information to BUYER required to enforce, or pass on SUPPLIER’s rights or otherwise support BUYER in order to enforce the original manufacturers’ warranty terms, this includes BUYER providing evidence, testimony
+engagement of, and working with expert witnesses in any claim for damages against the Component manufacturer. 
+  
+
+
+
+ 
+13.1.2
+Return of Products. BUYER will notify SUPPLIER of nonconforming Product. Such notification shall include serial numbers and reason for nonconformance.
+Nonconforming Products will be repaired as specified in Exhibit H. 
+  
+
+
+
+ 
+13.1.3
+Failure Trend. For any Product family set forth on Exhibit C which has a failure rate resulting from defects in material, workmanship, manufacturing
+process and/or design deficiencies, including but not limited to the use of Components with inherent or latent defects, that exceeds one percent (1%) from the same root cause during any two (2) consecutive calendar months, a “Failure
+Trend” shall be deemed to have occurred for the applicable Product family. Such failure rate shall be calculated as the greater of: (i) the total number of units of the applicable Product family that contain such defects divided by the
+total number of units of that Product family shipped by BUYER to date, or (ii) the total number of units in the applicable Product family that have been registered with BUYER that contain such defects divided by the total number of units of
+that Product family that have been registered with BUYER to date, as determined by BUYER in its sole discretion. SUPPLIER shall immediately take corrective action with respect to the Failure Trend to reduce the failure rate of the applicable Product
+family to one percent (1%) or less by the last day of the calendar month following the occurrence of the Failure Trend. If SUPPLIER is unable to reduce such failure rate to one percent (1%) or less by the last day of such following
+calendar month, BUYER, at its sole discretion, may return any defective Product to SUPPLIER for evaluation and repair in accordance with Exhibit H. In addition, nothing in this Section shall have any effect on, and BUYER shall retain all of
+its rights and remedies herein. This Section shall not apply if the Failure Trend is caused by (i) a design required by the Specifications or (ii) a failure by a Component required by the Specifications. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+16 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+13.2
+Title; No Conflict. Each Party represents and warrants that it has sufficient right, title and interest to enter into this Agreement and to perform its
+obligations hereunder. Further, each Party represents and warrants that it has not granted to any third party any rights which conflict or interfere with or supersede the rights granted to the other Party hereunder. 
+
+ 
+
+
+
+14.
+Inventory Control and Security Measures. 
+  
+
+
+
+ 
+14.1
+Inventory Control. At all times during the term of this Agreement, SUPPLIER shall (i) physically segregate the Products in a SUPPLIER inventory location so
+as not to mix BUYER inventory with other customer inventory; (ii) physically segregate agency approved (e.g., RoHS) components from non-agency approved (e.g., non-RoHS) components; and (iii) maintain clear and accurate records of all
+inventory transactions, including, without limitation, receipts, usage and scrap. At predetermined times, SUPPLIER and BUYER shall conduct a physical inventory of the Products. 
+
+ 
+
+
+
+ 
+14.2
+Security Measures. At all times during the term of this Agreement, SUPPLIER shall take security measures reasonably necessary (as determined by BUYER) as may be
+more fully described in a Statement of Work and, including but not limited to the minimum security provisions set forth in Exhibit J. 
+  
+
+
+
+15.
+Engineering Change Procedures  
+ Buyer may
+at any time during the term of this Agreement request in writing changes to the Products or services provided under a Statement of Work. Within a reasonable time after receiving such a request but in any event within five (5) Business Days, the
+SUPPLIER will inform BUYER in writing whether the requested change(s) is technically feasible and advise as to its impact on cost, resource requirements, schedule and any other consequent changes to the Products or services. For any such changes,
+the SUPPLIER will give BUYER a written fixed price quotation or its firm estimate. If the Parties agree to proceed with the as changed, then the details of such changes will be recorded in writing on a engineering change document similar to the
+template included as an exhibit to this Agreement and executed by both parties. No changed order shall be binding on Buyer without a valid executed Change Order document. 
+
+ 
+
+
+
+16.
+Confidentiality. 
+ The parties agree that
+the terms of the non-disclosure agreement executed between the parties on the 1st of April, 2011 shall govern the exchange of confidential information between the parties (“NDA”). The terms of the NDA shall continue to apply to this
+Agreement until the Agreement terminates or expires regardless of the termination or expiration of the NDA. 
+  
+
+
+
+17.
+Relationship of the Parties. 
+  
+
+
+
+ 
+17.1
+The relationship of the parties hereto is that of independent contractors. Under no circumstances shall any employees of one party be deemed to be the employees of the
+other for any purpose. Each party shall pay all wages, salaries, and other amounts due its respective employees relative to this Agreement and shall be responsible for all obligations respecting them relating to applicable payroll taxes, income tax
+withholdings, disability, workers’ compensation and unemployment insurance premiums, health care and pension plan contributions and other similar responsibilities. Neither party has the right nor authority to assume or to create any obligation
+or responsibility on behalf of the other party, except as may, from time to time, be provided by written instrument signed by both parties. Nothing contained herein shall be construed as creating an agency or joint venture, consortium or partnership
+between the parties. Supplier and its employees shall not acquire any of the rights or privileges of any Buyer employee. 
+  
+
+
+
+ 
+17.2
+SUPPLIER agrees to indemnify BUYER from any claims, losses, costs, fees, liabilities, damages, attorney’s fees and expenses suffered by BUYER arising directly or
+indirectly from any allegation or determination that SUPPLIER or its employees or subcontractors are employees of BUYER. 
+  
+
+
+
+ 
+17.3
+If any employee or subcontractor of SUPPLIER makes a claim that an employee or independent contractor of BUYER may be treating them in an improper manner, including
+subjecting them to discrimination or harassment, SUPPLIER shall report this immediately to BUYER. BUYER shall be relieved of liability to the extent that SUPPLIER fails to inform BUYER of any such instance of improper behavior.
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+17 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+18.
+Termination 
+  
+
+
+
+ 
+18.1
+Termination for Cause. In the event that SUPPLIER materially breaches or defaults any of its obligations, duties or responsibilities under this Agreement or any
+Statement of Work or Purchase Order, which breach or default has not been remedied within thirty (30) days after written notice is given to SUPPLIER specifying the breach or default, BUYER may, at no liability to BUYER, provide written notice
+terminating this Agreement or any Statement of Work or Purchase Order as of the date specified in such termination notice. Before BUYER exercises BUYER’s right to terminate under this Section 18.1, BUYER will use the dispute resolution
+procedure set forth in Section 22. 
+  
+
+
+
+ 
+18.2
+Obligations in the Event of Termination 
+  
+
+
+
+ 
+18.2.1
+In the event of Termination, BUYER may require SUPPLIER to promptly transfer and assign title and immediately deliver to BUYER any completed Products, WIP, Components,
+BUYER Tools, BUYER’s Intellectual Property, BUYER’s confidential information and other items that SUPPLIER has produced or acquired for the performance of the canceled portions of the order and for which BUYER has paid.
+
+  
+
+
+
+ 
+18.2.2
+Supplier will return all BUYER Confidential Information, BUYER Data and other information received from BUYER that pertains to the Products or services described herein
+upon BUYER’s request. Any Confidential Information, BUYER Data or which cannot be returned must be destroyed and so certified by SUPPLIER. 
+  
+
+
+
+ 
+18.2.3
+Unless otherwise agreed to in advance and in writing SUPPLIER hereby grants and agrees to grant BUYER a worldwide, non-exclusive, irrevocable, perpetual license to use
+any SUPPLIER Technology necessary for the, manufacture, production, marketing and sales of any of the BUYER designed Products; provided, however, BUYER covenants not to exercise such license until the effective date of termination of this Agreement
+or upon delivery to BUYER of the BUYER Properties, whichever is earlier. BUYER agrees to pay a reasonable royalty or license fees for the license of the applicable SUPPLIER Technology. The parties will only negotiate the amount of the royalty or
+license fees for such license. The parties shall negotiate such royalties or fees in good faith promptly upon termination of this Agreement; provided that SUPPLIER will offer to BUYER a fee for such license that is no higher than that offered to any
+other customer of SUPPLIER for comparable technology and in no case will this fee exceed one percent (1%) of the total cost of producing the Products that use SUPPLIER Technology based upon the pricing model in Exhibit C.
+
+  
+
+
+
+ 
+18.2.4
+SUPPLIER will immediately cease the use of all of the BUYER Technology and BUYER Properties, except that upon the termination of this Agreement for any reason, SUPPLIER
+will complete the production of any Products of which SUPPLIER has accepted a Build Plan as of the effective date of such termination and deliver such completed Products to BUYER within twenty (20) days of the effective date of such
+termination; 
+  
+
+
+
+ 
+18.2.5
+SUPPLIER shall promptly provide all Loaned Materials to BUYER. To the extent that BUYER has exercised its option to purchase Necessary Equipment upon termination of
+this Agreement, BUYER agrees to pay a reasonable one-time fee to SUPPLIER to be negotiated in good faith by the parties at the time of termination, taking into consideration the condition and fair market value of the items. In addition, SUPPLIER
+shall promptly transfer to BUYER any title and/or license with respect to the Necessary Equipment held in its name. 
+  
+
+
+
+ 
+18.3
+Payments following Termination. In the event of termination of this Agreement; or a Statement of Work or Purchase Order for convenience, BUYER shall pay SUPPLIER
+for all Products and/or services provided up to the effective date of termination as specified in the Agreement and/or the applicable Statement of Work or Purchase Order. 
+
+ 
+
+
+
+ 
+18.3.1
+Completed Products or services: BUYER shall pay SUPPLIER for the purchase price of any completed Products or services required for a Purchase Order prior to the date of
+Supplier’s receipt of BUYER’s Termination or Suspension Notice (“Notice Date”). BUYER shall not be required to pay for any Products or services completed after the receipt of the Buyer’s Termination or Suspension Notice.
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+18 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+18.3.2
+Product WIP and Components: BUYER shall pay SUPPLIER the reasonable and actual costs incurred by Supplier, prior to the Notice Date, for Components and WIP for the
+canceled or changed portion of the order. In all cases, however, the SUPPLIER’s recovery will be limited as follows: (a) SUPPLIER will only be reimbursed for Components and WIP which are not cancelable, saleable, or otherwise usable by
+SUPPLIER; (b) The reasonable manufacturing cycle time period for the Products in question will be the maximum period for which SUPPLIER may claim WIP costs prior to the notice date; and (c) The reasonable lead time necessary to order
+Components for the Products in question will be the maximum period for which SUPPLIER may claim Components’ costs prior to the Cancel Date. 
+  
+
+
+
+ 
+18.4
+Transition Services. Upon expiration or termination of this Agreement, BUYER may request that SUPPLIER provide transition services to BUYER to ensure an orderly
+transfer of services to BUYER or any other third party BUYER may designate as a successor to SUPPLIER. Transition services, if any, will be undertaken at agreed upon rates in accordance with the terms of a Statement or Work or change request, signed
+by both parties. During any such transition period Supplier agrees to maintain the same level of performance of services and use its best efforts to cooperate with BUYER and the successor to effect an orderly and efficient transition.
+
+  
+
+
+
+19.
+Force Majeure/Business Continuity Plan 
+  
+
+
+
+ 
+19.1
+Business Continuity Plan. Beginning 30 days following the Effective Date of this Agreement and continuing through the termination or expiration of this
+Agreement, SUPPLIER shall maintain a mutually agreeable Business Continuity Plan to ensure the uninterrupted flow of Product to BUYER in the case of the diminution or cessation of operations of SUPPLIER for any reason that may affect BUYER’s
+relationships with BUYER’s customers including Force Majeure. SUPPLIER shall provide such Business Continuity Plan to BUYER for BUYER’s review no later than thirty (30) days from the date of this Agreement. If a catastrophic event
+occurs including Force Majeure, SUPPLIER shall notify BUYER immediately of the situation and shall implement, within three (3) days, the Business Continuity Plan to resolve the problem. Only if BUYER complies with the obligations set forth in
+this Section 19.1 will SUPPLIER be temporarily relieved of its obligations under this Agreement. Notwithstanding the foregoing, BUYER reserves the right to terminate the Agreement or Statement of Work or Purchase Order if BUYER reasonably
+determines such delay is or will detrimentally affect the value and usefulness of the Products or services or SUPPLIER failed to promptly implement its Business Continuity Plan. 
+
+ 
+
+
+
+ 
+19.2
+Force Majeure. Subject to Section 19.1 above, neither party shall be liable for any delay in performance or non-performance (including payment obligations),
+directly or indirectly caused by Act of God, fire, explosion, flood, war, act of terrorism, act of, or authorized by any government, accident or any other circumstances beyond the control of the Party. Any Party so delayed in its performance will
+immediately notify the other by email or telephone or by the most timely means otherwise available. 
+  
+
+
+
+20.
+Insolvency 
+ In the event
+that a party: 
+  
+
+
+
+ 
+(a)
+Becomes insolvent or unable to pay its debts or perform its obligations as they mature; 
+
+ 
+
+
+
+ 
+(b)
+Becomes the subject of any voluntary or involuntary proceeding in liquidation, dissolution, receivership, attachment, composition or general assignment for the benefit
+of creditors; or 
+  
+
+
+
+ 
+(c)
+Pursues any other remedies under any other law relating to relief for debtors, 
+ Then such party will provide prompt notice to the other and reasonable assurances therefore, as may be requested from the other party from time to time, that it can and will perform its obligations under
+this Agreement. If such notices or assurances are not received in a timely manner or are not reasonably satisfactory to the party receiving the assurances, then such party may terminate any Statement of Work or Purchase Order or this Agreement in
+whole or in part without any cost or liability. 
+  
+ Confidential
+treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of
+this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+19 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+21.
+Governing Law 
+ This Agreement shall be
+construed, governed and interpreted in accordance with the laws of the United States of America and the State of California, without regard to choice of law principles. The U.N. Convention on Contracts for the International Sale of Goods does not
+apply to this Agreement. 
+  
+
+
+
+22.
+Disputes 
+ The Parties shall attempt, in
+good faith, to resolve any dispute promptly by discussion and negotiation which shall be conducted as follows: 
+  
+
+
+
+ 
+(a)
+the dispute shall be referred, by either Party, first to the senior managers of each of the Parties for resolution; 
+
+ 
+
+
+
+ 
+(b)
+if the dispute cannot be resolved by the senior managers of the Parties within 14 days after the dispute has been referred to them, either Party may give notice to the
+other Party in writing (“Dispute Notice”) that a dispute has arisen; and 
+  
+
+
+
+ 
+(c)
+within seven days of the date of the Dispute Notice, each Party shall refer the dispute to the most senior representative of each of the Parties for resolution.
+
+ If the most senior representative of each of the Parties are unable, or fail, to resolve the dispute within 21 days of the date
+of the Dispute Notice, the Parties may attempt to resolve the dispute by mediation in accordance with this clause. 
+ If, within 30 days of the
+Dispute Notice, the Parties have failed to agree on a resolution, either Party may refer any dispute for mediation, but neither shall be a condition precedent to the commencement of any arbitration proceedings as set forth in this Section 22,
+and either Party may issue and commence arbitration proceedings prior to or contemporaneously with the commencement of mediation. All disputes arising out of or relating to this Agreement that are referred to arbitration as set forth above will be
+resolved by binding arbitration to take place in County of Santa Clara, State of California, United States of America, under the Rules of Arbitration of the International Chamber of Commerce (the “RAICC”). The arbitration administration
+and appointing authority will be the International Chamber of Commerce (the “ICC”), and the arbitrator(s) shall apply the governing law as set forth in Section 21, to decide the dispute. The arbitration will be conducted by a panel of
+three arbitrators, one chosen by each party to this Agreement and the third by agreement of the parties; failing agreement within 30 days of commencement of the arbitration proceeding, the ICC will appoint the third arbitrator in accordance with the
+RAICC. The proceedings will be confidential and conducted in English. The arbitral tribunal will have the authority to grant any equitable and legal remedies that would be available in any judicial proceeding instituted to resolve a disputed matter.
+The arbitration award will be final and binding on the parties and the award may be entered by any court of competent jurisdiction, and each of the parties irrevocably submits to the jurisdiction of such court for confirmation and/or recognition
+and/or enforcement of any award rendered by the arbitral tribunal in accordance with, inter alia, the United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards. The arbitral tribunal will determine how the parties will
+bear the costs of the arbitration. Notwithstanding the foregoing, with respect to claims relating to intellectual property, each party will have the right at any time to immediately seek injunctive relief, an award of specific performance or any
+other equitable relief against the other party in any court or other tribunal of competent jurisdiction. During the pendency of any arbitration or other proceeding relating to a dispute between the parties, SUPPLIER will continue to exercise its
+remaining respective rights and fulfill its remaining respective obligations under this Agreement. SUPPLIER hereby consents to being served outside the State of California, United States of America with any documents relating to any dispute, or
+proceedings in any court, permitted under this Agreement. The rights and remedies provided by BUYER in this Agreement shall be cumulative and in addition to any other rights and remedies provided by law or equity or those provided under the Uniform
+Commercial Code. 
+  
+
+
+
+23.
+Assignment 
+ No part of this Agreement may
+be assigned or subcontracted by SUPPLIER without the prior written approval of BUYER. 
+  
+
+
+
+24.
+Change of Control 
+ This Agreement shall
+inure to the benefit of, and be binding upon, the parties hereto and their respective successors and assigns. SUPPLIER may request that any acquirer of all or substantially all of the assets of BUYER provide written confirmation of its obligations
+under this Agreement within thirty (30) days of the closing of such acquisition. 
+  
+
+
+
+25.
+Compliance with Laws 
+  
+
+
+
+ 
+25.1
+SUPPLIER shall comply with all applicable laws and regulations and shall monitor any modifications to them. This includes, but is not limited to, the laws and
+regulations governing the following: environmental, 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+20 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+health, safety, labor, employment, child labor, intellectual property, discrimination and human rights. SUPPLIER shall comply with the standards of the industry. SUPPLIER must not use forced
+labor. SUPPLIER shall ensure the compliance of its Products with specific legal requirements applicable to the countries into which Products are being sold to BUYER. 
+
+ 
+
+
+
+ 
+25.2
+Export Compliance 
+  
+
+
+
+ 
+25.2.1
+SUPPLIER shall promptly notify, and provide Buyer with, necessary or applicable supporting documents, permits, approvals or information required to comply with export
+or import regulations and/or BUYER policy, including manufacturer’s affidavit, certificate of origin, manufacturer’s safety data sheet and other items. 
+
+ 
+
+
+
+ 
+25.2.2
+Transfer, export, re-export or import of Product, software or technology may require an approved government license, permit, or other authorization from the applicable
+government(s). Each party shall comply, at its own expense, with all applicable import and export laws, restrictions, and regulations of the United States and all other applicable foreign governments relevant to such party. 
+
+ 
+
+
+
+ 
+25.2.3
+Each party hereby acknowledges that it will not export any Product, related documentation or technical data without first obtaining the required export licenses.
+SUPPLIER hereby agrees to comply with the requirements of the U.S. Foreign Corrupt Practices Act (“Act”) and shall refrain from making any payments to third parties that would cause SUPPLIER or BUYER to violate the Act.
+
+  
+
+
+
+ 
+25.2.4
+The Parties agree to comply with all laws, ordinances, rules, regulations, and other requirements of all governmental units or agencies, including obtaining all
+import/export and other permits, certificates, and licenses required by foreign jurisdictions. 
+  
+
+
+
+26.
+Indemnification 
+  
+
+
+
+ 
+26.1
+General Indemnification: SUPPLIER is solely responsible for and shall indemnify, defend and hold BUYER and its respective directors, officers, agents, employees
+and customers (each an “BUYER Indemnitee”) harmless from and against all claims, demands, threats, damages, losses, liabilities, costs, expenses and reasonable attorney’s fees (collectively “Damages”) arising out of a claim
+by a third party against an BUYER Indemnitee resulting from or alleged to have resulted from any act or omission of SUPPLIER, its employees or agents under or related to this Agreement which has not been rectified in accordance with the terms herein
+including. BUYER will provide SUPPLIER with prompt written notice of the claim and permit SUPPLIER, at SUPPLIER’s expense, to control the defense, settlement, adjustment or compromise of any such claim. BUYER may employ counsel at its own
+expense to assist it with respect to any such claim. SUPPLIER shall have no authority to settle any claim on behalf of BUYER if any such settlement imposes any obligation on BUYER. 
+
+ 
+
+
+
+ 
+26.2
+Infringement Indemnification: SUPPLIER shall indemnify and hold harmless BUYER, and, at BUYER’s request, defend BUYER and the BUYER Indemnitees from and
+against any Damages arising from or relating to any claim that BUYER infringes any proprietary rights of any third party as a result of the manufacturing services provided under this Agreement including, but not limited to: the actual or alleged
+infringement of any patent, copyright, trade secret, trademark, mask work or other third party right worldwide arising from or related to the manufacturing of any Products or services furnished under this Agreement and alleged defect in the
+Components or services, whether latent or patent, including any failure of the Components, Products or services to comply with their specifications. BUYER will provide SUPPLIER with prompt written notice of the claim and permit SUPPLIER, at
+SUPPLIER’s expense, to control the defense, settlement, adjustment or compromise of any such claim. BUYER may employ counsel at its own expense to assist it with respect to any such claim. SUPPLIER shall have no authority to settle any claim on
+behalf of BUYER. 
+  
+
+
+
+ 
+26.2.1
+If the exercise by BUYER or any BUYER Indemnitee of any rights granted herein is enjoined, or in BUYER’s reasonable opinion is likely to be enjoined, at
+BUYER’s request and option, and without prejudice to any other rights and remedies Buyer otherwise may have at law, in equity, or under this Agreement, SUPPLIER shall, at its expense, use its best efforts to: 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+21 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+ 
+(a)
+Procure from the person(s) claiming infringement a license for BUYER to continue to exercise all rights granted under this Agreement; or, 
+
+ 
+
+
+
+ 
+(b)
+Modify, without diminishing existing functionality, the allegedly infringing item to avoid infringement. 
+
+ 
+
+
+
+ 
+26.2.2
+If options (a) and (b) cannot be accomplished despite such attempts, then, in addition to any other rights at law or in equity or otherwise provided for in
+this Agreement, SUPPLIER shall refund to BUYER all amounts previously paid to SUPPLIER under this Agreement related to such infringing item. 
+  
+
+
+
+ 
+26.3
+BUYER infringement Indemnification: BUYER shall indemnify and hold harmless SUPPLIER, and, at SUPPLIER’s request, defend SUPPLIER and its respective
+directors, officers, agents, and employees (“SUPPLIER Indemnitees”) from and against any Damages arising from or relating to any claim that SUPPLIER infringes any proprietary rights of any third party as a result of the use and sale of the
+Products under this Agreement including, but not limited to: the actual or alleged infringement of any patent, copyright, trade secret, trademark, mask work or other third party right worldwide arising from or related to the use and sale of any
+Products under this Agreement and alleged defect in the Products, whether latent or patent, including any failure of the Products to comply with their Specifications not subject to the indemnification provided in Section 26.2. SUPPLIER will
+provide BUYER with prompt written notice of the claim and permit BUYER, at BUYER’s expense, to control the defense, settlement, adjustment or compromise of any such claim. SUPPLIER may employ counsel at its own expense to assist it with respect
+to any such claim. 
+  
+
+
+
+27.
+LIMITATION OF LIABILITY 
+  
+
+
+
+ 
+27.1
+EXCEPT FOR LIABILITY RESULTING FROM SUPPLIER’S INDEMNIFICATION OBLIGATIONS UNDER THIS AGREEMENT OR A PARTY’S BREACH OF ANY OBLIGATION OF CONFIDENTIALITY, IN
+NO EVENT SHALL EITHER PARTY OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOST PROFITS, WITH RESPECT TO
+THIS AGREEMENT, EVEN IF THE PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF THE SAME OR EVEN IF SAME WERE REASONABLY FORESEEABLE. 
+  
+
+
+
+ 
+27.2
+The entire and aggregate liability of BUYER and SUPPLIER’s exclusive remedy for all claims of any nature against BUYER shall not exceed [***].
+
+  
+
+
+
+ 
+27.3
+Nothing in any of SUPPLIER’s documentation, any Statement of Work or any Purchase Order shall have the effect of extending or changing the liabilities of the
+parties, their directors, officers, employees and agents as provided for in this Section. 
+  
+
+
+
+ 
+27.4
+The provisions of this Section apply whether the claim for damages arises a result of contract, tort (including negligence), or any other statutory, legal or equitable
+grounds. 
+  
+
+
+
+28.
+Audits 
+  
+
+
+
+ 
+28.1
+SUPPLIER shall keep and maintain accurate records relevant to this Agreement and all Statements of Work and Purchase Order issued hereunder for a period of five
+(5) years after final payment under this Agreement. In the event that BUYER has specific records that require a longer retention period BUYER shall make such written request and such request shall not be unreasonably refuse.
+
+  
+
+
+
+ 
+28.2
+SUPPLIER warrants and represents that it has internal controls in place, as well as auditing procedures (scheduled and random), consistent with industry best practices
+and standards. 
+  
+
+
+
+ 
+28.3
+BUYER, or its authorized agent subject to signed non-disclosure agreement, as mutually agreed between the parties, shall have the full right to audit and review any and
+all relevant BUYER-related SUPPLIER records and facilities to ensure compliance with the terms of this Agreement. Such audit may be conducted any time during the term of the Agreement, and for a period of up to twelve (12) months following
+termination or expiration of the agreement, after BUYER provides written notice at least five (5) Business 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+22 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+
+Days in advance and shall take place during SUPPLIER’s normal business hours. In the event an audit determines material non-compliance with the terms of the Agreement, SUPPLIER shall bear
+the costs of the audit. 
+  
+
+
+
+ 
+28.4
+Where applicable, BUYER may impose additional audit requirements where deficiencies in compliance are determined as related to support of the terms of this Agreement.
+
+  
+
+
+
+29.
+Acquisition.  
+  
+
+
+
+ 
+29.1
+For any business where Oclaro acquires controlling interest: 
+  
+
+
+
+ 
+29.1.1
+If that acquired business has an existing agreement with SUPPLIER, the volume for that agreement will be included in the BUYER volume discount calculations immediately
+for discount purposes (retroactive to the beginning of the current measurement period for determining the discount); and, 
+  
+
+
+
+ 
+29.1.2
+If that acquired business has more favorable terms for BUYER in its existing agreement with SUPPLIER, the more favorable terms will immediately apply to this Agreement.
+
+  
+
+
+
+ 
+29.2
+If SUPPLIER acquires or is acquired by a contract manufacturer that has an agreement with BUYER with more favorable terms than in this Agreement, the more favorable
+terms will immediately apply to this Agreement. 
+  
+
+
+
+30.
+Insurance 
+  
+
+
+
+ 
+30.1
+Minimum Insurance Required. During the term of this Agreement, SUPPLIER will obtain and maintain at its sole expense, with financially reputable insurers
+licensed to do business in all jurisdictions where Products are manufactured and services are performed, liability insurance sufficient to protect BUYER from any claims described herein, and in any event no less than the policies and limits set
+forth below. SUPPLIER will pay the premiums therefore, and deliver to BUYER, upon execution of this Agreement, proof of such insurance. 
+  
+
+
+
+
+
+
+
+
+
+
+Minimum Coverage
+  
+Limits
+
+
+
+
+1) Worker’s Compensation
+  
+Statutory
+
+
+2) Employer’s Liability
+  
+$500,000 each accident
+
+
+4) Automobile Liability Insurance
+  
+$1,000,000 each occurrence
+
+
+5) Commercial General Liability
+  
+$10,000,000
+
+  
+
+
+
+ 
+30.2
+Where applicable, BUYER may impose additional insurance requirements based upon the nature of the specific Products and services to be purchased from SUPPLIER such
+additional requirements shall be outlined in an “Additional Insurance Requirements” Exhibit to this Agreement. 
+  
+
+
+
+ 
+30.3
+Every insurance policy providing the coverage required in this Section shall contain the following or equivalent clause: “No reduction, cancellation or expiration
+of the policy shall be effective until thirty (30) days from the date written notice thereof is actually received by SUPPLIER.” Upon receipt of any notice of reduction, cancellation or expiration, SUPPLIER shall immediately notify BUYER.
+
+  
+
+
+
+ 
+30.4
+BUYER and its affiliates shall be named as an additional insured under the Commercial General Liability Insurance policies described in this Section. SUPPLIER waives
+all rights of recovery against BUYER and its affiliates for any loss or damage covered by the Commercial General Liability Insurance policies. 
+  
+
+
+
+ 
+30.5
+SUPPLIER is solely responsible for the claims of its employees and shall release, defend, and indemnify BUYER and its affiliates from and against such claims.
+
+  
+
+
+
+ 
+30.6
+The complete or partial failure of SUPPLIER’s insurance carrier to fully protect and indemnify BUYER and its affiliates or the inadequacy of the insurance coverage
+shall not in any way lessen or affect the obligations of SUPPLIER to indemnify BUYER or its affiliates. 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+23 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+31.
+Notices 
+ Any notice or other document or
+communication required or permitted hereunder to the parties hereto will be deemed to have been duly given only if in writing and delivered by any of the following methods: (i) certified U.S. mail, return receipt requested, postage prepaid; or
+(ii) deposit with a recognized commercial overnight courier service, fees prepaid, in each case delivered to the addresses of the receiving parties set forth below or such other addresses as such parties may subsequently dictate according to
+the notice provisions hereof. Notice is deemed to have been given five (5) Business Days after deposit in the mail or one day after deposit with overnight carrier or delivery service, except that notice of change of address is effective only
+upon receipt. Notice is not deemed to have been given to BUYER unless the notice to BUYER’s General Counsel has been delivered. 
+ If to
+SUPPLIER, all notices shall be addressed and delivered to: 
+  
+
+
+
+
+
+
+
+
+
+
+ Venture Corporation LTD,
+ 5006 Ang Mo Kio Avenue 5, #05—1/12
+ TECHplace ll, Singapore
+569873
+ Attention: President, Copy to: CFO
+ Telephone: (65) 6482 1755
+ Facsimile: (65) 6482 0122
+
+
+ If to BUYER, all notices shall be addressed and delivered to: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Oclaro Inc.
+ 2560 Junction Ave.
+ San Jose, CA 94538
+
+Attention: General Counsel
+ Telephone: 408-383-1400
+ Facsimile: 408-919-1501
+
+
+  
+
+
+
+32.
+Amendment 
+ Any and all amendments,
+alterations, or additions to this Agreement must be in writing and executed by SUPPLIER and an authorized representative of BUYER. No modifications to this Agreement proposed by SUPPLIER, or “riders” whether inserted in the page margins or
+attached on separate pages, shall be binding on BUYER unless signed or initialed by a duly authorized representative of BUYER. 
+  
+
+
+
+33.
+Waiver 
+ The failure of either party at
+any time to require performance by the other party of any provision hereof will not affect in any way the right to require such performance at any time thereafter. The waiver by either party of a breach of any provision hereof will not be taken or
+held by the other party to be a waiver of the provision itself unless such a waiver is expressed in writing. 
+  
+
+
+
+34.
+Severability  
+  
+
+
+
+ 
+34.1
+Any provision in this Agreement which is held to be illegal or unenforceable in any jurisdiction shall be ineffective to the extent of such illegality or
+unenforceability without invalidating the remaining provisions and any such illegal or unenforceable provision shall be deemed to be restated to reflect as nearly as possible the original intentions of the parties in accordance with applicable law.
+
+  
+
+
+
+ 
+34.2
+IT IS EXPRESSLY AGREED THAT EACH PROVISION OF THIS AGREEMENT (INCLUDING THE STATEMENT(S) OF WORK and PURCHASE ORDERS) THAT PROVIDES FOR A LIMITATION OF LIABILITY OR
+REMEDIES, DISCLAIMER OF WARRANTIES, INDEMNIFICATION OF A PARTY OR EXCLUSION OF DAMAGES OR OTHER REMEDIES IS SEVERABLE AND INDEPENDENT OF ANY OTHER PROVISION AND IS INTENDED TO BE ENFORCED AS SUCH. FURTHER, IT IS EXPRESSLY AGREED THAT IN THE EVENT
+ANY REMEDY UNDER THIS AGREEMENT IS DETERMINED TO HAVE FAILED OF ITS ESSENTIAL PURPOSE, ALL LIMITATIONS OF LIABILITY AND EXCLUSIONS OF DAMAGES OR OTHER REMEDIES SET FORTH IN THIS AGREEMENT SHALL REMAIN IN EFFECT. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+24 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+  
+
+
+
+35.
+Survival 
+ The provisions of this
+Agreement that would naturally survive termination shall so survive. 
+  
+
+
+
+36.
+Agreement of Precedence 
+ Each Statement
+of Work and Purchase Order shall be governed by the terms of this Agreement and the terms set out in the Statement of Work or Purchase Order. In the event of any conflict or inconsistency between the provisions of this Agreement and any Joint
+Service Agreement, Statement of Work or Purchase Order, the same shall be resolved by giving precedence to this Agreement (including any exhibits or addenda). 
+  
+
+
+
+37.
+Counterparts  
+ This Agreement may be
+signed in counterparts, including but not limited to facsimile or scanned versions of the full document, each of which shall be deemed to be an original but all of which shall constitute an original and the same instrument. 
+
+ 
+
+
+
+38.
+Entire Agreement  
+ This Agreement,
+together with all valid attachments, exhibits, supplemental sheets and riders, constitutes the entire understanding and agreement of the Parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous communications,
+understandings, representations and agreement, whether written or oral, with respect to such subject matter. 
+  
+ Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions
+are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+25 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ IN WITNESS WHEREOF the parties have executed this Agreement on the day
+and year first above written. 
+  
+
+
+
+
+
+
+
+
+
+
+OCLARO Technology Ltd.
+  
+Venture Corporation Ltd
+
+
+
+
+
+
+  
+
+  
+  
+
+
+
+
+
+ Date
+
+  
+Date
+
+
+
+
+
+
+  
+
+  
+  
+
+
+
+ Signature
+
+  
+Signature
+
+
+
+
+
+
+  
+
+  
+  
+
+
+
+ Printed Name
+
+  
+Printed Name
+
+
+
+
+
+
+  
+
+  
+  
+
+
+
+ Title
+
+  
+Title
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+26 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit A-1 
+
+APPROVED MANUFACTURING AND PRODUCT DEVELOPMENT LOCATIONS 
+ 1.     Approved Manufacturing and Product Development Locations. 
+
+Venture Electronics Services (Malaysia) Sdn. Bhd. 
+
+Plot 44, Bayan Lepas Industrial Park IV 11900 Penang 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+27 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit A-2 
+
+TRANSFERRED PRODUCTS 
+
+[***18 pages redacted***] 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+28 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit A-3 
+
+Preliminary FLIGHT PLANS 
+
+[***one page redacted***] 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+29 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit B 
+
+BUILD REQUEST AND BUILD PLAN FORM 
+ These forms are set forth for example only. The parties may mutually agree in writing to any change in format. 
+ Build Request 
+ The Build Request is provided by BUYER to SUPPLIER at least monthly.
+
+ Build Request Form (BUYER Requested MPS) 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Product
+
+ 
+ Units
+
+
+
+ 
+ Wk1
+
+ 
+ Wk2
+
+ 
+ ...
+
+  
+ Wk26
+
+  
+ Mo7
+
+  
+ Mo8
+
+  
+ ...
+
+  
+ Mo12
+
+
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+ Build Plan 
+ The Build Plan is provided by SUPPLIER to BUYER, after receiving Build Request, and then jointly reviewed. The proposed Build Plan is discussed, any adjustments are made, and the Build Plan is agreed upon
+jointly. The updated and agreed upon Build Plan is then published by SUPPLIER. 
+ Build Plan Form (SUPPLIER Committed MPS)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Product
+
+ 
+ Units
+
+
+
+ 
+ Wk1
+
+ 
+ Wk2
+
+ 
+ ...
+
+  
+ Wk26
+
+  
+ Mo7
+
+  
+ Mo8
+
+  
+ ...
+
+  
+ Mo12
+
+
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ Name, #
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+30 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit C  
+
+PRICES AND SHIPPING TERMS 
+ Description of Products 
+ SUPPLIER and BUYER shall set forth the
+requirements for transferring the Transferred Products from BUYER’s Shenzhen facility to the Approved Manufacturing and Product Development Locations in sequentially numbered Statements of Work (E.g., SOW #1, SOW#2, etc.). Additional Products
+to be manufactured by SUPPLIER for BUYER will be specified in a sequentially numbered Statement of Work. 
+ Product Price
+
+ The unit prices charged by SUPPLIER for the Products shall be those set forth on the applicable Statement of Work, less
+the applicable discount, if any, stated therein. SUPPLIER shall be solely responsible for the purchase of all Components and parts required for manufacture production of the Products within the Leadtime. All prices are Ex Works. Prices are
+exclusive of costs of Product delivery, insurance, taxes, customs, duties, landing, storage and handling fees included in the original price quotation, and/or cost for documents or certificates required for Product exportation or importation.
+
+ Out of Warranty Repair Charge 
+ Out of warranty repair requirements will be defined and set forth on each Statement of Work. If desired, BUYER may request SUPPLIER to repair out of warranty products. For such Products, BUYER and
+SUPPLIER will agree on pricing in the applicable Statement of Work. 
+ Invoices 
+
+Unless otherwise set forth on the applicable Statement of Work, subject to acceptance of Products as provided in Section 10 of the
+Agreement, BUYER shall [***]. Notwithstanding the foregoing, if BUYER rejects Products under the Agreement, BUYER may delay payment of the applicable invoice until the Products are repaired or replaced in accordance with Section 13. 
+
+Product Pricing 
+ Definitions:
+
+ CM G&A means the SUPPLIER’s general and administrative costs including the cost of capital for the purposes of pricing
+
+ CM Profit means the amount of SUPPLIER’s profit for the purposes of pricing 
+
+CM Mark-Up means the CM G&A and CM Profit attributed to a Product by BUYER 
+ Consumables means the agreed consumable consumption for the necessary materials to manufacture the Products that are not included in the Bills of Materials. Where allocation assumptions are
+required, allocation will be made on the basis of Direct Labor hours. Examples are; cleanroom supplies, process gases, etc. 
+ Depreciation
+and Equipment Support means the cost applied for a piece of Equipment upon its transfer and qualification at SUPPLIER’s manufacturing facility determined according to Table C-5 and as otherwise set forth below, including SUPPLIER’s
+incurred cost for shipping, support and maintenance of such equipment 
+ Direct Labor means the agreed fully-loaded direct labor
+cost applied to agreed touch time per unit, including standard rate, “yielded rate”, and rework labor 
+ Direct Materials
+means the actual direct materials costs per unit, net of any discounts or rebates (BOM cost) 
+ Facilities Costs means the agreed
+costs for all facilities and infrastructure support for Products, including without limitation building and facilities staff; equipment; warehouse facilities and staff; security; maintenance; utility cost. Where allocation assumptions are required,
+Facilities Costs will be allocated to Product families based upon their facility requirements and to Products within a Product family on the basis of Direct Labor hours 
+ Freight means the variable freight charges associated with the purchase of Components which shall be determined as a maximum of 0.5% of Direct Materials cost 
+
+Indirect Labor means the agreed costs for all indirect support for Products including without limitation engineering, purchasing,
+maintenance, quality, planning, purchasing, etc. Where allocation assumptions are required, Indirect Labor costs will be allocated to Product families based upon their actual support and requirements and to Products within a Product family on the
+basis of Direct Labor hours 
+  
+ Confidential treatment is being
+requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has
+been filed separately with the Securities and Exchange Commission. 
+
+  
+
+31 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Overhead Cost means the Indirect Labor, Facilities and
+Depreciation Costs attributed to a Product by BUYER 
+ Scrap means the agreed scrap rate, net of salvage/rework value 
+
+Variable Cost means the Direct Materials, Direct Labor, Scrap and Consumables attributed to a Product by BUYER 
+
+Pricing Model 
+ Pricing shall be
+determined and adjusted as set forth herein. The parties agree that the price shall consist of the sum of Variable Cost plus Overhead plus CM Mark-Ups in total, as further illustrated in Table C-1. 
+
+Table C-1 
+ Pricing Model Elements 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Cost Element
+
+  
+ Components
+
+
+
+
+
+
+
+
+
+Variable Cost
+  
+Direct Materials
+
+
+  
+Direct Labor
+
+
+  
+Scrap
+
+
+  
+Freight
+
+
+  
+Consumables
+
+
+
+
+
+
+Overhead Cost
+  
+Indirect Labor
+
+
+  
+Facilities Costs
+
+
+  
+Depreciation and Equipment Support
+
+
+
+
+
+
+CM Mark-Ups
+  
+CM G&A, including cost of capital
+
+
+  
+CM Profit
+
+ Variable costs and Overhead shall be agreed to based upon the actual costs and the parties agree that BUYER shall have
+access to all documentation to determine actual costs. Overhead costs shall be determined as described herein below. Upon notice, BUYER may audit SUPPLIER records to determine actual costs. 
+ Variable Cost 
+ Direct materials pricing will reflect the actual BOM costs
+attributable to the Product on a quarterly basis, subject to the provisions of sections 6 and 7 of this agreement. Direct Labor, Scrap, Freight and Consumables shall be set with agreed upon rates, established quarterly, which will be based upon the
+actual SUPPLIER costs for the respective line items without additional charges or mark-ups. 
+ Scrap will be adjusted quarterly, with
+within-quarter adjustments if actual scrap rates are outside +/- 10% from the current quarter’s agreed value. 
+ Overhead Cost
+
+ Indirect Labor and Facilities rates shall be agreed on an annual basis, based upon actual costs of operations without additional
+charges or mark-ups. 
+ The Parties shall allocate Indirect Labor and Facilities by category of Product. On an annual basis Each Product will be
+assigned an overhead pricing category as described in Table C-2 and as illustrated in Table C-3, and all Products in that category will have the same Overhead rate. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+32 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Table C-2 
+ Overhead Rate Methodology 
+  
+
+
+
+
+
+
+
+
+
+
+ Timing
+
+  
+ Activity
+
+
+
+
+
+
+
+
+
+Initial CostProgram Setup
+  
+ •    Assign Product to an Overhead category containing like
+Products with similar support requirements.
+  
+ •    Establish actual costs for Indirect Labor and Facilities for each Product family.
+  
+
+•    Define Overhead rates for each category as the median of per-unit costs for all
+Products in that category.
+  
+
+•    Define boundaries of each category to be the midpoint between the Overhead rate for
+that category and the next lower/higher category.
+  
+ •    Compare actual costs per Product to the category boundaries. Re-assign Products to lower/higher categories when actual costs for that Product are outside the boundaries for
+the initially-assigned category.
+
+
+
+
+
+
+
+Annually
+  
+ •    Reset Overhead rates for each category based on current actual
+support costs, as mutually assessed and agreed.
+  
+ •    Establish quarterly volume forecast by Product family and volume variability limits which would shift the Product family to a higher/lower category.
+
+
+
+
+
+
+
+Quarterly
+  
+ •    Shift Products to different Overhead categories based on current actual support requirements,
+and establish the appropriate volume adjustment to reflect prior quarter actual family volumes.
+
+
+ Table C-3 
+
+Overhead Rate Illustrative Example 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VALUES ARE FOR ILLUSTRATIVE EXAMPLE ONLY
+
+
+
+
+
+
+
+ Overhead CostCategory
+
+  
+ Overhead Rate
+
+(per DL Hour)
+
+ 
+  
+ Products
+
+
+
+
+
+1
+  
+$
+1.50
+  
+  
+Product A, Product C, Product F, Product N
+
+
+2
+  
+$
+2.25
+  
+  
+Product B, Product E, Product R
+
+
+3
+  
+$
+3.00
+  
+  
+Product D, Product G, Product L, Product M
+
+
+4
+  
+$
+4.50
+  
+  
+Product H, Product J, Product K
+
+
+…
+  
+ 
+…
+  
+  
+…
+
+
+N
+  
+$
+7.00
+  
+  
+Product P
+
+ Overhead categories will be specified in the Statement of Work for a Product. 
+
+Overhead adjustments 
+ On a quarterly
+basis, BUYER and SUPPLIER will adjust the Product family Overhead rate based upon the prior quarter actual volume for the Product family. In the case of volumes significantly above or below the volumes planned in the annual rate setting process, an
+adjustment factor shall be applied to the actual Overhead rate to compensate for Overhead over or under absorption as set forth in Table C-4 (“Adjustment Factor”). The quarterly rate will be calculated as follows: [Product family Overhead
+rate] x [Adjustment Factor]. 
+  
+ Confidential treatment is being
+requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has
+been filed separately with the Securities and Exchange Commission. 
+
+  
+
+33 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Table C-4 
+ Adjustment Factors 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ Volume Deviation from Plan
+
+  
+ Adjustment Factor
+
+(Volumes above Plan)
+
+  
+ Adjustment Factor
+
+(Volumes below Plan)
+
+
+
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+ Depreciation and Equipment charges will be allocated to product cost on a proportionate basis based upon actual usage of
+the equipment, utilizing the amortization schedule as indicated in Table C-5. The parties will agree on the applied charges on a product basis as part of the quarterly pricing process. In the event that there are insufficient units to apply the
+depreciation charges on a quarterly basis the parties will mutually agree to an alternative billing mechanism for SUPPLIER to recover depreciation cost. 
+ Table C-5 
+ Equipment Amortization Schedule 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Age of Asset
+
+(Years)
+
+  
+ Depreciation Timeline
+
+(Years)
+
+
+
+
+
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+
+ In the event anticipated volumes during a quarter are insufficient to fully absorb the depreciation the following
+quarter’s pricing will be adjusted to ensure “true-up” of the full amount within the quarter. 
+ SUPPLIER may use the Acquired
+Equipment for SUPPLIER’s other customers as long as no BUYER intellectual property is used without BUYER’s prior written consent. Depreciation will be calculated by excluding the proportionate share of the Acquired Equipment used or made
+available for use by SUPPLIER’s other customers. 
+ CM Mark-Ups 
+ CM Mark-Ups shall be as follows, for the duration of this agreement, calculated as a portion of total cost: 
+ - [***] 
+ - [***] 
+ NPI Pricing 
+ The Parties shall establish pricing for newly introduced Products (NPI)
+as described herein. 
+ (i) Variable Cost will be priced in the same manner as described above 
+
+(ii) Overhead will be priced as follows: Upon SUPPLIER’s award of a new Product, SUPPLIER and BUYER shall determine: (a) the
+cost of Overhead, (b) the Overhead category for the initial ramp period for NPI based upon additional support requirements; (c) the Overhead category for volume production (based on the anticipated support requirements for volume
+production), and (d) the timing required to reach volume production as a result 
+  
+ Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions
+are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+34 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ 
+of a ramp plan including the anticipated calendar quarter of migration from NPI to volume production, The Product will shift Overhead categories as part of a quarterly reassignment for all
+Products at which time any significant departures from the ramp plan will be addressed. 
+ (iii) CM Mark-up will be priced equal
+to the CM Mark-Up for volume production. 
+ Volume Discounts 
+ For each Product, BUYER shall establish volume discounts for Overhead and CM Mark-Ups upon Product volume reaching established thresholds. For Overhead, BUYER shall set a percentage change in the Overhead
+cost for all Overhead categories based on a set deviation from the standard volume in such Overhead categories. For CM Mark-Up, BUYER shall set a percentage reduction in the CM Mark-Up cost for all Products upon reaching a series of volume
+thresholds using the prior quarter’s actual total business volume with the SUPPLIER as set forth in Table C-6. 
+ Overhead and CM Mark-Up
+rates based upon volume shall be established/reset on an annual basis, and applied each quarter using volumes from the prior quarter, except as adjusted in Section 27 above. 
+ Table C-6 
+ Volume price adjustments will be calculated as follows: 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Revenue
+
+(Quarterly)
+
+  
+ SG&A Adjustment
+
+  
+ Profit Margin Adjustment
+
+
+
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+
+[***]
+  
+[***]
+  
+[***]
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+35 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit D 
+
+EXAMPLE STATEMENT OF WORK 
+ This Statement of Work is entered into as of <month>, <year>, (“SOW Effective Date”) between BUYER and SUPPLIER 
+
+NOW, THEREFORE, in consideration of the promises and agreements of the parties set forth herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows: 
+
+Equipment 
+
+Description of Equipment to be transferred; 
+ Inventory 
+ Description of Inventory to be transferred; 
+
+Transition Plan. 
+ Pricing 
+ All prices are based on the agreed upon Overhead pricing matrix
+for these Products per Exhibit C of the Manufacturing and Purchase agreement. 
+ Specifications 
+
+Engineering Specifications for each Product are attached to this Statement of Work. 
+
+Approved Manufacturing and Product Development Locations 
+ All Products under this Statement of Work will be manufactured at SUPPLIER’s facility: 
+ SUPPLIER 
+ Address1 
+
+Address2 
+ City,
+State Zip 
+ Materials 
+ Schedule 
+ Append transfer / transition / ramp schedule here, including
+milestones, target quantities, and target yields 
+  
+ Confidential
+treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of
+this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+36 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit E 
+
+BUYER TRADEMARKS 
+ Page intentionally left blank 
+
+  
+
+37 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit F 
+
+Intentionally left blank 
+
+  
+
+38 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit G 
+
+PURCHASE PRICE VARIANCE FORM 
+ [EXAMPLE] 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ BUYERComponentPart No
+
+  
+ Descr
+
+  
+SUPPLIERSite
+  
+Mfg
+  
+MPN
+  
+SUPPLIERSiteBuyerName
+  
+SUPPLIERCommodityMgr
+  
+CurrentQtrStdW/BUYER
+  
+TotalLeadTime
+  
+PurchasePrice
+  
+UnitPPV$
+  
+QtyReceivedLastMonth
+  
+ExtendedPPV$
+  
+ExplanationForPPV
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+39 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit H 
+
+RETURN AND REPAIR SERVICES 
+ Product Repairs. SUPPLIER will Repair a defective Product and forward the same back to BUYER or BUYER’s customer as requested by BUYER. SUPPLIER will Repair defective Product to BUYER
+Specifications. SUPPLIER will upgrade Repaired Product to the most recent BUYER approved ECO level. SUPPLIER shall charge rates as specified in a Statement of Work. Any Repair shall be warranted for the remainder of the warranty period or six
+(6) months, whichever is longer. This statement excludes Product which has been damaged by accident, abuse or misuse. BUYER reserves the option to perform out-of-warranty Repairs at Repair facilities designated by BUYER. In the event BUYER
+exercises the option to perform Repairs at such designated facilities, SUPPLIER shall provide all required product specifications, engineering documentation, and test and Repair procedures. 
+
+ 
+
+
+
+2.
+Return Material Authorization (RMA). SUPPLIER shall provide BUYER with RMA procedures. The following procedure shall apply to SUPPLIER’s Repair of Products.
+
+  
+
+
+
+ 
+(i)
+Turn-Around Time. SUPPLIER will use its best efforts to provide BUYER with RMA number within one (1) Business Day after receipt of request. SUPPLIER will
+Repair the defective Product and forward the same back to BUYER within five (5) Business Days after receipt. SUPPLIER will provide expedited Repair service to accommodate BUYER emergency requirements at a minimal expedite charge, not to exceed
+five (5%) of Repair charge. 
+  
+
+
+
+ 
+(ii)
+Reporting. BUYER Repaired Products will be returned with a detailed Repair report for each unit. SUPPLIER will provide a monthly report of: (i) RMAs
+processed, including failure analysis and (ii) physical inventory of BUYER owned material. Upon special request, SUPPLIER will provide inventory status within two (2) Business Days. 
+
+ 
+
+
+
+ 
+(iii)
+Shipping charges. SUPPLIER will pay all inbound and outbound shipping charges on all in-warranty Products shipped to SUPPLIER for Repair. BUYER will pay all
+inbound and outbound shipping charges on out-of-warranty Products shipped to SUPPLIER for Repair. 
+  
+
+
+
+ 
+(iv)
+Marking requirements. On all Products returned to BUYER, SUPPLIER will affix label that identifies Product, including model number, serial number, current
+hardware and/or software revision level, and RMA number. 
+  
+
+
+
+3.
+Problem with Specification or Component. If a defect in a Product is caused by (i) a design required by the Specifications or (ii) a failure by a
+Component required by the Specifications, SUPPLIER shall perform the obligations in this Exhibit H and BUYER shall pay to SUPPLIER the costs mutually agreed upon by the parties in advance in writing. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+40 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit I 
+
+QUALITY REQUIREMENTS 
+
+This Exhibit sets forth SUPPLIER’s obligations with respect to the quality of the Products. SUPPLIER agrees to conform to the minimum requirements
+established by the BUYER Quality Systems Requirements. In addition, SUPPLIER shall conform to SUPPLIER’s internal ISO 9001 compliant Quality Systems Requirements for the term of this Agreement. 
+
+ 
+
+
+
+1.
+SUPPLIER Quality Control Plan and Process Capability 
+ SUPPLIER will establish, maintain and manage a quality assurance plan and program for the Products that is consistent with standard industry practices to ensure that the overall reliability, quality and
+performance objectives stated in the applicable Statement of Work are achieved and the Products comply with the Specifications (the “Quality Control Plan”). The Quality Control Plan is subject to BUYER’s prior written approval. BUYER
+will have the right during normal business hours to audit SUPPLIER’s compliance with the Quality Control Plan. Such audit will include, without limitation, BUYER’s access, on-line or otherwise, to SUPPLIER’s: (i) Product test
+data and any statistical analysis of such data, (ii) Product improvement issues and data, (iii) Product time studies, test yields, repair and scrap reports, efficiency reports and incoming and outgoing inspection details,
+(iv) in-process repair and service repair and statistical data, and (v) corrective and preventive action systems. Such documentation will be logged into a permanent file and will be available for BUYER’s inspection at all times during
+the term of this Agreement. 
+ As part of the Quality Control Plan, SUPPLIER is required to document and retain objective
+evidence of the following: a detailed production process flow showing how SUPPLIER will control the production system; receiving inspection and material certification processes; outgoing inspection, in-process inspection, calibration of all
+Inspection Measurement and Test Equipment (IMTE); Measurement Systems Analyses for all IMTE used in the production of BUYER Products; maintenance of all equipment defined in production process flow; an organizational chart which identifies the
+members of SUPPLIER team who formulate and execute SUPPLIER approach to quality; and title and number of all applicable documents. 
+  
+
+
+
+2.
+Inspection and Testing 
+
+Products purchased pursuant to this Agreement shall be subject to initial inspection, testing, and acceptance or non-acceptance by BUYER,
+which shall occur within thirty (30) days of final test. SUPPLIER shall perform First Article Inspection (FAI). BUYER’s quality assurance personnel (“BUYER Quality Assurance”) may approve the Product for production, disapprove
+the Product for production or require immediate corrective action for all the non-conformances found during the FAI. BUYER may have the SUPPLIER approve or disapprove the Product for production with BUYER’s authorization. Any non-conformances
+shall be corrected within the time periods determined by BUYER. 
+ SUPPLIER will manufacture the Products in accordance with the
+quality requirements, standards and expectations as set forth in the Specifications, and as otherwise mutually agreed upon by the parties in writing. SUPPLIER will not ship any Product to BUYER which is not in conformance with the Specifications,
+and shall provide certification with such Product shipment of such shipment’s conformity to the foregoing. 
+ SUPPLIER
+agrees that it will perform testing and inspection of the Product as mutually agreed upon by the parties in writing prior to the delivery, pack out or distribution of the Products. The testing and inspection procedures shall be documented in the
+Quality Control Plan. Containment of defective Product either in work in progress (“WIP”) or packed and waiting for shipment shall begin immediately after the discovery of a defective Product. Should Products or SUPPLIER’s processes
+be found to be non-conforming, SUPPLIER shall notify BUYER Quality Assurance and withhold shipping Product until such non-conformance is resolved. SUPPLIER shall be wholly responsible for Products that fail to meet the acceptance criteria and/or
+Specifications. 
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+41 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ In addition to the foregoing, all deliveries of Products are
+subject to, at BUYER’s option, BUYER’s inspection and testing, before final acceptance by BUYER. BUYER may inspect any Product within thirty (30) days after receipt of such Products and may reject any Product that fails to meet the
+Specifications. BUYER has the right to reject the order in whole or in part during such thirty (30) day period. To reject a Product, BUYER will, within such thirty (30) day period, notify SUPPLIER in writing of its rejection and request a
+Return Material Authorization (“RMA”) number. 
+  
+
+
+
+3.
+Specifications 
+ SUPPLIER
+agrees that all Products will conform to the Specifications established by BUYER for the part number stated on the Bill of Materials or the Purchase Order. Additionally, all Products produced by SUPPLIER shall conform to the workmanship
+specifications of IPC-610 Class II, latest revision, and to all currently accepted commercial manufacturing practices. 
+  
+
+
+
+4.
+Nonconforming Material 
+
+Any material identified as nonconforming material shall be isolated and segregated in a secure location. Nonconforming material shall be
+clearly identified with the SUPPLIER part number, the BUYER part number, reason for rejection and date of rejection. SUPPLIER must dispose of all nonconforming material within 96 hours of discovery of nonconformance. In the event that SUPPLIER,
+BUYER or a Component supplier identifies discrepant material in WIP Products, SUPPLIER shall immediately purge all discrepant material from WIP Products, remove such material from inventory and store it in the secure location. Upon completion of
+such purge procedure, SUPPLIER shall provide to BUYER written verification that WIP Products and inventory have been purged of the discrepant material. 
+  
+
+
+
+5.
+Traceability 
+ SUPPLIER
+shall provide electronic Product or Component serial number traceability for all units produced at SUPPLIER’s facility. The traceability process must have the capability to trace all in-coming material, WIP and all Products shipped from the
+SUPPLIER’s facility. The traceability process shall have the capability of detecting and rejecting any unit with a duplicate serial number either in WIP or already in the installed base. The traceability process shall meet BUYER’s
+requirements and be approved by BUYER. 
+  
+
+
+
+6.
+Quality Performance 
+
+SUPPLIER shall comply with the quality performance metrics, including but not limited to, the following: Cumulative Yield, Defects per
+Million Opportunities (DPMO), defect and process paretos and corrective action for agreed upon process control points in the manufacturing process, incoming inspection or outgoing inspection. 
+
+ 
+
+
+
+7.
+Corrective Action 
+ If
+upon inspection the Products do not comply with the Specifications, BUYER may issue a Corrective Action Request (CAR). SUPPLIER will comply with BUYER’s closed-loop quality and corrective action process associated with any CAR given by BUYER.
+The parties shall engage in continuous improvement activities to reach higher levels of Product quality and cost improvements, and SUPPLIER shall participate in quality performance reviews through meetings set forth in Section 14.2 below.
+
+  
+
+
+
+8.
+ISO Certification 
+
+SUPPLIER shall conform to the requirements of ISO 9001 and ISO 14001 at all times in manufacturing the Products hereunder. SUPPLIER
+warrants and represents that it currently is certified under ISO 9001 and ISO 14001, and during the term of this Agreement will remain ISO 9001 and ISO 14001 certified. If at any time hereafter certification under ISO 9001 or ISO 14001 is no longer
+generally appropriate, SUPPLIER will ensure that it is certified under another comparable or higher standard, which is acceptable to BUYER. Should SUPPLIER lose the ISO 9001 or ISO 14001 certification, SUPPLIER will immediately notify BUYER Quality
+Assurance in writing. SUPPLIER shall inform BUYER of the specific reason(s) for the loss of the certification. SUPPLIER shall inform BUYER of an Action Plan that defines the specifics of regaining compliance to ISO 9001 and/or ISO 14001 and defines
+the short-term corrective actions that will insulate BUYER from SUPPLIER noncompliance. 
+  
+ Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions
+are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+42 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+9.
+Defective Product 
+ If
+SUPPLIER identifies defective Product(s) during the manufacturing process, pack out or distribution process, SUPPLIER shall notify BUYER Quality Assurance immediately. SUPPLIER shall implement appropriate actions that minimize the possibility that
+additional defective Products will be processed or delivered. SUPPLIER shall implement appropriate corrective actions to prevent reoccurrence of the defect. All corrective actions that affect Products are subject to approval by BUYER Quality
+Assurance. SUPPLIER shall respond to any defective Product as set forth in Section 14.3 below. Within 4 hours of discovery, SUPPLIER shall use best efforts to implement appropriate containment activity for: (1) all such Product, including
+WIP, finished goods and component level. SUPPLIER’s containment action shall also include identification by serial number, the manufacturing site for all defective Product and any other appropriate action to minimize the possibility that
+additional defective Products will be delivered to pack out, distribution or the customer; (2) shall notify BUYER of all such Product already shipped, including serial number, manufacture date and ship date; and (3) SUPPLIER shall submit
+the initial written response for short-term corrective action plan. In no event shall the implementation of the foregoing containment activities exceed twenty-four (24) hours of discovery. SUPPLIER further agrees to conduct a detailed
+root-cause failure analysis and to report the failure analysis data and root-cause correction plan to BUYER within a minimum of five (5) working days of notification of the defective Product. SUPPLIER agrees to preserve and maintain all data
+associated with Product and process failure analysis, corrective actions and to make that data available to BUYER upon request. 
+
+If the defective Product is not DOA and is situated outside of SUPPLIER’s facilities, then SUPPLIER shall promptly commit the
+necessary resources to repair the defective Product on-site at SUPPLIER’s facility and at SUPPLIER’s sole expense, including, without limitation, the costs of shipping the Product to and from SUPPLIER’s facility. In addition, SUPPLIER
+shall comply with BUYER’s closed-loop corrective action process. If the Product is DOA, SUPPLIER shall repair or replace the DOA Product in accordance with Section 15.1 of the Agreement. 
+
+ 
+
+
+
+10.
+Epidemic Failure 
+ The
+terms and conditions defining Epidemic Failure shall be as specified in Section 10.5 of the Agreement. 
+  
+
+
+
+11.
+RMA – Return Material Authorization 
+ SUPPLIER shall provide a Return Materials Authorization (RMA) within 24 hours after receipt of request for an RMA from BUYER for a nonconforming or defective Product. After receipt of the written RMA
+number, BUYER or BUYER’s customer will return to SUPPLIER the rejected or defective Product, freight collect and properly insured, with the RMA number displayed on the outside of the carton. 
+
+ 
+
+
+
+12.
+Supplier Change Notification 
+ Written approval from BUYER is required prior to the implementation of changes and deviations by SUPPLIER. Approval may be withheld at BUYER’s sole discretion. In the event an approved
+SUPPLIER-proposed change fails BUYER’s Product qualification, SUPPLIER is obligated to provide the existing qualified Product until the Product with the proposed change can be qualified. BUYER shall respond to the change or deviation request
+within fifteen (15) Business Days of receipt or the change or deviation will be deemed rejected. In the event SUPPLIER fails to follow the requirements defined herein, SUPPLIER assumes all costs and responsibilities for the Product affected by
+the change, including to, but not limited to, Product in transit, Product in finished goods inventory, and any Product located with a BUYER customer. 
+ In the case of changes to materials or sources of supply, such notice shall be provided to BUYER no less than the Components Lead-time plus thirty (30) days prior to the proposed implementation of
+the change. Written approval from BUYER is required prior to the implementation of the requested change. If BUYER does not respond to the change request within fifteen (15) Business Days of receipt, the changes will be deemed rejected.
+
+  
+
+
+
+13.
+Site Assessments and Inspections at SUPPLIER Site 
+ Upon two (2) Business Days’ notice, BUYER shall have the right to perform vendor qualifications and/or on-site inspections at SUPPLIER’s manufacturing facilities during SUPPLIER’s
+normal business hours. If an inspection or test is made on SUPPLIER’s premises, SUPPLIER shall provide BUYER’s inspectors with access to facilities and reasonable assistance at no additional charge. SUPPLIER shall also provide BUYER with
+final acceptance documentation/criteria. In the event that any on-site inspection of the Products indicates that the Products do not 
+  
+
+Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information
+subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+43 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ 
+conform to the requirements of this Agreement, SUPPLIER shall not ship such Products to BUYER until such nonconformity has been corrected and BUYER has approved shipment of such Products in
+writing. This audit right does not limit BUYER’s right to perform additional acceptance testing at BUYER’s facilities. 
+  
+
+
+
+14.
+Quality Goals and Support 
+  
+
+
+
+ 
+14.1
+Quality Performance and Goals 
+ Depending on the exact processing and testing sequence used, quality performance metrics may include but are not limited to, the following: 
+
+ 
+
+
+
+ 
+•
+ 
+ SMT Yield (% and raw data) 
+
+  
+
+
+
+ 
+•
+ 
+ ICT Yield (% and raw data) 
+
+  
+
+
+
+ 
+•
+ 
+ Functional Test Yield (% and raw data) 
+
+  
+
+
+
+ 
+•
+ 
+ Cumulative Yield (% and raw data) 
+
+  
+
+
+
+ 
+•
+ 
+ Trend charts documenting each metric 
+
+  
+
+
+
+ 
+•
+ 
+ Pareto of actual defects found for each yield metric 
+
+  
+
+
+
+
+ 
+•
+ 
+ Pareto of cost of actual defects for each yield metric 
+
+
+ 
+
+
+
+ 
+•
+ 
+ DPMO calculations 
+
+ Performance goals for the metrics utilized shall be mutually agreed to by the parties in writing prior to the first customer shipment of each Product. Reporting shall be accomplished via BUYER-approved
+electronic medium according to a schedule approved by BUYER Quality Assurance. SUPPLIER agrees to continually improve their performance against the goals and targets for the above categories and any other categories included by BUYER. 
+
+ 
+
+
+
+ 
+14.2
+Quality Reviews and Continuous Improvement Meetings 
+  
+
+
+
+ 
+•
+ 
+ SUPPLIER shall submit periodic reports via BUYER-approved electronic medium and on the BUYER-approved schedule. Each report concerning the Products
+which will, at a minimum, provide information regarding the production yield and major defect data for each Product in production during the applicable time period. 
+
+
+ 
+
+
+
+ 
+•
+ 
+ The parties shall participate in mutually agreed to cross-site, cross-supplier improvement projects. 
+
+
+ 
+
+
+
+ 
+•
+ 
+ The parties shall conduct quarterly business reviews. Such reviews shall be at a mutually agreed upon time and place. 
+
+
+ 
+
+
+
+ 
+14.3
+Corrective Action Timetable for Defective Product Detected Prior to Shipment 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ Event
+
+  
+ Maximum Response Time
+
+
+
+
+
+
+
+
+
+Problem notification by SUPPLIER to BUYER
+  
+Within 4 hours—verbal; within 1 Business Day—written
+
+
+
+
+
+
+Containment plan communicated to BUYER
+  
+4 hours
+
+
+
+
+
+
+Initial SUPPLIER problem verification and short-termcorrective action plan
+  
+Written—8 hours
+
+
+
+
+
+
+SUPPLIER failure or problem analysis completed,results communicated, and root-cause correctiveaction plan communicated
+  
+7 Business Days
+
+
+
+
+
+
+SUPPLIER corrective action plan approval/rejection byBUYER
+  
+2 days after communication of plan
+
+
+
+
+
+
+SUPPLIER corrective and preventative actionsimplemented and verified
+  
+6 Business Days
+
+  
+ Confidential treatment is being requested for
+portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed
+separately with the Securities and Exchange Commission. 
+
+  
+
+44 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+15.
+Reliability Corrective Action Plan 
+ If a Product does not meet the required SUPPLIER’s reliability specification, SUPPLIER shall provide to the BUYER, within ten (10) days or as mutually agreed a plan identifying steps the
+SUPPLIER will take, including milestones and dates, to ensure that the Product meets the required reliability specification. 
+  
+
+
+
+ 
+15.1
+Out-of-Box Failure Corrective Action Plan 
+ SUPPLIER shall submit a non-recurring failure corrective action plan to prevent such failures, to the BUYER’s quality supplier engineers within twenty four (24) days of receipt of failed unit
+from BUYER. 
+  
+
+
+
+ 
+15.2
+Corrective Action Request (CAR):  
+  
+
+
+
+ 
+15.2.1
+Upon discovery of a problem, BUYER will submit a written request to SUPPLIER for corrective action. 
+
+ 
+
+
+
+ 
+15.2.2
+Supplier shall submit a corrective action report to BUYER that includes the details from the final root cause/failure analysis report, analysis of the problem described
+by the BUYER (commensurate with the level of detail provided by BUYER), details of containment activity (as required), a casual analysis, and a corrective action plan that includes the steps already taken to prevent recurrence of the same.
+
+  
+
+
+
+ 
+15.3
+Delivery of Reports:  
+  
+
+
+
+ 
+15.3.1
+Upon request, a preliminary root cause/failure analysis report will be provided by SUPPLIER to BUYER within five (5) working days after receipt of the defective
+Product or mutually agreed upon time objective. 
+  
+
+
+
+ 
+15.3.2
+The detailed root cause/ failure analysis corrective action report will be due from SUPPLIER within twenty four (24) calendar days after receipt of the defective
+Product by SUPPLIER, or as mutually agreed. 
+  
+
+
+
+ 
+15.3.3
+SUPPLIER will achieve a fourteen (14) day failure analysis and corrective action cycle time eighty (80) percent of the time. BUYER shall provide at a minimum,
+complete problem description, product P/N, s/n, date of failure, action taken to fix problem in order to receive a complete failure analysis and corrective action plan. 
+
+ 
+
+
+
+ 
+15.3.4
+The BUYER may approve or disapprove the corrective action plan submitted by SUPPLIER prior to implementation. 
+
+ 
+
+
+
+ 
+15.3.4.1
+In the event of disapproval, the Buyer will provide details regarding the reason for disapproval and any additional requirements or issues that must be addressed.
+
+  
+
+
+
+ 
+15.3.4.2
+The SUPPLIER will take action to conform to the requested action, correct the actions as needed, and re-submit for approval so that BUYER and SUPPLIER can mutually
+agree on a final plan. Upon receipt of approval the action is to be implemented by SUPPLIER. 
+  
+
+
+
+16
+Field Failure Reports  
+  
+
+
+
+ 
+16.1
+In the event the BUYER has a Product failure inside the warranty period and requests a failure analysis be performed, the SUPPLIER will provide a comprehensive failure
+analysis to the Buyer, at no charge, within twenty four (24) calendar days or as mutually agreed. SUPPLIER will use all reasonable efforts to provide expedited failure analysis reports on returned Products designated by BUYER to be of high
+priority. All reports will contain the following elements: 
+  
+ Confidential treatment is being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions
+are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+45 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+
+
+
+ 
+16.1.1
+Failure analysis for units outside the warranty period will carry a charge to the BUYER. 
+
+ 
+
+
+
+ 
+16.1.2
+Date the returned Product was originally shipped to BUYER. 
+  
+
+
+
+ 
+16.1.3
+Date the Product was received by the SUPPLIER for repair and revision level of the specific Product returned to the SUPPLIER. 
+
+ 
+
+
+
+ 
+16.1.4
+Description of the testing prior to any repair activity with a detailed description of the symptoms. 
+
+ 
+
+
+
+ 
+16.1.5
+Identification of the failure mode and action taken to repair the specific Product returned for analysis including any component or assembly replaced that corrected the
+cause of failure. 
+  
+
+
+
+ 
+16.1.6
+Analysis of the cause of the failure to the component level including photographs as required. 
+
+ 
+
+
+
+ 
+16.1.7
+Latest revision level of the components/assemblies used to repair the failed Product and new revision level of the repaired Product if the repair caused an advance in
+the revision level. 
+  
+
+
+
+ 
+16.2
+BUYER shall provide the following information (at minimum) as contingency to receive an failure analysis/corrective action from SUPPLIER: 
+
+ 
+
+
+
+ 
+16.2.1
+Product P/N 
+  
+
+
+
+ 
+16.2.2
+Product S/N 
+  
+
+
+
+ 
+16.2.3
+Problem Description 
+  
+
+
+
+ 
+16.2.4
+Action taken to fix failure 
+  
+
+
+
+ 
+16.2.5
+Date of Failure 
+  
+
+
+
+ 
+16.2.6
+Troubleshooting used 
+  
+
+
+
+ 
+16.3
+Component/Failure mode pareto information shall be provided monthly to cover the preceding six months of Products purchased. 
+
+ 
+
+
+
+17
+Compliance General. SUPPLIER warrants that the processes used in the manufacturing of Products sold to BUYER are (i) Safe for normal use and non-toxic,
+(ii) RoHS compliant and (iii) meets WEEE requirements at date of shipment, as applicable. Any additional safety requirements or Product marking will be defined in Statement of Work. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+46 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Exhibit J 
+
+SECURITY PROVISIONS 
+ This exhibit outlines SUPPLIER’s minimum security requirements and obligations for manufacturing and printing Products. This is a non-exclusive list. Additional or different measures than those
+outlined below may be required for SUPPLIER to comply with the terms and spirit of the Agreement. 
+ To protect BUYER Intellectual Property
+Rights and based upon the type of Product being manufactured by SUPPLIER, SUPPLIER shall provide three levels of segregation (No Segregation, Partial Segregation and Full Segregation) as set forth in Table J-1 below and as shall be further defined
+by BUYER. 
+ Table J-1 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Category of Protection
+
+  
+ No Segregation
+
+  
+ Partial Segregation
+
+  
+ Full Segregation
+
+
+
+
+
+Facility
+  
+Shared
+  
+Shared
+  
+Dedicated, restricted access to Oclaro support only, frosted windows
+
+
+
+
+
+
+
+
+Equipment
+  
+Shared
+  
+Mixed—some dedicated
+  
+Dedicated
+
+
+
+
+
+
+
+
+Direct Labor
+  
+Shared
+  
+Shared
+  
+Shared, but will work with CM to avoid sharing DL with competitors
+
+
+
+
+
+
+
+
+Product Engineers
+  
+Shared
+  
+Shared with non-competitors
+  
+Dedicated
+
+
+
+
+
+
+
+
+Process Engineers
+  
+Shared
+  
+Shared
+  
+Dedicated
+
+
+
+
+
+
+
+
+Test Engineers
+  
+Shared
+  
+Shared with non-competitors
+  
+Dedicated
+
+
+
+
+
+
+
+
+Quality
+  
+Shared
+  
+Shared
+  
+Dedicated
+
+
+
+
+
+
+
+
+Other IDL
+  
+Shared
+  
+Shared
+  
+Shared
+
+
+
+
+
+
+
+
+Tours Allowed
+  
+Allowed
+  
+Only for customers in non-competitive industries (automotive, healthcare, etc.) or for customers sharing manufacturing lines with Oclaro
+  
+Not Allowed
+
+ General: 
+ BUYER may, at its sole expense, perform a security assessment of SUPPLIER’s operations and assist the SUPPLIER in the development and implementation of cost effective security procedures for the
+protection of the BUYER’s Product. 
+  
+ Confidential treatment is
+being requested for portions of this document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document
+has been filed separately with the Securities and Exchange Commission. 
+
+  
+
+47 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ SUPPLIER agrees, at its sole expense, to develop and maintain its own
+security procedures as they relate to the manufacture, handling, storage and transport of BUYER Product. 
+ Should, as a part of its business
+model, SUPPLIER subcontract any portion of BUYER’s freight or warehousing business to a third party, SUPPLIER warrants that appropriate security procedures consistent with those employed by SUPPLIER and customarily used in the industry will be
+developed and maintained. 
+ SUPPLIER agrees to designate a management-level employee to oversee the security function of their facilities. This
+individual will act as the security interface for all BUYER business, and will be available for reasonable periods of time to coordinate the SUPPLIER’s security efforts with BUYER security management. 
+
+Handling Guidelines: 
+ SUPPLIER
+shall provide a storage area for all units of the Product. This area will be designed to prevent unauthorized access as well as protect the Product from damage, loss and theft. 
+ Product sealed in shipping boxes shall not be re-opened unless an inspection is necessary to determine the adequacy of packing; or the existence and/or extent of damage; or the accuracy of the description
+of contents; or the acceptability of the shipment for transportation in accordance with SUPPLIER tariffs. 
+ SUPPLIER shall avoid exposing BUYER
+product or materials to conditions that may cause damage. SUPPLIER must implement procedures for communicating incidents of damaged or loss of Product and/or materials to BUYER within 24 hours of each occurrence and a plan of action for preventing
+re-occurrence in the future. 
+ SUPPLIER shall not pre-load Product into trailers or vehicles intended for later collection or shipment without
+the prior written authorization of BUYER. 
+ If BUYER authorizes Product or materials to be stored in trailers parked within a facility’s
+truck yard, trailers must be sufficiently and adequately secured. Examples of security precautions to be taken for such freight include, without limitation: Pin locks, Padlocks on container or trailer doors, Numbered, logged, and inspected seals,
+containers or trailers backed up against each other or against a structure so that the unit’s cargo doors cannot be opened. 
+
+SUPPLIER’s Premises Protection: 
+ At locations where Product will be stored in excess of six (6) hours, SUPPLIER will provide and maintain, at all times, adequate security and handling practices to allow continuous security
+monitoring and protection of BUYER product against fire, damage, and theft. The use of electronic security systems including intrusion detection and security camera systems is encouraged. 
+ Control of BUYER freight information: 
+ SUPPLIER agrees to implement and maintain
+adequate procedures and precautions for the protection of records involving BUYER and BUYER freight; such as load contents, customers’ identity, the times and dates of shipments, destinations, and shipping routes. 
+
+Hiring / Supervising / Training of Employees 
+ SUPPLIER will ensure that all SUPPLIER’s employees and subcontracted personnel involved with handling or transportation of BUYER Products are subjected to vetting and background checks as permitted
+by local laws, regulations and availability, to confirm that such employees are free from records of criminal convictions involving drugs, theft, or dishonesty. 
+ SUPPLIER agrees to provide security awareness orientation and training to each employee handling or transporting BUYER Product within thirty (30) days of hire. 
+
+SUPPLIER shall not allow unauthorized employees, temporary employees, contractors or visitors access to the BUYER inventory or controlled access areas.
+
+  
+ Confidential treatment is being requested for portions of this
+document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the
+Securities and Exchange Commission. 
+
+  
+
+48 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Audits: 
+
+BUYER Security personnel and representatives of BUYER’s insurance carriers reserve the right to conduct security audits of the SUPPLIER’s
+premises and/or transit locations containing Product, and will report audit results and proposed corrections within thirty (30) days of the completed audit. Likewise, SUPPLIER will make every effort to ensure that its third-party forwarders
+and/or warehouses subcontracted to handle or store BUYER Product consent to these audit terms. 
+ General Security Responsibilities:
+
+ SUPPLIER will report to BUYER and the proper legal authorities loss, theft or damage to the Products and/or Components used to make
+the Products and cooperate at all times with the subsequent investigation and documentation of each such incident. SUPPLIER will promptly complete loss / theft / damage investigations as such incidents are reported or made known. Results and/or
+conclusions are to be forwarded to the local BUYER security contact as this information is made available. BUYER security management shall be invited to participate in any investigation involving the loss of BUYER Product. 
+
+SUPPLIER will maintain written security operating procedures for BUYER Products and will ensure that those procedures are (1) consistent with these
+guidelines, (2) communicated clearly, prominently and frequently to SUPPLIER’s employees and permitted third-party contractors, and (3) updated as needed. 
+ As requested, SUPPLIER will provide BUYER with a full report on all known losses and thefts at specific facilities for a stated period of time not to exceed two (2) years, in accordance with Carrier
+Tariffs for loss and damage claims. 
+ Labeling Requirements for Confidential Information. 
+
+SUPPLIER’s originators of Confidential Information documents are responsible for prominently labeling every page as “Confidential” (or with
+a similar designation); information in electronic form should be identified as “Confidential” (or with a similar designation) at the beginning or header of every data set or file. All magnetic media must have “confidential”
+marked (or a similar designation) on the contents and the exterior of its container. Prototypes shall be treated as confidential, and labeled (if possible). 
+ Safekeeping. 
+ Confidential information shall not be left exposed and shall be
+secured at the end of the workday in a locked cabinet, desk or other locked container or in a secured room with access limited to those with a need to access the information. 
+ Confidential information stored on computing systems must be protected by the use of strong passwords (e.g., passwords of an adequate length and alphanumeric mix consistent with best industry practices).
+Confidential information stored on PCs laptops or workstations should be encrypted. 
+ SUPPLIER shall require all employees, temporary employees
+(directly or through their temporary agencies), independent contractors and subcontractors either to be bound by an employee handbook containing a confidential or non-disclosure requirement and/or sign a separate non-disclosure agreement prior to
+access to Confidential Information of BUYER. 
+ SUPPLIER shall limit access to BUYER Confidential Information (logs of accessibility shall be
+kept current and made available to BUYER on reasonable request). 
+ SUPPLIER shall maintain visitor logs for all controlled access areas
+containing BUYER Confidential Information and/or other high risk assets materials such as, but not limited to, Serial numbers and the like. Logs of accessibility shall be kept current and made available to BUYER on reasonable request. 
+
+ 
+ Confidential treatment is being requested for portions of this document. This
+copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the Securities and
+Exchange Commission. 
+
+  
+
+49 
+
+
+
+
+
+
+ MANUFACTURING AND PURCHASE AGREEMENT 
+
+ 
+ Mail Requirements. 
+
+When it is necessary for SUPPLIER to send media containing confidential information between the parties or elsewhere, it shall be sent by courier,
+registered mail or an internationally recognized overnight delivery service (i.e. Federal Express, Emery, etc.) Items sent by SUPPLIER shall require recipients to sign for deliveries and the information to be entered into a log by the courier,
+postal or delivery service. 
+ Electronic. 
+ Confidential information must be encrypted when sent over the Internet. 
+ Faxes containing
+confidential information must include an ownership statement and the recipient should be notified prior to transmission in order to receive the fax. 
+ Media containing confidential information must be disposed of in a manner that destroys it beyond recognition and reconstruction. 
+ Inventory. 
+ Inventory shall be kept in controlled dedicated work areas with no
+commingling of BUYER’s Inventory with that of other entities. 
+ Regular cycle counts, consistent with the sensitivity of the inventory,
+shall be made with all results forwarded to BUYER. 
+ Any incidents of burglary, theft, unaccounted Inventory, shrinkage of Products, or
+Components theft shall be reported immediately to BUYER. In the event of any of the foregoing, SUPPLIER shall investigate the reasons therefore, and promptly take the necessary steps to prevent such situation from arising again. 
+
+SUPPLIER shall maintain 100% accountability of Components and scrap. 
+ SUPPLIER shall keep sensitive materials such as, but not limited to, Serial number labels and the like, stored in a secure area with limited employee access. 
+
+Scrap and Sensitive Material 
+ All
+inventory, Confidential Information, and Products (includes any Components thereof) shall be disposed of by SUPPLIER, as authorized by BUYER. SUPPLIER shall keep accurate records of the disposition of the said material. The logs of accessibility
+shall be kept current and made available to BUYER on reasonable request. 
+ Under no circumstances shall SUPPLIER allow BUYER Product,
+Components, serial numbers, Confidential Information or other BUYER property to be disposed of in SUPPLIER’s dumpster. SUPPLIER shall not transfer scrap produced as a result of this Agreement in a black or gray market transaction of any sort.
+
+  
+ Confidential treatment is being requested for portions of this
+document. This copy of the document filed as an exhibit omits the confidential information subject to the confidentiality request. Omissions are designated by the symbol [***]. A complete version of this document has been filed separately with the
+Securities and Exchange Commission. 
+
+  
+
+50 
+
+
+
+
+
+

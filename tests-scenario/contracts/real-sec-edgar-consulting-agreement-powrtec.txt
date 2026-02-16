@@ -1,0 +1,131 @@
+# Source: SEC EDGAR - POWRtec International Corp. Exhibit 10.16 Consulting Agreement
+# URL: https://www.sec.gov/Archives/edgar/data/1387673/000107878212000871/consultingagreement_ex10z16.htm
+# Filed: 2012 | CIK: 1387673
+# This is an actual consulting agreement filed with the SEC as a material contract.
+
+CONSULTING AGREEMENT
+
+This Consulting Agreement ("Agreement") is entered into on August 3, 2011 by Simon Westbrook of Aargo, Inc. ("Consultant"), of 10 Timber Ridge Lane, Scotts Valley, CA 95066 and POWRtec International Corp., a Delaware corporation, having a mailing address of 1669-2 Hollenbeck Avenue, Ste 142, Sunnyvale, CA 94087 ("Company"), based on the following mutual understanding:
+
+ARTICLE 1 - Description of Consulting Services
+
+The nature and scope of the consulting services to be performed hereunder are as set forth in Exhibit A, Statement of Work, attached hereto.
+
+ARTICLE 2 - Term of Agreement
+
+This Agreement commences on the date first set forth above and continues to roll over on a monthly basis unless either party notifies the other in writing of its intention not to renew.
+
+ARTICLE 3 - Oversight of Consulting Services and Contractual Authority
+
+The Company employees authorized to provide oversight and direction of the Consultant's efforts and services within the scope of Exhibit A, Statement of Work, are Chief Executive Officer, and/or such other person as may hereafter be designated in writing by the Chief Executive officer of the Company. Such authority on the part of the above named individuals does not extend to actual or constructive amendments or changes to this Agreement or to other contractual approvals required hereunder, except where expressly provided.
+
+ARTICLE 4 - Compensation, Billing and Payment
+
+In consideration for the services to be rendered for the benefit of and accepted by Company under this Agreement, the Consultant will receive the remuneration in accordance with the schedule set forth in Exhibit B, attached hereto, which will constitute the entire compensation (inclusive of all overhead, profit, and expenses) to the Consultant for the services rendered under this Agreement. The Consultant will submit statements to the Company on a monthly basis.
+
+ARTICLE 5 - Entire Agreement
+
+This Agreement (including all exhibits hereto) constitutes the entire understanding and agreement between Company and the Consultant with respect to the subject matter hereof, and supersedes all prior negotiations, representations or agreements, either oral or written. No modification, recission, waiver or termination of this Agreement, or any of its terms and conditions, shall be binding on Company, unless agreed to in writing by the president of Company.
+
+ARTICLE 6 - Performance
+
+If the Consultant fails in any respect to prosecute the work and services with promptness or diligence, Company may terminate this Agreement for cause in part or in its entirety without any liability for the terminated part(s).
+
+ARTICLE 7 - Independent Contractor Relationship
+
+The Consultant is an independent contractor of Company and, except to the extent specified in this Agreement, Company may not control or direct the details and means by which Consultant performs its duties under this Agreement. This Agreement shall not create the relationship of employer and employee, a partnership or a joint venture. Neither the Consultant nor Company shall be deemed an agent of the other on account of this Agreement or the performance of any of their obligations hereunder. The Consultant does not have any authority to bind Company to any agreement or contract.
+
+ARTICLE 8 - Assignment
+
+Consultant may not assign or transfer this Agreement, any rights hereunder, nor any payment due or to become due hereunder. Any such assignment(s) or attempt at any such assignment is void and not binding upon Company. The Consultant acknowledges that this Agreement is one for personal services for the benefit of Company and is therefore not assignable in whole or in part.
+
+ARTICLE 9 - Access To Work
+
+Company shall, at all reasonable times, have free access to the services and facilities of the Consultant and its subcontractors for purposes of inspecting same and determining that the work and services are being performed in accordance with the terms of this Agreement. Further, the Company shall be entitled to request copies of all financial records prepared by Consultant in the pursuit of the Consulting Services.
+
+ARTICLE 10 - Compliance with The Law
+
+The Consultant will comply with all applicable federal, state and local laws, rules and regulations.
+
+ARTICLE 11 - Applicable Law
+
+The rights and obligations arising from this Agreement are governed by the laws of the state of California.
+
+ARTICLE 12 - Taxes
+
+Any and all taxes applicable to the performance of the Consultant hereunder and its incurrence of cost therefor are included in the Consultant's fee payable hereunder (except as otherwise expressly provided herein) and that the Consultant is wholly responsible for the necessary filing of income tax returns to the proper taxing authorities and for payment of all such taxes. The Consultant is wholly responsible for withholding and payment of all federal, state and local taxes of whatever nature.
+
+ARTICLE 13 - Warranty
+
+The Consultant will perform the services under this Agreement using the Consultant's best skill, diligence and attention and warrants that the services shall be performed with that degree of skill, care, and judgment customarily accepted as sound, quality, professional practice and procedure in the field or discipline represented by the Consultant.
+
+ARTICLE 14 - Ownership Of Work Product
+
+All technical data, correspondence, and other work of the Consultant hereunder produced under or pursuant to this Agreement is and will at all times remain the property of Company and are to be delivered to Company when so requested. In addition, upon the expiration or termination (regardless of the reason for termination) of this Agreement, the Consultant shall deliver to Company any and all drawings, notes, memoranda, specifications and documents in the Consultant's possession or control relating to the performance by the Consultant of its obligations hereunder or relating to any Third Party Information or Company's Information, excluding computer software owned by Consultant and used in connection with the performance of its duties hereunder.
+
+ARTICLE 15 - Dissemination of Work Product
+
+Use, publication or teaching of information directly derived from work and services performed, or data obtained in connection with the work and services rendered under this Agreement other than for Company's benefit is prohibited unless expressly approved in writing by Company, which approval Company may withhold in its sole and absolute discretion.
+
+ARTICLE 16 - Cumulative Remedies
+
+Every right or remedy herein conferred upon or reserved to Company is cumulative and in addition to every right and remedy now or hereafter existing at law or in equity, and the pursuit of any right or remedy shall not be construed as an election.
+
+ARTICLE 17 - Force Majeure
+
+Any delay in, or failure of performance of either party does not constitute default hereunder or give rise to any claim for damage if and to the extent such delay or failure is caused by occurrences beyond the control of the party affected and which by the exercise of reasonable diligence, such party is unable to prevent, including but not limited to, acts of God or the public enemy, expropriation or confiscation of facilities or compliance with any order or request of a governmental authority affecting to a degree not presently existing, the supply, availability, or use of materials or labor, acts of war public disorders, rebellion or sabotage, floods, riots or strikes. A party which is prevented from performing for any reason shall immediately notify the other party, in writing, of the cause for such nonperformance, and the anticipated extent of the delay. The Consultant is not entitled to any additional compensation as a result of force majeure that may delay the Consultant's performance of services under this Agreement.
+
+ARTICLE 18 - Confidentiality
+
+The Consultant shall keep all work and services carried out hereunder for Company and all trade secrets, data and other proprietary information of Company, including all information gathered or becoming known to the Consultant arising out or in connection with the services performed under this Agreement, (collectively, "Company's Information") entirely confidential, and not use, publish, or make known, without Company's written approval, any of Company's Information or any other information developed by the Consultant or furnished by Company to any persons other than personnel of the parties of this Agreement. However, the foregoing obligations of confidentiality, secrecy and nonuse do not apply to any information that was in the Consultant's possession prior to commencement of work under this Agreement, or which is available to the general public in a printed publication and provided further that the foregoing obligation in no way limits the Consultant's internal use of any such work.
+
+Any public statements or publicity regarding Company or its business are to be made solely by Company, and any requests for information made to the Consultant by the news media, or others, are to be referred to Company. Additionally, the Consultant shall not reference Company nor the work performed for Company (including, but not limited to, listing Company as a customer of the Consultant on a resume or other marketing materials) without prior written approval by Company.
+
+The Consultant understands, in addition, that Company may receive from third parties confidential or proprietary information ("Third Party Information") subject to a duty on Company's part to maintain the confidentiality of such information and to use it only for certain limited purposes. The Consultant agrees to hold any Third Party Information in the strictest confidence and will not disclose to anyone other than Company personnel, or use except in connection with any work to be performed by the Consultant for Company, any Third Party Information unless expressly authorized by an officer of Company in writing.
+
+ARTICLE 19 - Changes and/or Amendments
+
+Company shall have the right, from time to time during the term of this Agreement, by written notice to the Consultant, to make changes to the work and services covered by this Agreement and described on Exhibit A attached hereto, including the right to expand, decrease or limit the scope and nature of the work and services to be undertaken, or to redirect work and services already in progress. In the event changes are made to Exhibit A and are material, the parties shall negotiate in good faith to amend the fees and compensation to reflect the changes and to amend Exhibit B attached hereto with the new fee schedule.
+
+ARTICLE 20 - Audit
+
+The Consultant shall, at its own expense, keep and maintain complete records and books of account of its costs and expenses relating to the work and services in accordance with generally accepted accounting practices. Should a dispute arise between Company and the Consultant regarding amounts and/or credits under this Agreement, the Consultant hereby grants Company permission to audit, at reasonable times, and at its expense, such records and books of account at the Consultant's usual place of business.
+
+ARTICLE 21 - Waiver
+
+In the event Company fails to insist on performance of any of the terms and conditions, or fails to exercise any of its rights or privileges hereunder, such failure shall not constitute a waiver of such terms, conditions, rights or privileges.
+
+ARTICLE 22 - Termination For Convenience
+
+Company or the Consultant, upon 14 days prior written notice to the other, may terminate this Agreement, or any part hereof, for the sole convenience of Company or the Consultant. Upon receipt of written notification from the terminating party that this Agreement, or any part hereof, is to be terminated, the Consultant shall immediately cease operation of the work and services stipulated, and assemble all material that has been prepared, developed, furnished or obtained under the provisions of this Agreement that may be in its possession or custody, and shall transmit the same to Company on or before the fourteenth day following the receipt or delivery by the Consultant, as the case may be, of the above written notice of termination, together with its invoice of the fees due for completed work and/or services as outlined in Exhibit A of this Agreement.
+
+ARTICLE 23 - Indemnification
+
+The Company shall defend, indemnify and hold Consultant free and harmless from and against any and all claims, losses, demands, causes of action, suits or other litigation (including attorney's fees and all other costs thereof) of every kind and character, including, but not limited to damages or loss from bodily injuries, death, damage to tangible or intangible property in any way occurring incident to, arising out of or in connection with the work and services performed or to be performed for the Company hereunder.
+
+ARTICLE 24 - Insurance
+
+Insurance appropriate to work performed, in accord with standards for the field or discipline, and acceptable to Company, including worker's compensation, if applicable, shall be maintained at all times by the Consultant, at its own expense, during performance of the Agreement. At a minimum, the Consultant shall carry at its own cost and expense comprehensive general liability insurance with a minimum limitation of liability of $1,000,000.
+
+ARTICLE 25 - Electronic Reproduction of Agreement
+
+The parties agree that a scanned or electronically reproduced copy or image of this fully executed Agreement is to be deemed an original and may be introduced or submitted in any action or proceeding as competent evidence of the execution, terms and existence hereof notwithstanding the failure or inability to produce or tender an original, fully executed version of this Agreement and without the requirement that the unavailability of such original of this Agreement first be proven.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Consulting Agreement as of the date first set forth above:
+
+Aargo Inc.                              POWRTEC INTERNATIONAL CORP.
+By: /s/ Simon Westbrook                 By: /s/ Grant Jasmin
+Name: Simon Westbrook                   Name: Grant Jasmin
+Title: CEO Aargo, Inc.                  Title: CEO POWRtec International Corp.
+
+Exhibit A - Statement of Work:
+- Provision of financial services in support of the Company including preparation, drafting and filing of statutory documents such as 10Q, 10K
+- Assumption of the role of CFO of the Company
+- Review and supervision of financial records, processes and procedures
+- Development of financial models, forecasts and reports
+
+Exhibit B - Compensation and Payment Terms:
+- Consultant shall bill actual hours worked, not to exceed 30 hours per calendar month
+- Cash rate: $150 per hour, billed monthly, paid within 15 days
+- Alternative: Fully-paid shares at $200 per hour by mutual agreement
+- Reimbursement for out-of-pocket expenses up to $100/month with prior approval

@@ -1,0 +1,157 @@
+PROBATIONARY EMPLOYMENT AGREEMENT
+
+This Probationary Employment Agreement ("Agreement") is entered into as of March 1, 2026, by and between Harborview Financial Services, LLC, an Illinois limited liability company, with offices at 233 South Wacker Drive, Suite 5400, Chicago, Illinois 60606 ("Employer"), and Daniel K. Okafor, an individual residing at 1540 North State Parkway, Apartment 12C, Chicago, Illinois 60610 ("Employee").
+
+WHEREAS, the Employer wishes to employ the Employee subject to the successful completion of a probationary period, and the Employee desires to accept such employment;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the parties agree as follows:
+
+1. POSITION AND DUTIES
+
+1.1 Position. The Employer hereby employs the Employee as a Financial Analyst in the Employer's Risk Management Division. The Employee shall perform such duties as are customarily associated with the position and as may be assigned by the Employee's supervisor.
+
+1.2 Duties. The Employee's responsibilities shall include but not be limited to: (a) performing quantitative risk analysis and financial modeling; (b) preparing risk assessment reports for senior management; (c) monitoring portfolio risk exposures and market conditions; (d) developing and maintaining risk metrics and dashboards; (e) conducting stress testing and scenario analysis; (f) collaborating with trading desks and portfolio managers on risk-related matters; and (g) ensuring compliance with internal risk policies and regulatory requirements.
+
+1.3 Reporting. The Employee shall report to the Vice President of Risk Management.
+
+2. PROBATIONARY PERIOD
+
+2.1 Duration. The Employee's employment shall be subject to a probationary period of ninety (90) days, commencing on the Start Date (as defined in Section 2.3) and ending on May 29, 2026 (the "Probationary Period").
+
+2.2 Purpose. The Probationary Period is intended to evaluate the Employee's suitability for the position, including the Employee's job performance, work quality, attendance, professional conduct, and compatibility with the Employer's work environment and culture.
+
+2.3 Start Date. The Employee's employment shall commence on March 1, 2026 ("Start Date").
+
+2.4 Evaluation. The Employee shall receive a formal performance evaluation at the midpoint (approximately forty-five (45) days) and at the conclusion of the Probationary Period. Evaluations shall be conducted by the Employee's direct supervisor and shall assess the Employee's performance against the criteria set forth in Exhibit A.
+
+2.5 Extension. The Employer reserves the right to extend the Probationary Period for an additional thirty (30) days if the Employer determines that additional time is needed to adequately assess the Employee's performance. The Employee shall be notified in writing of any extension.
+
+2.6 Completion. Upon successful completion of the Probationary Period, the Employee shall transition to regular employment status, subject to the terms and conditions of the Employer's standard employment policies. Successful completion shall be confirmed in writing by the Employer.
+
+2.7 Failure to Complete. If the Employee does not successfully complete the Probationary Period, the Employer may terminate employment immediately without further obligation, except for payment of earned wages through the termination date.
+
+3. COMPENSATION DURING PROBATIONARY PERIOD
+
+3.1 Probationary Salary. During the Probationary Period, the Employee shall receive an annual base salary of Seventy-Eight Thousand Dollars ($78,000.00), payable bi-weekly in accordance with the Employer's standard payroll practices, less all applicable withholdings.
+
+3.2 Post-Probation Salary. Upon successful completion of the Probationary Period, the Employee's annual base salary shall be adjusted to Eighty-Five Thousand Dollars ($85,000.00), retroactive to the Start Date.
+
+[ANOMALY: Section 3.2 says the post-probation salary is "retroactive to the Start Date" but then Section 3.1 already specifies the probationary salary - this creates ambiguity about whether the Employee is actually owed back-pay for the difference ($7,000 annualized) for the probationary period, and it contradicts the notion of a lower "probationary salary"]
+
+3.3 Bonus Eligibility. The Employee shall not be eligible for any bonus or incentive compensation during the Probationary Period. Following successful completion of the Probationary Period, the Employee shall be eligible for the Employer's annual performance bonus program, with a target bonus of ten percent (10%) of base salary, pro-rated for the portion of the fiscal year following the Probationary Period.
+
+4. BENEFITS DURING PROBATIONARY PERIOD
+
+4.1 Health Insurance. The Employee shall be eligible to enroll in the Employer's group health insurance plan (medical, dental, and vision) beginning on the first day of the month following the Start Date. The Employer shall pay seventy percent (70%) of the monthly premium for individual coverage during the Probationary Period, increasing to eighty percent (80%) upon transition to regular employment.
+
+4.2 Retirement Plan. The Employee shall not be eligible to participate in the Employer's 401(k) retirement plan until the completion of the Probationary Period. Upon eligibility, the Employer shall provide a matching contribution of up to three percent (3%) of the Employee's eligible compensation.
+
+4.3 Paid Time Off. During the Probationary Period, the Employee shall accrue paid time off at a rate of 0.625 days per bi-weekly pay period (approximately ten (10) days annualized). Upon transition to regular employment, the accrual rate shall increase to 0.9375 days per bi-weekly pay period (approximately fifteen (15) days annualized). PTO may not be used during the first thirty (30) days of employment except in case of emergency.
+
+4.4 Holidays. The Employee shall be entitled to observe all Employer-designated paid holidays during the Probationary Period.
+
+5. PERFORMANCE EXPECTATIONS
+
+5.1 Performance Standards. During the Probationary Period, the Employee shall be expected to demonstrate the following:
+
+(a) Technical Competency: Proficiency in quantitative analysis, financial modeling, and risk assessment methodologies appropriate for the position;
+
+(b) Quality of Work: Accuracy, thoroughness, and attention to detail in all deliverables;
+
+(c) Timeliness: Consistent ability to meet deadlines and manage multiple priorities;
+
+(d) Communication: Effective written and verbal communication skills, including the ability to present complex information clearly to various audiences;
+
+(e) Teamwork: Ability to work collaboratively with colleagues and contribute positively to the team environment;
+
+(f) Initiative: Demonstration of self-motivation, problem-solving ability, and willingness to take on additional responsibilities;
+
+(g) Attendance and Punctuality: Regular attendance and adherence to the Employer's work schedule;
+
+(h) Compliance: Adherence to all Employer policies, procedures, and regulatory requirements.
+
+5.2 Feedback. The Employee's supervisor shall provide regular feedback throughout the Probationary Period to support the Employee's development and success.
+
+6. CONFIDENTIALITY
+
+6.1 The Employee acknowledges that during employment, the Employee will have access to confidential and proprietary information, including financial data, trading strategies, risk models, client information, and business plans ("Confidential Information"). The Employee agrees to maintain the confidentiality of all such information during and after employment.
+
+6.2 The Employee shall not remove, copy, or transmit any Confidential Information from the Employer's premises or systems without prior authorization.
+
+6.3 Upon termination, the Employee shall return all Employer property and Confidential Information in the Employee's possession.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 All work product, including models, analyses, reports, software, and other materials created by the Employee in the course of employment shall be the sole property of the Employer.
+
+7.2 The Employee assigns to the Employer all rights in any work product created during the course of employment related to the Employer's business.
+
+8. NON-SOLICITATION
+
+8.1 During employment and for a period of twelve (12) months following termination, the Employee shall not directly or indirectly solicit or recruit any employee of the Employer.
+
+8.2 During employment and for twelve (12) months following termination, the Employee shall not solicit the business of any client of the Employer with whom the Employee had material contact.
+
+9. TERMINATION DURING PROBATIONARY PERIOD
+
+9.1 Employer Termination. The Employer may terminate the Employee's employment at any time during the Probationary Period, with or without cause, upon five (5) days' written notice or payment in lieu of notice. No severance shall be payable upon termination during the Probationary Period.
+
+9.2 Employee Termination. The Employee may resign at any time during the Probationary Period upon five (5) days' written notice.
+
+9.3 Immediate Termination. The Employer may terminate employment immediately, without notice, during the Probationary Period if the Employee: (a) engages in misconduct or dishonesty; (b) violates the confidentiality provisions of this Agreement; (c) violates Employer policies; (d) is convicted of a criminal offense; or (e) fails to meet minimum performance expectations as determined by the Employer.
+
+[ANOMALY: No termination provisions for post-probationary period. The contract specifies termination procedures during probation but is completely silent on what happens after the Employee transitions to regular employment - no severance, no notice period, no cause definition for regular employment termination.]
+
+10. POST-PROBATION EMPLOYMENT
+
+10.1 Upon successful completion of the Probationary Period, the Employee shall become a regular full-time employee of the Employer, subject to the Employer's standard employment policies and procedures.
+
+10.2 The Employee acknowledges that completion of the Probationary Period does not guarantee continued employment for any specific duration. Employment following the Probationary Period remains at-will.
+
+11. COMPLIANCE AND REGULATORY
+
+11.1 The Employee shall comply with all applicable laws, regulations, and industry standards, including those promulgated by the Securities and Exchange Commission, the Financial Industry Regulatory Authority, and other applicable regulatory bodies.
+
+11.2 The Employee shall promptly disclose to the Employer any regulatory inquiries, investigations, or proceedings in which the Employee is or becomes involved.
+
+11.3 Background Check. The Employee's continued employment is contingent upon the satisfactory completion of a background check, including criminal history, credit history, and verification of educational credentials and prior employment. The Employer shall initiate the background check within five (5) business days of the Start Date.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the Employee's employment.
+
+12.2 Amendments. This Agreement may be amended only by written agreement signed by both parties.
+
+12.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.
+
+12.4 Severability. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+12.5 Notices. All notices required under this Agreement shall be in writing and delivered to the addresses specified herein.
+
+12.6 Waiver. The failure of either party to enforce any provision shall not constitute a waiver of the right to enforce such provision in the future.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EMPLOYER:
+Harborview Financial Services, LLC
+
+By: ___________________________________
+Name: Katherine M. Brennan
+Title: Director of Human Resources
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Daniel K. Okafor
+Date: _________________________________
+
+EXHIBIT A - PROBATIONARY PERIOD PERFORMANCE CRITERIA
+
+1. Successful completion of the Risk Management Division onboarding program
+2. Demonstrated proficiency in the Employer's risk analysis platforms (RiskMetrics, Bloomberg Terminal, internal proprietary tools)
+3. Independent completion of at least two (2) risk assessment reports meeting quality standards
+4. Positive feedback from supervisor and team members on collaboration and communication
+5. Full compliance with all Employer policies and regulatory requirements
+6. Consistent attendance and punctuality
+7. Satisfactory scores on the mid-point and final performance evaluations (minimum rating of 3 out of 5 on all criteria)

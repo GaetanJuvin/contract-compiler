@@ -1,0 +1,192 @@
+INFORMATION TECHNOLOGY PROCUREMENT AGREEMENT
+
+Contract No.: ITP-2025-0561
+Date: December 1, 2025
+
+This Information Technology Procurement Agreement ("Agreement") is entered into by and between:
+
+CUSTOMER: Lakewood Regional Health System, a not-for-profit corporation organized under the laws of the State of Ohio, with its principal administrative office at 6000 Lakewood Boulevard, Cleveland, OH 44107 ("Customer")
+
+VENDOR: Pinnacle Technology Solutions, Inc., a Virginia corporation, with its principal office at 12100 Sunset Hills Road, Suite 800, Reston, VA 20190 ("Vendor")
+
+RECITALS
+
+WHEREAS, Customer is a multi-facility health system comprising four hospitals, twelve outpatient clinics, and associated administrative offices, and requires information technology hardware, software, and related services to support its clinical and administrative operations;
+
+WHEREAS, Vendor is a value-added reseller and technology integrator specializing in healthcare IT solutions; and
+
+WHEREAS, Customer desires to procure certain IT equipment and services from Vendor as more particularly described herein;
+
+NOW, THEREFORE, in consideration of the mutual agreements herein, the Parties agree as follows:
+
+ARTICLE 1 - SCOPE
+
+1.1 Products. Vendor shall provide to Customer the information technology hardware, software licenses, and related components described in Exhibit A (collectively, "Products"), including but not limited to:
+    (a) Server infrastructure (rack-mount and blade servers)
+    (b) Enterprise storage systems and backup appliances
+    (c) Network switches, routers, and wireless access points
+    (d) Desktop computers, laptops, and thin clients
+    (e) Medical-grade monitors and peripherals
+    (f) Software licenses for operating systems, virtualization, and management tools
+
+1.2 Services. Vendor shall provide the professional services described in Exhibit B ("Services"), including:
+    (a) Site survey and infrastructure assessment
+    (b) Equipment staging, configuration, and deployment
+    (c) Network installation and cabling
+    (d) Data migration and system integration
+    (e) End-user training
+    (f) Post-deployment support
+
+1.3 Statement of Work. The detailed scope, deliverables, milestones, and timeline for each project phase are set forth in the Statement of Work attached as Exhibit C ("SOW"). The SOW may be amended by mutual written agreement.
+
+ARTICLE 2 - ORDERING AND DELIVERY
+
+2.1 Purchase Orders. Customer shall issue purchase orders referencing this Agreement for each procurement of Products and/or Services. Each purchase order shall specify the items, quantities, prices, delivery dates, and ship-to locations.
+
+2.2 Lead Times. Standard lead times for Products are set forth in Exhibit A. Vendor shall use commercially reasonable efforts to meet or improve upon stated lead times. Vendor shall notify Customer immediately of any anticipated delays exceeding five (5) business days.
+
+2.3 Delivery. Unless otherwise specified, Products shall be delivered DDP (Incoterms 2020) Customer's designated facility. Vendor shall coordinate delivery schedules with Customer's IT department and facilities management to minimize disruption to clinical operations.
+
+2.4 Staging and Configuration. Where specified in the SOW, Vendor shall pre-stage and configure Products at Vendor's facility prior to delivery. Configuration shall include BIOS settings, operating system installation, network configuration, security hardening, and asset tagging per Customer's standards.
+
+2.5 Acceptance Testing. Customer shall conduct acceptance testing of all Products and Services within twenty (20) business days of delivery or completion ("Acceptance Period"). Customer shall notify Vendor of any deficiencies within the Acceptance Period. Products and Services not rejected within the Acceptance Period shall be deemed accepted.
+
+ARTICLE 3 - PRICING AND PAYMENT
+
+3.1 Product Pricing. The prices for Products are set forth in Exhibit A. All prices include delivery and pre-staging services.
+
+3.2 Service Rates. Professional services shall be billed at the hourly or fixed-fee rates set forth in Exhibit B. Travel and expenses shall be reimbursed at actual cost in accordance with Customer's travel policy.
+
+3.3 Volume Discounts. The following volume discounts shall apply to Product purchases:
+    (a) $0 - $500,000: List price less 22%
+    (b) $500,001 - $1,500,000: List price less 28%
+    (c) $1,500,001 - $3,000,000: List price less 33%
+    (d) Over $3,000,000: List price less 37%
+
+3.4 Payment Terms. Customer shall pay all undisputed invoices within forty-five (45) days of receipt of a conforming invoice. Vendor shall submit invoices upon delivery and acceptance of Products, or upon completion of Service milestones as defined in the SOW.
+
+3.5 Tax Exemption. Customer is a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. Customer shall provide a copy of its tax exemption certificate. Vendor shall not charge sales tax on purchases by Customer.
+
+ARTICLE 4 - WARRANTIES
+
+4.1 Product Warranties. Vendor warrants that all Products shall be new, genuine, and in original manufacturer packaging unless otherwise specified. Products shall carry the original manufacturer's warranty. Vendor shall assist Customer in processing warranty claims with the manufacturer.
+
+4.2 Service Warranty. Vendor warrants that all Services shall be performed in a professional and workmanlike manner, consistent with industry standards. Any deficiencies in Services identified within ninety (90) days of completion shall be corrected by Vendor at no additional charge.
+
+4.3 Compatibility. Vendor warrants that all Products specified in the SOW shall be compatible with Customer's existing infrastructure as described in Exhibit D, and shall function as an integrated solution in accordance with the performance requirements set forth in the SOW.
+
+4.4 Software Licensing. Vendor warrants that all software licenses procured under this Agreement are genuine, properly authorized, and provide Customer with the usage rights required for its operations.
+
+ARTICLE 5 - SECURITY AND COMPLIANCE
+
+5.1 HIPAA Compliance. Vendor acknowledges that Customer is a Covered Entity under HIPAA. To the extent Vendor may access, receive, or create Protected Health Information ("PHI") in the course of performing under this Agreement, Vendor shall execute a Business Associate Agreement in the form attached as Exhibit E.
+
+5.2 Data Security. Vendor shall comply with Customer's Information Security Policy and shall implement appropriate technical and administrative safeguards to protect Customer's data and systems.
+
+5.3 Background Checks. All Vendor personnel who will have physical or electronic access to Customer's facilities or systems shall undergo background checks in accordance with Customer's credentialing requirements.
+
+5.4 Equipment Sanitization. Any equipment removed from Customer's facilities for repair or return shall be sanitized in accordance with NIST 800-88 guidelines prior to removal. Vendor shall certify sanitization in writing.
+
+ARTICLE 6 - SUPPORT AND MAINTENANCE
+
+6.1 Warranty Support. During the manufacturer warranty period, Vendor shall serve as the first point of contact for hardware support issues and shall facilitate warranty service with the manufacturer.
+
+6.2 Extended Maintenance. Customer may purchase extended maintenance and support services as described in Exhibit F. Extended maintenance agreements shall be quoted and executed separately as amendments to this Agreement.
+
+6.3 Response Times. For warranty support incidents, Vendor shall provide:
+    (a) Critical (system down): 2-hour response, 4-hour on-site if required
+    (b) High (significant impairment): 4-hour response, next business day on-site
+    (c) Medium (partial functionality): Next business day response
+    (d) Low (minor issue): 2 business day response
+
+6.4 Spare Parts. Vendor shall maintain a local depot of critical spare parts sufficient to support the response times set forth in Section 6.3.
+
+ARTICLE 7 - INTELLECTUAL PROPERTY
+
+7.1 Customer Data. All data, configurations, customizations, and documentation created specifically for Customer shall be the exclusive property of Customer.
+
+7.2 Vendor Tools. Vendor's pre-existing tools, methodologies, and templates shall remain Vendor's property. Vendor grants Customer a perpetual, non-exclusive license to use any such tools incorporated into deliverables.
+
+ARTICLE 8 - INDEMNIFICATION AND LIABILITY
+
+8.1 Vendor Indemnification. Vendor shall indemnify, defend, and hold harmless Customer from claims arising from: (a) defective Products; (b) Vendor's negligence or misconduct; (c) Vendor's breach of this Agreement; (d) IP infringement claims; or (e) data breaches caused by Vendor.
+
+8.2 Customer Indemnification. Customer shall indemnify Vendor from claims arising from Customer's negligence or misuse of Products in a manner inconsistent with documented specifications.
+
+8.3 Limitation of Liability. EXCEPT FOR INDEMNIFICATION OBLIGATIONS AND BREACHES OF CONFIDENTIALITY OR DATA SECURITY, NEITHER PARTY'S TOTAL LIABILITY SHALL EXCEED THE TOTAL AMOUNTS PAID OR PAYABLE UNDER THIS AGREEMENT IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+
+ARTICLE 9 - CONFIDENTIALITY
+
+9.1 Each Party shall protect the other's confidential information with the same degree of care it uses for its own confidential information, but no less than reasonable care.
+
+9.2 Vendor acknowledges that Customer's network architecture, security configurations, and patient data are highly sensitive and shall be treated as confidential.
+
+9.3 Confidentiality obligations shall survive for five (5) years following termination.
+
+ARTICLE 10 - INSURANCE
+
+10.1 Vendor shall maintain: (a) CGL: $2,000,000 per occurrence, $5,000,000 aggregate; (b) Professional Liability/E&O: $5,000,000; (c) Cyber Liability: $5,000,000; (d) Workers' Compensation: as required by law; and (e) Commercial Auto: $1,000,000.
+
+10.2 Vendor shall name Customer as an additional insured and shall provide certificates of insurance prior to commencing work.
+
+ARTICLE 11 - TERM AND TERMINATION
+
+11.1 Term. This Agreement shall be effective for three (3) years from the date hereof, with automatic renewal for one (1) year terms unless either Party provides ninety (90) days' written notice of non-renewal.
+
+11.2 Termination for Cause. Either Party may terminate upon thirty (30) days' written notice for material breach that remains uncured.
+
+11.3 Termination for Convenience. Customer may terminate for convenience upon sixty (60) days' notice. Customer shall pay for all Products delivered, Services performed, and non-cancellable orders placed prior to the termination date.
+
+11.4 Transition Assistance. Upon termination, Vendor shall provide reasonable transition assistance for a period of up to ninety (90) days, at Vendor's then-current service rates.
+
+ARTICLE 12 - GENERAL PROVISIONS
+
+12.1 Governing Law. This Agreement shall be governed by the laws of the State of Ohio.
+
+12.2 Dispute Resolution. Disputes shall be resolved by mediation in Cleveland, Ohio, followed by litigation in the courts of Cuyahoga County if mediation fails.
+
+12.3 Force Majeure. Neither Party shall be liable for delays due to events beyond its reasonable control, including supply chain disruptions, semiconductor shortages, and pandemic-related restrictions.
+
+12.4 Compliance with Laws. Vendor shall comply with all applicable laws, including healthcare regulations, export controls, and anti-kickback statutes.
+
+12.5 Entire Agreement. This Agreement and all Exhibits constitute the entire agreement.
+
+12.6 Amendments. Amendments must be in writing and signed by authorized representatives of both Parties.
+
+12.7 Severability. Invalid provisions shall be severed without affecting the validity of the remaining provisions.
+
+12.8 Notices. All notices shall be in writing and delivered to the addresses stated above.
+
+IN WITNESS WHEREOF:
+
+LAKEWOOD REGIONAL HEALTH SYSTEM
+
+By: ___________________________
+Name: Dr. Margaret S. Aldridge
+Title: Chief Information Officer
+Date: December 1, 2025
+
+PINNACLE TECHNOLOGY SOLUTIONS, INC.
+
+By: ___________________________
+Name: Thomas A. Brennan
+Title: VP, Healthcare Division
+Date: December 1, 2025
+
+EXHIBIT A - PRODUCTS AND PRICING
+[To be attached]
+
+EXHIBIT B - SERVICES AND RATES
+[To be attached]
+
+EXHIBIT C - STATEMENT OF WORK
+[To be attached]
+
+EXHIBIT D - CUSTOMER EXISTING INFRASTRUCTURE
+[To be attached]
+
+EXHIBIT E - BUSINESS ASSOCIATE AGREEMENT
+[To be attached]
+
+EXHIBIT F - EXTENDED MAINTENANCE OPTIONS
+[To be attached]

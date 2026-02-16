@@ -1,0 +1,162 @@
+FINANCIAL SERVICES NON-DISCLOSURE AGREEMENT
+
+[ANOMALY: This NDA has an extremely broad scope where essentially everything is deemed confidential with very narrow exceptions, contains contradictory governing law clauses (Section 10.1 says New York, Section 10.3 says the laws of England and Wales for certain disputes), and is missing a compelled disclosure / legal process carve-out entirely.]
+
+This Financial Services Non-Disclosure Agreement ("Agreement") is entered into effective as of April 1, 2026 (the "Effective Date"),
+
+BETWEEN:
+
+First Party: Blackstone Ridge Capital Management, LP, a Delaware limited partnership, with principal offices at 345 Park Avenue, 31st Floor, New York, NY 10154 ("BRCM");
+
+Second Party: Sovereign Wealth Advisory Services, Ltd., a company incorporated under the laws of the Cayman Islands, with registered offices at P.O. Box 309, Ugland House, George Town, Grand Cayman, KY1-1104, Cayman Islands ("SWAS");
+
+(each a "Party" and collectively the "Parties").
+
+RECITALS
+
+A. BRCM is a global alternative asset management firm with expertise in private equity, real estate, credit, and hedge fund strategies.
+
+B. SWAS provides investment advisory and fund-of-funds management services to sovereign wealth funds, central banks, and government-affiliated investment entities.
+
+C. The Parties wish to explore a potential co-investment arrangement, fund placement relationship, or joint venture (the "Proposed Arrangement") and, in furtherance thereof, may exchange certain confidential financial, commercial, and strategic information.
+
+D. The Parties desire to establish the terms under which such information shall be exchanged and protected.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, the Parties agree:
+
+1. CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means all information and materials, in whatever form, exchanged between the Parties in connection with the Proposed Arrangement, including without limitation:
+
+   (a) Fund performance data, track records, attribution analyses, and risk metrics;
+   (b) Investment strategies, methodologies, models, algorithms, and proprietary trading signals;
+   (c) Portfolio holdings, positions, transactions, and allocation strategies;
+   (d) Fund terms, fee structures, carried interest arrangements, and waterfall provisions;
+   (e) Limited partner and investor identities, capital commitments, and subscription agreements;
+   (f) Due diligence questionnaires, operational assessments, and compliance reports;
+   (g) Financial statements, tax returns, audit reports, and regulatory filings;
+   (h) Deal pipelines, co-investment opportunities, and term sheets;
+   (i) Organizational structures, key personnel information, and succession plans;
+   (j) Technology infrastructure, cybersecurity assessments, and disaster recovery plans;
+   (k) Legal proceedings, regulatory investigations, and compliance matters;
+   (l) Any and all communications between the Parties, including emails, meeting notes, and call summaries;
+   (m) The existence of the Proposed Arrangement and the discussions between the Parties; and
+   (n) Any information that is disclosed, observed, or otherwise made available by one Party to the other in any context related to the Proposed Arrangement.
+
+1.2 All information exchanged between the Parties shall be deemed Confidential Information unless the disclosing Party expressly designates it in writing as non-confidential at the time of disclosure.
+
+2. EXCEPTIONS
+
+2.1 The obligations of confidentiality shall not apply to information that:
+
+   (a) Was in the public domain at the time of disclosure; or
+   (b) Enters the public domain after disclosure through no fault of the Receiving Party.
+
+2.2 For the avoidance of doubt, the exceptions in Section 2.1 shall be narrowly construed, and the burden of establishing that an exception applies shall rest with the Party asserting the exception.
+
+3. OBLIGATIONS
+
+3.1 Each Party shall hold all Confidential Information in the strictest confidence and shall not disclose any Confidential Information to any third party except as expressly permitted herein.
+
+3.2 Each Party shall use the Confidential Information solely for the purpose of evaluating and, if agreed, implementing the Proposed Arrangement.
+
+3.3 Each Party shall protect the Confidential Information with the highest degree of care and shall implement robust administrative, technical, and physical safeguards to prevent unauthorized access, use, or disclosure.
+
+3.4 Each Party may disclose Confidential Information only to its employees, officers, directors, partners, members, and professional advisors (collectively, "Authorized Representatives") who (i) have a direct need to know, (ii) have been informed of the confidential nature of the information, and (iii) are bound by confidentiality obligations at least as restrictive as those in this Agreement.
+
+3.5 Each Party shall maintain a log of all Authorized Representatives who receive access to the other Party's Confidential Information and shall make such log available to the other Party upon request.
+
+3.6 Each Party shall be liable for any breach of this Agreement by its Authorized Representatives.
+
+4. SECURITIES LAW COMPLIANCE
+
+4.1 Each Party acknowledges that the Confidential Information may include material non-public information ("MNPI") as defined under applicable securities laws and regulations.
+
+4.2 Each Party agrees that it shall not, and shall cause its Authorized Representatives not to, trade in any securities or financial instruments based on or while in possession of MNPI received from the other Party, in compliance with all applicable insider trading laws and regulations.
+
+4.3 Each Party shall implement and maintain policies and procedures designed to prevent the misuse of MNPI, including the establishment of information barriers (Chinese walls) as appropriate.
+
+5. REGULATORY COMPLIANCE
+
+5.1 Each Party represents and warrants that it is in compliance with all applicable laws, regulations, and rules, including but not limited to:
+
+   (a) The Securities Act of 1933 and the Securities Exchange Act of 1934;
+   (b) The Investment Advisers Act of 1940;
+   (c) The Dodd-Frank Wall Street Reform and Consumer Protection Act;
+   (d) Anti-money laundering laws and regulations, including the Bank Secrecy Act and the USA PATRIOT Act;
+   (e) The Foreign Corrupt Practices Act and the UK Bribery Act 2010;
+   (f) Economic sanctions programs administered by OFAC and equivalent non-U.S. authorities; and
+   (g) All applicable data privacy and protection laws.
+
+6. TERM
+
+6.1 This Agreement shall remain in effect for a period of five (5) years from the Effective Date.
+
+6.2 The confidentiality obligations shall survive the termination or expiration of this Agreement for a period of five (5) years, provided that obligations relating to trade secrets shall continue for as long as the information qualifies as a trade secret under applicable law.
+
+7. RETURN AND DESTRUCTION
+
+7.1 Upon the written request of either Party, or upon the termination or expiration of this Agreement, the Receiving Party shall, at the Disclosing Party's election:
+
+   (a) Return all Confidential Information in tangible form to the Disclosing Party; or
+   (b) Destroy all Confidential Information in any form and provide a written certificate of destruction executed by an authorized officer.
+
+7.2 The Receiving Party may retain copies of Confidential Information solely to the extent required by applicable law, regulation, or internal compliance policies, provided that such retained copies remain subject to the confidentiality obligations of this Agreement.
+
+8. REMEDIES
+
+8.1 Each Party acknowledges that a breach of this Agreement may result in irreparable harm to the other Party.
+
+8.2 In addition to all remedies available at law or in equity, the non-breaching Party shall be entitled to seek injunctive relief, specific performance, and other equitable remedies without the requirement of posting a bond or other security.
+
+8.3 The breaching Party shall indemnify and hold harmless the non-breaching Party from all losses, damages, costs, and expenses (including reasonable legal fees) arising from the breach.
+
+8.4 In the event of a breach resulting in unauthorized disclosure of investor identities or fund performance data, the breaching Party shall pay liquidated damages in the amount of five million US dollars ($5,000,000) per occurrence, which the Parties agree represents a reasonable estimate of the anticipated harm and is not a penalty.
+
+9. NO OBLIGATION
+
+9.1 Neither Party is obligated to enter into the Proposed Arrangement or any other agreement.
+
+9.2 Neither Party makes any representation or warranty regarding the accuracy or completeness of any Confidential Information.
+
+10. GOVERNING LAW AND DISPUTE RESOLUTION
+
+10.1 This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws principles.
+
+10.2 The Parties consent to the exclusive jurisdiction of the state and federal courts located in the Borough of Manhattan, City of New York, for any dispute arising under this Agreement.
+
+10.3 Notwithstanding Section 10.1, any dispute involving SWAS's obligations under Sections 3, 4, or 5 of this Agreement shall be governed by the laws of England and Wales, and shall be resolved by arbitration under the London Court of International Arbitration (LCIA) Rules in London, England.
+
+11. GENERAL PROVISIONS
+
+11.1 Entire Agreement. This Agreement supersedes all prior agreements and understandings between the Parties regarding the subject matter hereof.
+
+11.2 Amendment. No amendment shall be effective unless in writing and signed by both Parties.
+
+11.3 Severability. Invalid provisions shall be modified to the minimum extent necessary to be enforceable.
+
+11.4 Waiver. No waiver of any right shall be effective unless in writing.
+
+11.5 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+11.6 Notices. All notices shall be in writing and delivered to the addresses set forth above by certified mail, overnight courier, or confirmed email.
+
+11.7 Counterparts. This Agreement may be executed in counterparts.
+
+11.8 No Partnership. Nothing herein creates a partnership, joint venture, or agency relationship.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+BLACKSTONE RIDGE CAPITAL MANAGEMENT, LP
+
+By: ___________________________
+Name: Theodore K. Vanderbilt III
+Title: Managing Director & General Counsel
+Date: ___________________________
+
+SOVEREIGN WEALTH ADVISORY SERVICES, LTD.
+
+By: ___________________________
+Name: Sheikh Abdullah Al-Rashid
+Title: Chief Investment Officer
+Date: ___________________________

@@ -1,0 +1,129 @@
+EMPLOYMENT AGREEMENT WITH NON-COMPETITION COVENANT
+
+This Employment Agreement ("Agreement") is entered into as of January 5, 2026, by and between Ironclad Pharmaceuticals, Inc., a New Jersey corporation, with its principal place of business at 200 Connell Drive, Suite 4000, Berkeley Heights, New Jersey 07922 ("Company"), and Dr. Priya S. Chandrasekaran, an individual residing at 14 Brookside Terrace, Summit, New Jersey 07901 ("Employee").
+
+RECITALS
+
+WHEREAS, the Company is engaged in the research, development, manufacturing, and commercialization of pharmaceutical products, and possesses valuable trade secrets, proprietary information, and business relationships; and
+
+WHEREAS, the Company desires to employ the Employee as Director of Clinical Research, and the Employee desires to accept such employment; and
+
+WHEREAS, in connection with such employment, the Employee will have access to the Company's most sensitive Confidential Information and trade secrets, and the Company requires the Employee to agree to certain restrictive covenants as a condition of employment;
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, including the Company's agreement to employ the Employee and to provide the Employee with access to Confidential Information, and for other good and valuable consideration, the parties agree as follows:
+
+1. EMPLOYMENT
+
+1.1 Position. The Company hereby employs the Employee as Director of Clinical Research, reporting to the Senior Vice President of Research and Development. The Employee shall be responsible for designing, managing, and overseeing clinical trials; ensuring regulatory compliance; managing relationships with clinical research organizations (CROs); and leading a team of clinical research professionals.
+
+1.2 Full-Time Commitment. The Employee shall devote her full professional time and attention to the performance of her duties. The Employee shall not engage in any other employment, consulting, or business activity without the prior written consent of the Company.
+
+2. COMPENSATION AND BENEFITS
+
+2.1 Base Salary. The Employee shall receive an annual base salary of One Hundred Ninety-Five Thousand Dollars ($195,000.00), payable bi-weekly in accordance with the Company's standard payroll practices.
+
+2.2 Annual Bonus. The Employee shall be eligible for an annual performance bonus of up to twenty-five percent (25%) of base salary, based on the achievement of individual and Company performance goals as determined by the Company.
+
+2.3 Benefits. The Employee shall be entitled to participate in standard benefits as may be made available to similarly situated employees from time to time.
+
+[ANOMALY: Ambiguous benefits language - "standard benefits" with no specifics on health insurance, retirement, PTO, or any other benefit details]
+
+2.4 Equity. Subject to Board approval, the Employee shall receive a stock option grant to purchase 10,000 shares of the Company's Common Stock under the Company's Equity Incentive Plan, vesting over four (4) years.
+
+3. CONFIDENTIALITY
+
+3.1 Definition. "Confidential Information" means all information, whether written, oral, electronic, or visual, relating to the Company's business that is not generally available to the public, including but not limited to: (a) trade secrets; (b) research data, clinical trial data, and scientific findings; (c) drug formulations, compounds, and synthesis processes; (d) regulatory filings and strategies; (e) manufacturing processes and quality control procedures; (f) patent applications and prosecution strategies; (g) business plans, financial information, and projections; (h) customer and vendor lists and relationships; (i) marketing and pricing strategies; (j) employee information; and (k) any information designated by the Company as confidential.
+
+3.2 Obligations. The Employee shall: (a) hold all Confidential Information in strict confidence; (b) not disclose Confidential Information to any third party without the Company's prior written consent; (c) use Confidential Information solely for the performance of duties; and (d) take all reasonable measures to protect the confidentiality of such information.
+
+3.3 Duration. The Employee's obligations under this Section 3 shall continue indefinitely for trade secrets and for a period of five (5) years following termination of employment for all other Confidential Information.
+
+3.4 Permitted Disclosures. Nothing in this Agreement shall prevent the Employee from: (a) disclosing information required by law, regulation, or court order, provided the Employee gives the Company reasonable advance notice; (b) reporting suspected violations of law to government agencies; or (c) making disclosures protected under applicable whistleblower statutes.
+
+4. NON-COMPETITION
+
+4.1 Non-Competition Covenant. During the term of employment and for a period following termination, the Employee shall not, directly or indirectly, whether as an employee, consultant, advisor, partner, officer, director, shareholder, or in any other capacity, engage in, be employed by, render services to, or have any ownership interest in any entity that is engaged in the research, development, manufacturing, marketing, or sale of pharmaceutical products or therapies that compete with or are similar to any products or therapies that the Company has developed, is developing, or has plans to develop.
+
+[ANOMALY: Asymmetric non-compete - no geographic limitation whatsoever (applies worldwide by implication) and no specific time limitation stated after "for a period following termination" - the duration is never defined, making it potentially indefinite and likely unenforceable]
+
+4.2 Scope. The restrictions set forth in Section 4.1 shall apply to all pharmaceutical therapeutic areas in which the Company has active programs, including but not limited to oncology, immunology, neurology, cardiovascular, and rare diseases.
+
+[ANOMALY: Extremely broad scope - covers essentially all major pharmaceutical therapeutic areas]
+
+4.3 Exception. Notwithstanding the foregoing, the Employee may own up to one percent (1%) of the outstanding shares of any publicly traded company without violating this Section 4.
+
+5. NON-SOLICITATION
+
+5.1 Non-Solicitation of Employees. During employment and for twenty-four (24) months following termination for any reason, the Employee shall not, directly or indirectly, recruit, solicit, hire, or attempt to recruit, solicit, or hire any employee, consultant, or independent contractor of the Company.
+
+5.2 Non-Solicitation of Business Partners. During employment and for twenty-four (24) months following termination, the Employee shall not, directly or indirectly, solicit, divert, or take away any customer, client, vendor, CRO, research partner, or business relationship of the Company with whom the Employee had material contact during the last twenty-four (24) months of employment.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 Assignment. The Employee agrees that all inventions, discoveries, improvements, formulations, compounds, processes, methods, data, analyses, reports, publications, software, and other work product conceived, created, developed, or reduced to practice by the Employee, alone or jointly with others, at any time during the Employee's employment with the Company, whether during or outside of working hours, and whether or not using Company resources, that relate in any way to the Company's business, actual or anticipated research, or the Employee's duties ("Inventions") shall be the sole and exclusive property of the Company.
+
+[ANOMALY: Overly broad IP clause - "at any time during employment" and "whether during or outside of working hours" and "whether or not using Company resources" effectively captures all of the Employee's inventive work during the entire employment period, including personal projects done on personal time with personal resources]
+
+6.2 Prior Inventions. The Employee shall list on Exhibit A all inventions, if any, that the Employee wishes to exclude from the scope of this Agreement. If no Exhibit A is attached, the Employee represents that there are no prior inventions to exclude.
+
+6.3 Cooperation. The Employee agrees to cooperate with the Company in obtaining patents, copyrights, and other intellectual property protections for Inventions, including executing all necessary documents, both during and after employment.
+
+6.4 Publications. The Employee shall not publish or present any research findings, data, or other information relating to the Company's business without the Company's prior written approval.
+
+7. TERMINATION
+
+7.1 At-Will. Employment is at-will. Either party may terminate at any time, with or without cause.
+
+7.2 Company Termination Without Cause. If the Company terminates employment without Cause, the Employee shall receive: (a) accrued salary and benefits; (b) severance equal to six (6) months of base salary; and (c) six (6) months of COBRA continuation at the Company's expense, subject to execution of a release agreement.
+
+7.3 Company Termination for Cause. If the Company terminates for Cause, the Employee shall receive only accrued salary through the termination date. "Cause" means: (a) material breach of this Agreement; (b) conviction of a felony; (c) gross negligence or willful misconduct; (d) fraud or dishonesty; (e) violation of Company policies; or (f) failure to perform duties after written notice.
+
+7.4 Employee Resignation. The Employee shall provide thirty (30) days' written notice of resignation.
+
+7.5 Survival. The obligations under Sections 3, 4, 5, and 6 shall survive termination of employment.
+
+8. REMEDIES
+
+8.1 Injunctive Relief. The Employee acknowledges that any breach of Sections 3, 4, 5, or 6 would cause irreparable harm to the Company and that monetary damages would be an inadequate remedy. Accordingly, the Company shall be entitled to seek injunctive relief, specific performance, or other equitable remedies in addition to all other remedies available at law or in equity.
+
+8.2 Extension of Restrictive Period. If the Employee breaches any restrictive covenant in this Agreement, the restricted period shall be extended by the duration of the breach.
+
+8.3 Attorneys' Fees. In any action to enforce this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+9. REPRESENTATIONS
+
+9.1 The Employee represents and warrants that: (a) the Employee is not subject to any restrictive covenant that would prevent performance of duties; (b) the Employee will not bring or use any confidential information from prior employers; (c) the Employee is legally authorized to work in the United States; and (d) the Employee has had the opportunity to consult with legal counsel before signing this Agreement.
+
+10. GENERAL PROVISIONS
+
+10.1 Entire Agreement. This Agreement constitutes the entire agreement between the parties.
+
+10.2 Amendments. Amendments must be in writing and signed by both parties.
+
+10.3 Severability. If any provision is held unenforceable, the court shall modify it to make it enforceable to the maximum extent permitted by law, and the remaining provisions shall continue in effect.
+
+10.4 Governing Law. This Agreement shall be governed by the laws of the State of New Jersey.
+
+10.5 Jurisdiction. The parties consent to the exclusive jurisdiction of the state and federal courts located in New Jersey for any disputes arising under this Agreement.
+
+10.6 Waiver. No waiver of any provision shall be effective unless in writing.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+COMPANY:
+Ironclad Pharmaceuticals, Inc.
+
+By: ___________________________________
+Name: Robert E. Fitzgerald
+Title: Executive Vice President, Human Resources
+Date: _________________________________
+
+EMPLOYEE:
+
+___________________________________
+Dr. Priya S. Chandrasekaran
+Date: _________________________________
+
+EXHIBIT A - PRIOR INVENTIONS
+
+[None listed / To be completed by Employee]

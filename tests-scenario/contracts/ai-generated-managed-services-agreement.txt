@@ -1,0 +1,256 @@
+MANAGED SERVICES AGREEMENT
+
+[ANOMALY CONTRACT - Contains contradictory SLA terms, circular clause references, ambiguous remedies, and asymmetric obligations]
+
+This Managed Services Agreement ("Agreement") is entered into as of January 10, 2026 ("Effective Date"), by and between:
+
+CUSTOMER: Summit Retail Holdings, Inc., a Delaware corporation with its principal offices at 700 Canal Street, Suite 1000, Stamford, CT 06902 ("Customer")
+
+and
+
+MANAGED SERVICES PROVIDER: Nexion Technologies, Inc., a Virginia corporation with its principal offices at 1775 Tysons Boulevard, Suite 800, Tysons, VA 22102 ("MSP")
+
+(each a "Party" and collectively the "Parties")
+
+RECITALS
+
+WHEREAS, Customer operates a network of retail locations across the United States and requires managed information technology services to support its operations; and
+
+WHEREAS, MSP is a provider of managed IT services with expertise in retail technology environments; and
+
+WHEREAS, Customer desires to engage MSP to provide comprehensive managed IT services as described herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Authorized Users" means Customer's employees, contractors, and authorized agents who are permitted to use the Managed Environment.
+
+1.2 "Change Request" means a written request to modify the scope of Services, the Managed Environment, or the terms of this Agreement, as described in Section 3.
+
+1.3 "Critical Incident" means an event that causes or threatens to cause a complete outage or severe degradation of a business-critical system as defined in Schedule 2.
+
+1.4 "Managed Environment" means the Customer IT infrastructure, systems, applications, and networks managed by MSP under this Agreement, as described in Schedule 1.
+
+1.5 "Monthly Service Fee" means the fixed monthly fee payable by Customer for the Services as set forth in Schedule 3.
+
+1.6 "Service Credits" means the credits applicable to Customer's account in the event MSP fails to meet the SLA, as described in Schedule 2.
+
+1.7 "Service Level Agreement" or "SLA" means the performance standards and metrics set forth in Schedule 2.
+
+2. SERVICES
+
+2.1 Scope. MSP shall provide the managed IT services described in Schedule 1 (the "Services"), which shall include:
+
+    (a) Network Management: Monitoring, management, and optimization of Customer's wide area network (WAN), local area networks (LANs), and wireless networks across all retail locations;
+
+    (b) Server and Infrastructure Management: Administration, monitoring, patching, and maintenance of Customer's on-premises and cloud servers, storage systems, and virtualization platforms;
+
+    (c) End-User Support: Help desk and desktop support services for Authorized Users, including hardware and software troubleshooting, incident management, and request fulfillment;
+
+    (d) Security Management: Management of firewalls, intrusion detection/prevention systems, endpoint protection, vulnerability management, and security information and event management (SIEM);
+
+    (e) Cloud Services Management: Management and optimization of Customer's cloud environments, including AWS, Azure, and SaaS applications;
+
+    (f) Backup and Disaster Recovery: Management of backup systems, disaster recovery planning, and regular testing of recovery procedures;
+
+    (g) Vendor Management: Coordination with Customer's third-party technology vendors for escalations, procurement, and contract management; and
+
+    (h) IT Governance: Regular technology assessments, strategic planning, budgeting support, and quarterly business reviews.
+
+2.2 Service Hours. MSP shall provide the Services during the following hours:
+    - Network Operations Center (NOC): 24 hours per day, 7 days per week, 365 days per year
+    - Help Desk: 6:00 AM to 10:00 PM Eastern Time, 7 days per week
+    - On-site Support: 8:00 AM to 6:00 PM local time, Monday through Friday (excluding holidays)
+    - Emergency Support: 24/7/365 for Critical Incidents
+
+2.3 Service Levels. MSP shall perform the Services in accordance with the SLA set forth in Schedule 2. The SLA defines the performance metrics, measurement methodology, and remedies for failures to meet the specified service levels.
+
+2.4 Service Exclusions. The following are excluded from the Services unless agreed upon in a Change Request: (a) application development or customization; (b) major infrastructure projects (capital expenditure exceeding $25,000); (c) physical cabling or structured wiring installations; (d) services for systems not included in the Managed Environment; and (e) remediation of issues caused by Customer's actions in violation of MSP's documented recommendations.
+
+3. CHANGE MANAGEMENT
+
+3.1 Change Requests. Either Party may submit a Change Request to modify the Services, Managed Environment, or SLA. All Change Requests must be in writing and must describe the proposed change, the reason for the change, and the anticipated impact on fees, timelines, and service levels.
+
+3.2 Evaluation. MSP shall evaluate each Change Request and provide Customer with a written assessment, including the impact on fees and SLA, within ten (10) business days of receipt.
+
+3.3 Approval. No change shall be implemented until both Parties have executed a written Change Request. Changes to monthly fees resulting from approved Change Requests shall be effective as of the date specified in the Change Request.
+
+4. FEES AND PAYMENT
+
+4.1 Monthly Service Fee. Customer shall pay MSP the Monthly Service Fee as specified in Schedule 3. The initial Monthly Service Fee is $165,000.00.
+
+4.2 Annual Adjustment. The Monthly Service Fee shall be adjusted annually on each anniversary of the Effective Date. The adjustment shall equal the greater of: (a) three percent (3%); or (b) the percentage change in the Consumer Price Index for All Urban Consumers (CPI-U) for the preceding twelve months.
+
+4.3 Additional Charges. Services outside the scope of Schedule 1 or exceeding the included service volumes shall be billed at the rates set forth in Schedule 3. Project-based work shall be estimated and quoted separately, requiring Customer's written approval before commencement.
+
+4.4 Invoicing. MSP shall submit monthly invoices by the fifth (5th) business day of each month, covering: (a) the Monthly Service Fee for the current month; and (b) additional charges for the preceding month. Invoices shall include sufficient detail to verify all charges.
+
+4.5 Payment Terms. All invoices are due within thirty (30) days of the invoice date. Late payments shall incur interest at one and one-half percent (1.5%) per month. MSP may suspend non-critical Services if payments are more than forty-five (45) days overdue, upon fifteen (15) days' written notice.
+
+4.6 Disputed Charges. Customer may dispute any invoice item by providing written notice within twenty (20) days of receipt. The Parties shall negotiate in good faith to resolve disputes. Undisputed amounts remain due and payable on schedule.
+
+5. CUSTOMER OBLIGATIONS
+
+5.1 Access and Cooperation. Customer shall: (a) provide MSP with remote and physical access to the Managed Environment as reasonably necessary; (b) designate a primary contact and escalation contacts; (c) provide timely responses to MSP requests for information or decisions; and (d) ensure Authorized Users comply with MSP's reasonable security policies and procedures.
+
+5.2 Hardware and Software. Customer shall be responsible for procuring and maintaining all hardware, software licenses, and third-party services required for the Managed Environment, except as otherwise specified in a Change Request or SOW.
+
+5.3 Security Cooperation. Customer shall promptly notify MSP of any known or suspected security incidents. Customer shall implement security recommendations made by MSP within the timeframes specified by MSP, or otherwise accept the associated risks in writing. [ANOMALY: Asymmetric - Customer must implement MSP's recommendations or accept risk in writing, but MSP faces no similar obligation regarding Customer's security concerns]
+
+6. SERVICE LEVELS AND REMEDIES
+
+6.1 SLA Commitments. MSP commits to meeting the service levels set forth in Schedule 2, including:
+
+    (a) Network Availability: 99.95% measured monthly
+    (b) Server Availability: 99.9% measured monthly
+    (c) Help Desk Response Time (Priority 1): 15 minutes
+    (d) Help Desk Response Time (Priority 2): 30 minutes
+    (e) Help Desk Response Time (Priority 3): 2 hours
+    (f) Help Desk Response Time (Priority 4): 8 hours
+    (g) Incident Resolution (Priority 1): 4 hours
+    (h) Incident Resolution (Priority 2): 8 hours
+    (i) Incident Resolution (Priority 3): 24 hours
+    (j) Incident Resolution (Priority 4): 48 hours
+
+6.2 Service Credits. If MSP fails to meet the SLA in any given month, Customer shall be entitled to Service Credits as specified in Schedule 2. Service Credits shall be applied as a credit against the next Monthly Service Fee invoice.
+
+6.3 Maximum Service Credits. The maximum aggregate Service Credits in any calendar month shall not exceed fifteen percent (15%) of the Monthly Service Fee for that month. [ANOMALY: Contradicts Section 6.5 which states the maximum is twenty percent (20%)]
+
+6.4 Claiming Service Credits. Customer must submit a written request for Service Credits within thirty (30) days of the end of the month in which the SLA failure occurred. MSP shall validate the request against its monitoring data and apply valid credits within two (2) billing cycles.
+
+6.5 Chronic Failure. If MSP fails to meet any material SLA metric for three (3) or more consecutive months, or for any five (5) months in a twelve (12) month period, Customer may: (a) require MSP to develop and implement a remediation plan at MSP's expense; (b) invoke the Service Credits as described in this Section, up to a maximum of twenty percent (20%) of the Monthly Service Fee; or (c) terminate this Agreement upon thirty (30) days' written notice without paying an early termination fee. [ANOMALY: States 20% cap, contradicting Section 6.3's 15% cap. Also, the remediation plan in clause (a) has no defined timeline or acceptance criteria - ambiguous]
+
+6.6 Sole Remedy. Subject to Section 12.4, the Service Credits set forth in this Section 6 shall constitute Customer's sole and exclusive remedy for MSP's failure to meet the SLA, as further described in Section 8.3. [ANOMALY: Section 8.3 discusses limitation of liability, not SLA remedies - circular reference]
+
+7. TERM AND TERMINATION
+
+7.1 Initial Term. This Agreement shall commence on the Effective Date and continue for an initial term of thirty-six (36) months (the "Initial Term").
+
+7.2 Renewal. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive twelve (12) month periods (each a "Renewal Term") unless either Party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.
+
+7.3 Termination for Cause. Either Party may terminate this Agreement upon written notice if the other Party: (a) materially breaches this Agreement and fails to cure within thirty (30) days of written notice; (b) becomes insolvent or files for bankruptcy; or (c) is acquired by a direct competitor of the non-terminating Party.
+
+7.4 Termination for Convenience. Customer may terminate this Agreement for convenience upon ninety (90) days' prior written notice. If Customer terminates during the Initial Term, Customer shall pay an early termination fee equal to the Monthly Service Fee multiplied by the number of months remaining in the Initial Term, discounted by twenty-five percent (25%).
+
+7.5 MSP Termination for Convenience. MSP may not terminate this Agreement for convenience during the Initial Term. During any Renewal Term, MSP may terminate for convenience upon one hundred eighty (180) days' prior written notice.
+
+7.6 Transition Assistance. Upon termination or expiration, MSP shall provide transition assistance services for a period of up to ninety (90) days (the "Transition Period") to facilitate the orderly migration of Services to Customer or a successor provider. Transition assistance during the first thirty (30) days shall be provided at no additional charge. Transition assistance beyond thirty (30) days shall be billed at MSP's then-current standard rates. During the Transition Period, MSP shall: (a) continue to provide the Services at the same service levels; (b) cooperate with Customer's successor provider; (c) transfer all Customer data, documentation, and configurations; and (d) provide knowledge transfer sessions.
+
+8. CONFIDENTIALITY
+
+8.1 Definition. "Confidential Information" means all non-public information disclosed by either Party in connection with this Agreement, including trade secrets, business plans, financial information, customer data, technical specifications, security configurations, and the terms of this Agreement.
+
+8.2 Obligations. The receiving Party shall: (a) use Confidential Information solely for the purposes of this Agreement; (b) protect Confidential Information with reasonable care; and (c) not disclose Confidential Information to third parties except to employees and contractors with a need to know who are bound by confidentiality obligations.
+
+8.3 Exclusions. These obligations do not apply to information that: (a) is publicly available without breach of this Agreement; (b) was known to the receiving Party before disclosure; (c) is independently developed; or (d) is lawfully received from a third party. [ANOMALY: Section 6.6 references Section 8.3 as describing SLA remedies, but this section actually addresses confidentiality exclusions - circular/incorrect reference]
+
+8.4 Duration. Confidentiality obligations survive termination for three (3) years, except for trade secrets which are protected indefinitely.
+
+9. DATA PROTECTION AND SECURITY
+
+9.1 Data Ownership. All Customer data processed by MSP in connection with the Services remains Customer's property.
+
+9.2 Data Security. MSP shall implement and maintain industry-standard security controls to protect Customer data, including encryption, access controls, intrusion detection, and regular security assessments.
+
+9.3 Compliance. MSP shall comply with applicable data protection laws, including the PCI DSS (Payment Card Industry Data Security Standard) requirements applicable to Customer's retail operations.
+
+9.4 Breach Notification. MSP shall notify Customer of any confirmed data security breach affecting Customer data within twenty-four (24) hours of discovery.
+
+9.5 Insurance. MSP shall maintain cyber liability insurance of at least $10,000,000.
+
+10. INTELLECTUAL PROPERTY
+
+10.1 Customer IP. Customer retains all rights in its data, trademarks, trade secrets, and proprietary information.
+
+10.2 MSP IP. MSP retains all rights in its proprietary tools, scripts, methodologies, and pre-existing intellectual property.
+
+10.3 Deliverables. Custom scripts, configurations, documentation, and other materials created specifically for Customer shall be Customer's property upon full payment.
+
+10.4 License. To the extent MSP IP is incorporated into deliverables, MSP grants Customer a non-exclusive, perpetual, royalty-free license to use such MSP IP solely in connection with the Managed Environment.
+
+11. INDEMNIFICATION
+
+11.1 By MSP. MSP shall indemnify and hold harmless Customer from third-party claims arising from: (a) MSP's negligence or willful misconduct; (b) MSP's breach of this Agreement; (c) infringement of third-party IP rights by MSP's proprietary tools; or (d) MSP's violation of applicable law.
+
+11.2 By Customer. Customer shall indemnify and hold harmless MSP from third-party claims arising from: (a) Customer's negligence or willful misconduct; (b) Customer's breach of this Agreement; or (c) Customer's violation of applicable law.
+
+12. LIMITATION OF LIABILITY
+
+12.1 Cap. EACH PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL MONTHLY SERVICE FEES PAID OR PAYABLE BY CUSTOMER DURING THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+12.2 Exclusion. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION. [ANOMALY: For a managed IT services contract covering critical retail operations, excluding all liability for lost data and business interruption may be commercially unreasonable]
+
+12.3 Exceptions. The foregoing limitations shall not apply to: (a) breaches of confidentiality or data protection obligations; (b) indemnification obligations; (c) gross negligence or willful misconduct; or (d) infringement of intellectual property rights.
+
+12.4 SLA Remedy Carve-Out. For the avoidance of doubt, Service Credits under Section 6 are independent of the liability cap in Section 12.1 and shall be provided in addition to any other remedies available to Customer under this Agreement. [ANOMALY: This contradicts Section 6.6 which says Service Credits are Customer's "sole and exclusive remedy" for SLA failures]
+
+13. FORCE MAJEURE
+
+13.1 Neither Party shall be liable for failure to perform due to causes beyond its reasonable control, including natural disasters, war, terrorism, pandemics, government actions, labor disputes, power outages, or internet service failures. The affected Party shall provide prompt notice and resume performance as soon as practicable.
+
+13.2 If a Force Majeure event continues for more than sixty (60) days, either Party may terminate this Agreement upon written notice without liability.
+
+14. GOVERNING LAW AND DISPUTES
+
+14.1 Governing Law. This Agreement shall be governed by the laws of the State of Delaware, without regard to conflict of laws principles.
+
+14.2 Dispute Resolution. Disputes shall first be escalated to senior management for resolution within thirty (30) days. Unresolved disputes shall be submitted to binding arbitration in Wilmington, Delaware, in accordance with AAA Commercial Arbitration Rules.
+
+14.3 Injunctive Relief. Either Party may seek injunctive relief from any court of competent jurisdiction to protect its confidential information or intellectual property.
+
+15. GENERAL PROVISIONS
+
+15.1 Entire Agreement. This Agreement, including all Schedules, constitutes the entire agreement between the Parties.
+
+15.2 Amendments. Amendments require written agreement signed by both Parties, except for Change Requests processed under Section 3.
+
+15.3 Waiver. No waiver is effective unless in writing.
+
+15.4 Severability. Invalid provisions shall be modified to the minimum extent necessary; remaining provisions continue in effect.
+
+15.5 Assignment. Neither Party may assign without consent, except in connection with a merger, acquisition, or sale of substantially all assets.
+
+15.6 Independent Contractor. MSP is an independent contractor.
+
+15.7 Notices. Notices shall be in writing, delivered by certified mail, overnight courier, or email with confirmation.
+
+15.8 Counterparts. This Agreement may be executed in counterparts.
+
+SCHEDULE 1 - MANAGED ENVIRONMENT
+[See attached detailed inventory of managed systems, applications, and infrastructure]
+
+SCHEDULE 2 - SERVICE LEVEL AGREEMENT
+[See attached SLA with detailed metrics, measurement methodology, and Service Credit calculations]
+
+SCHEDULE 3 - FEES AND RATES
+
+Monthly Service Fee: $165,000.00
+Includes management of up to:
+  - 500 end-user devices
+  - 75 physical and virtual servers
+  - 120 retail locations
+  - 40 TB managed storage
+
+Additional Rates:
+  - Additional end-user devices: $35/device/month
+  - Additional servers: $250/server/month
+  - Additional retail locations: $750/location/month
+  - Project work: $175 - $275/hour depending on resource level
+  - After-hours emergency support (beyond included): $350/hour
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+SUMMIT RETAIL HOLDINGS, INC.
+
+By: ___________________________
+Name: Christine M. Nakamura
+Title: Chief Information Officer
+Date: ___________________________
+
+NEXION TECHNOLOGIES, INC.
+
+By: ___________________________
+Name: Robert F. Garrison
+Title: President
+Date: ___________________________

@@ -1,0 +1,196 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Professional Services Agreement ("Agreement") is made and entered into as of February 5, 2026 ("Effective Date"), by and between:
+
+CLIENT: Ironwood Capital Management, LP, a Delaware limited partnership, with its principal offices at 2000 Avenue of the Stars, Suite 1500, Los Angeles, CA 90067 ("Client")
+
+and
+
+SERVICE PROVIDER: Bridgepoint Advisory Group, Inc., a Nevada corporation, with its principal offices at 3960 Howard Hughes Parkway, Suite 500, Las Vegas, NV 89169 ("Provider")
+
+(each a "Party" and collectively the "Parties")
+
+RECITALS
+
+WHEREAS, Client is a registered investment advisory firm seeking professional advisory services related to regulatory compliance, operational infrastructure, and risk management; and
+
+WHEREAS, Provider is a professional services firm specializing in financial services consulting, compliance advisory, and operational consulting; and
+
+WHEREAS, Client desires to engage Provider to perform the professional services described herein;
+
+NOW, THEREFORE, for good and valuable consideration, the Parties agree as follows:
+
+ARTICLE I - SERVICES
+
+1.1 Scope of Services. Provider shall provide the professional services described in each Statement of Work ("SOW") executed by the Parties pursuant to this Agreement. Each SOW shall specify the particular services to be performed, deliverables, timeline, fees, and any other terms specific to the engagement. Each SOW is incorporated into and governed by this Agreement.
+
+1.2 Initial SOW. The initial SOW is attached hereto as Exhibit A and is effective as of the Effective Date.
+
+1.3 Performance Standards. Provider shall perform all Services: (a) in a professional and workmanlike manner; (b) in accordance with applicable professional standards and industry best practices; (c) using personnel with the qualifications and experience necessary for the Services; and (d) in compliance with all applicable laws, rules, and regulations, including securities laws and regulations applicable to Client's business.
+
+1.4 Provider Personnel. Provider shall assign qualified personnel to perform the Services. Provider shall designate a project manager who shall serve as the primary point of contact for Client. Provider shall not reassign or replace key personnel identified in an SOW without Client's prior written consent, not to be unreasonably withheld or delayed.
+
+1.5 Client Responsibilities. Client shall: (a) designate a project liaison to coordinate with Provider; (b) provide timely access to information, systems, personnel, and facilities reasonably required for Provider to perform the Services; (c) make decisions and provide approvals in a timely manner; and (d) ensure that Client personnel cooperate with Provider as reasonably necessary.
+
+1.6 Change Management. Changes to the scope, schedule, or deliverables of any SOW must be documented in a written change order signed by both Parties. Provider shall not be obligated to perform any changed or additional services until the change order is executed.
+
+ARTICLE II - COMPENSATION
+
+2.1 Fees. Client shall compensate Provider for the Services at the rates and in the amounts specified in the applicable SOW.
+
+2.2 Standard Rates. Unless otherwise specified in an SOW, Provider's standard hourly rates are:
+    (a) Managing Director: $575 per hour
+    (b) Director: $475 per hour
+    (c) Senior Manager: $375 per hour
+    (d) Manager: $300 per hour
+    (e) Senior Associate: $225 per hour
+    (f) Associate: $175 per hour
+
+2.3 Expenses. Client shall reimburse Provider for reasonable, documented, out-of-pocket expenses incurred in connection with the Services, subject to the following: (a) individual expenses exceeding $500 require Client's prior written approval; (b) aggregate monthly expenses exceeding $5,000 require Client's prior written approval; (c) air travel shall be at coach/economy class unless otherwise approved; and (d) all expenses shall be substantiated with receipts.
+
+2.4 Invoicing. Provider shall submit detailed monthly invoices showing: (a) the name and title of each individual who performed Services; (b) the number of hours worked by each individual; (c) a brief description of the Services performed; and (d) itemized expenses with supporting documentation.
+
+2.5 Payment. Invoices are due and payable within thirty (30) days of receipt. Undisputed amounts not paid when due shall accrue interest at one percent (1%) per month. Client may withhold payment of any disputed amounts, provided that Client gives written notice of the dispute within fifteen (15) days of receipt of the invoice and pays all undisputed amounts when due.
+
+2.6 Fee Cap. Total fees under any SOW shall not exceed the estimated fee range stated therein without Client's prior written approval.
+
+ARTICLE III - TERM AND TERMINATION
+
+3.1 Agreement Term. This Agreement shall commence on the Effective Date and continue until terminated by either Party in accordance with this Article III.
+
+3.2 SOW Term. Each SOW shall have its own term as specified therein. Expiration or termination of an individual SOW shall not affect the validity of this Agreement or any other SOW.
+
+3.3 Termination for Convenience. Either Party may terminate this Agreement or any SOW for any reason upon thirty (30) days' prior written notice to the other Party.
+
+3.4 Termination for Cause. Either Party may terminate this Agreement or any SOW immediately upon written notice if: (a) the other Party materially breaches any provision of this Agreement or the applicable SOW and fails to cure such breach within fifteen (15) days of written notice; (b) the other Party becomes insolvent, files for bankruptcy, or assigns its assets for the benefit of creditors; or (c) the other Party is found to have engaged in fraud or illegal conduct related to this Agreement.
+
+3.5 Effect of Termination. Upon termination or expiration: (a) Provider shall cease performing Services except as necessary for an orderly wind-down; (b) Provider shall deliver all completed and in-progress work product to Client; (c) Client shall pay Provider for all Services performed and approved expenses incurred through the effective date of termination; and (d) any provisions that by their nature should survive shall survive, including Sections on confidentiality, intellectual property, indemnification, and limitation of liability.
+
+ARTICLE IV - INTELLECTUAL PROPERTY
+
+4.1 Work Product. All reports, analyses, recommendations, presentations, models, and other deliverables created by Provider specifically for Client under this Agreement ("Work Product") shall be the property of Client upon full payment. Provider assigns to Client all right, title, and interest in the Work Product.
+
+4.2 Pre-Existing IP. Provider retains all right, title, and interest in its pre-existing intellectual property, including proprietary methodologies, frameworks, models, tools, and templates ("Provider IP"). To the extent Provider IP is incorporated into any Work Product, Provider grants Client a non-exclusive, perpetual, royalty-free, non-transferable license to use such Provider IP solely as part of the Work Product for Client's internal purposes.
+
+4.3 General Knowledge. Nothing in this Agreement shall prevent Provider from using the general knowledge, skills, experience, ideas, concepts, and techniques acquired in the course of performing the Services, provided that Provider does not disclose Client's Confidential Information.
+
+ARTICLE V - CONFIDENTIALITY
+
+5.1 Definition. "Confidential Information" means all non-public information disclosed by one Party to the other in connection with this Agreement, including business strategies, financial data, client lists, investment strategies, trading data, regulatory filings, proprietary methodologies, and the terms of this Agreement.
+
+5.2 Obligations. The receiving Party shall: (a) use the disclosing Party's Confidential Information solely for the purposes of this Agreement; (b) protect such information with at least the same degree of care it uses to protect its own confidential information, but not less than reasonable care; and (c) not disclose such information to any third party except to its employees, agents, and contractors with a need to know who are bound by appropriate confidentiality obligations.
+
+5.3 Regulatory Obligations. Notwithstanding the foregoing, nothing in this Agreement shall prevent Client from disclosing information as required by the Securities and Exchange Commission, Financial Industry Regulatory Authority, or other regulatory authorities. Client shall provide notice to Provider of such disclosure to the extent permitted by law.
+
+5.4 Exceptions. Confidential Information does not include information that: (a) becomes publicly available through no fault of the receiving Party; (b) was rightfully in the receiving Party's possession prior to disclosure; (c) is independently developed without reference to Confidential Information; or (d) is rightfully obtained from a third party without restriction.
+
+5.5 Return. Upon termination, each Party shall return or destroy the other Party's Confidential Information and certify such return or destruction in writing, except for copies retained in accordance with applicable record-keeping requirements.
+
+5.6 Duration. Confidentiality obligations shall survive termination for five (5) years, except that obligations regarding trade secrets shall continue indefinitely.
+
+ARTICLE VI - REPRESENTATIONS AND WARRANTIES
+
+6.1 Provider Warranties. Provider represents and warrants that: (a) it has the authority and capacity to enter into this Agreement; (b) the Services will be performed in accordance with the standards set forth in Section 1.3; (c) the Work Product will not knowingly infringe any third party's intellectual property rights; (d) its personnel are qualified to perform the Services; and (e) it holds all licenses and permits required to perform the Services.
+
+6.2 Client Warranties. Client represents and warrants that: (a) it has the authority to enter into this Agreement; (b) it will provide accurate information reasonably necessary for Provider to perform the Services; and (c) it is duly registered as an investment advisor with applicable regulatory authorities.
+
+6.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH HEREIN, PROVIDER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE SERVICES ARE ADVISORY IN NATURE, AND PROVIDER DOES NOT GUARANTEE ANY PARTICULAR OUTCOME OR RESULT.
+
+ARTICLE VII - INDEMNIFICATION
+
+7.1 By Provider. Provider shall indemnify, defend, and hold harmless Client and its partners, officers, employees, and agents from third-party claims arising from: (a) Provider's gross negligence or willful misconduct; (b) Provider's breach of this Agreement; or (c) infringement of third-party intellectual property rights by the Work Product.
+
+7.2 By Client. Client shall indemnify, defend, and hold harmless Provider and its officers, directors, employees, and agents from third-party claims arising from: (a) Client's gross negligence or willful misconduct; (b) Client's use of the Work Product; or (c) Client's breach of this Agreement.
+
+7.3 Procedure. The indemnified Party shall: (a) provide prompt written notice of the claim; (b) grant the indemnifying Party sole control of the defense and settlement; and (c) provide reasonable cooperation.
+
+ARTICLE VIII - LIMITATION OF LIABILITY
+
+8.1 Cap. EACH PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE GREATER OF: (A) THE TOTAL FEES PAID BY CLIENT UNDER THE SOW GIVING RISE TO THE CLAIM DURING THE TWELVE (12) MONTHS PRECEDING THE EVENT; OR (B) TWO HUNDRED FIFTY THOUSAND DOLLARS ($250,000).
+
+8.2 Exclusions. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION.
+
+8.3 Exceptions. The limitations in this Article VIII shall not apply to: (a) breaches of confidentiality; (b) indemnification obligations; (c) Provider's infringement of third-party intellectual property; or (d) gross negligence or willful misconduct.
+
+ARTICLE IX - INSURANCE
+
+9.1 Provider Insurance. Provider shall maintain throughout the Term: (a) Commercial General Liability insurance of at least $2,000,000 per occurrence; (b) Professional Liability / Errors and Omissions insurance of at least $5,000,000 per claim; (c) Workers' Compensation insurance as required by law; and (d) Cyber Liability insurance of at least $2,000,000 per claim.
+
+9.2 Certificates. Provider shall provide certificates of insurance upon request.
+
+ARTICLE X - FORCE MAJEURE
+
+10.1 Neither Party shall be liable for delays or failure to perform due to causes beyond its reasonable control, including acts of God, war, terrorism, epidemics, government actions, labor disputes, power or telecommunications failures, or natural disasters. The affected Party shall provide prompt notice and use commercially reasonable efforts to mitigate the impact.
+
+ARTICLE XI - GOVERNING LAW AND DISPUTES
+
+11.1 Governing Law. This Agreement shall be governed by the laws of the State of California, without regard to conflict of laws principles.
+
+11.2 Arbitration. Any dispute arising under this Agreement shall be resolved by binding arbitration administered by JAMS in Los Angeles, California, in accordance with its Comprehensive Arbitration Rules. The arbitration shall be conducted before a single arbitrator with experience in financial services consulting disputes.
+
+11.3 Equitable Relief. Nothing herein prevents either Party from seeking injunctive or equitable relief from a court of competent jurisdiction to protect its confidential information or intellectual property.
+
+ARTICLE XII - GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement and all SOWs constitute the entire agreement between the Parties regarding the subject matter hereof.
+
+12.2 Amendments. Amendments must be in writing and signed by authorized representatives of both Parties.
+
+12.3 Waiver. No waiver shall be effective unless in writing. Failure to enforce any provision shall not constitute a waiver of future enforcement.
+
+12.4 Severability. If any provision is held invalid, the remaining provisions continue in effect.
+
+12.5 Assignment. Neither Party may assign this Agreement without the other Party's prior written consent, except in connection with a merger, acquisition, or sale of substantially all assets.
+
+12.6 Independent Contractor. Provider is an independent contractor. Nothing herein creates an employment, partnership, joint venture, or agency relationship.
+
+12.7 Notices. All notices shall be in writing and delivered by certified mail, nationally recognized overnight courier, or email with confirmation, to the addresses specified in the preamble.
+
+12.8 Counterparts. This Agreement may be executed in counterparts.
+
+12.9 Non-Solicitation. During the Term and for one (1) year thereafter, neither Party shall solicit or hire employees of the other Party who were directly involved in the Services, without prior written consent.
+
+EXHIBIT A - INITIAL STATEMENT OF WORK
+
+SOW #001: Regulatory Compliance Program Assessment
+
+Scope:
+1. Comprehensive review of Client's compliance policies and procedures
+2. Assessment of Client's compliance monitoring and testing program
+3. Review of Client's Code of Ethics and personal trading policies
+4. Assessment of marketing and advertising compliance
+5. Review of books and records maintenance practices
+6. Gap analysis against SEC examination priorities
+7. Development of remediation roadmap with prioritized recommendations
+
+Deliverables:
+- Compliance Program Assessment Report
+- Gap Analysis Matrix
+- Remediation Roadmap with Timeline
+- Updated Compliance Manual (draft)
+- Presentation to Client's Board/Investment Committee
+
+Timeline: 12 weeks from commencement
+Estimated Fee Range: $175,000 - $225,000
+Fee Structure: Time and materials at standard hourly rates
+
+Key Personnel:
+- Jennifer M. Costa, Managing Director (Engagement Lead)
+- Andrew Park, Director (Compliance Subject Matter Expert)
+- Diana Robles, Senior Manager (Project Manager)
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+IRONWOOD CAPITAL MANAGEMENT, LP
+
+By: ___________________________
+Name: William K. Thornton
+Title: Managing Partner
+Date: ___________________________
+
+BRIDGEPOINT ADVISORY GROUP, INC.
+
+By: ___________________________
+Name: Jennifer M. Costa
+Title: Managing Director
+Date: ___________________________

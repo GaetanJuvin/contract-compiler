@@ -1,0 +1,177 @@
+CONSTRUCTION MATERIALS SUPPLY AGREEMENT
+
+Contract No.: CMS-2025-1042
+Date: September 22, 2025
+
+This Construction Materials Supply Agreement ("Agreement") is entered into by and between:
+
+CONTRACTOR: Sterling Construction & Development, Inc., a Texas corporation, with its principal office at 20810 Fernbush Lane, Houston, TX 77073 ("Contractor")
+
+SUPPLIER: Heritage Building Products, LLC, an Alabama limited liability company, with its principal office and distribution yard at 4800 Industrial Road, Birmingham, AL 35222 ("Supplier")
+
+RECITALS
+
+WHEREAS, Contractor has been awarded the general contract for the construction of the Magnolia Creek Mixed-Use Development Project located at 1500 Magnolia Avenue, Nashville, TN 37203 (the "Project"), consisting of approximately 380 residential units, 45,000 square feet of retail space, and a 450-space parking structure;
+
+WHEREAS, Contractor requires a reliable supply of structural steel, reinforcing bar, concrete, masonry products, and related construction materials for the Project; and
+
+WHEREAS, Supplier is a manufacturer and distributor of such construction materials and has the capacity to supply Contractor's requirements for the Project;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+ARTICLE 1 - MATERIALS
+
+1.1 Description. Supplier shall supply to Contractor the construction materials described in Appendix A (the "Materials"), which shall include but not be limited to:
+    (a) Structural steel beams, columns, and plates (ASTM A992/A992M)
+    (b) Reinforcing bar (rebar) in various sizes (ASTM A615 Grade 60)
+    (c) Ready-mix concrete in various strength classes (3,000 PSI to 8,000 PSI)
+    (d) Concrete masonry units (CMU) in standard and specialty configurations
+    (e) Structural bolts and connectors (ASTM A325 and A490)
+    (f) Waterproofing membranes and sealants
+    (g) Architectural precast concrete panels
+
+1.2 Specifications. All Materials shall conform to the specifications set forth in the Project construction documents (Appendix B), applicable ASTM standards, and local building code requirements for Davidson County, Tennessee.
+
+1.3 Approved Equivalents. Supplier may propose equivalent materials from alternative manufacturers, provided such alternatives meet or exceed the specified quality standards and are approved in writing by Contractor and the Project architect prior to delivery.
+
+ARTICLE 2 - ORDERING AND SCHEDULING
+
+2.1 Project Schedule. The overall Project construction schedule is attached as Appendix C. Supplier acknowledges receipt and review of the Project schedule and confirms its ability to supply Materials in accordance with the schedule.
+
+2.2 Material Releases. Contractor shall issue material release orders ("Releases") against this Agreement at least fifteen (15) business days prior to the required delivery date. Each Release shall specify the Materials, quantities, delivery date, and delivery location within the Project site.
+
+2.3 Schedule Updates. Contractor shall provide Supplier with updated Project schedules as they are issued. Supplier shall adjust its delivery schedule accordingly and shall notify Contractor within five (5) business days if any schedule change creates a delivery conflict.
+
+2.4 Expedited Delivery. Contractor may request expedited delivery with less than fifteen (15) business days' notice. Supplier shall use commercially reasonable efforts to accommodate such requests, and any premium charges for expedited delivery shall be quoted and approved in writing prior to incurrence.
+
+ARTICLE 3 - PRICING
+
+[ANOMALY: Pricing inconsistency - stated totals do not match unit prices times quantities]
+3.1 Unit Prices. The unit prices for Materials are set forth in Appendix A. Prices are firm and fixed for the duration of the Project, subject to the steel price escalation provision in Section 3.3.
+
+3.2 Project Estimate. Based on the quantities estimated in the Project construction documents, the total estimated value of Materials to be supplied under this Agreement is approximately Six Million Eight Hundred Fifty Thousand Dollars ($6,850,000), broken down as follows:
+    (a) Structural Steel: 1,200 tons at $1,850/ton = $2,220,000
+    (b) Reinforcing Bar: 950 tons at $1,100/ton = $1,045,000
+    (c) Ready-Mix Concrete: 18,000 cubic yards at $145/CY = $2,610,000
+    (d) Concrete Masonry Units: 85,000 units at $4.75/unit = $403,750
+    (e) Structural Bolts/Connectors: Lump sum = $187,500
+    (f) Waterproofing: Lump sum = $225,000
+    (g) Precast Panels: 120 panels at $2,800/panel = $336,000
+
+    [Note: Items (a) through (g) total $7,027,250, not the stated $6,850,000. There is a $177,250 discrepancy.]
+
+3.3 Steel Price Escalation. If the published price of structural steel (as reported in the American Metal Market) increases or decreases by more than eight percent (8%) from the base price at the time of this Agreement, the unit price for structural steel shall be adjusted proportionally. The base price index is $1,850 per ton as of the date of this Agreement.
+
+3.4 Quantity Variations. Actual quantities may vary from the estimates in Section 3.2 by up to fifteen percent (15%) without affecting unit prices. Quantity variations exceeding fifteen percent (15%) shall be subject to price renegotiation.
+
+3.5 No Hidden Charges. The unit prices include all costs of manufacturing, fabrication, testing, certifications, and loading at Supplier's facility. Transportation to the Project site shall be a separate line item as specified in Appendix A.
+
+ARTICLE 4 - DELIVERY
+
+4.1 Delivery Location. All Materials shall be delivered to the Project site at 1500 Magnolia Avenue, Nashville, TN 37203, or such other location within the Project site as designated by Contractor's superintendent.
+
+4.2 Delivery Scheduling. Supplier shall coordinate all deliveries with Contractor's site superintendent at least forty-eight (48) hours in advance. Deliveries shall be made between 6:00 AM and 4:00 PM, Monday through Saturday, unless otherwise approved.
+
+4.3 Unloading. Contractor shall provide equipment and labor for unloading Materials at the Project site, unless otherwise specified in the Release.
+
+4.4 Delivery Documentation. Each delivery shall be accompanied by: (a) delivery ticket; (b) mill certificates or certificates of compliance for all Materials; (c) batch tickets for ready-mix concrete; and (d) weight tickets where applicable.
+
+4.5 Delivery Performance. Supplier shall deliver Materials within plus or minus two (2) business days of the delivery date specified in each Release. Supplier shall notify Contractor immediately of any anticipated delays. Chronic late delivery (defined as three or more late deliveries in any thirty-day period) shall constitute a material breach.
+
+ARTICLE 5 - QUALITY AND TESTING
+
+5.1 Quality Standards. All Materials shall meet or exceed the quality standards specified in the Project construction documents, applicable ASTM standards, and local building code requirements.
+
+5.2 Mill Certificates. Supplier shall provide mill certificates (MTRs) for all steel products, certifying chemical composition and mechanical properties.
+
+5.3 Concrete Testing. Supplier shall provide concrete that meets the specified compressive strength at twenty-eight (28) days. Contractor shall conduct field testing (slump, air content, temperature) and cylinder testing. If test results indicate non-compliance, Supplier shall bear all costs of investigation and remediation.
+
+5.4 Third-Party Testing. Contractor reserves the right to conduct independent third-party testing of any Materials at any time. If Materials fail testing, Supplier shall bear the cost of testing, replacement materials, and any associated delays.
+
+[ANOMALY: No inspection rights clause - Contractor has no explicit right to inspect Materials at Supplier's facility before shipment]
+
+5.5 Non-Conforming Materials. Non-conforming Materials shall be removed from the Project site by Supplier at Supplier's expense within five (5) business days of notification. Supplier shall provide replacement Materials on an expedited basis at no additional cost.
+
+ARTICLE 6 - PAYMENT
+
+6.1 Invoicing. Supplier shall invoice Contractor upon delivery and acceptance of Materials at the Project site. Invoices shall reference the applicable Release number and include delivery documentation.
+
+6.2 Payment Terms. Contractor shall pay undisputed invoices within thirty (30) days of receipt, less any applicable retainage.
+
+6.3 Retainage. Contractor shall withhold five percent (5%) retainage from each payment. Retainage shall be released within thirty (30) days after completion and acceptance of all Material deliveries under this Agreement and resolution of any outstanding warranty claims or quality issues.
+
+6.4 Progress Payments. For fabricated items (structural steel and precast panels), Supplier may invoice for work-in-progress at the following milestones:
+    (a) Shop drawing approval: 10% of item value
+    (b) Material procurement: 25% of item value
+    (c) Fabrication 50% complete: 25% of item value
+    (d) Fabrication complete, ready for delivery: 30% of item value
+    (e) Delivery and acceptance: 10% of item value (balance less retainage)
+
+6.5 Lien Waivers. Supplier shall provide conditional lien waivers with each invoice and unconditional lien waivers with each payment receipt, in the forms required by Tennessee law.
+
+ARTICLE 7 - WARRANTIES
+
+7.1 Material Warranty. Supplier warrants that all Materials delivered under this Agreement shall: (a) conform to the Specifications; (b) be free from defects; (c) be new and of first quality; and (d) be suitable for the intended use in the Project.
+
+7.2 Warranty Period. Supplier's warranty shall extend for a period of two (2) years from the date of substantial completion of the Project, or three (3) years from the date of delivery, whichever is longer.
+
+7.3 Warranty Remedies. Supplier shall, at Contractor's option, repair, replace, or refund the price of any Materials found to be defective during the Warranty Period. Supplier shall also be liable for reasonable costs incurred by Contractor in removing and replacing defective Materials installed in the Project.
+
+ARTICLE 8 - INDEMNIFICATION AND INSURANCE
+
+8.1 Supplier Indemnification. Supplier shall indemnify, defend, and hold harmless Contractor, the Project owner, and the Project architect from all claims arising from: (a) defective Materials; (b) Supplier's negligence; (c) Supplier's breach of this Agreement; or (d) Supplier's failure to comply with applicable laws.
+
+8.2 Insurance. Supplier shall maintain: (a) CGL: $2,000,000 per occurrence, $5,000,000 aggregate; (b) Products liability: $5,000,000; (c) Commercial Auto: $1,000,000; (d) Workers' Compensation: statutory limits; and (e) Umbrella: $5,000,000.
+
+8.3 Additional Insured. Contractor and the Project owner shall be named as additional insureds on Supplier's CGL and Products liability policies.
+
+ARTICLE 9 - TERM AND COMPLETION
+
+9.1 Term. This Agreement shall commence on the date hereof and shall continue until all Materials have been delivered and all warranty obligations have been fulfilled, unless earlier terminated.
+
+9.2 Project Duration. The Project is anticipated to be substantially complete by December 31, 2027. Supplier's obligations to deliver Materials shall extend throughout the construction period as required by the Project schedule.
+
+9.3 Termination for Cause. Either Party may terminate upon fifteen (15) days' written notice for material breach that remains uncured.
+
+9.4 Termination for Convenience. Contractor may terminate for convenience upon thirty (30) days' notice. Contractor shall pay for all Materials delivered, in fabrication, and non-cancellable materials ordered, less any applicable retainage.
+
+ARTICLE 10 - GENERAL PROVISIONS
+
+10.1 Governing Law. This Agreement shall be governed by the laws of the State of Tennessee.
+
+10.2 Dispute Resolution. Disputes shall be resolved by binding arbitration in Nashville, Tennessee, under the Construction Industry Arbitration Rules of the AAA.
+
+10.3 Compliance. Supplier shall comply with all applicable federal, state, and local laws, including OSHA regulations, environmental laws, and Buy American requirements if applicable.
+
+10.4 Performance and Payment Bonds. If required by Contractor, Supplier shall provide a performance bond and payment bond, each in the amount of one hundred percent (100%) of the estimated contract value, from a surety acceptable to Contractor.
+
+10.5 Force Majeure. Neither Party shall be liable for delays due to events beyond its reasonable control. Supplier shall promptly notify Contractor of any force majeure event and its estimated duration.
+
+10.6 Entire Agreement. This Agreement and all Appendices constitute the entire agreement.
+
+10.7 Amendments. Amendments must be in writing and signed by both Parties.
+
+IN WITNESS WHEREOF:
+
+STERLING CONSTRUCTION & DEVELOPMENT, INC.
+
+By: ___________________________
+Name: William F. Garrett
+Title: Senior Vice President, Procurement
+Date: September 22, 2025
+
+HERITAGE BUILDING PRODUCTS, LLC
+
+By: ___________________________
+Name: Charles E. Patterson
+Title: Chief Commercial Officer
+Date: September 22, 2025
+
+APPENDIX A - MATERIALS AND UNIT PRICING
+[To be attached]
+
+APPENDIX B - PROJECT SPECIFICATIONS (REFERENCE)
+[To be attached]
+
+APPENDIX C - PROJECT CONSTRUCTION SCHEDULE
+[To be attached]

@@ -1,0 +1,126 @@
+INVESTOR NON-DISCLOSURE AGREEMENT
+
+[ANOMALY: This NDA has an overly broad definition of Confidential Information with no carve-outs or exceptions whatsoever. It also uses ambiguous language like "reasonable steps" and "appropriate measures" without any definitions, and is missing a return/destruction of materials clause entirely.]
+
+This Investor Non-Disclosure Agreement ("Agreement") is entered into as of the _____ day of ____________, 2026, by and between:
+
+The Company: VitaNova Therapeutics, Inc., a Delaware corporation, with its principal place of business at 3050 Science Park Road, Suite 200, San Diego, CA 92121 ("VitaNova" or the "Company");
+
+The Investor: ________________________________, an individual / entity organized under the laws of ________________, with an address at ________________________________ (the "Investor").
+
+BACKGROUND
+
+VitaNova is a clinical-stage biopharmaceutical company engaged in the discovery and development of novel therapeutic compounds. The Company is seeking strategic investment and, in connection therewith, may disclose certain information to the Investor to enable the Investor to evaluate a potential investment opportunity (the "Transaction").
+
+The Company requires the Investor to agree to the terms of this Agreement as a precondition to receiving any information relating to the Company or the Transaction.
+
+AGREEMENT
+
+1. CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" shall mean any and all information of any kind, nature, or description, whether tangible or intangible, written or oral, that is disclosed by the Company to the Investor or that the Investor learns or observes in connection with the Transaction. This includes, without limitation, all documents, data, records, reports, analyses, compilations, studies, interpretations, forecasts, notes, memoranda, and any other materials of any nature whatsoever.
+
+1.2 Confidential Information specifically includes but is not limited to: all scientific data, clinical trial results, regulatory filings, drug compound information, patent applications, formulations, manufacturing processes, business plans, financial statements, projections, valuations, cap tables, investor presentations, term sheets, due diligence materials, board minutes, meeting notes, conversations, and any information about the Company's employees, officers, directors, advisors, partners, customers, or vendors.
+
+1.3 All information provided by the Company, its officers, directors, employees, agents, advisors, or representatives shall be deemed Confidential Information regardless of whether it is marked as confidential, proprietary, or otherwise.
+
+1.4 The preparation of any analyses, compilations, notes, studies, or other documents by the Investor that contain, reflect, or are derived from Confidential Information shall also constitute Confidential Information.
+
+2. OBLIGATIONS OF THE INVESTOR
+
+2.1 The Investor shall hold all Confidential Information in strict confidence and shall not disclose any Confidential Information to any person or entity without the prior written consent of the Company.
+
+2.2 The Investor shall use the Confidential Information solely for the purpose of evaluating the Transaction and for no other purpose.
+
+2.3 The Investor shall take reasonable steps and appropriate measures to protect the confidentiality of the Confidential Information and to prevent its unauthorized disclosure or use.
+
+2.4 The Investor may disclose Confidential Information only to the Investor's directors, officers, employees, partners, members, affiliates, attorneys, accountants, financial advisors, and other professional advisors (collectively, "Permitted Recipients") who (a) need to know such information for the purpose of evaluating the Transaction, and (b) have been informed of the confidential nature of the information and have agreed to be bound by terms of confidentiality no less restrictive than those contained in this Agreement.
+
+2.5 The Investor shall be fully responsible and liable for any breach of this Agreement by any of the Investor's Permitted Recipients.
+
+2.6 The Investor shall not trade in the securities of the Company (or any related entity) based on any Confidential Information that constitutes material non-public information, in accordance with applicable securities laws.
+
+3. STANDSTILL
+
+3.1 For a period of eighteen (18) months from the date of this Agreement, unless specifically invited in writing by the Company's Board of Directors, the Investor shall not, directly or indirectly:
+
+   (a) Acquire or seek to acquire any securities or assets of the Company;
+   (b) Enter into or seek to enter into any merger, business combination, restructuring, or similar transaction involving the Company;
+   (c) Solicit proxies or consents with respect to any securities of the Company;
+   (d) Form or join any group (as defined under Section 13(d)(3) of the Securities Exchange Act of 1934) for the purpose of acquiring, holding, or voting any securities of the Company;
+   (e) Seek or propose to influence or control the management, board of directors, or policies of the Company; or
+   (f) Request the Company or any of its representatives to amend or waive any provision of this Section 3.
+
+4. NON-SOLICITATION
+
+4.1 During the term of this Agreement and for a period of twelve (12) months following the termination hereof, the Investor shall not, directly or indirectly, solicit, recruit, hire, or attempt to hire any employee, officer, consultant, or independent contractor of the Company.
+
+4.2 This restriction shall not apply to general solicitations of employment not specifically directed at Company personnel (e.g., job postings in newspapers or online job boards).
+
+5. COMPELLED DISCLOSURE
+
+5.1 In the event the Investor or any Permitted Recipient is legally compelled to disclose any Confidential Information, the Investor shall provide the Company with prompt written notice of such compulsion and shall cooperate with the Company to obtain a protective order or other appropriate remedy.
+
+5.2 If a protective order is not obtained, the Investor shall disclose only that portion of the Confidential Information that is legally required and shall request that confidential treatment be afforded to the disclosed information.
+
+6. TERM
+
+6.1 This Agreement shall remain in effect for a period of three (3) years from the Effective Date, unless earlier terminated by written agreement of the parties.
+
+6.2 The obligations of confidentiality and non-use set forth in this Agreement shall survive the termination or expiration of this Agreement for the longer of (a) three (3) years from the date of each disclosure, or (b) for so long as the information remains a trade secret under applicable law.
+
+7. NO OBLIGATION TO PROCEED
+
+7.1 Nothing in this Agreement shall be construed as obligating the Company to disclose any particular information to the Investor or as obligating either party to enter into any further agreement or to consummate the Transaction.
+
+7.2 The Company reserves the right, in its sole discretion, to reject any proposal and to terminate discussions with the Investor at any time.
+
+8. NO REPRESENTATION OR WARRANTY
+
+8.1 The Company makes no representation or warranty, express or implied, as to the accuracy, completeness, or reliability of any Confidential Information.
+
+8.2 The Investor acknowledges that the Investor shall rely solely on the Investor's own investigation and analysis of the Confidential Information and the Company.
+
+9. REMEDIES
+
+9.1 The Investor agrees that any breach of this Agreement would cause irreparable injury to the Company for which monetary damages would not be an adequate remedy.
+
+9.2 The Company shall be entitled to equitable relief, including injunction and specific performance, in addition to all other remedies available at law or in equity.
+
+9.3 The Investor shall reimburse the Company for all costs and expenses, including reasonable attorneys' fees, incurred in enforcing this Agreement.
+
+10. GOVERNING LAW AND JURISDICTION
+
+10.1 This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+10.2 The parties submit to the exclusive jurisdiction of the Court of Chancery of the State of Delaware (or, if the Court of Chancery declines jurisdiction, the Superior Court of the State of Delaware) for any disputes arising under this Agreement.
+
+11. MISCELLANEOUS
+
+11.1 Entire Agreement. This Agreement constitutes the entire understanding between the parties regarding the subject matter hereof.
+
+11.2 Amendment. No amendment or modification of this Agreement shall be effective unless in writing and signed by both parties.
+
+11.3 Assignment. The Investor may not assign this Agreement without the prior written consent of the Company.
+
+11.4 Severability. Any provision of this Agreement that is held to be invalid or unenforceable shall be modified to the minimum extent necessary to make it valid and enforceable, and the remaining provisions shall remain in full force and effect.
+
+11.5 Waiver. No waiver of any right under this Agreement shall be effective unless in writing, and no waiver shall constitute a waiver of any other right.
+
+11.6 Counterparts. This Agreement may be executed in counterparts, including by electronic signature, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+VITANOVA THERAPEUTICS, INC.
+
+By: ___________________________
+Name: Dr. Martin A. Reeves
+Title: Chief Executive Officer
+Date: ___________________________
+
+INVESTOR
+
+Signature: ___________________________
+Name: ___________________________
+Title (if applicable): ___________________________
+Date: ___________________________

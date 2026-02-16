@@ -1,0 +1,188 @@
+CONSULTING SERVICES AGREEMENT
+
+This Consulting Services Agreement ("Agreement") is made and entered into as of February 1, 2026 ("Effective Date"), by and between:
+
+CLIENT: Westbrook Industries, Inc., a California corporation, with its principal office at 8900 Wilshire Boulevard, Suite 1100, Beverly Hills, CA 90211 ("Client")
+
+and
+
+CONSULTANT: Pinnacle Strategy Partners, LLP, a limited liability partnership organized under the laws of the State of Illinois, with its principal office at 233 South Wacker Drive, Suite 5500, Chicago, IL 60606 ("Consultant")
+
+RECITALS
+
+WHEREAS, Client desires to engage Consultant to provide certain strategic consulting services related to Client's digital transformation initiative; and
+
+WHEREAS, Consultant possesses the expertise, qualifications, and resources to provide such services;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants herein contained, the Parties agree as follows:
+
+ARTICLE 1 - SCOPE OF SERVICES
+
+1.1 Engagement. Client hereby engages Consultant, and Consultant hereby accepts such engagement, to provide the consulting services described in Exhibit A attached hereto (the "Services").
+
+1.2 Statement of Work. The Services shall be performed in accordance with one or more Statements of Work ("SOW") mutually agreed upon by the Parties. Each SOW shall specify the scope, deliverables, timeline, and fees for the applicable Services and shall be incorporated into this Agreement by reference.
+
+1.3 Change Orders. Any changes to the scope of Services set forth in an SOW must be documented in a written change order signed by authorized representatives of both Parties. Consultant shall not be obligated to perform any additional or modified services until a change order has been executed.
+
+1.4 Standard of Performance. Consultant shall perform the Services in a professional and workmanlike manner, consistent with generally accepted industry standards and practices, using qualified personnel with the skills and experience necessary to perform the Services.
+
+ARTICLE 2 - PERSONNEL
+
+2.1 Key Personnel. Consultant shall assign the key personnel identified in Exhibit A to perform the Services ("Key Personnel"). Consultant shall not remove or replace any Key Personnel without Client's prior written consent, which shall not be unreasonably withheld.
+
+2.2 Subcontractors. Consultant may engage subcontractors to perform portions of the Services with Client's prior written approval. Consultant shall remain fully responsible for the performance of any subcontractors and shall ensure that all subcontractors are bound by confidentiality obligations consistent with this Agreement.
+
+2.3 Client Personnel. Client shall make available such personnel, information, and resources as reasonably necessary for Consultant to perform the Services. Client acknowledges that Consultant's ability to meet project timelines may be dependent upon Client's timely provision of such cooperation.
+
+ARTICLE 3 - COMPENSATION
+
+3.1 Fees. Client shall pay Consultant for the Services at the rates and in the amounts set forth in the applicable SOW. Unless otherwise specified in an SOW, the following hourly rates shall apply:
+
+    (a) Senior Partner: $650 per hour
+    (b) Partner: $525 per hour
+    (c) Senior Consultant: $400 per hour
+    (d) Consultant: $300 per hour
+    (e) Analyst: $200 per hour
+
+3.2 Expenses. Client shall reimburse Consultant for all reasonable and pre-approved out-of-pocket expenses incurred in connection with the performance of the Services, including travel, lodging, and meals. Expenses exceeding $2,500 in the aggregate per month require Client's prior written approval. Consultant shall provide itemized receipts for all expenses.
+
+3.3 Invoicing. Consultant shall submit monthly invoices to Client detailing the Services performed, hours worked, and expenses incurred during the preceding month. Each invoice shall include sufficient detail to allow Client to verify the charges.
+
+3.4 Payment Terms. Client shall pay each invoice within forty-five (45) days of receipt. Payments shall be made by wire transfer to Consultant's designated bank account. Client may dispute any invoice item in good faith by providing written notice to Consultant within fifteen (15) days of receipt of the invoice, specifying the disputed amount and the basis for the dispute.
+
+3.5 Late Payments. Amounts not paid when due shall accrue interest at one percent (1%) per month or the maximum rate permitted by law, whichever is less. In the event of non-payment exceeding sixty (60) days, Consultant may suspend performance of the Services upon ten (10) days' written notice.
+
+ARTICLE 4 - TERM AND TERMINATION
+
+4.1 Term. This Agreement shall commence on the Effective Date and shall continue for a period of twenty-four (24) months, unless earlier terminated as provided herein (the "Term").
+
+4.2 Termination for Convenience. Either Party may terminate this Agreement for any reason upon thirty (30) days' prior written notice to the other Party.
+
+4.3 Termination for Cause. Either Party may terminate this Agreement immediately upon written notice if the other Party: (a) materially breaches any provision of this Agreement and fails to cure such breach within fifteen (15) days after receipt of written notice specifying the breach; or (b) becomes insolvent, makes an assignment for the benefit of creditors, or files or has filed against it a petition in bankruptcy.
+
+4.4 Effect of Termination. Upon termination of this Agreement: (a) Consultant shall cease all Services and deliver to Client all completed and in-progress deliverables; (b) Client shall pay Consultant for all Services performed and expenses incurred through the effective date of termination; and (c) each Party shall return or destroy all Confidential Information of the other Party.
+
+4.5 Survival. Sections 5 (Confidentiality), 6 (Intellectual Property), 7 (Indemnification), 8 (Limitation of Liability), and 10 (Governing Law) shall survive the expiration or termination of this Agreement.
+
+ARTICLE 5 - CONFIDENTIALITY
+
+5.1 Definition. "Confidential Information" means all non-public information of a Party, whether disclosed orally, in writing, electronically, or by other means, including business plans, financial data, customer information, technical data, trade secrets, and proprietary methodologies.
+
+5.2 Non-Disclosure. Each Party agrees: (a) to hold the other Party's Confidential Information in strict confidence; (b) not to disclose such Confidential Information to any third party except as permitted herein; and (c) to use such Confidential Information solely for the purposes of this Agreement.
+
+5.3 Permitted Disclosures. A Party may disclose the other Party's Confidential Information to its employees, agents, and subcontractors who have a need to know and are bound by written confidentiality obligations no less restrictive than those in this Agreement.
+
+5.4 Exclusions. Confidential Information does not include information that: (a) is or becomes publicly known through no breach of this Agreement; (b) was in the receiving Party's possession prior to disclosure; (c) is received from a third party without restriction and without breach of any obligation of confidentiality; or (d) is independently developed without use of the disclosing Party's Confidential Information.
+
+5.5 Duration. The confidentiality obligations under this Article 5 shall remain in effect for five (5) years following the expiration or termination of this Agreement.
+
+ARTICLE 6 - INTELLECTUAL PROPERTY
+
+6.1 Pre-Existing IP. Each Party retains all right, title, and interest in its pre-existing intellectual property. Nothing in this Agreement transfers ownership of either Party's pre-existing intellectual property to the other Party.
+
+6.2 Work Product. All deliverables, reports, analyses, recommendations, and other work product created by Consultant specifically for Client under this Agreement ("Work Product") shall be the exclusive property of Client upon full payment of all fees and expenses relating thereto. Consultant hereby assigns to Client all right, title, and interest in and to the Work Product.
+
+6.3 Consultant Tools. Notwithstanding Section 6.2, Consultant retains all right, title, and interest in its proprietary methodologies, frameworks, tools, templates, and know-how developed prior to or independently of this Agreement ("Consultant Tools"). To the extent any Consultant Tools are incorporated into the Work Product, Consultant grants Client a non-exclusive, perpetual, royalty-free license to use such Consultant Tools solely as part of the Work Product.
+
+6.4 Moral Rights. To the extent permitted by applicable law, Consultant waives all moral rights in the Work Product.
+
+ARTICLE 7 - INDEMNIFICATION
+
+7.1 By Consultant. Consultant shall indemnify, defend, and hold harmless Client and its affiliates, officers, directors, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) Consultant's gross negligence or willful misconduct; (b) any claim that the Work Product infringes a third party's intellectual property rights; or (c) Consultant's breach of this Agreement.
+
+7.2 By Client. Client shall indemnify, defend, and hold harmless Consultant and its partners, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) Client's use of the Work Product; (b) Client's gross negligence or willful misconduct; or (c) Client's breach of this Agreement.
+
+7.3 Indemnification Procedure. The indemnified Party shall: (a) promptly notify the indemnifying Party in writing of any claim; (b) grant the indemnifying Party sole control of the defense and settlement of such claim; and (c) provide reasonable cooperation at the indemnifying Party's expense. Failure to provide timely notice shall not relieve the indemnifying Party of its obligations except to the extent materially prejudiced by such failure.
+
+ARTICLE 8 - LIMITATION OF LIABILITY
+
+8.1 Liability Cap. EXCEPT FOR OBLIGATIONS UNDER ARTICLE 5 (CONFIDENTIALITY) AND ARTICLE 7 (INDEMNIFICATION), NEITHER PARTY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL EXCEED THE TOTAL FEES PAID OR PAYABLE BY CLIENT TO CONSULTANT UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE LIABILITY.
+
+8.2 Exclusion of Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, BUSINESS, OR GOODWILL, REGARDLESS OF THE FORM OF ACTION OR THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ARTICLE 9 - REPRESENTATIONS AND WARRANTIES
+
+9.1 Consultant Representations. Consultant represents and warrants that: (a) it has the authority and capacity to enter into this Agreement; (b) the Services will be performed in accordance with the applicable SOW and professional standards; (c) the Work Product will be original and will not infringe any third party's intellectual property rights; and (d) Consultant has all necessary licenses and permits to perform the Services.
+
+9.2 Client Representations. Client represents and warrants that: (a) it has the authority and capacity to enter into this Agreement; and (b) it will provide accurate and complete information as reasonably needed for Consultant to perform the Services.
+
+9.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, CONSULTANT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+ARTICLE 10 - GOVERNING LAW AND DISPUTE RESOLUTION
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois, without regard to its conflict of laws principles.
+
+10.2 Mediation. Prior to initiating any legal proceeding, the Parties shall attempt in good faith to resolve any dispute through mediation administered by JAMS in Chicago, Illinois. The costs of mediation shall be shared equally by the Parties.
+
+10.3 Arbitration. If a dispute is not resolved through mediation within forty-five (45) days, the dispute shall be resolved by binding arbitration administered by JAMS in accordance with its Comprehensive Arbitration Rules. The arbitration shall take place in Chicago, Illinois, before a single arbitrator mutually selected by the Parties.
+
+10.4 Attorneys' Fees. In any legal proceeding arising out of this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs from the non-prevailing Party.
+
+ARTICLE 11 - GENERAL PROVISIONS
+
+11.1 Entire Agreement. This Agreement, together with all Exhibits and SOWs, constitutes the entire agreement between the Parties concerning the subject matter hereof.
+
+11.2 Amendments. No amendment to this Agreement shall be effective unless in writing and signed by both Parties.
+
+11.3 Assignment. Neither Party may assign this Agreement without the prior written consent of the other Party, except in connection with a merger, acquisition, or sale of all or substantially all of the assigning Party's assets.
+
+11.4 Notices. All notices shall be in writing and delivered personally, by certified mail (return receipt requested), by nationally recognized overnight courier, or by email with confirmation of receipt.
+
+11.5 Force Majeure. Neither Party shall be liable for delays or failures in performance resulting from causes beyond its reasonable control, including natural disasters, war, terrorism, government actions, labor disputes, or internet or telecommunications failures.
+
+11.6 Non-Solicitation. During the Term and for twelve (12) months thereafter, neither Party shall solicit or hire any employee or contractor of the other Party who was involved in the performance of this Agreement, without the other Party's prior written consent.
+
+11.7 Waiver. No waiver of any provision of this Agreement shall be effective unless in writing and signed by the waiving Party.
+
+11.8 Severability. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+11.9 Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original.
+
+11.10 Independent Contractor. Consultant is an independent contractor and nothing in this Agreement creates an employment, agency, or partnership relationship.
+
+EXHIBIT A - SCOPE OF SERVICES AND KEY PERSONNEL
+
+Project: Digital Transformation Strategic Assessment and Implementation Roadmap
+
+Phase 1 - Assessment (Months 1-3):
+  - Current state technology and process assessment
+  - Stakeholder interviews and requirements gathering
+  - Competitive landscape analysis
+  - Gap analysis and opportunity identification
+
+Phase 2 - Strategy Development (Months 3-6):
+  - Digital transformation strategy formulation
+  - Technology platform evaluation and recommendation
+  - Implementation roadmap and phasing plan
+  - Business case development with ROI projections
+
+Phase 3 - Implementation Support (Months 6-24):
+  - Program management and governance framework
+  - Vendor selection and management support
+  - Change management and training program design
+  - Progress monitoring and quarterly business reviews
+
+Key Personnel:
+  - James R. Morrison, Senior Partner (Project Sponsor)
+  - Dr. Angela Liu, Partner (Engagement Lead)
+  - Michael Torres, Senior Consultant (Project Manager)
+  - Rebecca Okafor, Consultant (Business Analyst)
+  - Tyler Yamamoto, Analyst (Research and Data)
+
+Estimated Project Budget: $1,450,000 - $1,750,000
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+WESTBROOK INDUSTRIES, INC.
+
+By: ___________________________
+Name: Robert J. Westbrook III
+Title: Chief Executive Officer
+Date: ___________________________
+
+PINNACLE STRATEGY PARTNERS, LLP
+
+By: ___________________________
+Name: James R. Morrison
+Title: Senior Managing Partner
+Date: ___________________________

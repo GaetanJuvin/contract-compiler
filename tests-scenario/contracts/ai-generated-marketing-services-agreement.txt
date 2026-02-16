@@ -1,0 +1,172 @@
+MARKETING SERVICES AGREEMENT
+
+This Marketing Services Agreement ("Agreement") is entered into as of February 10, 2026 ("Effective Date"), by and between:
+
+CLIENT: Solstice Beverages, Inc., a Georgia corporation, with its principal place of business at 1180 Peachtree Street NE, Suite 2500, Atlanta, GA 30309 ("Client")
+
+and
+
+AGENCY: Brightwave Digital Marketing, LLC, a New York limited liability company, with its principal place of business at 375 Hudson Street, 8th Floor, New York, NY 10014 ("Agency")
+
+(collectively, the "Parties")
+
+RECITALS
+
+WHEREAS, Client is a specialty beverage company seeking to expand its brand presence and digital marketing capabilities; and
+
+WHEREAS, Agency is a full-service digital marketing firm with expertise in brand strategy, digital advertising, social media management, and content creation; and
+
+WHEREAS, Client wishes to engage Agency to provide comprehensive marketing services as described herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth below, the Parties agree as follows:
+
+1. SCOPE OF SERVICES
+
+1.1 Services. Agency shall provide the following marketing services to Client (the "Services"):
+
+    (a) Brand Strategy and Positioning: Development and refinement of Client's brand strategy, positioning, messaging framework, and brand guidelines;
+
+    (b) Digital Advertising: Planning, creation, execution, and management of digital advertising campaigns across search engines, social media platforms, display networks, and programmatic channels;
+
+    (c) Social Media Management: Development and execution of social media content strategy across Client's designated platforms, including content creation, community management, and social listening;
+
+    (d) Content Marketing: Creation of original content including blog posts, articles, infographics, videos, email newsletters, and downloadable assets to support Client's marketing objectives;
+
+    (e) Search Engine Optimization: On-page and off-page SEO strategy and implementation, keyword research, technical SEO audits, and link-building activities;
+
+    (f) Analytics and Reporting: Implementation and management of analytics tracking, monthly performance reports, and quarterly strategic reviews; and
+
+    (g) Such other marketing services as may be mutually agreed upon in writing.
+
+1.2 Campaign Plans. Prior to commencing any new campaign or initiative, Agency shall prepare and submit to Client a detailed campaign plan outlining the objectives, strategy, tactics, timeline, budget, and expected key performance indicators. Client must approve each campaign plan in writing before Agency commences execution.
+
+1.3 Client Approval. All creative materials, advertisements, and public-facing content shall be submitted to Client for review and approval prior to publication or distribution. Client shall provide feedback or approval within five (5) business days of receipt. If Client fails to respond within such period, Agency may follow up in writing, and if no response is received within an additional three (3) business days, the materials shall be deemed approved.
+
+1.4 Standards. Agency shall perform the Services in a professional manner consistent with industry best practices. Agency shall comply with all applicable advertising laws, regulations, and platform-specific advertising policies, including FTC guidelines regarding endorsements and disclosures.
+
+2. FEES AND PAYMENT
+
+2.1 Monthly Retainer. Client shall pay Agency a monthly retainer fee of $45,000.00 (the "Retainer") for the core Services described in Section 1.1(a) through (f). The Retainer covers Agency's labor, overhead, and project management costs.
+
+2.2 Media Spend. In addition to the Retainer, Client shall fund all media purchases and advertising spend ("Media Spend") as agreed upon in approved campaign plans. Agency shall manage Media Spend on Client's behalf. Agency shall receive a media management fee equal to ten percent (10%) of total monthly Media Spend.
+
+2.3 Out-of-Scope Work. Services beyond the scope of Section 1.1 or exceeding the agreed-upon deliverables shall be quoted separately by Agency and require Client's written approval before commencement.
+
+2.4 Invoicing. Agency shall submit invoices to Client on the first business day of each month for: (a) the Retainer for the current month; and (b) Media Spend, media management fees, and any approved out-of-scope work for the preceding month. All invoices shall include reasonable detail supporting the charges.
+
+2.5 Payment Terms. All invoices are due and payable within thirty (30) days of the invoice date. Late payments shall accrue interest at one percent (1%) per month on the outstanding balance.
+
+2.6 Expense Reimbursement. Client shall reimburse Agency for pre-approved reasonable out-of-pocket expenses incurred in connection with the Services, including stock photography/footage licensing, talent fees, production costs, and travel expenses authorized in advance by Client.
+
+3. TERM AND TERMINATION
+
+3.1 Initial Term. This Agreement shall commence on the Effective Date and continue for an initial term of twelve (12) months (the "Initial Term").
+
+3.2 Renewal. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive six (6) month periods unless either Party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+3.3 Termination for Cause. Either Party may terminate this Agreement upon written notice if the other Party materially breaches any provision of this Agreement and fails to cure such breach within thirty (30) days of receiving written notice thereof.
+
+3.4 Termination for Convenience. Either Party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other Party.
+
+3.5 Effect of Termination. Upon termination or expiration:
+    (a) Agency shall cease all Services and wind down active campaigns in an orderly manner;
+    (b) Agency shall deliver to Client all completed and in-progress work product, creative assets, account credentials, and campaign data;
+    (c) Client shall pay Agency for all Services rendered, media commitments made, and expenses incurred through the effective date of termination;
+    (d) Agency shall cooperate with Client and any successor agency during a reasonable transition period not to exceed thirty (30) days; and
+    (e) Any pre-paid media commitments that cannot be cancelled shall remain Client's financial responsibility.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Client Materials. Client shall provide Agency with access to Client's logos, trademarks, brand guidelines, product images, and other proprietary materials as needed for the Services ("Client Materials"). Client retains all right, title, and interest in the Client Materials.
+
+4.2 Work Product. All deliverables, creative works, content, designs, and other materials created by Agency specifically for Client under this Agreement ("Work Product") shall be the property of Client upon full payment. Agency hereby assigns to Client all right, title, and interest in the Work Product, including all intellectual property rights therein.
+
+4.3 Agency Tools. Agency retains ownership of its proprietary tools, methodologies, templates, software, and general know-how ("Agency Tools"). To the extent Agency Tools are incorporated into the Work Product, Agency grants Client a non-exclusive, perpetual, royalty-free license to use such Agency Tools solely in connection with the Work Product.
+
+4.4 Third-Party Materials. Any third-party materials incorporated into the Work Product (such as stock photography, licensed fonts, or third-party software) shall be subject to the applicable third-party license terms. Agency shall identify all such third-party materials and ensure appropriate licenses are obtained.
+
+4.5 Portfolio Rights. Agency may reference the Client relationship and display samples of the Work Product in Agency's portfolio, website, and marketing materials, unless Client provides written objection.
+
+5. CONFIDENTIALITY
+
+5.1 Confidential Information. Each Party acknowledges that it may receive confidential and proprietary information from the other Party, including business strategies, financial data, customer lists, product plans, campaign performance data, and trade secrets ("Confidential Information").
+
+5.2 Non-Disclosure. Each Party shall: (a) hold the other Party's Confidential Information in strict confidence; (b) not disclose such information to third parties without prior written consent; and (c) use such information solely for the purposes of this Agreement.
+
+5.3 Exceptions. These obligations do not apply to information that: (a) is publicly available through no fault of the receiving Party; (b) was known to the receiving Party prior to disclosure; (c) is independently developed without reference to the Confidential Information; or (d) is required to be disclosed by law, provided that the receiving Party gives prompt notice to the disclosing Party.
+
+5.4 Duration. Confidentiality obligations shall survive termination of this Agreement for a period of three (3) years.
+
+6. REPRESENTATIONS AND WARRANTIES
+
+6.1 Mutual. Each Party represents and warrants that it has the authority to enter into this Agreement and that its performance will not violate any other agreement or applicable law.
+
+6.2 Agency Warranties. Agency represents and warrants that: (a) the Services will be performed in a professional manner by qualified personnel; (b) the Work Product will be original or properly licensed and will not infringe any third party's intellectual property rights; (c) Agency will comply with all applicable advertising laws and regulations; and (d) Agency will not engage in any deceptive or misleading advertising practices on Client's behalf.
+
+6.3 Client Warranties. Client represents and warrants that: (a) the Client Materials provided to Agency are owned by or properly licensed to Client; (b) Client has the right to authorize Agency's use of the Client Materials; and (c) Client's products and services comply with all applicable laws and regulations.
+
+6.4 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH HEREIN, AGENCY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. AGENCY DOES NOT GUARANTEE SPECIFIC MARKETING RESULTS, SALES FIGURES, OR RETURN ON INVESTMENT.
+
+7. INDEMNIFICATION
+
+7.1 By Agency. Agency shall indemnify and hold harmless Client from claims arising from: (a) Agency's negligence or willful misconduct; (b) infringement of third-party intellectual property rights by the Work Product (excluding Client Materials); or (c) Agency's violation of applicable advertising laws.
+
+7.2 By Client. Client shall indemnify and hold harmless Agency from claims arising from: (a) the Client Materials; (b) Client's products or services; (c) Client's modification or use of the Work Product in a manner not contemplated by this Agreement; or (d) Client's breach of this Agreement.
+
+8. LIMITATION OF LIABILITY
+
+8.1 Cap. EACH PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES (EXCLUDING MEDIA SPEND) PAID OR PAYABLE BY CLIENT DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE CLAIM.
+
+8.2 Exclusions. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS OPPORTUNITY.
+
+8.3 Exceptions. The limitations in this Section 8 shall not apply to: (a) breaches of confidentiality obligations; (b) indemnification obligations; or (c) gross negligence or willful misconduct.
+
+9. NON-SOLICITATION
+
+9.1 During the Term and for twelve (12) months thereafter, neither Party shall directly solicit for employment any employee of the other Party who was materially involved in the performance of this Agreement, without the other Party's prior written consent. This restriction shall not apply to general recruitment activities not specifically targeted at the other Party's employees.
+
+10. FORCE MAJEURE
+
+10.1 Neither Party shall be liable for any delay or failure in performance resulting from causes beyond its reasonable control, including acts of God, natural disasters, war, terrorism, government actions, pandemics, labor disputes, power failures, or internet outages. The affected Party shall promptly notify the other Party and use reasonable efforts to resume performance.
+
+11. GOVERNING LAW AND DISPUTES
+
+11.1 Governing Law. This Agreement shall be governed by the laws of the State of New York, without regard to conflict of laws principles.
+
+11.2 Jurisdiction. The Parties consent to the exclusive jurisdiction of the state and federal courts located in New York County, New York, for any disputes arising under this Agreement.
+
+11.3 Attorneys' Fees. The prevailing Party in any legal proceeding shall be entitled to recover reasonable attorneys' fees and costs.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement constitutes the entire agreement between the Parties regarding its subject matter.
+
+12.2 Amendments. Amendments must be in writing and signed by both Parties.
+
+12.3 Waiver. No waiver shall be effective unless in writing.
+
+12.4 Severability. Invalid provisions shall be modified to the minimum extent necessary; remaining provisions shall continue in effect.
+
+12.5 Assignment. Neither Party may assign this Agreement without the other Party's consent, except in connection with a merger, acquisition, or sale of substantially all assets.
+
+12.6 Independent Contractor. Agency is an independent contractor. Nothing herein creates an employment, partnership, or agency relationship.
+
+12.7 Notices. Notices shall be in writing, delivered by certified mail, overnight courier, or email with read receipt to the addresses in the preamble.
+
+12.8 Counterparts. This Agreement may be executed in counterparts.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+SOLSTICE BEVERAGES, INC.
+
+By: ___________________________
+Name: Marcus A. Jefferson
+Title: Chief Marketing Officer
+Date: ___________________________
+
+BRIGHTWAVE DIGITAL MARKETING, LLC
+
+By: ___________________________
+Name: Natalie Sorensen
+Title: Managing Director
+Date: ___________________________

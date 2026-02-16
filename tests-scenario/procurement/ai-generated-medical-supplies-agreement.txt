@@ -1,0 +1,201 @@
+MEDICAL SUPPLIES PROCUREMENT AGREEMENT
+
+Contract No.: MSA-2025-0293
+Effective Date: November 18, 2025
+
+This Medical Supplies Procurement Agreement ("Agreement") is made and entered into by and between:
+
+PURCHASER: Summit Healthcare Alliance, a nonprofit corporation organized under the laws of the State of Colorado, with its principal office at 1601 East 19th Avenue, Denver, CO 80218 ("Purchaser")
+
+SUPPLIER: MedPro National Distribution, Inc., a Minnesota corporation, with its principal office at 7500 France Avenue South, Suite 200, Edina, MN 55435 ("Supplier")
+
+RECITALS
+
+WHEREAS, Purchaser is a healthcare system comprising three acute care hospitals, a rehabilitation hospital, five ambulatory surgery centers, and twenty-two physician clinics, collectively serving a patient population across the greater Denver metropolitan area;
+
+WHEREAS, Purchaser requires a comprehensive supply of medical and surgical supplies, devices, and related products to support its clinical operations;
+
+WHEREAS, Supplier is a national distributor of medical supplies and devices and is authorized to distribute the products of numerous medical device and supply manufacturers; and
+
+WHEREAS, Purchaser desires to contract with Supplier as its primary distributor for medical supplies, and Supplier desires to serve in such capacity;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+ARTICLE 1 - DEFINITIONS
+
+1.1 "Products" shall mean the medical supplies, surgical instruments, implantable devices, pharmaceutical supplies, laboratory supplies, and related items distributed by Supplier and ordered by Purchaser under this Agreement.
+
+1.2 "Catalog" shall mean Supplier's comprehensive product catalog, as updated from time to time, listing all Products available for order.
+
+1.3 "Contract Pricing" shall mean the specific pricing negotiated for high-volume Products as set forth in Schedule A.
+
+1.4 "Distribution Fee" shall mean the markup or cost-plus percentage applied to Products not covered by Contract Pricing.
+
+1.5 "Par Level" shall mean the minimum and maximum inventory levels for each Product maintained at Purchaser's facilities.
+
+1.6 "Formulary" shall mean Purchaser's approved list of Products standardized for use across its facilities.
+
+ARTICLE 2 - APPOINTMENT AND SCOPE
+
+2.1 Primary Distributor. Purchaser hereby appoints Supplier as its primary distributor of medical supplies. Purchaser shall direct no less than eighty percent (80%) of its medical supply purchases through Supplier during each contract year (the "Market Share Commitment").
+
+2.2 Excluded Categories. The following product categories are excluded from the Market Share Commitment and may be purchased from other sources: (a) capital equipment; (b) pharmaceutical drugs; (c) blood products and blood bank supplies; (d) dietary and food service supplies; (e) custom implant systems with surgeon-specific preferences; and (f) products subject to exclusive group purchasing agreements.
+
+2.3 Product Additions. Supplier shall add Products to its distribution offering as reasonably requested by Purchaser. If Supplier is unable to source a requested Product, Supplier shall notify Purchaser within ten (10) business days.
+
+ARTICLE 3 - ORDERING AND FULFILLMENT
+
+3.1 Ordering System. Supplier shall provide Purchaser with access to an electronic ordering system compatible with Purchaser's ERP and materials management systems. The ordering system shall support EDI transactions (850 Purchase Orders, 855 Acknowledgments, 856 Advance Ship Notices, and 810 Invoices).
+
+3.2 Order Cutoff and Delivery. Orders placed by 5:00 PM MST shall be delivered by the following business day for stock items. Supplier shall maintain a local distribution center or cross-dock facility within the Denver metropolitan area to support next-day delivery.
+
+3.3 Fill Rate. Supplier shall maintain a minimum fill rate of ninety-seven percent (97%) for in-stock items. Fill rate shall be measured monthly and reported to Purchaser.
+
+3.4 Backorders. Supplier shall notify Purchaser immediately of any backorder conditions and shall provide estimated availability dates. For critical items, Supplier shall source alternative products from secondary suppliers at no additional cost to Purchaser.
+
+3.5 Emergency Orders. Supplier shall maintain the capability to fulfill emergency orders within four (4) hours during normal business hours and within eight (8) hours outside normal business hours, seven days per week.
+
+3.6 Par Level Management. Supplier shall provide inventory management services, including: (a) establishing and maintaining Par Levels for each department; (b) conducting periodic inventory counts; (c) restocking to Par Levels on scheduled delivery days; and (d) monitoring usage patterns and recommending Par Level adjustments.
+
+ARTICLE 4 - PRICING
+
+4.1 Contract Pricing. The prices for high-volume Products are set forth in Schedule A ("Contract Pricing"). Contract Pricing shall be firm for the first twelve (12) months of this Agreement, after which prices may be adjusted annually as provided in Section 4.3.
+
+4.2 Distribution Fee. For Products not covered by Contract Pricing, Supplier shall apply a cost-plus distribution fee as follows:
+    (a) Med/Surg supplies (non-contract): Cost plus twelve percent (12%)
+    (b) Surgical instruments: Cost plus fifteen percent (15%)
+    (c) Specialty items: Cost plus eighteen percent (18%)
+    (d) Custom/special order items: Cost plus twenty percent (20%)
+
+4.3 Annual Price Review. Supplier may propose price adjustments for Contract Pricing Products annually, not to exceed the lesser of: (a) three percent (3%); or (b) the percentage change in the Producer Price Index for Medical Instruments and Supplies (PPI Series ID: WPU1562). Supplier shall provide sixty (60) days' written notice of proposed price changes with supporting documentation.
+
+4.4 Price Match. If Purchaser receives a bona fide written offer from a competing distributor for any Product at a lower price, Supplier shall match such price or Purchaser may purchase the Product from the competing distributor without affecting the Market Share Commitment.
+
+4.5 Rebates. Supplier shall pay Purchaser quarterly rebates based on total purchases as follows:
+    (a) Annual purchases of $5,000,000 - $10,000,000: 1.5% rebate
+    (b) Annual purchases of $10,000,001 - $20,000,000: 2.5% rebate
+    (c) Annual purchases over $20,000,000: 3.5% rebate
+
+ARTICLE 5 - DELIVERY AND LOGISTICS
+
+5.1 Delivery Locations. Supplier shall deliver Products to all of Purchaser's facilities as listed in Schedule B. Supplier shall deliver to the department level (point-of-use) for Par Level items and to the receiving dock for non-par items.
+
+5.2 Delivery Schedule. Regular deliveries shall be made according to the schedule in Schedule B. The minimum delivery frequency for acute care hospitals shall be five (5) days per week (Monday through Friday).
+
+5.3 Low-Unit-of-Measure (LUM) Delivery. Supplier shall offer Low-Unit-of-Measure delivery, allowing Purchaser to order individual units rather than full cases, for products designated in the Formulary.
+
+5.4 Delivery Accuracy. Supplier shall maintain a delivery accuracy rate of no less than ninety-nine percent (99%), measured by units correctly delivered versus units ordered.
+
+5.5 Returns. Supplier shall accept returns of Products that are: (a) shipped in error; (b) damaged in transit; (c) past expiration; (d) recalled; or (e) overstocked due to Supplier's recommendation. Returns shall be credited within fifteen (15) business days.
+
+ARTICLE 6 - QUALITY AND REGULATORY COMPLIANCE
+
+6.1 Regulatory Compliance. Supplier warrants that all Products distributed under this Agreement are: (a) FDA-cleared or approved for their intended use; (b) properly labeled in compliance with FDA requirements; (c) manufactured and stored in compliance with applicable cGMP requirements; and (d) not adulterated, misbranded, or counterfeit.
+
+6.2 Product Traceability. Supplier shall maintain full lot traceability for all Products and shall be able to identify all units of a specific lot delivered to Purchaser within twenty-four (24) hours of notification.
+
+6.3 Recalls. In the event of a product recall, Supplier shall: (a) notify Purchaser within twenty-four (24) hours; (b) assist in identifying and segregating affected Products; (c) arrange for the return or destruction of recalled Products; and (d) process credits or replacements within ten (10) business days.
+
+6.4 Unique Device Identification (UDI). Supplier shall support UDI compliance by including UDI data in electronic transactions, labeling, and product databases.
+
+6.5 Expiration Date Management. Supplier shall not deliver Products with less than seventy-five percent (75%) of their shelf life remaining. Supplier shall manage expiration dating for Par Level items and replace products approaching expiration at no cost to Purchaser.
+
+ARTICLE 7 - PAYMENT
+
+[ANOMALY: Circular dependency between payment and delivery conditions]
+7.1 Invoicing. Supplier shall submit electronic invoices through the EDI system upon shipment of Products. Invoices shall include: (a) PO number; (b) item descriptions and catalog numbers; (c) quantities and unit prices; (d) lot numbers for tracked items; and (e) applicable taxes.
+
+7.2 Payment Terms. Purchaser shall pay all undisputed invoices within forty-five (45) days of receipt.
+
+7.3 Payment Conditions. Notwithstanding Section 7.2, payment for any invoice shall not be due until Purchaser has verified that all Products on the invoice have been received, inspected, and accepted. Supplier shall not ship subsequent orders for any facility with disputed invoices exceeding Fifty Thousand Dollars ($50,000) until the dispute is resolved. Resolution of disputes shall require verification by both Parties, which shall not commence until Purchaser has made payment in full on the disputed invoice.
+
+7.4 Prompt Pay Discount. Supplier shall offer a one percent (1%) discount for payments made within fifteen (15) days of invoice receipt.
+
+ARTICLE 8 - VALUE-ADDED SERVICES
+
+8.1 Clinical Support. Supplier shall provide clinical specialists to assist Purchaser with product evaluation, standardization initiatives, and conversion support.
+
+8.2 Data Analytics. Supplier shall provide Purchaser with access to a business intelligence platform offering: (a) spend analytics by facility, department, and product category; (b) contract compliance reporting; (c) utilization benchmarking; and (d) savings opportunity identification.
+
+8.3 Supply Chain Consulting. Supplier shall assign a dedicated account team, including a strategic account manager and supply chain consultant, to work with Purchaser on: (a) supply chain optimization; (b) inventory reduction initiatives; (c) product standardization; and (d) cost savings programs.
+
+8.4 Education and Training. Supplier shall provide in-service training on new Products and technologies at no additional charge.
+
+ARTICLE 9 - WARRANTIES AND REPRESENTATIONS
+
+9.1 Product Warranties. All Products carry the original manufacturer's warranty. Supplier shall facilitate warranty claims on behalf of Purchaser.
+
+9.2 Supplier Representations. Supplier represents and warrants that: (a) it is authorized to distribute all Products offered; (b) all Products are sourced through authorized channels; (c) Supplier maintains appropriate licenses and certifications; and (d) Supplier is not debarred or excluded from participation in federal healthcare programs.
+
+9.3 Anti-Kickback Compliance. The Parties acknowledge that this Agreement is intended to comply with the Anti-Kickback Statute (42 U.S.C. Section 1320a-7b) and its safe harbors. All pricing, discounts, and rebates shall be properly disclosed and reported by Purchaser in accordance with applicable law.
+
+ARTICLE 10 - INDEMNIFICATION AND LIABILITY
+
+10.1 Mutual Indemnification. Each Party shall indemnify the other against third-party claims arising from the indemnifying Party's negligence, willful misconduct, or material breach of this Agreement.
+
+10.2 Product Liability. Supplier shall maintain product liability insurance of not less than Ten Million Dollars ($10,000,000) per occurrence and shall indemnify Purchaser against claims arising from defective, contaminated, or counterfeit Products.
+
+10.3 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES. EACH PARTY'S TOTAL LIABILITY SHALL NOT EXCEED THE TOTAL AMOUNTS PAID OR PAYABLE UNDER THIS AGREEMENT IN THE TWENTY-FOUR (24) MONTHS PRECEDING THE CLAIM.
+
+ARTICLE 11 - CONFIDENTIALITY AND DATA SECURITY
+
+11.1 Confidentiality. Each Party shall maintain the confidentiality of the other's proprietary information, including pricing, purchasing data, clinical data, and business strategies.
+
+11.2 HIPAA. To the extent Supplier may access Protected Health Information in the course of performing under this Agreement, Supplier shall execute a Business Associate Agreement in the form attached as Schedule C.
+
+11.3 Data Security. Supplier shall implement appropriate administrative, technical, and physical safeguards to protect Purchaser's data in accordance with HIPAA, HITECH, and applicable state privacy laws.
+
+ARTICLE 12 - TERM AND TERMINATION
+
+12.1 Term. This Agreement shall have an initial term of five (5) years from the Effective Date, automatically renewing for successive two (2) year terms unless either Party provides two hundred seventy (270) days' written notice of non-renewal.
+
+12.2 Termination for Cause. Either Party may terminate upon sixty (60) days' notice for material uncured breach.
+
+12.3 Termination for Convenience. Either Party may terminate upon three hundred sixty-five (365) days' notice without cause.
+
+12.4 Transition. Upon termination, Supplier shall cooperate in an orderly transition to a successor distributor over a period of at least one hundred eighty (180) days, including: (a) continuing to supply Products; (b) providing inventory and order history data; (c) transitioning Par Level programs; and (d) supporting system integration with the successor.
+
+ARTICLE 13 - GENERAL PROVISIONS
+
+13.1 Governing Law. This Agreement shall be governed by the laws of the State of Colorado.
+
+13.2 Dispute Resolution. Disputes shall be submitted to mediation in Denver, Colorado. If unresolved within sixty (60) days, either Party may pursue binding arbitration under AAA Healthcare Rules.
+
+13.3 Force Majeure. Neither Party shall be liable for performance failures due to events beyond reasonable control, including pandemics, supply chain disruptions, and government actions.
+
+13.4 Compliance. Both Parties shall comply with all applicable federal, state, and local laws, including the False Claims Act, the Sunshine Act, and state procurement transparency requirements.
+
+13.5 Insurance. Supplier shall maintain: (a) CGL: $5,000,000 per occurrence; (b) Products Liability: $10,000,000; (c) Professional Liability: $5,000,000; (d) Cyber Liability: $5,000,000; (e) Workers' Compensation: statutory; (f) Commercial Auto: $1,000,000.
+
+13.6 Entire Agreement. This Agreement and all Schedules constitute the entire agreement.
+
+13.7 Amendments. Must be in writing and signed by both Parties.
+
+13.8 Notices. All notices in writing to the addresses above.
+
+13.9 Counterparts. May be executed in counterparts.
+
+IN WITNESS WHEREOF:
+
+SUMMIT HEALTHCARE ALLIANCE
+
+By: ___________________________
+Name: Dr. Laura K. Andersen
+Title: Chief Supply Chain Officer
+Date: November 18, 2025
+
+MEDPRO NATIONAL DISTRIBUTION, INC.
+
+By: ___________________________
+Name: Gregory T. Morrison
+Title: Executive Vice President, Health Systems
+Date: November 18, 2025
+
+SCHEDULE A - CONTRACT PRICING
+[To be attached]
+
+SCHEDULE B - DELIVERY LOCATIONS AND SCHEDULES
+[To be attached]
+
+SCHEDULE C - BUSINESS ASSOCIATE AGREEMENT
+[To be attached]

@@ -1,0 +1,163 @@
+GOODS PURCHASE AGREEMENT
+
+Contract No.: GPA-2025-0482
+Date of Execution: November 3, 2025
+
+This Goods Purchase Agreement ("Agreement") is entered into as of the date first written above, by and between:
+
+BUYER: Meridian Industrial Solutions, Inc., a Delaware corporation with its principal place of business at 1400 Commerce Boulevard, Suite 300, Wilmington, DE 19801 ("Buyer")
+
+SELLER: Praxon Manufacturing Group, LLC, a Texas limited liability company with its principal place of business at 7820 Industrial Park Drive, Houston, TX 77041 ("Seller")
+
+(collectively referred to as the "Parties" and individually as a "Party")
+
+RECITALS
+
+WHEREAS, Seller is engaged in the business of manufacturing and selling industrial-grade fastening systems, structural components, and related hardware; and
+
+WHEREAS, Buyer desires to purchase from Seller, and Seller desires to sell to Buyer, certain goods as more particularly described herein, subject to the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+ARTICLE 1 - DEFINITIONS
+
+1.1 "Goods" shall mean the industrial fastening systems, structural bolts, anchor assemblies, and related hardware components as described in Exhibit A attached hereto and incorporated herein by reference.
+
+1.2 "Purchase Order" shall mean a written order issued by Buyer to Seller specifying the type, quantity, price, and delivery date of Goods to be purchased under this Agreement.
+
+1.3 "Delivery Date" shall mean the date specified in each Purchase Order by which Seller shall deliver the Goods to Buyer.
+
+1.4 "Specifications" shall mean the technical specifications, drawings, standards, and other requirements for the Goods as set forth in Exhibit B attached hereto.
+
+1.5 "Acceptance" shall mean Buyer's written confirmation that the Goods conform to the Specifications and the terms of the applicable Purchase Order.
+
+ARTICLE 2 - PURCHASE AND SALE
+
+2.1 Agreement to Sell. Seller agrees to manufacture and sell to Buyer, and Buyer agrees to purchase from Seller, the Goods in accordance with the terms and conditions of this Agreement and the applicable Purchase Orders.
+
+2.2 Purchase Orders. Buyer shall submit Purchase Orders to Seller from time to time during the Term of this Agreement. Each Purchase Order shall specify: (a) the description and quantity of Goods ordered; (b) the unit price; (c) the requested Delivery Date; and (d) the delivery location. Seller shall accept or reject each Purchase Order within five (5) business days of receipt.
+
+2.3 Minimum Order Quantities. The minimum order quantity for each Purchase Order shall be five hundred (500) units per SKU, unless otherwise agreed in writing by the Parties.
+
+2.4 Forecasting. Buyer shall provide Seller with a rolling twelve (12) month non-binding forecast of anticipated Goods requirements, updated quarterly. Such forecasts are for planning purposes only and shall not constitute a binding commitment to purchase.
+
+ARTICLE 3 - PRICING AND PAYMENT
+
+3.1 Pricing. The unit prices for the Goods are set forth in Exhibit A. Prices are stated in United States Dollars and are exclusive of applicable taxes, duties, and shipping charges.
+
+3.2 Price Adjustments. Seller may adjust prices no more than once per calendar year, with at least ninety (90) days' prior written notice to Buyer. Any price increase shall not exceed five percent (5%) of the then-current price, unless due to documented increases in raw material costs exceeding ten percent (10%).
+
+3.3 Payment Terms. Buyer shall pay all undisputed invoices within thirty (30) days of receipt of a correct invoice ("Net-30"). Invoices shall be issued upon shipment of Goods.
+
+3.4 Late Payment. Any undisputed amounts not paid within the payment period specified in Section 3.3 shall bear interest at the rate of one and one-half percent (1.5%) per month, or the maximum rate permitted by applicable law, whichever is less.
+
+3.5 Disputed Invoices. Buyer shall notify Seller in writing of any disputed invoice amounts within fifteen (15) days of receipt of such invoice. The Parties shall negotiate in good faith to resolve any invoice disputes within thirty (30) days of Buyer's notice.
+
+ARTICLE 4 - DELIVERY
+
+4.1 Delivery Terms. Unless otherwise specified in a Purchase Order, all Goods shall be delivered FCA (Incoterms 2020) Seller's facility in Houston, Texas. Title and risk of loss shall pass to Buyer upon delivery to the carrier at Seller's facility.
+
+4.2 Delivery Schedule. Seller shall deliver Goods on or before the Delivery Date specified in each Purchase Order. Time is of the essence with respect to delivery obligations.
+
+4.3 Partial Shipments. Partial shipments are permitted only with Buyer's prior written consent, unless the Purchase Order expressly authorizes partial shipments.
+
+4.4 Packaging. Seller shall pack and label all Goods in accordance with Buyer's packaging specifications as set forth in Exhibit C, or in the absence of such specifications, in a manner suitable for the type of Goods and mode of transportation.
+
+4.5 Late Delivery. In the event of late delivery, Buyer may, at its sole discretion: (a) accept late delivery; (b) cancel the Purchase Order in whole or in part without liability; or (c) require expedited shipping at Seller's expense. Seller shall be liable for liquidated damages of one percent (1%) of the value of the late Goods for each calendar day of delay, up to a maximum of ten percent (10%).
+
+ARTICLE 5 - INSPECTION AND ACCEPTANCE
+
+5.1 Inspection Rights. Buyer shall have the right to inspect and test the Goods within fifteen (15) business days following delivery ("Inspection Period"). Buyer may conduct incoming quality inspections, dimensional checks, material composition testing, and functional testing.
+
+5.2 Rejection. If any Goods fail to conform to the Specifications or the terms of the applicable Purchase Order, Buyer may reject such Goods by written notice to Seller within the Inspection Period. Rejected Goods shall be returned to Seller at Seller's expense.
+
+5.3 Cure. Upon receipt of notice of rejection, Seller shall, at Buyer's option, either: (a) replace the nonconforming Goods with conforming Goods within ten (10) business days; or (b) refund the purchase price for the rejected Goods.
+
+5.4 Deemed Acceptance. Goods not rejected within the Inspection Period shall be deemed accepted, provided that such deemed acceptance shall not waive Buyer's rights with respect to latent defects.
+
+ARTICLE 6 - WARRANTIES
+
+6.1 Product Warranty. Seller warrants that all Goods delivered under this Agreement shall: (a) conform to the Specifications; (b) be free from defects in materials and workmanship; (c) be merchantable and fit for the particular purpose made known to Seller; and (d) comply with all applicable laws, regulations, and industry standards.
+
+6.2 Warranty Period. The warranty period shall be twenty-four (24) months from the date of Acceptance or thirty (30) months from the date of shipment, whichever occurs first.
+
+6.3 Warranty Remedies. In the event of a warranty breach, Seller shall, at Buyer's option and at Seller's sole cost and expense: (a) repair the defective Goods; (b) replace the defective Goods; or (c) refund the purchase price.
+
+6.4 Epidemic Failure. If defects of a similar nature are found in five percent (5%) or more of the Goods delivered in any single shipment or over any six-month period, Seller shall, at its expense, conduct a root cause analysis and implement corrective actions. Buyer may, at its option, require Seller to recall and replace all Goods potentially affected.
+
+ARTICLE 7 - INDEMNIFICATION AND LIABILITY
+
+7.1 Seller's Indemnification. Seller shall defend, indemnify, and hold harmless Buyer and its officers, directors, employees, and agents from and against any and all claims, damages, losses, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to: (a) any breach of this Agreement by Seller; (b) any defect in the Goods; (c) any negligent or willful act or omission of Seller; or (d) any infringement of third-party intellectual property rights.
+
+7.2 Limitation of Liability. EXCEPT FOR CLAIMS ARISING UNDER SECTIONS 7.1 AND 8 (CONFIDENTIALITY), NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT, REGARDLESS OF THE FORM OF ACTION OR THEORY OF LIABILITY.
+
+7.3 Liability Cap. EXCEPT FOR CLAIMS ARISING UNDER SECTIONS 7.1 AND 8, EACH PARTY'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL AMOUNTS PAID OR PAYABLE BY BUYER TO SELLER IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+ARTICLE 8 - CONFIDENTIALITY
+
+8.1 Confidential Information. Each Party acknowledges that it may receive confidential and proprietary information of the other Party in connection with this Agreement. The receiving Party shall maintain the confidentiality of such information and shall not disclose it to any third party without the prior written consent of the disclosing Party.
+
+8.2 Exceptions. The confidentiality obligations shall not apply to information that: (a) is or becomes publicly available through no fault of the receiving Party; (b) was already known to the receiving Party prior to disclosure; (c) is independently developed by the receiving Party; or (d) is required to be disclosed by law or court order.
+
+8.3 Duration. The confidentiality obligations shall survive the termination or expiration of this Agreement for a period of three (3) years.
+
+ARTICLE 9 - TERM AND TERMINATION
+
+9.1 Term. This Agreement shall commence on the date first written above and shall continue for a period of three (3) years, unless earlier terminated in accordance with this Article 9 (the "Initial Term"). Thereafter, this Agreement shall automatically renew for successive one (1) year periods (each a "Renewal Term") unless either Party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term.
+
+9.2 Termination for Cause. Either Party may terminate this Agreement immediately upon written notice if the other Party: (a) materially breaches this Agreement and fails to cure such breach within thirty (30) days after receipt of written notice; (b) becomes insolvent, files for bankruptcy, or has a receiver appointed for its assets; or (c) ceases to conduct business in the normal course.
+
+9.3 Termination for Convenience. Buyer may terminate this Agreement for convenience upon sixty (60) days' prior written notice to Seller. In the event of such termination, Buyer shall pay Seller for all Goods delivered and accepted prior to the effective date of termination, as well as for any work-in-progress or raw materials purchased by Seller specifically for Buyer's orders that cannot reasonably be used for other purposes.
+
+9.4 Survival. Articles 6, 7, 8, and 10 shall survive the termination or expiration of this Agreement.
+
+ARTICLE 10 - GENERAL PROVISIONS
+
+10.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflicts of law principles.
+
+10.2 Dispute Resolution. Any dispute arising out of or relating to this Agreement shall first be submitted to mediation in Wilmington, Delaware. If mediation fails to resolve the dispute within sixty (60) days, either Party may submit the dispute to binding arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules.
+
+10.3 Force Majeure. Neither Party shall be liable for any failure or delay in performance due to causes beyond its reasonable control, including but not limited to acts of God, war, terrorism, government action, pandemic, fire, flood, earthquake, or labor disputes. The affected Party shall provide prompt written notice and use commercially reasonable efforts to mitigate the impact.
+
+10.4 Assignment. Neither Party may assign this Agreement or any rights hereunder without the prior written consent of the other Party, except that either Party may assign this Agreement to an affiliate or in connection with a merger, acquisition, or sale of substantially all of its assets.
+
+10.5 Notices. All notices under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by confirmed email, or sent by nationally recognized overnight courier to the addresses set forth above.
+
+10.6 Entire Agreement. This Agreement, together with all Exhibits and Purchase Orders, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, negotiations, and understandings, whether written or oral.
+
+10.7 Amendment. This Agreement may not be amended or modified except by a written instrument executed by both Parties.
+
+10.8 Severability. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.9 Waiver. The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver of such provision or the right to enforce it at a later time.
+
+10.10 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same agreement.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+MERIDIAN INDUSTRIAL SOLUTIONS, INC.
+
+By: ___________________________
+Name: Richard K. Thornton
+Title: Vice President, Procurement
+Date: November 3, 2025
+
+PRAXON MANUFACTURING GROUP, LLC
+
+By: ___________________________
+Name: Angela M. Vasquez
+Title: Director of Sales
+Date: November 3, 2025
+
+
+EXHIBIT A - GOODS AND PRICING
+
+[To be attached]
+
+EXHIBIT B - SPECIFICATIONS
+
+[To be attached]
+
+EXHIBIT C - PACKAGING REQUIREMENTS
+
+[To be attached]

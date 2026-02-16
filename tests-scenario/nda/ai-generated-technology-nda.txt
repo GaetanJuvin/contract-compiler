@@ -1,0 +1,159 @@
+TECHNOLOGY NON-DISCLOSURE AND INTELLECTUAL PROPERTY PROTECTION AGREEMENT
+
+This Technology Non-Disclosure and Intellectual Property Protection Agreement ("Agreement") is effective as of February 10, 2026 (the "Effective Date"), by and between:
+
+Licensor: CyberForge Labs, Inc., a Washington corporation, with offices at 500 Yale Avenue North, Suite 300, Seattle, WA 98109 ("CyberForge");
+
+Licensee: Integrated Systems Alliance, GmbH, a company organized under the laws of Germany, with offices at Leopoldstrasse 244, 80807 Munich, Germany ("ISA").
+
+(CyberForge and ISA are each a "Party" and collectively the "Parties.")
+
+RECITALS
+
+A. CyberForge has developed and owns proprietary technology relating to post-quantum cryptographic algorithms, secure multi-party computation protocols, and zero-knowledge proof systems (the "Technology").
+
+B. ISA desires to evaluate the Technology for potential licensing, integration, or co-development purposes (the "Evaluation").
+
+C. CyberForge is willing to provide ISA with access to certain technical information and materials relating to the Technology, subject to the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and the access to Confidential Information to be provided hereunder, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Confidential Information" means all technical, scientific, and business information relating to the Technology that is disclosed by CyberForge to ISA, whether in written, oral, visual, electronic, or tangible form, including but not limited to:
+
+   (a) Algorithms, mathematical models, cryptographic protocols, and computational methods;
+   (b) Source code, object code, pseudocode, flowcharts, and software documentation;
+   (c) System architectures, network topologies, hardware specifications, and integration guides;
+   (d) Research papers, technical reports, white papers, and unpublished manuscripts;
+   (e) Test data, benchmarking results, performance metrics, and security audit reports;
+   (f) Patent applications, invention disclosures, and intellectual property strategies;
+   (g) API specifications, data formats, communication protocols, and interface definitions;
+   (h) Roadmaps, development timelines, and planned features; and
+   (i) Pricing, licensing terms, and commercial strategies related to the Technology.
+
+1.2 "Materials" means any tangible or electronic materials provided by CyberForge to ISA containing Confidential Information, including software (in source or binary form), documentation, samples, prototypes, and evaluation kits.
+
+2. EXCLUSIONS
+
+2.1 Confidential Information does not include information that:
+
+   (a) Is publicly available at the time of disclosure or subsequently becomes publicly available through no breach of this Agreement by ISA;
+   (b) Was already known to ISA prior to disclosure by CyberForge, as evidenced by ISA's written records existing before the date of disclosure;
+   (c) Is disclosed to ISA by a third party that has no obligation of confidentiality to CyberForge with respect to such information;
+   (d) Is independently developed by ISA without access to, use of, or reference to CyberForge's Confidential Information, as demonstrated by ISA's contemporaneous written records; or
+   (e) Is approved for release in writing by an authorized representative of CyberForge.
+
+3. OBLIGATIONS OF ISA
+
+3.1 Confidentiality. ISA shall maintain all Confidential Information in strict confidence and shall not disclose, publish, or otherwise disseminate any Confidential Information to any third party without the prior written consent of CyberForge.
+
+3.2 Use Restriction. ISA shall use the Confidential Information and Materials solely for the Evaluation and for no other purpose, including but not limited to competitive analysis, reverse engineering, or development of competing products or technologies.
+
+3.3 Standard of Care. ISA shall protect the Confidential Information using the same degree of care that ISA uses to protect its own most sensitive confidential information, but in no event less than a reasonable degree of care.
+
+3.4 Access Limitation. ISA shall restrict access to the Confidential Information to those of its employees and contractors who (a) have a direct need to access the information for the Evaluation, (b) have been informed of the confidential nature of the information, and (c) are bound by written confidentiality obligations at least as protective as those set forth in this Agreement.
+
+3.5 No Copies. ISA shall not make copies of any Materials except as expressly authorized by CyberForge in writing.
+
+3.6 Security Measures. ISA shall implement and maintain industry-standard technical and organizational security measures to protect the Confidential Information, including access controls, encryption, audit logging, and physical security measures.
+
+3.7 Notice of Breach. ISA shall promptly notify CyberForge in writing of any actual or suspected unauthorized access to, disclosure of, or use of Confidential Information.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Ownership. All Confidential Information and Materials remain the sole and exclusive property of CyberForge. Nothing in this Agreement grants ISA any right, title, license, or interest in or to the Confidential Information, Materials, Technology, or any intellectual property rights therein, except the limited right to review the Confidential Information for the Evaluation.
+
+4.2 No Reverse Engineering. ISA shall not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, algorithms, data structures, or underlying ideas or techniques embodied in any Materials, software, or technology provided by CyberForge.
+
+4.3 Feedback. If ISA provides CyberForge with any feedback, suggestions, improvements, or ideas relating to the Technology ("Feedback"), CyberForge shall own all right, title, and interest in such Feedback, and ISA hereby assigns to CyberForge all intellectual property rights therein.
+
+4.4 No Implied License. Except as expressly stated herein, no license or right under any patent, copyright, trademark, trade secret, or other intellectual property right is granted by CyberForge to ISA under this Agreement, whether by implication, estoppel, or otherwise.
+
+5. COMPELLED DISCLOSURE
+
+5.1 If ISA is compelled by law, regulation, or legal process to disclose any Confidential Information, ISA shall:
+
+   (a) Provide CyberForge with prompt prior written notice of such compulsion (to the extent legally permitted);
+   (b) Cooperate with CyberForge in its efforts to obtain a protective order or other appropriate remedy;
+   (c) Limit the disclosure to the minimum required by law; and
+   (d) Request that the disclosed information receive confidential treatment.
+
+6. TERM AND TERMINATION
+
+6.1 This Agreement shall commence on the Effective Date and shall remain in effect for a period of eighteen (18) months, unless earlier terminated by either Party upon thirty (30) days' written notice.
+
+6.2 CyberForge may terminate this Agreement immediately upon written notice if ISA breaches any provision hereof.
+
+6.3 The obligations of confidentiality, non-use, and intellectual property protection set forth in this Agreement shall survive the termination or expiration of this Agreement for a period of seven (7) years from the date of the applicable disclosure.
+
+7. RETURN AND DESTRUCTION OF MATERIALS
+
+7.1 Upon the expiration or termination of this Agreement, or upon CyberForge's written request at any time, ISA shall:
+
+   (a) Promptly return to CyberForge all Materials and all tangible embodiments of Confidential Information;
+   (b) Permanently delete and destroy all electronic copies of Confidential Information from ISA's systems, devices, and storage media;
+   (c) Provide CyberForge with a written certification, signed by an authorized officer of ISA, confirming that all Confidential Information has been returned or destroyed; and
+   (d) Permit CyberForge, upon reasonable notice, to audit ISA's compliance with this Section 7.
+
+7.2 Notwithstanding the foregoing, ISA may retain one archival copy of the Confidential Information solely for legal compliance and audit purposes, subject to the continuing confidentiality obligations of this Agreement.
+
+8. REPRESENTATIONS AND WARRANTIES
+
+8.1 Each Party represents and warrants that it has the authority and legal right to enter into this Agreement.
+
+8.2 CyberForge does not represent or warrant that the Confidential Information is complete, accurate, or current, or that it does not infringe the intellectual property rights of any third party.
+
+8.3 THE CONFIDENTIAL INFORMATION AND MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+9. REMEDIES
+
+9.1 ISA acknowledges that any unauthorized disclosure or use of Confidential Information could cause irreparable harm to CyberForge.
+
+9.2 CyberForge shall be entitled to seek equitable relief, including temporary restraining orders, preliminary injunctions, and permanent injunctions, without the necessity of posting a bond or proving actual damages.
+
+9.3 All remedies under this Agreement are cumulative and in addition to any other remedies available at law or in equity.
+
+10. EXPORT CONTROLS
+
+10.1 ISA acknowledges that the Confidential Information and Materials may be subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR) and the International Traffic in Arms Regulations (ITAR).
+
+10.2 ISA shall not export, re-export, or transfer any Confidential Information or Materials in violation of applicable export control laws and shall obtain all necessary export licenses and approvals.
+
+11. GOVERNING LAW
+
+11.1 This Agreement shall be governed by and construed in accordance with the laws of the State of Washington, without regard to its conflict of laws principles.
+
+11.2 Any dispute arising under this Agreement shall be submitted to binding arbitration under the rules of the International Chamber of Commerce (ICC), with the seat of arbitration in Seattle, Washington. The arbitration shall be conducted in English.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement. This Agreement constitutes the entire understanding between the Parties concerning the subject matter hereof.
+
+12.2 Amendment. No amendment to this Agreement shall be binding unless in writing and signed by authorized representatives of both Parties.
+
+12.3 Severability. If any provision is held unenforceable, it shall be modified to the minimum extent necessary, and the remaining provisions shall remain in effect.
+
+12.4 Waiver. No waiver of any right under this Agreement shall be effective unless in writing.
+
+12.5 Assignment. ISA may not assign this Agreement without CyberForge's prior written consent. CyberForge may assign this Agreement freely to any affiliate or successor.
+
+12.6 Notices. All notices shall be in writing and sent to the addresses above by certified mail, overnight courier, or email with confirmation of receipt.
+
+12.7 Counterparts. This Agreement may be executed in counterparts, each of which is an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+CYBERFORGE LABS, INC.
+
+By: ___________________________
+Name: Anika R. Johansson
+Title: Chief Technology Officer
+Date: ___________________________
+
+INTEGRATED SYSTEMS ALLIANCE, GMBH
+
+By: ___________________________
+Name: Klaus-Dieter Brandt
+Title: Geschaeftsfuehrer (Managing Director)
+Date: ___________________________

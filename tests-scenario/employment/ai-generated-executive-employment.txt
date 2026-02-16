@@ -1,0 +1,134 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+This Executive Employment Agreement ("Agreement") is made and entered into as of February 10, 2026 ("Effective Date"), by and between Vertex Dynamics Corporation, a Delaware corporation, with its principal offices at 1200 Market Street, 42nd Floor, San Francisco, California 94103 ("Company"), and Dr. Rebecca A. Whitfield ("Executive").
+
+RECITALS
+
+A. The Company desires to employ the Executive as its Chief Financial Officer, and the Executive desires to accept such employment, on the terms and conditions set forth herein.
+
+B. The Board of Directors of the Company (the "Board") has determined that it is in the best interests of the Company and its stockholders to secure the Executive's services and to provide the Executive with certain compensation and benefits as set forth herein.
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ARTICLE I - EMPLOYMENT
+
+1.1 Position. The Company hereby employs the Executive as Chief Financial Officer ("CFO"). The Executive shall have such duties, responsibilities, and authority as are customarily associated with the position of CFO of a publicly traded corporation of comparable size, including oversight of all financial planning, analysis, reporting, accounting, treasury, tax, and investor relations functions.
+
+1.2 Reporting. The Executive shall report directly to the Chief Executive Officer ("CEO") and shall serve as a member of the Company's Executive Leadership Team.
+
+1.3 Board Participation. The Executive shall attend all meetings of the Board and its committees as requested and shall provide such financial reports and analyses as the Board may require.
+
+1.4 Exclusive Service. During the Employment Period, the Executive shall devote substantially all of her professional time, attention, skill, and efforts to the faithful performance of her duties hereunder. Notwithstanding the foregoing, the Executive may (a) serve on the boards of directors of up to two (2) non-competing companies, subject to prior approval by the Board; (b) serve on charitable or civic boards; (c) deliver lectures and fulfill speaking engagements; and (d) manage personal investments, provided that such activities do not materially interfere with the Executive's duties.
+
+ARTICLE II - TERM
+
+2.1 Employment Period. The term of the Executive's employment under this Agreement shall commence on the Effective Date and shall continue for an initial period of three (3) years (the "Initial Term"), unless earlier terminated in accordance with Article VI. Thereafter, this Agreement shall automatically renew for successive one (1) year periods (each a "Renewal Term"), unless either party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term.
+
+ARTICLE III - COMPENSATION
+
+3.1 Base Salary. The Executive shall receive an annual base salary of Four Hundred Twenty-Five Thousand Dollars ($425,000.00) ("Base Salary"), payable in accordance with the Company's standard payroll practices. The Base Salary shall be reviewed annually by the Compensation Committee of the Board (the "Compensation Committee") and may be increased (but not decreased without the Executive's consent) in the Compensation Committee's discretion.
+
+3.2 Annual Cash Bonus. The Executive shall be eligible to receive an annual performance bonus with a target amount equal to sixty percent (60%) of the Executive's Base Salary (the "Target Bonus"). The actual bonus amount shall be determined by the Compensation Committee based on the achievement of individual and Company performance objectives established by the Compensation Committee in consultation with the Executive at the beginning of each fiscal year. The maximum bonus shall not exceed one hundred twenty percent (120%) of the Target Bonus. Annual bonuses shall be paid within seventy-five (75) days following the end of the applicable fiscal year.
+
+3.3 Equity Awards.
+
+(a) Initial Grant. Within thirty (30) days of the Effective Date, the Company shall grant the Executive (i) a stock option to purchase 50,000 shares of the Company's Common Stock at an exercise price equal to the fair market value on the date of grant, vesting over four (4) years with a one-year cliff, and (ii) 20,000 restricted stock units ("RSUs"), vesting in equal annual installments over four (4) years, in each case subject to the terms of the Company's Equity Incentive Plan.
+
+(b) Annual Grants. The Executive shall be eligible for annual equity awards as determined by the Compensation Committee, consistent with awards made to other similarly situated executives.
+
+3.4 Long-Term Incentive Plan. The Executive shall participate in the Company's Long-Term Incentive Plan ("LTIP"), with a target award value equal to one hundred percent (100%) of Base Salary for each three-year performance period.
+
+ARTICLE IV - BENEFITS AND PERQUISITES
+
+4.1 Employee Benefits. The Executive shall be entitled to participate in all employee benefit plans, programs, and arrangements made available to senior executives of the Company, including medical, dental, vision, life insurance, disability insurance, and retirement plans, subject to the terms and conditions of such plans.
+
+4.2 Vacation. The Executive shall be entitled to twenty-five (25) days of paid vacation per calendar year, in addition to Company-observed holidays.
+
+4.3 Executive Benefits. The Executive shall also be entitled to the following:
+
+(a) An annual executive physical examination at a facility of the Executive's choosing, at the Company's expense up to Five Thousand Dollars ($5,000.00);
+
+(b) Financial planning and tax preparation services, at the Company's expense up to Ten Thousand Dollars ($10,000.00) per year;
+
+(c) A monthly automobile allowance of One Thousand Five Hundred Dollars ($1,500.00);
+
+(d) Business class air travel for all business-related travel exceeding four (4) hours in duration.
+
+4.4 Indemnification. The Company shall indemnify and hold harmless the Executive to the fullest extent permitted by applicable law and the Company's certificate of incorporation and bylaws. The Company shall maintain directors' and officers' liability insurance coverage during the Employment Period and for six (6) years following the termination of the Executive's employment.
+
+ARTICLE V - RESTRICTIVE COVENANTS
+
+5.1 Confidentiality. The Executive shall maintain the confidentiality of all Confidential Information (as defined in the Company's Confidential Information and Invention Assignment Agreement, which the Executive shall execute simultaneously with this Agreement) during and after the Employment Period.
+
+5.2 Non-Competition. During the Employment Period and for a period of eighteen (18) months following the termination of employment for any reason, the Executive shall not, directly or indirectly, engage in, own, manage, operate, control, be employed by, consult for, or participate in the ownership, management, operation, or control of any Competing Business. "Competing Business" means any entity engaged in the development, manufacturing, marketing, or sale of advanced aerospace propulsion systems, satellite communications technology, or autonomous navigation systems, or any other business in which the Company is materially engaged at the time of the Executive's termination.
+
+5.3 Non-Solicitation. During the Employment Period and for a period of twenty-four (24) months following termination, the Executive shall not directly or indirectly (a) solicit, recruit, or hire any employee or consultant of the Company or any of its affiliates, or (b) solicit, divert, or take away the business of any customer, client, or vendor of the Company.
+
+5.4 Non-Disparagement. During and after the Employment Period, neither the Executive nor the Company (through its officers and directors) shall make any disparaging or defamatory statements about the other party.
+
+5.5 Intellectual Property. All Work Product (as defined in the Confidential Information and Invention Assignment Agreement) shall be the sole property of the Company.
+
+ARTICLE VI - TERMINATION
+
+6.1 Termination by the Company for Cause. The Company may terminate the Executive's employment for Cause at any time. "Cause" means: (a) the Executive's willful and material breach of this Agreement that remains uncured for thirty (30) days after written notice; (b) the Executive's conviction of, or plea of guilty or nolo contendere to, a felony or a crime involving moral turpitude; (c) the Executive's gross negligence or willful misconduct in the performance of duties; (d) the Executive's material violation of Company policies; (e) the Executive's fraud, embezzlement, or misappropriation of Company funds or property; or (f) the Executive's willful failure to cooperate with a bona fide internal investigation or regulatory inquiry.
+
+6.2 Termination by the Company Without Cause. The Company may terminate the Executive's employment without Cause at any time upon written notice to the Executive.
+
+6.3 Termination by the Executive for Good Reason. The Executive may terminate employment for "Good Reason" if any of the following occurs without the Executive's consent: (a) a material diminution in Base Salary or Target Bonus opportunity; (b) a material diminution in authority, duties, or responsibilities; (c) a relocation of the Executive's principal workplace by more than fifty (50) miles; (d) a material breach of this Agreement by the Company; or (e) a failure to nominate the Executive for re-election to the Board, if applicable. The Executive must provide written notice to the Company within sixty (60) days of the event constituting Good Reason, and the Company shall have thirty (30) days to cure.
+
+6.4 Termination by the Executive Without Good Reason. The Executive may terminate employment without Good Reason upon sixty (60) days' prior written notice.
+
+6.5 Death or Disability. The Executive's employment shall terminate upon the Executive's death or Disability. "Disability" means the Executive's inability to perform the essential functions of the position for a period of one hundred eighty (180) consecutive days due to physical or mental incapacity.
+
+ARTICLE VII - SEVERANCE AND CHANGE IN CONTROL
+
+7.1 Severance Upon Termination Without Cause or for Good Reason. If the Executive's employment is terminated by the Company without Cause or by the Executive for Good Reason (other than during a Change in Control Period), the Executive shall be entitled to:
+
+(a) Accrued obligations (earned salary, bonus, unused vacation, and unreimbursed expenses through the termination date);
+(b) Severance pay equal to twelve (12) months of Base Salary, payable in installments;
+(c) A pro-rata annual bonus for the year of termination based on actual performance;
+(d) Company-paid COBRA continuation coverage for twelve (12) months;
+(e) Twelve (12) months of accelerated vesting of outstanding equity awards.
+
+7.2 Change in Control Severance. If the Executive's employment is terminated by the Company without Cause or by the Executive for Good Reason within twelve (12) months following a Change in Control (the "Change in Control Period"), the Executive shall be entitled to:
+
+(a) Accrued obligations;
+(b) A lump-sum severance payment equal to two (2) times the sum of the Executive's Base Salary and Target Bonus;
+(c) Full acceleration of all outstanding equity awards;
+(d) Company-paid COBRA continuation coverage for twenty-four (24) months;
+(e) Outplacement services for up to twelve (12) months at the Company's expense.
+
+7.3 Section 280G. In the event that any payments or benefits under this Agreement would constitute "excess parachute payments" within the meaning of Section 280G of the Internal Revenue Code, the payments shall be reduced to the extent necessary to avoid the imposition of the excise tax under Section 4999, but only if such reduction would result in a greater after-tax benefit to the Executive.
+
+7.4 Release Requirement. The Executive's receipt of any severance payments and benefits under this Article VII shall be conditioned upon the Executive's execution of a general release of claims in a form satisfactory to the Company within twenty-one (21) days following the termination date.
+
+ARTICLE VIII - GENERAL PROVISIONS
+
+8.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of laws principles.
+
+8.2 Arbitration. Any dispute arising out of or relating to this Agreement shall be resolved by binding arbitration administered by JAMS in San Francisco, California, before a single arbitrator experienced in executive employment disputes.
+
+8.3 Entire Agreement. This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements relating to the Executive's employment.
+
+8.4 Amendment. This Agreement may be amended only by a written instrument signed by both parties.
+
+8.5 Notices. All notices shall be in writing and delivered personally, by overnight courier, or by certified mail to the addresses of the parties.
+
+8.6 Severability. If any provision is held invalid, the remaining provisions shall continue in full force and effect.
+
+8.7 Clawback. The Executive acknowledges that any incentive-based compensation paid pursuant to this Agreement shall be subject to any clawback policy adopted by the Company, including any policy required under the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+VERTEX DYNAMICS CORPORATION
+
+By: ___________________________________
+Name: Michael T. Harrington
+Title: Chief Executive Officer
+Date: _________________________________
+
+EXECUTIVE:
+
+___________________________________
+Dr. Rebecca A. Whitfield
+Date: _________________________________

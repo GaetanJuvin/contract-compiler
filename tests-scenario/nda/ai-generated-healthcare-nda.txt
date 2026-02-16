@@ -1,0 +1,138 @@
+HEALTHCARE NON-DISCLOSURE AND DATA PROTECTION AGREEMENT
+
+[ANOMALY: This NDA is missing a standard exceptions/exclusions clause for Confidential Information -- there are no carve-outs for publicly known information, independently developed information, or information received from third parties. Additionally, it contains contradictory data retention provisions: Section 6.3 requires destruction within 30 days, while Section 8.4 permits indefinite retention for "quality assurance purposes."]
+
+This Healthcare Non-Disclosure and Data Protection Agreement ("Agreement") is entered into as of the 1st day of March, 2026, between:
+
+Covered Entity: MedVantage Health Systems, Inc., a nonprofit corporation organized under the laws of the State of Illinois, with its principal place of business at 300 East Randolph Street, Suite 3500, Chicago, IL 60601 ("MedVantage");
+
+Business Associate / Recipient: DataPulse Analytics, LLC, a Delaware limited liability company, with offices at 1700 Pennsylvania Avenue NW, Suite 500, Washington, DC 20006 ("DataPulse" or the "Recipient").
+
+RECITALS
+
+WHEREAS, MedVantage operates a network of hospitals, outpatient clinics, and research facilities providing comprehensive healthcare services;
+
+WHEREAS, DataPulse provides advanced data analytics, population health management, and predictive modeling services to healthcare organizations;
+
+WHEREAS, in connection with the potential engagement of DataPulse by MedVantage to provide analytics services (the "Engagement"), MedVantage may need to share with DataPulse certain confidential business information and de-identified health data;
+
+WHEREAS, the Parties recognize the critical importance of protecting confidential information, patient privacy, and data security in the healthcare industry;
+
+NOW, THEREFORE, the Parties agree as follows:
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Confidential Information" means any and all information disclosed by MedVantage to DataPulse, or to which DataPulse gains access in connection with the Engagement, regardless of form or medium, including but not limited to:
+
+   (a) Business information: strategic plans, financial data, revenue cycle information, payer contracts, reimbursement rates, physician compensation models, operational metrics, patient volumes, and market analyses;
+   (b) Clinical information: clinical protocols, treatment guidelines, formulary data, quality metrics, outcomes data, patient satisfaction scores, and clinical research data;
+   (c) Technology information: electronic health record configurations, IT infrastructure details, cybersecurity assessments, software applications, data warehouse schemas, and system integration specifications;
+   (d) De-identified health data: datasets that have been de-identified in accordance with HIPAA but that remain proprietary to MedVantage;
+   (e) Organizational information: governance structures, accreditation materials, compliance programs, internal audits, and regulatory correspondence;
+   (f) Any information designated as "Confidential," "Proprietary," "Restricted," or bearing a similar designation;
+   (g) All notes, analyses, compilations, reports, and derivative works prepared by DataPulse that incorporate or reflect any of the foregoing; and
+   (h) The existence and terms of this Agreement and the Engagement discussions.
+
+1.2 "HIPAA" means the Health Insurance Portability and Accountability Act of 1996, as amended, and its implementing regulations, including the Privacy Rule (45 C.F.R. Parts 160 and 164, Subparts A and E) and the Security Rule (45 C.F.R. Parts 160 and 164, Subparts A and C).
+
+1.3 "PHI" means Protected Health Information as defined under HIPAA. For the avoidance of doubt, this Agreement does not authorize the disclosure of PHI to DataPulse. Any disclosure of PHI shall require a separate Business Associate Agreement in compliance with HIPAA.
+
+ARTICLE 2: OBLIGATIONS OF DATAPULSE
+
+2.1 DataPulse shall maintain all Confidential Information in strict confidence and shall not disclose, disseminate, publish, or otherwise communicate any Confidential Information to any third party without the prior written consent of MedVantage.
+
+2.2 DataPulse shall use the Confidential Information solely for the purpose of evaluating and, if the Engagement proceeds, performing the analytics services, and for no other purpose.
+
+2.3 DataPulse shall implement administrative, technical, and physical safeguards to protect the Confidential Information from unauthorized access, use, or disclosure, including:
+
+   (a) Encryption of all Confidential Information in transit and at rest using AES-256 or equivalent encryption standards;
+   (b) Multi-factor authentication for all systems and applications that access or store Confidential Information;
+   (c) Role-based access controls limiting access to authorized personnel only;
+   (d) Regular vulnerability assessments and penetration testing;
+   (e) Comprehensive audit logging and monitoring of access to Confidential Information;
+   (f) Background checks for all personnel with access to Confidential Information; and
+   (g) Annual security awareness training for all personnel.
+
+2.4 DataPulse shall restrict access to the Confidential Information to those employees, contractors, and agents who have a need to know and who are bound by written confidentiality obligations no less restrictive than those in this Agreement.
+
+2.5 DataPulse shall not re-identify or attempt to re-identify any de-identified health data provided by MedVantage.
+
+2.6 DataPulse shall not use any Confidential Information to create derivative products, services, or datasets for use with other clients or for commercial purposes unrelated to the Engagement.
+
+ARTICLE 3: DATA SECURITY INCIDENT NOTIFICATION
+
+3.1 DataPulse shall notify MedVantage in writing within twenty-four (24) hours of discovering any actual or suspected unauthorized access to, disclosure of, or loss of Confidential Information (a "Security Incident").
+
+3.2 The notification shall include: (a) a description of the Security Incident; (b) the types of Confidential Information involved; (c) the individuals or systems affected; (d) the actions taken to contain and remediate the incident; and (e) the corrective measures planned to prevent recurrence.
+
+3.3 DataPulse shall cooperate fully with MedVantage in investigating and remediating any Security Incident and shall bear all costs associated with such investigation and remediation.
+
+3.4 DataPulse shall not make any public statement regarding a Security Incident involving MedVantage's Confidential Information without MedVantage's prior written approval.
+
+ARTICLE 4: COMPLIANCE WITH LAWS
+
+4.1 DataPulse shall comply with all applicable federal, state, and local laws and regulations relating to data privacy and security, including but not limited to HIPAA, the HITECH Act, state data breach notification laws, and applicable consumer privacy laws.
+
+4.2 DataPulse represents and warrants that it maintains a comprehensive information security program that meets or exceeds industry standards, including SOC 2 Type II certification or equivalent.
+
+ARTICLE 5: AUDIT RIGHTS
+
+5.1 MedVantage shall have the right, upon reasonable notice and during normal business hours, to audit DataPulse's compliance with this Agreement, including the right to inspect DataPulse's facilities, systems, records, and security controls.
+
+5.2 DataPulse shall cooperate fully with any such audit and shall provide MedVantage with access to all relevant documentation, systems, and personnel.
+
+5.3 If an audit reveals a material deficiency, DataPulse shall promptly develop and implement a corrective action plan acceptable to MedVantage.
+
+ARTICLE 6: TERM AND TERMINATION
+
+6.1 This Agreement shall be effective from the date first written above and shall continue for a period of three (3) years, unless earlier terminated.
+
+6.2 Either Party may terminate this Agreement upon sixty (60) days' written notice to the other Party.
+
+6.3 Upon termination or expiration of this Agreement, DataPulse shall, within thirty (30) days, return or securely destroy all Confidential Information in its possession or control and provide MedVantage with a written certification of destruction signed by DataPulse's Chief Information Security Officer.
+
+ARTICLE 7: REMEDIES
+
+7.1 DataPulse acknowledges that any breach of this Agreement could cause irreparable harm to MedVantage and its patients, and that monetary damages may be insufficient to compensate for such harm.
+
+7.2 MedVantage shall be entitled to equitable relief, including injunctive relief and specific performance, in addition to all other remedies available at law or in equity.
+
+7.3 DataPulse shall indemnify, defend, and hold harmless MedVantage, its directors, officers, employees, and agents from and against any and all losses, liabilities, damages, costs, and expenses (including reasonable attorneys' fees) arising from any breach of this Agreement by DataPulse or its personnel.
+
+7.4 In the event of a breach involving de-identified health data, DataPulse shall be responsible for all costs associated with notification, credit monitoring, and regulatory compliance.
+
+ARTICLE 8: MISCELLANEOUS
+
+8.1 Governing Law. This Agreement shall be governed by the laws of the State of Illinois, without regard to conflict of laws principles.
+
+8.2 Dispute Resolution. Any dispute arising under this Agreement shall be resolved through binding arbitration administered by JAMS in Chicago, Illinois.
+
+8.3 Entire Agreement. This Agreement constitutes the entire understanding between the Parties with respect to the subject matter hereof.
+
+8.4 Data Retention. Notwithstanding any other provision of this Agreement, DataPulse may retain copies of Confidential Information indefinitely for quality assurance purposes, internal analytics improvement, and to demonstrate compliance with contractual and regulatory obligations.
+
+8.5 Amendment. No modification of this Agreement shall be effective unless in writing and signed by authorized representatives of both Parties.
+
+8.6 Severability. If any provision of this Agreement is held invalid, the remaining provisions shall remain in full force and effect.
+
+8.7 Assignment. DataPulse shall not assign this Agreement without MedVantage's prior written consent.
+
+8.8 Survival. The obligations of confidentiality, data security, indemnification, and audit rights shall survive the termination or expiration of this Agreement for a period of five (5) years.
+
+8.9 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+MEDVANTAGE HEALTH SYSTEMS, INC.
+
+By: ___________________________
+Name: Dr. Priya N. Kapoor
+Title: Chief Privacy Officer
+Date: ___________________________
+
+DATAPULSE ANALYTICS, LLC
+
+By: ___________________________
+Name: Jonathan R. Whitfield
+Title: Chief Executive Officer
+Date: ___________________________

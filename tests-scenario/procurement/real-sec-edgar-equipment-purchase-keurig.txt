@@ -1,0 +1,338 @@
+# Source: SEC EDGAR - Keurig Inc. / Green Mountain Coffee Roasters Equipment Purchase Agreement
+# URL: https://www.sec.gov/Archives/edgar/data/909954/000090995402000011/exhibit10_2.htm
+# Filed: 2002 | CIK: 909954 | Exhibit 10.2
+# This is an actual equipment purchase agreement filed with the SEC.
+
+
+
+
+
+Equipment Purchase Agreement
+
+
+
+
+
+EQUIPMENT PURCHASE AGREEMENT
+
+
+ 
+
+This EQUIPMENT PURCHASE AGREEMENT (this "Agreement") is dated as of
+the 21st day of June 2002, by and between Keurig, Incorporated, a Delaware
+corporation (the "Seller"), and Green Mountain Coffee Roasters, Inc.,
+a Vermont corporation (the "Buyer").
+
+WHEREAS, pursuant to a License Agreement, dated as of June 30, 2000, as
+amended by an Amendment Agreement dated as of April 4, 2002 and a Side Letter
+Agreement dated as of April 4, 2002 (collectively, the "License Agreement"),
+the Buyer wishes to exercise its option to purchase the Packaging Lines (as
+defined in the License Agreement) and ancillary equipment thereto upon the terms
+and conditions set forth herein (as hereinafter defined).
+
+NOW, THEREFORE, in consideration of the mutual promises and agreements set
+forth herein, the Buyer and the Seller agree as follows:
+
+1. PURCHASE AND SALE. Subject to the terms and conditions set forth in this
+Agreement, at the Closing referred to in Section 3 hereof, the Seller shall sell,
+transfer and deliver to the Buyer, and the Buyer shall purchase, acquire, and
+take delivery of all of the following equipment and related property (all of
+which are hereinafter referred to collectively as the "Acquired
+Equipment"):
+
+
+  
+    (a) The five (5) Packaging Lines (the "PLs") used in manufacturing
+    K-Cups currently located at the Buyer's facility (referred to by Seller as
+    PL numbers 2, 3, 4, 5, and 10) and associated peripheral equipment including
+    printers, check weighers, label applicators, and waste vacuums. This
+    equipment is listed on Exhibit 1A;
+
+    (b) PL support equipment listed on Exhibit 1B; and
+
+    (c) Spare parts listed on Exhibit 1C.
+
+  
+
+Included in the sale of the PLs will be the component shop drawings for such
+PLs solely to be used to facilitate the fabrication of spare parts and the
+maintenance of the purchased PL's. Buyer agrees not to use or permit a third
+party to use such shop drawings for the design or development of any new PL's
+and any sale of such shop drawings is strictly prohibited. Any use of such shop
+drawings for the design or development of PLs shall be subject to the terms and
+conditions of Section 6.5 of the Licensing Agreement.
+
+The Buyer acknowledges and agrees that, except as expressly set forth in the
+License Agreement and this Agreement, no other assets or rights of Seller,
+including without limitation any rights to use the Seller's intellectual
+property rights to make K-Cups using the PLs or the right to sublicense or sell
+the PLC source code, are being sold, granted or conveyed to Seller by this
+Agreement, and that any such rights have been or may only be granted under and
+exercised pursuant to a separate written license agreement made by the Seller,
+including, without limitation, the License Agreement.
+
+2. PURCHASE PRICE. The Buyer shall pay to the Seller, as the aggregate
+purchase price for the Acquired Equipment (the " Purchase Price"), an
+amount of $2,612,869.32. A detailed breakdown of the Purchase Price is provided
+in Exhibit 2. The Purchase Price shall be paid in the manner provided in Section
+3
+hereof.
+
+3. CLOSING.
+
+3.1. Time and Place. The closing of the transfer and
+delivery of the documents and instruments necessary to consummate the purchases
+and sales contemplated by this Agreement (the "Closing") shall
+be held at 10 a.m. on July 8, 2002, or at such other time as the Buyer and the
+Seller may agree, at the offices of counsel for the Seller, Chu, Ring &
+Hazel LLP, 49 Melcher Street, Boston, MA 02210. The date on which the Closing is
+actually held hereunder is sometimes referred to herein as the "Closing
+Date".
+
+3.2. Transactions at Closing. At the Closing of the
+purchase and sale of the Acquired Equipment, the Seller shall duly execute and
+deliver to the Buyer a Warranty Bill of Sale in substantially the form of
+Exhibit 3.2 hereto and surrender full possession and control of the Acquired
+Equipment to the Seller. The Buyer shall deliver to the Seller the Purchase
+Price by cashier's, certified or bank check or wire transfer payable to the
+order of the Seller, representing the cash Purchase Price of all of the Acquired
+Equipment.
+
+4. REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE SELLER. The Seller
+represents, warrants, covenants with the Buyer as follows:
+
+4.1. The PLs are warranted as specified in the License Agreement.
+Notwithstanding the foregoing, the support equipment listed in Section 1(b) and
+spare parts listed in Section 1(c) comprising the remainder of the Acquired
+Assets are expressly not included in this warranty and are being sold in "as
+is" condition. Except as expressly set forth herein, the Seller disclaims any
+other warranties, express or implied.
+
+4.2. The License Agreement PL warranty shall be void if the Buyer fails to
+perform in any material respect any of the following obligations in accordance
+with the Operational Training Guide dated March 12, 2000, the Keurig Production
+Testing Procedures dated February 20, 2002 and the other agreements between the
+Buyer and the Seller prior to the Closing:
+
+
+  
+    (a) Submit daily PL production reports to the Seller for more than three
+    (3) consecutive days. Notwithstanding the foregoing, all daily production
+    reports must be submitted in a timely fashion.
+
+    (b) Operate the PLs with operators, certified in accordance with the
+    Seller's procedures as of the Closing, under supervision.
+
+    (c) Perform PL quality control with inspectors, certified in accordance
+    with the Sellers procedures as of the Closing, under supervision; provided,
+    however, the testing rate may be redefined in Buyer's sole discretion. .
+
+    (d) Perform PL maintenance with maintenance personnel certified in
+    accordance with the Seller's procedures as of the Closing .
+
+    (e) Follow all published and established Seller PL procedures material to
+    the operation of the PLs as such procedures exist as of the Closing .
+
+    (f) Purchase K-Cup raw materials (cups, filter paper and lids) from
+    Seller approved suppliers.
+
+    (g) Purchase or produce and install PL replacement parts in accordance
+    with Seller specifications as of the Closing; provided, however, Seller
+    shall deliver specifications for any replacement parts within seven days
+    upon Buyer's request.
+
+    (h) Provide all Seller specified appropriate utilities including:
+    electrical, compressed air and nitrogen as of the Closing..
+
+    (i) Obtain Seller's written permission prior to making any material
+    modifications to the PL; provided, however, if Buyer makes a modification to
+    one or more segments of the PL without obtaining Seller's permission the
+    warranty for the un-modified segments of the PL shall remain in force. .
+
+    (j) Have a Seller engineer on site (at Buyer's expense) during any
+    relocation of the PL's from their present orientation and location.
+
+  
+
+4.3. Organization of the Seller; Authority.
+The Seller is a corporation duly organized, validly existing and in good
+standing under the laws of the State of Delaware. This Agreement has been duly
+executed and delivered by the Seller and constitutes the legal, valid and
+binding obligation of the Seller, enforceable against the Seller in accordance
+with its terms.
+
+4.4. Title to Acquired Equipment. The Seller is
+the lawful owner of, has good and valid record and marketable title to, and has
+the full right to sell, convey, transfer, and deliver the Acquired Equipment,
+without any restrictions of any kind whatsoever. At and as of the Closing, the
+Seller will convey the Acquired Equipment to the Buyer by bill of sale effective
+to vest in the Buyer, and the Buyer will have, good and valid record and
+marketable title to all of the Acquired Equipment, free and clear of all
+security interests, liens, leases or other encumbrances.
+
+4.5 Upgrades, Improvements and Modifications. During the term of the
+License Agreement and any equivalent agreement with the Seller granting the
+Buyer the right to manufacture, use, produce and distribute K-Cups, the Seller
+shall supply the Buyer with any technical information, including, without
+limitation, shop drawings and source codes, related to any material upgrades,
+improvements or modifications to similar packaging lines owned, leased or
+licensed by the Seller.
+
+5. REPRESENTATIONS AND WARRANTIES OF THE BUYER. The Buyer represents and
+warrants to the Seller that the Buyer is a corporation duly organized, validly
+existing and in good standing under the laws of the State of Vermont. This
+Agreement has been duly executed and delivered by the Buyer and constitutes the
+legal, valid and binding obligation of the Buyer, enforceable against the Buyer
+in accordance with its terms.
+
+6. Buyer sale of pls. The Buyer may sell or transfer the PLs to a third
+party ("Transferee"), provided, however, that no sale or transfer to any
+Transferee will be made effective until such Transferee (i) becomes subject to
+all of the obligations of the Buyer under this Agreement and (ii) agrees to be
+bound by this Agreement as if the proposed Transferee were a signatory to this
+Agreement in writing, by executing a counterpart signature page to this
+Agreement. If such Transferee is not a Licensed Roaster, as an express condition
+of the effectiveness of such sale or transfer Buyer shall obtain and deliver to
+the Seller written representation from the Transferee acknowledging that only
+Licensed Roasters are authorized to manufacture K-Cups and unauthorized
+manufacture of K-Cups would be in violation of Seller's patents and other
+proprietary rights entitling the Seller to injunctive relief in addition to any
+other rights and remedies. The Buyer shall provide the Seller with the contact
+information and intended use of the PLs for any such Transferee.
+
+7. PL Service. If the Buyer shall desire the Seller to install or service
+the PLs or provide technical assistance to the Buyer, the work shall be
+performed on the basis as described in Schedule 7.
+
+ 
+
+8. GENERAL.
+
+8.1. Expenses. All expenses of the preparation, execution and
+consummation of this Agreement and of the transactions contemplated hereby,
+including, without limitation, attorneys', accountants' and outside advisers'
+fees and disbursements, shall be borne by the party incurring such expenses.
+
+8.2. Notices. All notices, demands and other communications
+hereunder shall be in writing or by written telecommunication, and shall be
+deemed to have been duly given if delivered personally or if mailed by certified
+mail, return receipt requested, postage prepaid, or sent by written
+telecommunication, as follows:
+
+ 
+
+If to the Seller, to:
+
+Keurig, Incorporated
+101 Edgewater Drive
+Wakefield, MA 01880
+Attention: Nick Lazaris, President and CEO
+
+with a copy sent contemporaneously to:
+
+Chu, Ring, & Hazel, LLP.
+49 Melcher Street
+Boston, MA 02210
+Attention: John H. Chu, Esq.
+
+If to the Buyer, to:
+
+Green Mountain Coffee Roasters, Inc.
+33 Coffee Lane
+Waterbury, VT 05676
+Attention: Paul Comey
+
+with a copy sent contemporaneously to:
+
+Merritt & Merritt
+Box 5839
+Burlington, VT 05402
+Attention: Sharon J.Merritt, Esq.
+
+8.3. Entire Agreement. This Agreement and the License
+Agreement contain the entire understanding of the parties, supersedes all prior
+agreements and understandings relating to the subject matter hereof and shall
+not be amended except by a written instrument hereafter signed by all of the
+parties hereto.
+
+8.4. Governing Law. The validity and construction of this
+Agreement shall be governed by the internal substantive laws of the Commonwealth
+of Massachusetts.
+
+8.5. Sections and Section Headings. All
+enumerated subdivisions of this Agreement are herein referred to as "Section." The headings of Sections are for
+reference only and shall not limit or control the meaning thereof.
+
+8.6. Assigns. This Agreement shall be binding upon and inure to the
+benefit of the heirs and successors of each of the parties. Neither this
+Agreement nor the obligations of any party hereunder shall be assignable or
+transferable by such party without the prior written consent of the other party
+hereto; provided, however, that nothing contained in this 8.6 shall prevent
+the Buyer, without the consent of the Seller, from transferring or assigning
+this Agreement or its rights or obligations hereunder to another entity
+controlling, under the control of, or under common control with the Buyer.
+
+8.7. Survival and Materiality of Representations
+and Warranties. The representations and warranties of the parties
+hereto contained in this Agreement or otherwise made in writing in connection
+with the transactions contemplated hereby (in each case except as affected by
+the transactions contemplated by this Agreement) shall be deemed to have been
+made on the date hereof and on the date of Closing and shall be deemed to have
+been relied on by the Buyer and shall survive the Closing and the consummation
+of the transactions contemplated hereby.
+
+8.8. Counterparts. This Agreement may be executed in multiple
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+8.9. Definitions. Unless otherwise defined herein, terms used in
+this Agreement shall have the same meanings as defined in the License Agreement.
+
+ 
+
+ 
+
+IN WITNESS WHEREOF, and intending to be legally bound hereby, the parties
+hereto have caused this Agreement to be duly executed and delivered by their
+respective duly authorized officers as an instrument under seal as of the date
+and year first above written.
+
+ 
+
+
+Keurig, Incorporated                                                                
+Green Mountain Coffee Roasters, Inc.
+
+
+ By: /s/ Nicholas Lazaris                                                           
+By: /s/ William G. Hogan
+
+Nicholas Lazaris                                                                    
+William G. Hogan
+
+President and CEO                                                                
+Vice President and CFO
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+

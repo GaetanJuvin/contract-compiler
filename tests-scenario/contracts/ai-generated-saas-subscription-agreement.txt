@@ -1,0 +1,199 @@
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement ("Agreement") is entered into as of January 15, 2026 ("Effective Date"), by and between:
+
+SERVICE PROVIDER: CloudMatrix Solutions, Inc., a Delaware corporation with its principal place of business at 1200 Innovation Drive, Suite 400, San Jose, CA 95134 ("Provider")
+
+and
+
+SUBSCRIBER: Meridian Financial Group, LLC, a New York limited liability company with its principal place of business at 500 Park Avenue, 22nd Floor, New York, NY 10022 ("Subscriber")
+
+(each a "Party" and collectively the "Parties")
+
+RECITALS
+
+WHEREAS, Provider has developed and operates a proprietary cloud-based financial analytics platform known as "CloudMatrix Analytics Pro" (the "Platform"); and
+
+WHEREAS, Subscriber desires to subscribe to and access the Platform for its internal business operations, subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Authorized Users" means the employees, agents, and independent contractors of Subscriber who are authorized by Subscriber to access and use the Platform under this Agreement, subject to the User Limits.
+
+1.2 "Confidential Information" means any non-public information disclosed by one Party to the other Party, whether orally, in writing, or by inspection, that is designated as confidential or that a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure.
+
+1.3 "Documentation" means the user manuals, help files, technical specifications, and other documentation provided by Provider relating to the Platform, as updated from time to time.
+
+1.4 "Subscription Fees" means the fees payable by Subscriber for the subscription to the Platform as set forth in Schedule A attached hereto.
+
+1.5 "Subscription Term" means the initial term and any renewal terms as specified in Section 8.
+
+1.6 "User Limits" means the maximum number of Authorized Users permitted under the applicable subscription tier, as set forth in Schedule A.
+
+1.7 "Service Level Agreement" or "SLA" means the service level commitments set forth in Schedule B attached hereto.
+
+2. SUBSCRIPTION AND ACCESS
+
+2.1 Grant of Access. Subject to the terms and conditions of this Agreement and payment of the Subscription Fees, Provider hereby grants to Subscriber a non-exclusive, non-transferable, non-sublicensable right to access and use the Platform during the Subscription Term, solely for Subscriber's internal business purposes.
+
+2.2 User Accounts. Subscriber shall create individual user accounts for each Authorized User. Each user account is for a single individual only and may not be shared among multiple individuals. Subscriber may reassign a user account to a new Authorized User if the prior Authorized User no longer requires access.
+
+2.3 Restrictions. Subscriber shall not, and shall not permit any third party to: (a) copy, modify, or create derivative works of the Platform; (b) reverse engineer, disassemble, decompile, or otherwise attempt to derive the source code of the Platform; (c) access or use the Platform to build a competitive product or service; (d) sublicense, sell, resell, transfer, assign, or distribute the Platform; (e) use the Platform for any unlawful purpose or in violation of any applicable laws; or (f) transmit any malicious code, viruses, or harmful data through the Platform.
+
+2.4 Subscriber Data. As between the Parties, Subscriber retains all right, title, and interest in and to all data, information, and materials submitted by or on behalf of Subscriber to the Platform ("Subscriber Data"). Subscriber grants Provider a limited, non-exclusive license to use, process, and display Subscriber Data solely to the extent necessary to provide the Platform and perform its obligations under this Agreement.
+
+3. SUBSCRIPTION FEES AND PAYMENT
+
+3.1 Fees. Subscriber shall pay Provider the Subscription Fees in accordance with Schedule A. All fees are quoted in United States Dollars and are non-refundable except as expressly set forth in this Agreement.
+
+3.2 Payment Terms. Provider shall invoice Subscriber annually in advance. Payment is due within thirty (30) days of the date of each invoice. All payments shall be made by wire transfer or ACH to the account designated by Provider.
+
+3.3 Late Payments. Any amounts not paid when due shall bear interest at the lesser of one and one-half percent (1.5%) per month or the maximum rate permitted by applicable law, calculated from the date such payment was due until the date of actual payment.
+
+3.4 Taxes. The Subscription Fees are exclusive of all taxes, levies, and duties. Subscriber shall be responsible for all sales, use, value-added, and similar taxes arising from the transactions contemplated by this Agreement, excluding taxes based on Provider's income.
+
+3.5 Fee Increases. Provider may increase the Subscription Fees upon renewal by providing Subscriber with written notice at least sixty (60) days prior to the commencement of the applicable renewal term. Any such increase shall not exceed five percent (5%) of the Subscription Fees for the immediately preceding term.
+
+4. PROVIDER OBLIGATIONS
+
+4.1 Platform Availability. Provider shall use commercially reasonable efforts to make the Platform available in accordance with the SLA. Provider shall promptly notify Subscriber of any planned maintenance that may affect Platform availability.
+
+4.2 Support Services. Provider shall provide technical support to Subscriber in accordance with the support terms set forth in Schedule B. Support shall be available during business hours (8:00 AM to 8:00 PM Eastern Time, Monday through Friday, excluding federal holidays).
+
+4.3 Security. Provider shall implement and maintain commercially reasonable administrative, physical, and technical safeguards to protect Subscriber Data against unauthorized access, disclosure, alteration, or destruction. Provider shall comply with industry-standard security practices, including SOC 2 Type II certification.
+
+4.4 Data Backup. Provider shall perform daily backups of Subscriber Data and shall retain such backups for a minimum of thirty (30) days. In the event of data loss, Provider shall use commercially reasonable efforts to restore Subscriber Data from the most recent backup.
+
+4.5 Updates and Enhancements. Provider shall provide Subscriber with all updates, patches, and bug fixes to the Platform at no additional charge. New features or modules may be offered as add-ons subject to additional fees.
+
+5. SUBSCRIBER OBLIGATIONS
+
+5.1 Compliance. Subscriber shall use the Platform in compliance with all applicable laws, regulations, and this Agreement.
+
+5.2 Account Security. Subscriber is responsible for maintaining the confidentiality of all user account credentials and for all activities that occur under Subscriber's accounts. Subscriber shall promptly notify Provider of any unauthorized access or use of the Platform.
+
+5.3 Cooperation. Subscriber shall provide Provider with reasonable cooperation and access to information necessary for Provider to perform its obligations under this Agreement.
+
+6. CONFIDENTIALITY
+
+6.1 Obligations. Each Party agrees to hold the other Party's Confidential Information in strict confidence and not to disclose such Confidential Information to any third party, except to its employees, agents, or contractors who have a need to know and who are bound by confidentiality obligations at least as protective as those set forth herein.
+
+6.2 Exceptions. Confidential Information does not include information that: (a) is or becomes publicly available through no fault of the receiving Party; (b) was known to the receiving Party prior to disclosure; (c) is independently developed by the receiving Party without use of or reference to the disclosing Party's Confidential Information; or (d) is rightfully received from a third party without restriction on disclosure.
+
+6.3 Compelled Disclosure. A receiving Party may disclose Confidential Information to the extent required by applicable law, regulation, or court order, provided that the receiving Party gives the disclosing Party prompt written notice and cooperates with the disclosing Party's efforts to obtain protective treatment.
+
+6.4 Duration. The obligations of confidentiality set forth in this Section 6 shall survive the termination or expiration of this Agreement for a period of three (3) years.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 Provider IP. As between the Parties, Provider retains all right, title, and interest in and to the Platform, Documentation, and all related intellectual property rights. No rights are granted to Subscriber except as expressly set forth in this Agreement.
+
+7.2 Feedback. If Subscriber provides Provider with any suggestions, ideas, or feedback regarding the Platform ("Feedback"), Provider shall have a royalty-free, worldwide, irrevocable, perpetual license to use, modify, and incorporate such Feedback into the Platform without any obligation to Subscriber.
+
+8. TERM AND TERMINATION
+
+8.1 Initial Term. This Agreement shall commence on the Effective Date and continue for an initial term of twelve (12) months (the "Initial Term").
+
+8.2 Renewal. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive twelve (12) month periods (each a "Renewal Term"), unless either Party provides written notice of non-renewal at least thirty (30) days prior to the expiration of the then-current term.
+
+8.3 Termination for Cause. Either Party may terminate this Agreement immediately upon written notice if the other Party: (a) commits a material breach of this Agreement and fails to cure such breach within thirty (30) days after receiving written notice thereof; or (b) becomes insolvent, files for bankruptcy, or has a receiver appointed for a substantial part of its assets.
+
+8.4 Termination for Convenience. Subscriber may terminate this Agreement for convenience at any time upon sixty (60) days' prior written notice to Provider. In such event, Subscriber shall pay all Subscription Fees due through the end of the then-current term.
+
+8.5 Effect of Termination. Upon termination or expiration of this Agreement: (a) Subscriber's right to access and use the Platform shall immediately cease; (b) Provider shall make Subscriber Data available for export for a period of thirty (30) days following termination; and (c) each Party shall return or destroy all Confidential Information of the other Party in its possession.
+
+9. REPRESENTATIONS AND WARRANTIES
+
+9.1 Mutual Representations. Each Party represents and warrants that: (a) it has the legal power and authority to enter into this Agreement; (b) this Agreement constitutes a valid and binding obligation of such Party; and (c) its performance under this Agreement will not violate any applicable law or breach any other agreement.
+
+9.2 Provider Warranties. Provider represents and warrants that: (a) the Platform will perform materially in accordance with the Documentation; (b) Provider will provide the services in a professional and workmanlike manner; and (c) to Provider's knowledge, the Platform does not infringe any third party's intellectual property rights.
+
+9.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, PROVIDER MAKES NO WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+10. LIMITATION OF LIABILITY
+
+10.1 Cap on Liability. IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL SUBSCRIPTION FEES PAID BY SUBSCRIBER DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+10.2 Exclusion of Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS OPPORTUNITY, WHETHER BASED ON WARRANTY, CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10.3 Exceptions. The limitations in Sections 10.1 and 10.2 shall not apply to: (a) a Party's breach of Section 6 (Confidentiality); (b) Subscriber's payment obligations; or (c) either Party's gross negligence or willful misconduct.
+
+11. INDEMNIFICATION
+
+11.1 By Provider. Provider shall indemnify, defend, and hold harmless Subscriber and its officers, directors, employees, and agents from and against any third-party claims, damages, losses, liabilities, and expenses (including reasonable attorneys' fees) arising from any claim that the Platform infringes any third party's intellectual property rights.
+
+11.2 By Subscriber. Subscriber shall indemnify, defend, and hold harmless Provider and its officers, directors, employees, and agents from and against any third-party claims, damages, losses, liabilities, and expenses (including reasonable attorneys' fees) arising from: (a) Subscriber's use of the Platform in violation of this Agreement; or (b) Subscriber Data.
+
+12. FORCE MAJEURE
+
+Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement (other than payment obligations) to the extent such failure or delay results from circumstances beyond such Party's reasonable control, including acts of God, natural disasters, war, terrorism, riots, embargoes, acts of governmental authorities, fire, flood, earthquake, pandemic, labor disputes, or failure of telecommunications or internet services ("Force Majeure Event"). The affected Party shall promptly notify the other Party and use reasonable efforts to mitigate the effects of the Force Majeure Event.
+
+13. GOVERNING LAW AND DISPUTE RESOLUTION
+
+13.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any choice or conflict of law provision.
+
+13.2 Dispute Resolution. Any dispute arising out of or relating to this Agreement shall first be submitted to good-faith mediation. If the dispute is not resolved through mediation within thirty (30) days, either Party may submit the dispute to binding arbitration in Wilmington, Delaware, in accordance with the Commercial Arbitration Rules of the American Arbitration Association.
+
+13.3 Injunctive Relief. Notwithstanding the foregoing, either Party may seek injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property rights or Confidential Information.
+
+14. GENERAL PROVISIONS
+
+14.1 Entire Agreement. This Agreement, together with all Schedules attached hereto, constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties.
+
+14.2 Amendments. This Agreement may only be amended or modified by a written instrument signed by both Parties.
+
+14.3 Waiver. No failure or delay by either Party in exercising any right under this Agreement shall operate as a waiver of that right.
+
+14.4 Severability. If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be modified to the minimum extent necessary to make it valid and enforceable, and the remaining provisions shall continue in full force and effect.
+
+14.5 Assignment. Subscriber may not assign this Agreement without Provider's prior written consent. Provider may assign this Agreement without consent in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+14.6 Notices. All notices under this Agreement shall be in writing and delivered by certified mail, overnight courier, or email to the addresses set forth in the preamble of this Agreement.
+
+14.7 Independent Contractors. The Parties are independent contractors. Nothing in this Agreement creates a partnership, joint venture, employment, or agency relationship between the Parties.
+
+14.8 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
+
+SCHEDULE A - SUBSCRIPTION FEES
+
+Subscription Tier: Enterprise
+Number of Authorized Users: Up to 250
+Annual Subscription Fee: $185,000.00
+Payment Frequency: Annually in advance
+Billing Start Date: January 15, 2026
+
+Additional Users: $750.00 per user per year (above User Limit)
+Additional Storage: $500.00 per 100 GB per year (above included 5 TB)
+
+SCHEDULE B - SERVICE LEVEL AGREEMENT
+
+Platform Availability: 99.9% uptime, measured monthly (excluding scheduled maintenance)
+Scheduled Maintenance Window: Sundays 2:00 AM - 6:00 AM Eastern Time
+Response Times:
+  - Critical Issues (Platform down): 1 hour
+  - High Priority (Major feature impaired): 4 hours
+  - Medium Priority (Minor feature impaired): 8 business hours
+  - Low Priority (General inquiries): 2 business days
+
+Service Credits:
+  - 99.0% - 99.9% uptime: 5% credit of monthly fee
+  - 95.0% - 99.0% uptime: 15% credit of monthly fee
+  - Below 95.0% uptime: 25% credit of monthly fee
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+CLOUDMATRIX SOLUTIONS, INC.
+
+By: ___________________________
+Name: David R. Chen
+Title: Chief Executive Officer
+Date: ___________________________
+
+MERIDIAN FINANCIAL GROUP, LLC
+
+By: ___________________________
+Name: Sarah T. Whitfield
+Title: Managing Partner
+Date: ___________________________

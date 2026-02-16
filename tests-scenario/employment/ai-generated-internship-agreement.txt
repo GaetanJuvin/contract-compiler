@@ -1,0 +1,116 @@
+INTERNSHIP AGREEMENT
+
+This Internship Agreement ("Agreement") is entered into as of April 1, 2026, by and between Crestview Analytics, Inc., a Massachusetts corporation, having its principal place of business at 75 Federal Street, 10th Floor, Boston, Massachusetts 02110 ("Company"), and Emily R. Vasquez, a student currently enrolled at the Massachusetts Institute of Technology ("Intern").
+
+RECITALS
+
+WHEREAS, the Company maintains an internship program designed to provide practical work experience to students in the fields of data science and analytics; and
+
+WHEREAS, the Intern desires to participate in the Company's internship program to gain practical experience related to her academic studies;
+
+NOW, THEREFORE, in consideration of the mutual promises contained herein, the parties agree as follows:
+
+1. INTERNSHIP POSITION AND DUTIES
+
+1.1 Position. The Company agrees to engage the Intern as a Data Science Intern within the Company's Advanced Analytics Division. The Intern shall work under the supervision of Dr. Leonard Huang, Senior Director of Data Science, or such other supervisor as the Company may designate.
+
+1.2 Duties. The Intern shall perform duties as assigned by the supervisor, which may include but are not limited to: data collection and cleaning, statistical analysis, building and testing machine learning models, preparing data visualizations, drafting technical reports, and participating in team meetings and presentations.
+
+1.3 Educational Component. The Company shall provide the Intern with mentorship, training, and exposure to professional practices in the field of data science. The internship is intended to complement the Intern's academic program and provide meaningful educational experiences.
+
+2. TERM
+
+2.1 Duration. The internship shall commence on June 1, 2026 and shall conclude on August 21, 2026 (the "Internship Period"), unless earlier terminated in accordance with Section 8 of this Agreement.
+
+2.2 Extension. The Internship Period may be extended by mutual written agreement of the parties.
+
+3. SCHEDULE AND LOCATION
+
+3.1 Work Schedule. The Intern shall work approximately forty (40) hours per week, Monday through Friday, from 9:00 AM to 5:00 PM Eastern Time. The specific schedule may be adjusted by mutual agreement with the Intern's supervisor.
+
+3.2 Location. The Intern shall perform duties primarily at the Company's offices at 75 Federal Street, 10th Floor, Boston, Massachusetts 02110. Remote work may be permitted at the supervisor's discretion up to two (2) days per week.
+
+4. COMPENSATION
+
+4.1 Stipend. The Intern shall receive a stipend of competitive compensation commensurate with the Intern's qualifications and the current market rate for similar positions in the Boston metropolitan area.
+
+[ANOMALY: Ambiguous compensation - "competitive compensation" with no specific dollar amount stated]
+
+4.2 Housing. The Company shall provide the Intern with a housing stipend of Two Thousand Dollars ($2,000.00) per month for the duration of the Internship Period, payable on the first business day of each month.
+
+4.3 Relocation. The Company shall reimburse the Intern for reasonable relocation expenses up to Five Hundred Dollars ($500.00), upon submission of receipts and documentation.
+
+5. BENEFITS
+
+5.1 The Intern shall not be eligible for employee benefits, including but not limited to health insurance, dental insurance, retirement plans, paid vacation, or paid sick leave, except as may be required by applicable law.
+
+5.2 The Intern shall be entitled to unpaid time off for academic obligations with prior approval from the Intern's supervisor.
+
+6. CONFIDENTIALITY
+
+6.1 Confidential Information. The Intern acknowledges that during the Internship Period, the Intern may have access to certain confidential and proprietary information of the Company, including but not limited to: algorithms, datasets, models, software code, research findings, client information, business strategies, and financial information ("Confidential Information").
+
+6.2 Non-Disclosure. The Intern agrees to hold all Confidential Information in strict confidence and shall not, during or after the Internship Period, disclose, publish, or otherwise reveal any Confidential Information to any third party without the prior written consent of the Company, except as may be required in the performance of the Intern's duties.
+
+6.3 Academic Use. The Intern may reference the general nature of the internship experience in academic coursework, resumes, and portfolios, but shall not disclose specific Confidential Information without the Company's prior written approval.
+
+7. INTELLECTUAL PROPERTY
+
+7.1 Work Product Assignment. The Intern agrees that all inventions, discoveries, improvements, algorithms, models, software code, data analyses, reports, presentations, and other work product created by the Intern, alone or in collaboration with others, during the Internship Period and arising out of or relating to the Intern's duties ("Work Product") shall be the sole and exclusive property of the Company.
+
+[ANOMALY: Overly broad IP clause for an intern - includes "all inventions" and "discoveries" without limitation to work performed during business hours or using company resources, and with no carve-out for academic or personal projects]
+
+7.2 Assignment. The Intern hereby irrevocably assigns to the Company all right, title, and interest in and to all Work Product, including all intellectual property rights therein. The Intern agrees to execute all documents and take all actions reasonably requested by the Company to effectuate such assignment.
+
+7.3 Moral Rights. To the extent permitted by applicable law, the Intern hereby waives all moral rights in the Work Product.
+
+8. TERMINATION
+
+8.1 Termination by Either Party. Either party may terminate this Agreement at any time, with or without cause, upon seven (7) days' written notice to the other party.
+
+8.2 Immediate Termination. The Company may terminate this Agreement immediately without notice if the Intern: (a) engages in conduct that is harmful to the Company or its reputation; (b) violates the confidentiality provisions of this Agreement; (c) fails to perform assigned duties satisfactorily; or (d) violates Company policies.
+
+8.3 Effect of Termination. Upon termination, the Intern shall immediately return all Company property, including documents, equipment, access cards, and electronic files. The obligations set forth in Sections 6, 7, and 9 shall survive termination.
+
+9. GENERAL PROVISIONS
+
+9.1 Independent Status. The Intern's participation in the internship program does not create a promise or guarantee of future employment with the Company.
+
+9.2 No Agency. The Intern is not authorized to act as an agent of the Company or to bind the Company in any manner.
+
+9.3 Compliance with Policies. The Intern shall comply with all Company policies, procedures, and codes of conduct applicable to the Company's employees, as communicated to the Intern.
+
+9.4 Entire Agreement. This Agreement constitutes the entire agreement between the parties regarding the internship and supersedes all prior discussions and agreements.
+
+9.5 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts.
+
+9.6 Severability. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+9.7 Amendments. This Agreement may be amended only by a written instrument signed by both parties.
+
+9.8 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+COMPANY:
+Crestview Analytics, Inc.
+
+By: ___________________________________
+Name: Sandra K. Phillips
+Title: Director of Human Resources
+Date: _________________________________
+
+INTERN:
+
+___________________________________
+Emily R. Vasquez
+Date: _________________________________
+
+ACADEMIC INSTITUTION ACKNOWLEDGMENT (if applicable):
+
+___________________________________
+Faculty Advisor Name (Print)
+
+___________________________________
+Faculty Advisor Signature
+Date: _________________________________

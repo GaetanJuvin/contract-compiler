@@ -1,0 +1,109 @@
+# Source: U.S. Department of Agriculture (USDA) Agricultural Research Service (ARS) NDA Template
+# URL: https://www.ars.usda.gov/ott/templates-agreements/
+# Document: NDA-Exchange 2-9-2021.doc (NDA for Exchange of Information)
+# License: U.S. Government work (public domain)
+# This is an official U.S. Government NDA template used by the USDA ARS Office of Technology Transfer.
+
+NON-DISCLOSURE AGREEMENT FOR EXCHANGE OF INFORMATION
+
+BETWEEN
+
+THE UNITED STATES DEPARTMENT OF AGRICULTURE
+AGRICULTURAL RESEARCH SERVICE
+[Location]
+
+AND
+
+[Organization Name]
+[Address]
+
+1. PURPOSE
+
+This Non-Disclosure Agreement ("Agreement") is entered into by and between the United States Department of Agriculture, Agricultural Research Service ("ARS"), and [Organization Name] ("Company") (each a "Party" and collectively, the "Parties").
+
+The purpose of this Agreement is to facilitate the exchange of confidential information between ARS and Company in order to assess mutual interest in pursuing patent licenses, cooperative research arrangements, or other collaborative activities.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+
+"Confidential Information" means all information disclosed by one Party ("Disclosing Party") to the other Party ("Receiving Party") that is designated as confidential, proprietary, or similarly designated at the time of disclosure, or that reasonably should be understood to be confidential given the nature of the information and circumstances of disclosure. Confidential Information includes, but is not limited to:
+
+(a) Technical information, including inventions, processes, designs, drawings, data, formulas, research plans, and biological materials;
+(b) Business information, including financial data, marketing plans, and business strategies;
+(c) Information relating to patent applications, trade secrets, and other intellectual property.
+
+3. OBLIGATIONS OF RECEIVING PARTY
+
+The Receiving Party agrees:
+
+(a) Not to disclose any Confidential Information received from the Disclosing Party to any third party without the prior written consent of the Disclosing Party;
+(b) Not to use any Confidential Information for any purpose other than the Purpose stated in Section 1;
+(c) To apply reasonable care standards to protect the Confidential Information, equivalent to those standards used to protect its own proprietary information of a similar nature, but in no event less than a reasonable standard of care.
+
+4. EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+
+The obligations set forth in Section 3 shall not apply to information that:
+
+(a) Was in the possession of the Receiving Party prior to disclosure by the Disclosing Party, as demonstrated by written records;
+(b) Is or becomes publicly available through no fault of the Receiving Party;
+(c) Is received by the Receiving Party from a third party that is authorized to disclose such information without restriction;
+(d) Is independently developed by the Receiving Party without reference to or use of the Confidential Information, as demonstrated by written records;
+(e) Is required to be disclosed pursuant to a valid court order, governmental order, or applicable law, provided that the Receiving Party gives the Disclosing Party reasonable advance notice of such required disclosure to enable the Disclosing Party to seek appropriate protective measures.
+
+5. LEGAL COMPULSION
+
+If a Receiving Party is required by court order, subpoena, or governmental mandate to disclose Confidential Information, the Receiving Party shall provide the Disclosing Party with prompt written notice of such requirement prior to disclosure, to the extent permitted by law, so that the Disclosing Party may seek a protective order or other appropriate remedy.
+
+6. NO LICENSE
+
+Nothing in this Agreement shall be construed as granting or conferring any rights, by license or otherwise, to any Confidential Information, or to any invention or any patent, copyright, trademark, or other intellectual property right.
+
+7. NO OBLIGATION
+
+Nothing in this Agreement shall obligate either Party to enter into any further agreement or to purchase or sell any products or services.
+
+8. GOVERNMENT OBLIGATIONS
+
+This Agreement does not supersede existing obligations of ARS or any other Government agency regarding classified information, communications with Congress, Inspector General reports, or whistleblower protections under existing law, including but not limited to the Whistleblower Protection Enhancement Act of 2012.
+
+ARS shall handle all information generated under this Agreement in accordance with the Freedom of Information Act (FOIA) and applicable regulations.
+
+9. TERM AND TERMINATION
+
+This Agreement shall be effective as of the date of the last signature below and shall remain in effect for a period of one (1) year from the effective date. Either Party may terminate this Agreement at any time by providing thirty (30) days written notice to the other Party.
+
+The obligations of confidentiality set forth in this Agreement shall survive the expiration or termination of this Agreement for a period of five (5) years.
+
+10. RETURN OF INFORMATION
+
+Upon termination or expiration of this Agreement, or upon request by the Disclosing Party, the Receiving Party shall return or destroy all Confidential Information received from the Disclosing Party, including all copies, notes, and summaries thereof, and shall certify in writing that such return or destruction has been completed.
+
+11. GENERAL PROVISIONS
+
+(a) This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral.
+
+(b) This Agreement may not be amended except by a written instrument signed by both Parties.
+
+(c) This Agreement shall be construed in accordance with applicable Federal law.
+
+(d) Neither Party may assign this Agreement without the prior written consent of the other Party.
+
+(e) If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date last written below.
+
+FOR THE UNITED STATES DEPARTMENT OF AGRICULTURE,
+AGRICULTURAL RESEARCH SERVICE:
+
+By: ___________________________
+Name:
+Title:
+Date:
+
+FOR [ORGANIZATION NAME]:
+
+By: ___________________________
+Name:
+Title:
+Date:
+
+Contact: dennis.goodes@usda.gov for template inquiries

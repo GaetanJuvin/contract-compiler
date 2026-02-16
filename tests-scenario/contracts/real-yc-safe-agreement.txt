@@ -1,0 +1,106 @@
+# Source: Y Combinator SAFE (Simple Agreement for Future Equity) Template
+# URL: https://www.ycombinator.com/documents/ (official), retrieved via https://mypitchdecks.com/docs/doc_safe_agreement.html
+# License: Y Combinator open-source financing document
+# This is the widely-used SAFE investment agreement template created by Y Combinator.
+
+SAFE (Simple Agreement for Future Equity)
+
+Company: [Company Name]
+Purchase Amount: $[Amount]
+Valuation Cap: $[Valuation Cap]
+Discount Rate: [%]
+
+THIS CERTIFIES THAT in exchange for the payment by [Investor Name] (the "Investor") of $[Purchase Amount] on or about [Date], [Company Name], a Delaware corporation (the "Company"), issues to the Investor the right to certain shares of the Company's Capital Stock, subject to the terms described below.
+
+1. DEFINITIONS
+
+"Capital Stock" means the capital stock of the Company, including, without limitation, the "Common Stock" and the "Preferred Stock."
+
+"Change of Control" means (i) a transaction or series of related transactions in which any "person" or "group" becomes the "beneficial owner," directly or indirectly, of more than 50% of the outstanding voting securities of the Company having the right to vote for the election of members of the Company's board of directors, (ii) any reorganization, merger or consolidation of the Company, other than a transaction or series of related transactions in which the holders of the voting securities of the Company outstanding immediately prior to such transaction retain, immediately after such transaction, at least a majority of the total voting power, or (iii) a sale, lease or other disposition of all or substantially all of the assets of the Company.
+
+"Company Capitalization" means the sum, as of immediately prior to the Equity Financing, of: (1) all shares of Capital Stock (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all outstanding vested and unvested options, warrants and other convertible securities, but excluding (A) shares of Common Stock reserved and available for future grant under any equity incentive or similar plan of the Company, and (B) this SAFE and all other SAFEs; and (2) all shares of Common Stock reserved and available for future grant under any equity incentive or similar plan of the Company.
+
+"Discount Price" means the price per share of the Standard Preferred Stock sold in the Equity Financing multiplied by the Discount Rate.
+
+"Discount Rate" means [%].
+
+"Equity Financing" means a bona fide transaction or series of transactions with the principal purpose of raising capital, pursuant to which the Company issues and sells Preferred Stock at a fixed pre-money valuation.
+
+"Liquidity Event" means a Change of Control or an initial public offering of the Company's Common Stock.
+
+"Preferred Stock" means the shares of the series of Preferred Stock issued to the Investor in an Equity Financing.
+
+"SAFE" means an instrument containing a future right to shares of Capital Stock, similar in form and content to this instrument, purchased by investors for the purpose of funding the Company's business operations.
+
+"SAFE Price" means the price per share equal to the Valuation Cap divided by the Company Capitalization.
+
+"Standard Preferred Stock" means the shares of a series of Preferred Stock issued to the investors investing new money in the Company in connection with the initial closing of the Equity Financing.
+
+"Valuation Cap" means $[Valuation Cap].
+
+2. EVENTS
+
+(a) Equity Financing. If there is an Equity Financing before the expiration or termination of this SAFE, the Company will automatically issue to the Investor either: (1) a number of shares of Standard Preferred Stock equal to the Purchase Amount divided by the price per share of the Standard Preferred Stock, if the pre-money valuation is less than or equal to the Valuation Cap; or (2) a number of shares of Safe Preferred Stock equal to the Purchase Amount divided by the Safe Price, if the pre-money valuation is greater than the Valuation Cap.
+
+(b) Liquidity Event. If there is a Liquidity Event before the expiration or termination of this SAFE, the Investor will, at the Investor's option, either (i) receive a cash payment equal to the Purchase Amount (subject to the following paragraph) or (ii) automatically receive from the Company a number of shares of Common Stock equal to the Purchase Amount divided by the Liquidity Price, where the Liquidity Price equals the Valuation Cap divided by the Company Capitalization.
+
+(c) Dissolution Event. If there is a Dissolution Event before this SAFE expires or terminates, the Investor will receive a portion of all assets of the Company remaining after payment of all debts and other liabilities (including all other SAFEs) on a pro rata basis with the holders of Common Stock.
+
+3. COMPANY REPRESENTATIONS
+
+(a) The Company is a corporation duly organized, validly existing and in good standing under the laws of the state of its incorporation, and has the power and authority to own, lease and operate its properties and carry on its business as now conducted.
+
+(b) The execution, delivery and performance by the Company of this SAFE is within the power of the Company and has been duly authorized by all necessary actions on the part of the Company.
+
+(c) This SAFE constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors' rights generally and general principles of equity.
+
+(d) To the knowledge of the Company, the execution, delivery and performance of this SAFE by the Company does not, and will not, conflict with, violate or cause a breach of or default under (a) any provision of the Company's certificate or articles of incorporation, bylaws or other organizational or charter documents, or (b) any material agreement or instrument to which the Company is a party.
+
+4. INVESTOR REPRESENTATIONS
+
+(a) The Investor has full legal capacity, power and authority to execute and deliver this SAFE and to perform the Investor's obligations hereunder.
+
+(b) This SAFE constitutes valid and binding obligations of the Investor, enforceable in accordance with its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors' rights generally and general principles of equity.
+
+(c) The Investor is an accredited investor as such term is defined in Rule 501 of Regulation D under the Securities Act.
+
+(d) The Investor has been advised that this SAFE and the underlying securities have not been registered under the Securities Act, or any state securities laws and, therefore, cannot be resold unless they are registered under the Securities Act and applicable state securities laws or unless an exemption from such registration requirements is available.
+
+5. MISCELLANEOUS
+
+(a) No Voting Rights. The Investor shall have no voting rights under this SAFE.
+
+(b) Survival. The representations and warranties of the Company and the Investor shall survive the execution and delivery of this SAFE.
+
+(c) Severability. Any provision of this SAFE that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this SAFE.
+
+(d) Governing Law. This SAFE and all rights and obligations hereunder shall be governed by the laws of the State of [State], without regard to the conflicts of law provisions of such jurisdiction.
+
+6. TRANSFER RESTRICTIONS AND RIGHTS OF FIRST REFUSAL
+
+(a) This SAFE and any securities issued pursuant hereto shall not be sold, pledged, or otherwise transferred without the consent of the Company, except to (i) an affiliate of the Investor, (ii) members of the Investor's immediate family, or (iii) any trust for the direct or indirect benefit of the Investor or the immediate family of the Investor.
+
+(b) The Company retains a right of first refusal to purchase this SAFE under the same terms and conditions offered by any third party purchaser.
+
+7. AMENDMENTS AND WAIVERS
+
+Any amendment, modification or waiver of any provision of this SAFE shall be effective only if made in writing and signed by both the Company and the Investor.
+
+8. ASSIGNMENT
+
+This SAFE and all obligations hereunder are freely assignable by either party with the written consent of the other party, such consent not to be unreasonably withheld.
+
+SIGNATURE
+
+IN WITNESS WHEREOF, the undersigned have caused this SAFE to be duly executed and delivered.
+
+COMPANY:
+By: ___________________________
+Name: [CEO Name]
+Title: Chief Executive Officer
+Date: [Date]
+
+INVESTOR:
+By: ___________________________
+Name: [Investor Name]
+Date: [Date]

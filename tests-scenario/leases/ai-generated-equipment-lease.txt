@@ -1,0 +1,321 @@
+EQUIPMENT LEASE AGREEMENT
+
+THIS EQUIPMENT LEASE AGREEMENT ("Agreement") is made and entered into as of the 1st day
+of April, 2026, by and between:
+
+LESSOR: Titan Capital Equipment Leasing Corporation, a Delaware corporation, with its
+principal office at 2000 Market Street, Suite 2800, Philadelphia, PA 19103 ("Lessor")
+
+LESSEE: Appalachian Mining & Excavation, LLC, a West Virginia limited liability company,
+with its principal office at 500 Virginia Street East, Suite 1200, Charleston, WV 25301
+("Lessee")
+
+RECITALS
+
+WHEREAS, Lessee desires to lease certain heavy construction and mining equipment for use
+in its excavation and mining operations; and
+
+WHEREAS, Lessor is in the business of leasing heavy equipment and is willing to lease such
+equipment to Lessee upon the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein, and for
+good and valuable consideration, the parties agree as follows:
+
+ARTICLE 1. EQUIPMENT
+
+1.1 Leased Equipment. Lessor hereby leases to Lessee, and Lessee hereby leases from
+Lessor, the following equipment (collectively, the "Equipment"):
+
+    Item 1: Caterpillar 390F Hydraulic Excavator
+             Serial No.: CAT0390FKJM04872
+             Year: 2025
+             Estimated Fair Market Value: $625,000.00
+
+    Item 2: Komatsu PC490LC-11 Hydraulic Excavator
+             Serial No.: KMT490LCA7P02195
+             Year: 2024
+             Estimated Fair Market Value: $580,000.00
+
+    Item 3: Caterpillar D8T Dozer
+             Serial No.: CAT0D8T0MBY03614
+             Year: 2025
+             Estimated Fair Market Value: $485,000.00
+
+    Item 4: Volvo A45G Articulated Hauler
+             Serial No.: VOL0A45GKNH01847
+             Year: 2025
+             Estimated Fair Market Value: $410,000.00
+
+    Total Estimated Fair Market Value of Equipment: $2,100,000.00
+
+1.2 Delivery. Lessor shall deliver the Equipment to Lessee's designated work site at
+1400 Coal River Road, Whitesville, WV 25209, on or before April 15, 2026. Risk of loss
+shall transfer to Lessee upon delivery.
+
+1.3 Acceptance. Lessee shall inspect the Equipment within five (5) business days of
+delivery and shall execute an Acceptance Certificate (Exhibit B) confirming that the
+Equipment is in good working order and acceptable condition. If Lessee fails to deliver
+a written rejection within the five-day inspection period, the Equipment shall be deemed
+accepted.
+
+ARTICLE 2. LEASE TERM
+
+2.1 Initial Term. The initial lease term ("Initial Term") shall be forty-eight (48) months,
+commencing on the date of Lessee's acceptance of the Equipment (the "Commencement Date")
+and expiring forty-eight (48) months thereafter.
+
+2.2 Renewal. Upon expiration of the Initial Term, this Lease shall automatically renew for
+successive twelve (12) month periods under the same terms and conditions, unless either
+party provides written notice of non-renewal at least ninety (90) days prior to the end
+of the then-current term.
+
+2.3 Early Termination. Lessee may not terminate this Lease during the Initial Term. In the
+event of early termination by Lessee during the Initial Term, Lessee shall pay Lessor a
+termination fee equal to the sum of all remaining Lease Payments for the balance of the
+Initial Term, discounted at a rate of three percent (3%).
+
+ARTICLE 3. LEASE PAYMENTS
+
+3.1 Monthly Payments. Lessee shall pay Lessor monthly lease payments ("Lease Payments")
+of Forty-Seven Thousand Eight Hundred Dollars ($47,800.00), payable in advance on the
+first (1st) day of each month during the Lease Term.
+
+3.2 Total Lease Cost. The total base lease cost over the forty-eight (48) month Initial
+Term shall be Two Million Two Hundred Ninety-Four Thousand Four Hundred Dollars
+($2,294,400.00).
+
+3.3 Security Deposit. Upon execution of this Agreement, Lessee shall pay Lessor a security
+deposit of Ninety-Five Thousand Six Hundred Dollars ($95,600.00), equal to two (2) months
+of Lease Payments. The security deposit shall be returned within sixty (60) days after the
+expiration of the Lease Term and the return of the Equipment in acceptable condition.
+
+3.4 Payment Method. All payments shall be made by wire transfer to Lessor's designated
+bank account. Payments not received within five (5) business days of the due date shall
+incur a late fee of two percent (2%) per month on the outstanding balance.
+
+3.5 Net Lease. This is a net lease. All Lease Payments shall be made without deduction,
+setoff, or counterclaim. Lessee shall be responsible for all costs associated with the
+operation, maintenance, repair, insurance, taxes, and licensing of the Equipment.
+
+ARTICLE 4. USE OF EQUIPMENT
+
+4.1 Permitted Use. The Equipment shall be used solely for surface mining, excavation,
+grading, and related earth-moving operations within the State of West Virginia.
+
+4.2 Location. The Equipment shall be maintained at the work site specified in Section 1.2
+or at such other location within West Virginia as Lessee may designate with prior written
+notice to Lessor. The Equipment shall not be removed from the State of West Virginia
+without Lessor's prior written consent.
+
+4.3 Operator Qualifications. The Equipment shall be operated only by qualified, properly
+trained, and licensed personnel.
+
+4.4 Compliance. Lessee shall operate the Equipment in compliance with all applicable
+federal, state, and local laws, regulations, and safety standards, including MSHA (Mine
+Safety and Health Administration) regulations.
+
+4.5 Hour Limitations. The Equipment shall not exceed the following annual operating hour
+limits without Lessor's prior consent and payment of additional usage charges:
+
+    Excavators (Items 1 & 2):  2,500 hours per year
+    Dozer (Item 3):            2,200 hours per year
+    Hauler (Item 4):           2,800 hours per year
+
+    Excess usage rate: $85.00 per hour for excavators; $75.00 per hour for dozers;
+    $65.00 per hour for haulers.
+
+ARTICLE 5. MAINTENANCE AND REPAIR
+
+5.1 Lessee's Obligations. Lessee shall, at Lessee's sole cost and expense:
+
+    (a) Maintain the Equipment in good working order, condition, and repair in accordance
+        with the manufacturer's recommended maintenance schedules;
+    (b) Use only manufacturer-approved parts, fluids, and lubricants;
+    (c) Keep accurate maintenance logs and hour meter records for each item of Equipment;
+    (d) Make all maintenance logs available for inspection by Lessor upon request;
+    (e) Perform all required safety inspections and maintain MSHA compliance records;
+    (f) Promptly repair any damage or malfunction, using authorized service providers.
+
+5.2 Major Repairs. Any single repair estimated to cost in excess of Twenty-Five Thousand
+Dollars ($25,000.00) shall require Lessor's prior written approval. Lessee shall obtain at
+least two (2) competitive repair estimates for any such major repair.
+
+5.3 Modifications. Lessee shall not make any modifications, alterations, or additions to
+the Equipment without Lessor's prior written consent. Any approved modifications shall
+become the property of Lessor.
+
+ARTICLE 6. INSURANCE
+
+6.1 Required Coverage. Lessee shall maintain, at Lessee's sole expense, the following
+insurance coverages for the full Lease Term:
+
+    (a) All-risk property insurance covering the Equipment at full replacement value
+        (not less than $2,100,000.00 in the aggregate);
+    (b) Commercial general liability insurance with limits of not less than $2,000,000
+        per occurrence and $5,000,000 aggregate;
+    (c) Automobile liability insurance, $1,000,000 combined single limit;
+    (d) Workers' compensation as required by West Virginia law;
+    (e) Umbrella/excess liability, $5,000,000.
+
+6.2 Lessor as Loss Payee and Additional Insured. All property insurance policies shall
+name Lessor as loss payee. All liability policies shall name Lessor as additional insured.
+
+6.3 Insurance Certificates. Lessee shall provide Lessor with certificates of insurance
+prior to the Commencement Date and annually thereafter, or upon any policy renewal.
+Policies shall require thirty (30) days' prior written notice to Lessor of cancellation
+or material change.
+
+ARTICLE 7. TITLE AND OWNERSHIP
+
+7.1 Lessor's Title. The Equipment is and shall remain the sole property of Lessor. Lessee
+acquires no right, title, or interest in the Equipment except the right of use as provided
+herein.
+
+7.2 Financing Statements. Lessee authorizes Lessor to file UCC financing statements and
+any other documents necessary to perfect Lessor's interest in the Equipment.
+
+7.3 No Encumbrances. Lessee shall not pledge, mortgage, encumber, or permit any lien to
+be placed on the Equipment.
+
+7.4 Identification. Lessee shall not remove, alter, or obscure any serial numbers,
+manufacturer's plates, or Lessor's identification labels on the Equipment.
+
+ARTICLE 8. PURCHASE OPTION
+
+8.1 Fair Market Value Purchase Option. Upon expiration of the Initial Term, provided
+Lessee is not in default, Lessee shall have the option to purchase any or all items of
+Equipment at their then-fair market value, as determined by an independent appraiser
+mutually agreed upon by the parties.
+
+8.2 Fixed Purchase Option. Alternatively, Lessee may purchase the Equipment at the end
+of the Initial Term at the following fixed prices:
+
+    Item 1 (CAT 390F):     $156,250.00 (25% of original FMV)
+    Item 2 (Komatsu PC490): $145,000.00 (25% of original FMV)
+    Item 3 (CAT D8T):      $121,250.00 (25% of original FMV)
+    Item 4 (Volvo A45G):   $102,500.00 (25% of original FMV)
+
+8.3 Exercise of Option. Lessee must provide written notice of its intent to exercise a
+purchase option at least sixty (60) days prior to the expiration of the Initial Term.
+
+ARTICLE 9. RETURN OF EQUIPMENT
+
+9.1 Condition. Upon expiration or termination and if Lessee does not exercise a purchase
+option, Lessee shall return the Equipment to Lessor's designated location in good working
+condition, ordinary wear and tear excepted, at Lessee's sole cost and expense.
+
+9.2 Return Standards. The Equipment shall be returned:
+    (a) Clean and free of debris;
+    (b) With all fluids at proper levels;
+    (c) With all maintenance current per manufacturer's schedule;
+    (d) With all original and replacement parts intact;
+    (e) Free of any damage beyond normal wear;
+    (f) With all maintenance records and hour meter documentation.
+
+9.3 Inspection. Lessor shall inspect the Equipment within ten (10) business days of
+return. Any deficiencies beyond normal wear and tear shall be repaired at Lessee's expense
+or charged against the security deposit.
+
+ARTICLE 10. LOSS OR DAMAGE
+
+10.1 Risk of Loss. Lessee bears all risk of loss, theft, damage, or destruction of the
+Equipment from the date of delivery until the Equipment is returned to Lessor.
+
+10.2 Total Loss. In the event of a total loss or constructive total loss of any item of
+Equipment, Lessee shall: (a) promptly notify Lessor; (b) pay Lessor the stipulated loss
+value set forth in Exhibit C; and (c) assign all insurance proceeds to Lessor.
+
+10.3 Partial Loss. In the event of damage short of a total loss, Lessee shall promptly
+repair the Equipment to its pre-damage condition at Lessee's sole expense.
+
+ARTICLE 11. DEFAULT AND REMEDIES
+
+11.1 Events of Default. The following shall constitute events of default:
+    (a) Failure to make any Lease Payment within ten (10) days of the due date;
+    (b) Breach of any material covenant not cured within thirty (30) days after notice;
+    (c) Filing of a petition in bankruptcy by or against Lessee;
+    (d) Material misrepresentation by Lessee;
+    (e) Failure to maintain required insurance;
+    (f) Unauthorized relocation or encumbrance of the Equipment.
+
+11.2 Remedies. Upon default, Lessor may: (a) terminate this Lease; (b) take immediate
+possession of the Equipment without judicial process to the extent permitted by law;
+(c) recover all unpaid Lease Payments for the balance of the term; (d) recover damages
+including costs of repossession, repair, and re-leasing; (e) pursue any other remedy.
+
+11.3 Lessee's Obligations Upon Default. Upon any event of default, Lessee shall make the
+Equipment available for repossession at the location specified in Section 1.2 or such
+other location as Lessor may designate.
+
+ARTICLE 12. INDEMNIFICATION
+
+12.1 Lessee shall indemnify, defend, and hold harmless Lessor from and against any and all
+claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys'
+fees) arising out of or relating to: (a) Lessee's possession, use, maintenance, or
+operation of the Equipment; (b) any injury to persons or property caused by or related to
+the Equipment; (c) any environmental contamination related to the Equipment. This
+indemnification shall survive the expiration or termination of this Lease.
+
+ARTICLE 13. TAXES
+
+13.1 Lessee shall pay when due all sales, use, personal property, excise, and other taxes,
+fees, and assessments levied on the Equipment or on Lessee's use thereof, excluding only
+Lessor's federal and state income taxes.
+
+ARTICLE 14. REPRESENTATIONS AND WARRANTIES
+
+14.1 Lessee represents that: (a) it is duly organized and in good standing; (b) it has
+authority to enter this Agreement; (c) its financial statements are accurate; (d) there is
+no litigation pending that would materially affect its ability to perform.
+
+14.2 LESSOR MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. LESSEE ACCEPTS THE EQUIPMENT
+"AS-IS" UPON ACCEPTANCE.
+
+ARTICLE 15. MISCELLANEOUS
+
+15.1 Governing Law. This Agreement shall be governed by the laws of the State of Delaware.
+
+15.2 Dispute Resolution. Any dispute shall be resolved in the state or federal courts
+located in New Castle County, Delaware. Each party consents to personal jurisdiction in
+such courts.
+
+15.3 Entire Agreement. This Agreement, including all exhibits, constitutes the entire
+agreement between the parties.
+
+15.4 Amendments. No amendment shall be effective unless in writing signed by both parties.
+
+15.5 Assignment by Lessor. Lessor may assign this Lease or its rights hereunder without
+Lessee's consent. Lessee may not assign this Lease without Lessor's prior written consent.
+
+15.6 Notices. All notices shall be in writing, sent by certified mail or overnight courier.
+
+15.7 Severability. Invalid provisions shall be severed without affecting remaining
+provisions.
+
+15.8 Waiver. No waiver of any default shall be deemed a waiver of any subsequent default.
+
+15.9 Headings. Section headings are for convenience only.
+
+IN WITNESS WHEREOF, the parties have executed this Equipment Lease Agreement as of the
+date first written above.
+
+LESSOR:
+Titan Capital Equipment Leasing Corporation
+
+By: _________________________________
+    Patricia L. Dunn, Vice President, Leasing
+    Date: _______________
+
+LESSEE:
+Appalachian Mining & Excavation, LLC
+
+By: _________________________________
+    Thomas W. Hatfield, President
+    Date: _______________
+
+
+EXHIBIT A - Equipment Specifications and Photographs
+EXHIBIT B - Acceptance Certificate
+EXHIBIT C - Stipulated Loss Values
+EXHIBIT D - Maintenance Schedule Requirements
