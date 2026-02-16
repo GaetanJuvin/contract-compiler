@@ -45,6 +45,20 @@ module ContractCompiler
       text
     end
 
+    def self.find_match_line(clause, match_text)
+      return clause.line unless clause.line && match_text
+
+      # Search within the clause body for the matching text line offset
+      body = clause.body.to_s
+      body = clause.title.to_s if body.strip.empty?
+      body.lines.each_with_index do |line, idx|
+        if line.downcase.include?(match_text[0..30].downcase)
+          return clause.line + idx
+        end
+      end
+      clause.line
+    end
+
     def self.extract_obligations(clause, nodes, edges, counters)
       text = clause_text(clause)
       OBLIGATION_PATTERNS.each do |pattern|
@@ -53,13 +67,15 @@ module ContractCompiler
           id = "obl_#{counters[:obligation]}"
           temporal = action.match(TEMPORAL_PATTERN)&.send(:[], 0)
           target = detect_target_party(action)
+          match_line = find_match_line(clause, action)
 
           nodes << DAG::ObligationNode.new(
             id: id,
             party: party.strip,
             action: action.strip,
             target_party: target,
-            temporal: temporal
+            temporal: temporal,
+            line: match_line
           )
           edges << { from: clause.id, to: id, type: :derived_from }
         end
@@ -72,11 +88,13 @@ module ContractCompiler
         text.scan(pattern) do |party, entitlement|
           counters[:right] += 1
           id = "right_#{counters[:right]}"
+          match_line = find_match_line(clause, entitlement)
 
           nodes << DAG::RightNode.new(
             id: id,
             party: party.strip,
-            entitlement: entitlement.strip
+            entitlement: entitlement.strip,
+            line: match_line
           )
           edges << { from: clause.id, to: id, type: :derived_from }
         end
@@ -90,12 +108,14 @@ module ContractCompiler
           counters[:condition] += 1
           id = "cond_#{counters[:condition]}"
           refs = extract_clause_references(trigger + " " + consequence)
+          match_line = find_match_line(clause, trigger)
 
           nodes << DAG::ConditionNode.new(
             id: id,
             trigger: trigger.strip,
             consequence: consequence.strip,
-            referenced_clauses: refs
+            referenced_clauses: refs,
+            line: match_line
           )
           edges << { from: clause.id, to: id, type: :derived_from }
         end
@@ -118,6 +138,7 @@ module ContractCompiler
     end
 
     private_class_method :extract_obligations, :extract_rights, :extract_conditions,
-                         :detect_target_party, :extract_clause_references, :clause_text
+                         :detect_target_party, :extract_clause_references, :clause_text,
+                         :find_match_line
   end
 end

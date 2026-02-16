@@ -57,7 +57,8 @@ module ContractCompiler
         $stderr.puts "        #{clauses.length} clauses found".light_black
         clauses.each do |c|
           indent = "  " * c.level
-          $stderr.puts "        #{indent}#{"├─".light_black} #{c.id.yellow} #{c.title.truncate(60).white}"
+          line_ref = c.line ? ":#{c.line}".light_black : ""
+          $stderr.puts "        #{indent}#{"├─".light_black} #{c.id.yellow}#{line_ref} #{c.title.truncate(60).white}"
         end
       end
 
@@ -106,7 +107,9 @@ module ContractCompiler
           symbolic_anomalies.each do |a|
             severity_color = severity_to_color(a[:severity])
             sev = a[:severity].to_s.upcase
-            $stderr.puts "        #{"⚠".send(severity_color)} #{sev.send(severity_color)} #{a[:type].to_s.light_black} #{a[:description].truncate(80).white}"
+            line_refs = (a[:lines] || []).map { |l| "L#{l}" }.join(",")
+            line_str = line_refs.empty? ? "" : " #{line_refs.cyan}"
+            $stderr.puts "        #{"⚠".send(severity_color)} #{sev.send(severity_color)}#{line_str} #{a[:type].to_s.light_black} #{a[:description].truncate(80).white}"
           end
         end
       end

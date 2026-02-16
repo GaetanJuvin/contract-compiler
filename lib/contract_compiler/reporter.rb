@@ -23,7 +23,8 @@ module ContractCompiler
 
         items.each_with_index do |anomaly, i|
           prefix = severity_prefix(severity)
-          lines << "  [#{prefix}#{i + 1}] #{anomaly[:description]}"
+          location = format_location(metadata[:source_file], anomaly)
+          lines << "  #{location} [#{prefix}#{i + 1}] #{anomaly[:description]}"
           lines << "       Recommendation: #{anomaly[:recommendation]}" if anomaly[:recommendation]
         end
 
@@ -48,6 +49,15 @@ module ContractCompiler
       })
     end
 
+    def self.format_location(source_file, anomaly)
+      lines = anomaly[:lines] || []
+      if lines.any?
+        lines.map { |l| "#{source_file}:#{l}:" }.join(" ")
+      else
+        "#{source_file}:"
+      end
+    end
+
     def self.group_by_severity(anomalies)
       anomalies.group_by { |a| a[:severity] }
     end
@@ -68,6 +78,6 @@ module ContractCompiler
       end
     end
 
-    private_class_method :group_by_severity, :severity_prefix, :count_by_severity, :stringify_keys
+    private_class_method :group_by_severity, :severity_prefix, :count_by_severity, :stringify_keys, :format_location
   end
 end

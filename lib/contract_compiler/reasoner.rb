@@ -14,14 +14,20 @@ module ContractCompiler
       anomalies
     end
 
+    def self.node_lines(graph, node_ids)
+      node_ids.filter_map { |id| graph.find_node(id)&.line }.compact.uniq.sort
+    end
+
     def self.check_circular_dependencies(graph)
       cycles = graph.cycle_detect
       cycles.map do |cycle|
+        lines = node_lines(graph, cycle)
         {
           type: :circular_dependency,
           severity: :critical,
           description: "Circular dependency detected: #{cycle.join(" -> ")}",
-          involved_nodes: cycle
+          involved_nodes: cycle,
+          lines: lines
         }
       end
     end
@@ -39,11 +45,13 @@ module ContractCompiler
         negated2 = o2.action.downcase.include?("not ")
 
         if similar_actions?(a1, a2) && negated1 != negated2
+          lines = [o1.line, o2.line].compact.sort
           anomalies << {
             type: :contradictory_obligations,
             severity: :critical,
             description: "#{o1.party} has contradictory obligations: '#{o1.action}' vs '#{o2.action}'",
-            involved_nodes: [o1.id, o2.id]
+            involved_nodes: [o1.id, o2.id],
+            lines: lines
           }
         end
       end
@@ -59,7 +67,8 @@ module ContractCompiler
             type: :orphaned_obligation,
             severity: :high,
             description: "Obligation '#{node.action}' has no associated party",
-            involved_nodes: [node.id]
+            involved_nodes: [node.id],
+            lines: [node.line].compact
           }
         end
     end
@@ -73,7 +82,8 @@ module ContractCompiler
             type: :dangling_condition,
             severity: :medium,
             description: "Condition '#{node.trigger}' is defined but never referenced by any obligation or right",
-            involved_nodes: [node.id]
+            involved_nodes: [node.id],
+            lines: [node.line].compact
           }
         end
     end
@@ -88,11 +98,14 @@ module ContractCompiler
 
       parties_with_obligations.each do |party|
         unless parties_with_rights.include?(party)
+          party_obls = obligations.select { |o| o.party.downcase == party }
+          lines = party_obls.filter_map(&:line).compact.uniq.sort
           anomalies << {
             type: :missing_reciprocity,
             severity: :medium,
             description: "Party '#{party}' has obligations but no corresponding rights",
-            involved_nodes: obligations.select { |o| o.party.downcase == party }.map(&:id)
+            involved_nodes: party_obls.map(&:id),
+            lines: lines
           }
         end
       end
@@ -112,7 +125,8 @@ module ContractCompiler
               type: :unmatched_reference,
               severity: :high,
               description: "Condition '#{cond.trigger}' references clause '#{ref}' which does not exist",
-              involved_nodes: [cond.id]
+              involved_nodes: [cond.id],
+              lines: [cond.line].compact
             }
           end
         end
@@ -134,6 +148,6 @@ module ContractCompiler
     private_class_method :check_circular_dependencies, :check_contradictory_obligations,
                          :check_orphaned_obligations, :check_dangling_conditions,
                          :check_missing_reciprocity, :check_unmatched_references,
-                         :similar_actions?
+                         :similar_actions?, :node_lines
   end
 end

@@ -5,7 +5,7 @@ module ContractCompiler
   class Analyzer
     SYSTEM_PROMPT = <<~PROMPT
       You are a contract analysis expert. You will receive:
-      1. A contract's text
+      1. A contract's text with line numbers
       2. A DAG (directed acyclic graph) representing the contract's structure and semantics
       3. Anomalies already detected by a symbolic reasoner
 
@@ -24,10 +24,13 @@ module ContractCompiler
             "severity": "low|medium|high|critical",
             "description": "Clear explanation of the anomaly",
             "involved_clauses": ["clause identifiers"],
+            "lines": [42, 87],
             "recommendation": "How to fix it"
           }
         ]
       }
+
+      IMPORTANT: For the "lines" field, provide the exact line numbers from the contract text where the anomaly occurs. Use the line numbers shown at the beginning of each line. If the anomaly spans multiple locations, list all relevant line numbers. If a clause or issue cannot be pinpointed to a specific line, use the line number of the relevant section header.
 
       Do NOT repeat anomalies already found by the symbolic reasoner.
     PROMPT
@@ -58,10 +61,13 @@ module ContractCompiler
     end
 
     def self.build_prompt(graph_hash:, original_text:, symbolic_anomalies:)
-      <<~PROMPT
-        ## Contract Text
+      # Add line numbers to the contract text
+      numbered_text = original_text.lines.each_with_index.map { |line, i| "#{i + 1}: #{line}" }.join
 
-        #{original_text}
+      <<~PROMPT
+        ## Contract Text (with line numbers)
+
+        #{numbered_text}
 
         ## Contract DAG Structure
 
@@ -73,7 +79,7 @@ module ContractCompiler
 
         #{symbolic_anomalies.empty? ? "None" : JSON.pretty_generate(symbolic_anomalies)}
 
-        Please analyze this contract and return any additional anomalies you find.
+        Please analyze this contract and return any additional anomalies you find. Include exact line numbers from the contract text above.
       PROMPT
     end
 
@@ -85,6 +91,7 @@ module ContractCompiler
           severity: a["severity"]&.to_sym,
           description: a["description"],
           involved_nodes: a["involved_clauses"] || [],
+          lines: (a["lines"] || []).map(&:to_i).reject(&:zero?),
           recommendation: a["recommendation"],
           source: :ai
         }
